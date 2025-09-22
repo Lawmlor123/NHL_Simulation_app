@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>VAN vs SEA - Three Season Comparison</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 1rem;
+      background: #f4f7fb;
+    }
+    h1 { text-align: center; font-size: 24px; margin: 0; }
+    h2 { text-align: center; font-size: 18px; margin: 6px 0 0; }
+    .years {
+      font-size: 12px; text-align: center; margin-bottom: 12px; color: #555;
+    }
+    .container {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 10px;
+      justify-content: center;
+    }
+    .panel {
+      background: #fff; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+      padding: 0.5rem;
+    }
+    .panel h3 {
+      font-size: 14px; margin: 0 0 6px; text-align: center;
+    }
+    .panel h3 img {
+      vertical-align: middle; margin-right: 6px;
+    }
+    table {
+      width: 100%; border-collapse: collapse; font-size: 10px; table-layout: fixed;
+    }
+    th, td {
+      padding: 2px 3px; text-align: right; border: 1px solid #ddd;
+      white-space: nowrap;
+    }
+    th:first-child, td:first-child { text-align: left; width: 60px; }
+    th { background: #f0f0f0; }
+    .comparison { background: #fafafa; font-size: 12px; }
+  </style>
+</head>
+<body>
+  <h1>VAN vs SEA</h1>
+  <h2>Team Stats Comparison</h2>
+  <div class="years">(2023–24 / 2024–25 / 2025–26)</div>
+
+  <div class="container">
+    <div class="panel">
+      <h3><img src="https://assets.nhle.com/logos/nhl/svg/SEA.svg" alt="" height="22"> SEA</h3>
+      <table>
+        <thead>
+          <tr><th>Season</th><th>W</th><th>L</th><th>GF</th><th>GA</th>
+              <th>Win%</th><th>GD/G</th><th>PP%</th><th>PK%</th></tr>
+        </thead>
+        <tbody id="home-data"></tbody>
+      </table>
+    </div>
+
+    <div class="panel comparison">
+      <h3>Key Comparison Notes</h3>
+      <div id="comparison-notes"><p>Loading...</p></div>
+    </div>
+
+    <div class="panel">
+      <h3><img src="https://assets.nhle.com/logos/nhl/svg/VAN.svg" alt="" height="22"> VAN</h3>
+      <table>
+        <thead>
+          <tr><th>Season</th><th>W</th><th>L</th><th>GF</th><th>GA</th>
+              <th>Win%</th><th>GD/G</th><th>PP%</th><th>PK%</th></tr>
+        </thead>
+        <tbody id="away-data"></tbody>
+      </table>
+    </div>
+  </div>
+
+  <script>
+    const homeStats = [{"season": "2023\u20132024", "W": 3, "L": 3, "GF": 14, "GA": 15, "Win%": "0.50", "GD/G": "-0.17", "PP%": "0.0", "PK%": "0.0"}, {"season": "2024\u20132025", "W": 2, "L": 4, "GF": 18, "GA": 21, "Win%": "0.33", "GD/G": "-0.50", "PP%": "0.0", "PK%": "0.0"}, {"season": "2025\u20132026", "W": 1, "L": 0, "GF": 5, "GA": 3, "Win%": "1.00", "GD/G": "2.00", "PP%": "0.0", "PK%": "0.0"}];
+    const awayStats = [{"season": "2023\u20132024", "W": 2, "L": 4, "GF": 11, "GA": 20, "Win%": "0.33", "GD/G": "-1.50", "PP%": "0.0", "PK%": "0.0"}, {"season": "2024\u20132025", "W": 3, "L": 3, "GF": 16, "GA": 15, "Win%": "0.50", "GD/G": "0.17", "PP%": "0.0", "PK%": "0.0"}, {"season": "2025\u20132026", "W": 0, "L": 1, "GF": 3, "GA": 5, "Win%": "0.00", "GD/G": "-2.00", "PP%": "0.0", "PK%": "0.0"}];
+    const homeFull = "SEA";
+    const awayFull = "VAN";
+
+    function populateTable(teamStats, elementId) {
+      const tbody = document.getElementById(elementId);
+      tbody.innerHTML = "";
+      teamStats.forEach(s => {
+        tbody.innerHTML += `
+          <tr>
+            <td>${s.season}</td>
+            <td>${s.W}</td>
+            <td>${s.L}</td>
+            <td>${s.GF}</td>
+            <td>${s.GA}</td>
+            <td>${s["Win%"]}</td>
+            <td>${s["GD/G"]}</td>
+            <td>${s["PP%"]}</td>
+            <td>${s["PK%"]}</td>
+          </tr>`;
+      });
+    }
+
+    function comparisonNotes(home, away) {
+      const lastHome = home[home.length - 1];
+      const lastAway = away[away.length - 1];
+
+      let html = "";
+      html += `<p><strong>Win % (Current):</strong> ${homeFull} ${lastHome["Win%"]} vs ${awayFull} ${lastAway["Win%"]}</p>`;
+      html += `<p><strong>Goal Diff/Game:</strong> ${homeFull} ${lastHome["GD/G"]} vs ${awayFull} ${lastAway["GD/G"]}</p>`;
+      html += `<p><strong>Special Teams:</strong> ${homeFull} PP ${lastHome["PP%"]}%, PK ${lastHome["PK%"]}% |
+                   ${awayFull} PP ${lastAway["PP%"]}%, PK ${lastAway["PK%"]}%</p>`;
+
+      // Weighted Edge calculation
+      const wWin = 0.50, wGD = 0.25, wPP = 0.125, wPK = 0.125;
+
+      function score(team) {
+        return (parseFloat(team["Win%"]) * wWin) +
+               (parseFloat(team["GD/G"]) * wGD) +
+               (parseFloat(team["PP%"]) / 100 * wPP) +
+               (parseFloat(team["PK%"]) / 100 * wPK);
+      }
+
+      const scoreHome = score(lastHome);
+      const scoreAway = score(lastAway);
+
+      if (scoreHome > scoreAway) {
+        html += `<p><strong>Edge:</strong> ${homeFull} (overall weighted edge score higher).</p>`;
+      } else if (scoreHome < scoreAway) {
+        html += `<p><strong>Edge:</strong> ${awayFull} (overall weighted edge score higher).</p>`;
+      } else {
+        html += `<p><strong>Edge:</strong> Even matchup (scores equal).</p>`;
+      }
+
+      document.getElementById("comparison-notes").innerHTML = html;
+    }
+
+    populateTable(homeStats, "home-data");
+    populateTable(awayStats, "away-data");
+    comparisonNotes(homeStats, awayStats);
+  </script>
+</body>
+</html>

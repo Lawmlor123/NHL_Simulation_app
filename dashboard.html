@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>UTA vs ANA - Three Season Comparison</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 1rem;
+      background: #f4f7fb;
+      color: #333;
+    }
+    h1, h2 {
+      text-align: center;
+    }
+    .container {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      margin-top: 1rem;
+    }
+    .panel {
+      background: #fff;
+      border-radius: 8px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+      flex: 1 1 300px;
+      margin: 10px;
+      padding: 1rem;
+      max-width: 420px;
+    }
+    .panel h2 {
+      margin-bottom: 0.5rem;
+      text-align: center;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 0.5rem;
+      font-size: 14px;
+      table-layout: fixed;
+    }
+    th, td {
+      padding: 6px 4px;
+      text-align: right;
+      border: 1px solid #ddd;
+    }
+    th:first-child,
+    td:first-child {
+      text-align: left;
+      width: 80px; 
+    }
+    th {
+      background: #f0f0f0;
+    }
+    .comparison {
+      background: #fafafa;
+      text-align: left;
+      font-size: 15px;
+      line-height: 1.4em;
+    }
+    @media (max-width: 768px) {
+      .container {
+        flex-direction: column;
+        align-items: stretch;
+      }
+    }
+  </style>
+</head>
+<body>
+  <h1>UTA vs ANA</h1>
+  <h2>Team Stats Comparison (2023–24 / 2024–25 / 2025–26)</h2>
+
+  <div class="container">
+    <!-- Home Team Panel -->
+    <div class="panel">
+      <h2>ANA</h2>
+      <table>
+        <thead>
+          <tr><th>Season</th><th>W</th><th>L</th><th>GF</th><th>GA</th>
+              <th>Win%</th><th>GD/G</th><th>PP%</th><th>PK%</th></tr>
+        </thead>
+        <tbody id="home-data"></tbody>
+      </table>
+    </div>
+
+    <!-- Comparison Notes Panel -->
+    <div class="panel comparison">
+      <h2>Key Comparison Notes</h2>
+      <div id="comparison-notes"><p>Loading...</p></div>
+    </div>
+
+    <!-- Away Team Panel -->
+    <div class="panel">
+      <h2>UTA</h2>
+      <table>
+        <thead>
+          <tr><th>Season</th><th>W</th><th>L</th><th>GF</th><th>GA</th>
+              <th>Win%</th><th>GD/G</th><th>PP%</th><th>PK%</th></tr>
+        </thead>
+        <tbody id="away-data"></tbody>
+      </table>
+    </div>
+  </div>
+
+  <script>
+    const homeStats = [{"season": "2023\u20132024", "W": 4, "L": 4, "GF": 23, "GA": 29, "Win%": 0.5, "GD/G": -0.75, "PP%": 0, "PK%": 0}, {"season": "2024\u20132025", "W": 3, "L": 3, "GF": 16, "GA": 17, "Win%": 0.5, "GD/G": -0.17, "PP%": 0, "PK%": 0}, {"season": "2025\u20132026", "W": 0, "L": 1, "GF": 1, "GA": 3, "Win%": 0.0, "GD/G": -2.0, "PP%": 0, "PK%": 0}];
+    const awayStats = [{"season": "2024\u20132025", "W": 5, "L": 2, "GF": 23, "GA": 20, "Win%": 0.714, "GD/G": 0.43, "PP%": 0, "PK%": 0}, {"season": "2025\u20132026", "W": 0, "L": 2, "GF": 3, "GA": 8, "Win%": 0.0, "GD/G": -2.5, "PP%": 0, "PK%": 0}];
+
+    function populateTable(teamStats, elementId) {
+      const tbody = document.getElementById(elementId);
+      tbody.innerHTML = "";
+      teamStats.forEach(s => {
+        tbody.innerHTML += `
+          <tr>
+            <td>${s.season}</td>
+            <td>${s.W}</td>
+            <td>${s.L}</td>
+            <td>${s.GF}</td>
+            <td>${s.GA}</td>
+            <td>${s["Win%"]}</td>
+            <td>${s["GD/G"]}</td>
+            <td>${s["PP%"]}</td>
+            <td>${s["PK%"]}</td>
+          </tr>`;
+      });
+    }
+
+    function comparisonNotes(home, away) {
+      const lastHome = home[home.length - 1];
+      const lastAway = away[away.length - 1];
+      let html = "";
+      html += `<p><strong>Win % (Current Season):</strong> ANA ${lastHome["Win%"]} vs UTA ${lastAway["Win%"]}</p>`;
+      html += `<p><strong>Goal Diff/Game (Current):</strong> ANA ${lastHome["GD/G"]} vs UTA ${lastAway["GD/G"]}</p>`;
+      html += `<p><strong>Special Teams:</strong> ANA PP ${lastHome["PP%"]}%, PK ${lastHome["PK%"]}% |
+                    UTA PP ${lastAway["PP%"]}%, PK ${lastAway["PK%"]}%</p>`;
+      document.getElementById("comparison-notes").innerHTML = html;
+    }
+
+    populateTable(homeStats, "home-data");
+    populateTable(awayStats, "away-data");
+    comparisonNotes(homeStats, awayStats);
+  </script>
+</body>
+</html>

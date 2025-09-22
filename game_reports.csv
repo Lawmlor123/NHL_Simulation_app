@@ -1,0 +1,121 @@
+StatsSeason,Date,Type,HomeTeam,AwayTeam,Home_W,Home_L,Home_GF,Home_GA,Home_WinPct,Home_GD/Game,Home_PP%,Home_PK%,Away_W,Away_L,Away_GF,Away_GA,Away_WinPct,Away_GD/Game,Away_PP%,Away_PK%
+2024,9/20/2025,Preseason,Dallas Stars,St. Louis Blues,52,21,294,232,0.712,0.85,24.17,82.01,43,33,234,248,0.566,-0.18,18,78.6
+2025,9/20/2025,Preseason,Dallas Stars,St. Louis Blues,50,26,275,222,0.658,0.7,22,82.02,44,30,250,231,0.595,0.26,22.05,74.35
+2024,9/21/2025,Preseason,New Jersey Devils,New York Rangers,38,39,264,281,0.494,-0.22,22.45,80.66,55,23,278,226,0.705,0.67,26.42,84.48
+2025,9/21/2025,Preseason,New Jersey Devils,New York Rangers,42,33,240,220,0.56,0.27,28.24,82.67,39,36,255,255,0.52,0.0,17.62,80.33
+2024,9/21/2025,Preseason,Nashville Predators,Florida Panthers,47,30,266,248,0.61,0.23,21.56,76.92,52,24,265,198,0.684,0.88,23.51,82.47
+2025,9/21/2025,Preseason,Nashville Predators,Florida Panthers,30,44,212,274,0.405,-0.84,21.83,81.48,47,31,246,223,0.603,0.29,23.53,80.74
+2024,9/21/2025,Preseason,Ottawa Senators,Toronto Maple Leafs,37,41,250,281,0.474,-0.4,18.02,75.1,46,26,298,261,0.639,0.51,23.95,76.89
+2025,9/21/2025,Preseason,Ottawa Senators,Toronto Maple Leafs,45,30,242,232,0.6,0.13,23.79,77.73,52,26,267,229,0.667,0.49,24.77,77.87
+2024,9/21/2025,Preseason,Arizona Coyotes,Colorado Avalanche,36,41,254,274,0.468,-0.26,21.99,76.32,50,25,302,252,0.667,0.67,24.46,79.92
+2025,9/21/2025,Preseason,Arizona Coyotes,Colorado Avalanche,38,31,240,247,0.551,-0.1,24.15,79.28,49,29,273,231,0.628,0.54,24.79,79.81
+2024,9/21/2025,Preseason,Winnipeg Jets,Minnesota Wild,52,24,259,198,0.684,0.8,18.75,77.13,39,34,248,260,0.534,-0.16,22.71,74.52
+2025,9/21/2025,Preseason,Winnipeg Jets,Minnesota Wild,56,22,275,190,0.718,1.09,28.9,79.4,45,30,225,236,0.6,-0.15,20.87,72.41
+2024,9/21/2025,Preseason,Columbus Blue Jackets,St. Louis Blues,27,43,234,298,0.386,-0.91,15.09,76.27,43,33,234,248,0.566,-0.18,18,78.6
+2025,9/21/2025,Preseason,Columbus Blue Jackets,St. Louis Blues,40,33,267,267,0.548,0.0,19.46,76.96,44,30,250,231,0.595,0.26,22.05,74.35
+2024,9/21/2025,Preseason,Boston Bruins,Washington Capitals,47,20,263,221,0.701,0.63,22.22,82.46,40,31,216,252,0.563,-0.51,20.61,78.97
+2025,9/21/2025,Preseason,Boston Bruins,Washington Capitals,33,39,222,271,0.458,-0.68,15.22,76.27,51,22,286,229,0.699,0.78,23.53,82.01
+2024,9/21/2025,Preseason,Los Angeles Kings,Anaheim Ducks,44,27,254,210,0.62,0.62,22.58,84.58,27,50,203,293,0.351,-1.17,18.3,72.42
+2025,9/21/2025,Preseason,Los Angeles Kings,Anaheim Ducks,48,25,249,203,0.658,0.63,17.87,81.43,35,37,217,261,0.486,-0.61,11.76,74.19
+2024,9/21/2025,Preseason,Nashville Predators,Florida Panthers,47,30,266,248,0.61,0.23,21.56,76.92,52,24,265,198,0.684,0.88,23.51,82.47
+2025,9/21/2025,Preseason,Nashville Predators,Florida Panthers,30,44,212,274,0.405,-0.84,21.83,81.48,47,31,246,223,0.603,0.29,23.53,80.74
+2024,9/21/2025,Preseason,New York Islanders,Philadelphia Flyers,39,27,245,258,0.591,-0.2,20.35,71.49,38,33,231,258,0.535,-0.38,12.2,83.4
+2025,9/21/2025,Preseason,New York Islanders,Philadelphia Flyers,35,35,222,257,0.5,-0.5,12.56,72.22,33,39,232,283,0.458,-0.71,14.95,77.61
+2024,9/21/2025,Preseason,San Jose Sharks,Vegas Golden Knights,19,54,180,326,0.26,-2.0,20.19,75.4,45,29,263,243,0.608,0.27,20.24,79.34
+2025,9/21/2025,Preseason,San Jose Sharks,Vegas Golden Knights,20,50,208,310,0.286,-1.46,18.58,74.22,50,22,274,214,0.694,0.83,28.34,75.74
+2024,9/21/2025,Preseason,Calgary Flames,Edmonton Oilers,38,39,253,267,0.494,-0.18,17.86,80.82,49,27,292,236,0.645,0.74,26.34,79.46
+2025,9/21/2025,Preseason,Calgary Flames,Edmonton Oilers,41,27,220,236,0.603,-0.24,21.03,76.11,48,29,259,235,0.623,0.31,23.72,78.16
+2024,9/21/2025,Preseason,Seattle Kraken,Vancouver Canucks,34,35,214,232,0.493,-0.26,20.66,78.83,50,23,279,221,0.685,0.79,22.57,79.13
+2025,9/21/2025,Preseason,Seattle Kraken,Vancouver Canucks,35,41,245,262,0.461,-0.22,18.94,77.2,38,30,233,251,0.559,-0.26,22.52,82.59
+2024,9/21/2025,Preseason,Colorado Avalanche,Arizona Coyotes,50,25,302,252,0.667,0.67,24.46,79.92,36,41,254,274,0.468,-0.26,21.99,76.32
+2025,9/21/2025,Preseason,Colorado Avalanche,Arizona Coyotes,49,29,273,231,0.628,0.54,24.79,79.81,38,31,240,247,0.551,-0.1,24.15,79.28
+2024,9/22/2025,Preseason,Columbus Blue Jackets,Buffalo Sabres,27,43,234,298,0.386,-0.91,15.09,76.27,39,37,244,243,0.513,0.01,16.59,79.84
+2025,9/22/2025,Preseason,Columbus Blue Jackets,Buffalo Sabres,40,33,267,267,0.548,0.0,19.46,76.96,36,39,265,287,0.48,-0.29,18.78,76.35
+2024,9/22/2025,Preseason,Montreal Canadiens,Pittsburgh Penguins,30,36,232,281,0.455,-0.74,17.46,76.53,38,32,253,248,0.543,0.07,15.27,80.66
+2025,9/22/2025,Preseason,Montreal Canadiens,Pittsburgh Penguins,40,31,243,261,0.563,-0.25,20.09,80.93,34,36,242,287,0.486,-0.64,25.79,77.78
+2024,9/22/2025,Preseason,Carolina Hurricanes,Tampa Bay Lightning,52,23,277,211,0.693,0.88,26.91,86.43,45,29,288,267,0.608,0.28,28.63,83.33
+2025,9/22/2025,Preseason,Carolina Hurricanes,Tampa Bay Lightning,47,30,266,230,0.61,0.47,18.7,83.61,47,27,292,216,0.635,1.03,25.86,81.55
+2024,9/22/2025,Preseason,Anaheim Ducks,Arizona Coyotes,27,50,203,293,0.351,-1.17,18.3,72.42,36,41,254,274,0.468,-0.26,21.99,76.32
+2025,9/22/2025,Preseason,Anaheim Ducks,Arizona Coyotes,35,37,217,261,0.486,-0.61,11.76,74.19,38,31,240,247,0.551,-0.1,24.15,79.28
+2024,9/23/2025,Preseason,New York Rangers,Boston Bruins,55,23,278,226,0.705,0.67,26.42,84.48,47,20,263,221,0.701,0.63,22.22,82.46
+2025,9/23/2025,Preseason,New York Rangers,Boston Bruins,39,36,255,255,0.52,0.0,17.62,80.33,33,39,222,271,0.458,-0.68,15.22,76.27
+2024,9/23/2025,Preseason,Toronto Maple Leafs,Ottawa Senators,46,26,298,261,0.639,0.51,23.95,76.89,37,41,250,281,0.474,-0.4,18.02,75.1
+2025,9/23/2025,Preseason,Toronto Maple Leafs,Ottawa Senators,52,26,267,229,0.667,0.49,24.77,77.87,45,30,242,232,0.6,0.13,23.79,77.73
+2024,9/23/2025,Preseason,Buffalo Sabres,Columbus Blue Jackets,39,37,244,243,0.513,0.01,16.59,79.84,27,43,234,298,0.386,-0.91,15.09,76.27
+2025,9/23/2025,Preseason,Buffalo Sabres,Columbus Blue Jackets,36,39,265,287,0.48,-0.29,18.78,76.35,40,33,267,267,0.548,0.0,19.46,76.96
+2024,9/23/2025,Preseason,New Jersey Devils,New York Islanders,38,39,264,281,0.494,-0.22,22.45,80.66,39,27,245,258,0.591,-0.2,20.35,71.49
+2025,9/23/2025,Preseason,New Jersey Devils,New York Islanders,42,33,240,220,0.56,0.27,28.24,82.67,35,35,222,257,0.5,-0.5,12.56,72.22
+2024,9/23/2025,Preseason,Montreal Canadiens,Philadelphia Flyers,30,36,232,281,0.455,-0.74,17.46,76.53,38,33,231,258,0.535,-0.38,12.2,83.4
+2025,9/23/2025,Preseason,Montreal Canadiens,Philadelphia Flyers,40,31,243,261,0.563,-0.25,20.09,80.93,33,39,232,283,0.458,-0.71,14.95,77.61
+2024,9/23/2025,Preseason,Detroit Red Wings,Chicago Blackhawks,41,32,275,273,0.562,0.03,23.08,79.58,23,53,178,289,0.303,-1.46,16.6,75.76
+2025,9/23/2025,Preseason,Detroit Red Wings,Chicago Blackhawks,39,35,235,259,0.527,-0.32,27,70.11,25,46,224,292,0.352,-0.96,24.87,79.3
+2024,9/23/2025,Preseason,Dallas Stars,Minnesota Wild,52,21,294,232,0.712,0.85,24.17,82.01,39,34,248,260,0.534,-0.16,22.71,74.52
+2025,9/23/2025,Preseason,Dallas Stars,Minnesota Wild,50,26,275,222,0.658,0.7,22,82.02,45,30,225,236,0.6,-0.15,20.87,72.41
+2024,9/23/2025,Preseason,Winnipeg Jets,Edmonton Oilers,52,24,259,198,0.684,0.8,18.75,77.13,49,27,292,236,0.645,0.74,26.34,79.46
+2025,9/23/2025,Preseason,Winnipeg Jets,Edmonton Oilers,56,22,275,190,0.718,1.09,28.9,79.4,48,29,259,235,0.623,0.31,23.72,78.16
+2024,9/23/2025,Preseason,Tampa Bay Lightning,Nashville Predators,45,29,288,267,0.608,0.28,28.63,83.33,47,30,266,248,0.61,0.23,21.56,76.92
+2025,9/23/2025,Preseason,Tampa Bay Lightning,Nashville Predators,47,27,292,216,0.635,1.03,25.86,81.55,30,44,212,274,0.405,-0.84,21.83,81.48
+2024,9/23/2025,Preseason,Calgary Flames,Seattle Kraken,38,39,253,267,0.494,-0.18,17.86,80.82,34,35,214,232,0.493,-0.26,20.66,78.83
+2025,9/23/2025,Preseason,Calgary Flames,Seattle Kraken,41,27,220,236,0.603,-0.24,21.03,76.11,35,41,245,262,0.461,-0.22,18.94,77.2
+2024,9/23/2025,Preseason,Vegas Golden Knights,Los Angeles Kings,45,29,263,243,0.608,0.27,20.24,79.34,44,27,254,210,0.62,0.62,22.58,84.58
+2025,9/23/2025,Preseason,Vegas Golden Knights,Los Angeles Kings,50,22,274,214,0.694,0.83,28.34,75.74,48,25,249,203,0.658,0.63,17.87,81.43
+2024,9/24/2025,Preseason,Carolina Hurricanes,Florida Panthers,52,23,277,211,0.693,0.88,26.91,86.43,52,24,265,198,0.684,0.88,23.51,82.47
+2025,9/24/2025,Preseason,Carolina Hurricanes,Florida Panthers,47,30,266,230,0.61,0.47,18.7,83.61,47,31,246,223,0.603,0.29,23.53,80.74
+2024,9/24/2025,Preseason,Columbus Blue Jackets,Pittsburgh Penguins,27,43,234,298,0.386,-0.91,15.09,76.27,38,32,253,248,0.543,0.07,15.27,80.66
+2025,9/24/2025,Preseason,Columbus Blue Jackets,Pittsburgh Penguins,40,33,267,267,0.548,0.0,19.46,76.96,34,36,242,287,0.486,-0.64,25.79,77.78
+2024,9/24/2025,Preseason,Edmonton Oilers,Seattle Kraken,49,27,292,236,0.645,0.74,26.34,79.46,34,35,214,232,0.493,-0.26,20.66,78.83
+2025,9/24/2025,Preseason,Edmonton Oilers,Seattle Kraken,48,29,259,235,0.623,0.31,23.72,78.16,35,41,245,262,0.461,-0.22,18.94,77.2
+2024,9/24/2025,Preseason,Vancouver Canucks,Calgary Flames,50,23,279,221,0.685,0.79,22.57,79.13,38,39,253,267,0.494,-0.18,17.86,80.82
+2025,9/24/2025,Preseason,Vancouver Canucks,Calgary Flames,38,30,233,251,0.559,-0.26,22.52,82.59,41,27,220,236,0.603,-0.24,21.03,76.11
+2024,9/24/2025,Preseason,Anaheim Ducks,Los Angeles Kings,27,50,203,293,0.351,-1.17,18.3,72.42,44,27,254,210,0.62,0.62,22.58,84.58
+2025,9/24/2025,Preseason,Anaheim Ducks,Los Angeles Kings,35,37,217,261,0.486,-0.61,11.76,74.19,48,25,249,203,0.658,0.63,17.87,81.43
+2024,9/25/2025,Preseason,New York Rangers,New York Islanders,55,23,278,226,0.705,0.67,26.42,84.48,39,27,245,258,0.591,-0.2,20.35,71.49
+2025,9/25/2025,Preseason,New York Rangers,New York Islanders,39,36,255,255,0.52,0.0,17.62,80.33,35,35,222,257,0.5,-0.5,12.56,72.22
+2024,9/25/2025,Preseason,Montreal Canadiens,Toronto Maple Leafs,30,36,232,281,0.455,-0.74,17.46,76.53,46,26,298,261,0.639,0.51,23.95,76.89
+2025,9/25/2025,Preseason,Montreal Canadiens,Toronto Maple Leafs,40,31,243,261,0.563,-0.25,20.09,80.93,52,26,267,229,0.667,0.49,24.77,77.87
+2024,9/25/2025,Preseason,Washington Capitals,Philadelphia Flyers,40,31,216,252,0.563,-0.51,20.61,78.97,38,33,231,258,0.535,-0.38,12.2,83.4
+2025,9/25/2025,Preseason,Washington Capitals,Philadelphia Flyers,51,22,286,229,0.699,0.78,23.53,82.01,33,39,232,283,0.458,-0.71,14.95,77.61
+2024,9/25/2025,Preseason,Minnesota Wild,Dallas Stars,39,34,248,260,0.534,-0.16,22.71,74.52,52,21,294,232,0.712,0.85,24.17,82.01
+2025,9/25/2025,Preseason,Minnesota Wild,Dallas Stars,45,30,225,236,0.6,-0.15,20.87,72.41,50,26,275,222,0.658,0.7,22,82.02
+2024,9/25/2025,Preseason,Detroit Red Wings,Buffalo Sabres,41,32,275,273,0.562,0.03,23.08,79.58,39,37,244,243,0.513,0.01,16.59,79.84
+2025,9/25/2025,Preseason,Detroit Red Wings,Buffalo Sabres,39,35,235,259,0.527,-0.32,27,70.11,36,39,265,287,0.48,-0.29,18.78,76.35
+2024,9/25/2025,Preseason,Vegas Golden Knights,Arizona Coyotes,45,29,263,243,0.608,0.27,20.24,79.34,36,41,254,274,0.468,-0.26,21.99,76.32
+2025,9/25/2025,Preseason,Vegas Golden Knights,Arizona Coyotes,50,22,274,214,0.694,0.83,28.34,75.74,38,31,240,247,0.551,-0.1,24.15,79.28
+2024,9/26/2025,Preseason,New York Islanders,New Jersey Devils,39,27,245,258,0.591,-0.2,20.35,71.49,38,39,264,281,0.494,-0.22,22.45,80.66
+2025,9/26/2025,Preseason,New York Islanders,New Jersey Devils,35,35,222,257,0.5,-0.5,12.56,72.22,42,33,240,220,0.56,0.27,28.24,82.67
+2024,9/26/2025,Preseason,Tampa Bay Lightning,Carolina Hurricanes,45,29,288,267,0.608,0.28,28.63,83.33,52,23,277,211,0.693,0.88,26.91,86.43
+2025,9/26/2025,Preseason,Tampa Bay Lightning,Carolina Hurricanes,47,27,292,216,0.635,1.03,25.86,81.55,47,30,266,230,0.61,0.47,18.7,83.61
+2024,9/26/2025,Preseason,Vancouver Canucks,Seattle Kraken,50,23,279,221,0.685,0.79,22.57,79.13,34,35,214,232,0.493,-0.26,20.66,78.83
+2025,9/26/2025,Preseason,Vancouver Canucks,Seattle Kraken,38,30,233,251,0.559,-0.26,22.52,82.59,35,41,245,262,0.461,-0.22,18.94,77.2
+2024,9/26/2025,Preseason,Pittsburgh Penguins,Detroit Red Wings,38,32,253,248,0.543,0.07,15.27,80.66,41,32,275,273,0.562,0.03,23.08,79.58
+2025,9/26/2025,Preseason,Pittsburgh Penguins,Detroit Red Wings,34,36,242,287,0.486,-0.64,25.79,77.78,39,35,235,259,0.527,-0.32,27,70.11
+2024,9/26/2025,Preseason,Edmonton Oilers,Winnipeg Jets,49,27,292,236,0.645,0.74,26.34,79.46,52,24,259,198,0.684,0.8,18.75,77.13
+2025,9/26/2025,Preseason,Edmonton Oilers,Winnipeg Jets,48,29,259,235,0.623,0.31,23.72,78.16,56,22,275,190,0.718,1.09,28.9,79.4
+2024,9/26/2025,Preseason,San Jose Sharks,Vegas Golden Knights,19,54,180,326,0.26,-2.0,20.19,75.4,45,29,263,243,0.608,0.27,20.24,79.34
+2025,9/26/2025,Preseason,San Jose Sharks,Vegas Golden Knights,20,50,208,310,0.286,-1.46,18.58,74.22,50,22,274,214,0.694,0.83,28.34,75.74
+2024,9/27/2025,Preseason,Buffalo Sabres,Detroit Red Wings,39,37,244,243,0.513,0.01,16.59,79.84,41,32,275,273,0.562,0.03,23.08,79.58
+2025,9/27/2025,Preseason,Buffalo Sabres,Detroit Red Wings,36,39,265,287,0.48,-0.29,18.78,76.35,39,35,235,259,0.527,-0.32,27,70.11
+2024,9/27/2025,Preseason,Los Angeles Kings,Anaheim Ducks,44,27,254,210,0.62,0.62,22.58,84.58,27,50,203,293,0.351,-1.17,18.3,72.42
+2025,9/27/2025,Preseason,Los Angeles Kings,Anaheim Ducks,48,25,249,203,0.658,0.63,17.87,81.43,35,37,217,261,0.486,-0.61,11.76,74.19
+2024,9/27/2025,Preseason,Tampa Bay Lightning,Nashville Predators,45,29,288,267,0.608,0.28,28.63,83.33,47,30,266,248,0.61,0.23,21.56,76.92
+2025,9/27/2025,Preseason,Tampa Bay Lightning,Nashville Predators,47,27,292,216,0.635,1.03,25.86,81.55,30,44,212,274,0.405,-0.84,21.83,81.48
+2024,9/27/2025,Preseason,Pittsburgh Penguins,Columbus Blue Jackets,38,32,253,248,0.543,0.07,15.27,80.66,27,43,234,298,0.386,-0.91,15.09,76.27
+2025,9/27/2025,Preseason,Pittsburgh Penguins,Columbus Blue Jackets,34,36,242,287,0.486,-0.64,25.79,77.78,40,33,267,267,0.548,0.0,19.46,76.96
+2024,9/27/2025,Preseason,Winnipeg Jets,Calgary Flames,52,24,259,198,0.684,0.8,18.75,77.13,38,39,253,267,0.494,-0.18,17.86,80.82
+2025,9/27/2025,Preseason,Winnipeg Jets,Calgary Flames,56,22,275,190,0.718,1.09,28.9,79.4,41,27,220,236,0.603,-0.24,21.03,76.11
+2024,9/27/2025,Preseason,Pittsburgh Penguins,Boston Bruins,38,32,253,248,0.543,0.07,15.27,80.66,47,20,263,221,0.701,0.63,22.22,82.46
+2025,9/27/2025,Preseason,Pittsburgh Penguins,Boston Bruins,34,36,242,287,0.486,-0.64,25.79,77.78,33,39,222,271,0.458,-0.68,15.22,76.27
+2024,9/27/2025,Preseason,Toronto Maple Leafs,Montreal Canadiens,46,26,298,261,0.639,0.51,23.95,76.89,30,36,232,281,0.455,-0.74,17.46,76.53
+2025,9/27/2025,Preseason,Toronto Maple Leafs,Montreal Canadiens,52,26,267,229,0.667,0.49,24.77,77.87,40,31,243,261,0.563,-0.25,20.09,80.93
+2024,9/27/2025,Preseason,Colorado Avalanche,Dallas Stars,50,25,302,252,0.667,0.67,24.46,79.92,52,21,294,232,0.712,0.85,24.17,82.01
+2025,9/27/2025,Preseason,Colorado Avalanche,Dallas Stars,49,29,273,231,0.628,0.54,24.79,79.81,50,26,275,222,0.658,0.7,22,82.02
+2024,9/27/2025,Preseason,St. Louis Blues,Chicago Blackhawks,43,33,234,248,0.566,-0.18,18,78.6,23,53,178,289,0.303,-1.46,16.6,75.76
+2025,9/27/2025,Preseason,St. Louis Blues,Chicago Blackhawks,44,30,250,231,0.595,0.26,22.05,74.35,25,46,224,292,0.352,-0.96,24.87,79.3
+2024,9/28/2025,Preseason,New Jersey Devils,Washington Capitals,38,39,264,281,0.494,-0.22,22.45,80.66,40,31,216,252,0.563,-0.51,20.61,78.97
+2025,9/28/2025,Preseason,New Jersey Devils,Washington Capitals,42,33,240,220,0.56,0.27,28.24,82.67,51,22,286,229,0.699,0.78,23.53,82.01
+2024,9/28/2025,Preseason,Minnesota Wild,Chicago Blackhawks,39,34,248,260,0.534,-0.16,22.71,74.52,23,53,178,289,0.303,-1.46,16.6,75.76
+2025,9/28/2025,Preseason,Minnesota Wild,Chicago Blackhawks,45,30,225,236,0.6,-0.15,20.87,72.41,25,46,224,292,0.352,-0.96,24.87,79.3
+2024,9/28/2025,Preseason,Carolina Hurricanes,Nashville Predators,52,23,277,211,0.693,0.88,26.91,86.43,47,30,266,248,0.61,0.23,21.56,76.92
+2025,9/28/2025,Preseason,Carolina Hurricanes,Nashville Predators,47,30,266,230,0.61,0.47,18.7,83.61,30,44,212,274,0.405,-0.84,21.83,81.48
+2024,9/28/2025,Preseason,Edmonton Oilers,Vancouver Canucks,49,27,292,236,0.645,0.74,26.34,79.46,50,23,279,221,0.685,0.79,22.57,79.13
+2025,9/28/2025,Preseason,Edmonton Oilers,Vancouver Canucks,48,29,259,235,0.623,0.31,23.72,78.16,38,30,233,251,0.559,-0.26,22.52,82.59
