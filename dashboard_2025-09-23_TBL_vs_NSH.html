@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Utah Hockey Club vs Anaheim Ducks - WTP Three Season Comparison</title>
+<title>Tampa Bay Lightning vs NSH - WTP Three Season Comparison</title>
 <style>
 body { font-family: Arial, sans-serif; margin: 0; padding: 1rem; background: #f4f7fb; }
 h1 { text-align: center; font-size: 24px; margin: 0; }
@@ -24,13 +24,13 @@ th { background: #f0f0f0; }
 </style>
 </head>
 <body>
-<h1>Utah Hockey Club vs Anaheim Ducks</h1>
+<h1>Tampa Bay Lightning vs NSH</h1>
 <h2>WTP Team Stats Comparison</h2>
 <div class="years">(2023-24 / 2024-25 / 2025-26)</div>
 
 <div class="container">
   <div class="panel">
-    <h3><img src="https://assets.nhle.com/logos/nhl/svg/ANA_light.svg" height="44"> Anaheim Ducks</h3>
+    <h3><img src="https://assets.nhle.com/logos/nhl/svg/NSH_light.svg" height="44"> NSH</h3>
     <table><thead>
       <tr><th>Season</th><th>W</th><th>L</th><th>GF</th><th>GA</th><th>Win%</th><th>GD/G</th><th>PP%</th><th>PK%</th></tr>
     </thead><tbody id="home-data"></tbody></table>
@@ -42,7 +42,7 @@ th { background: #f0f0f0; }
   </div>
 
   <div class="panel">
-    <h3><img src="https://assets.nhle.com/logos/nhl/svg/UTA_light.svg" height="44"> Utah Hockey Club</h3>
+    <h3><img src="https://assets.nhle.com/logos/nhl/svg/TBL_light.svg" height="44"> Tampa Bay Lightning</h3>
     <table><thead>
       <tr><th>Season</th><th>W</th><th>L</th><th>GF</th><th>GA</th><th>Win%</th><th>GD/G</th><th>PP%</th><th>PK%</th></tr>
     </thead><tbody id="away-data"></tbody></table>
@@ -55,10 +55,10 @@ th { background: #f0f0f0; }
 </div>
 
 <script>
-const homeStats = [{"season": "2023-2024", "W": 27, "L": 50, "GF": 203, "GA": 293, "Win%": "0.36", "GD/G": "-1.17", "PP%": "18.3", "PK%": "72.4"}, {"season": "2024-2025", "W": 35, "L": 37, "GF": 217, "GA": 261, "Win%": "0.49", "GD/G": "-0.61", "PP%": "11.8", "PK%": "74.2", "ScoringFirstRecord": "0-0", "ScoringFirstPct": 0.0, "OpponentFirstRecord": "0-0", "OpponentFirstPct": 0.0}, {"season": "2025-2026", "W": 1, "L": 1, "GF": 7, "GA": 4, "Win%": "0.50", "GD/G": "1.50", "PP%": "0.0", "PK%": "0.0"}];
-const awayStats = [{"season": "2024-2025", "W": 38, "L": 31, "GF": 240, "GA": 247, "Win%": "0.54", "GD/G": "-0.10", "PP%": "24.1", "PK%": "79.3", "ScoringFirstRecord": "0-0", "ScoringFirstPct": 0.0, "OpponentFirstRecord": "0-0", "OpponentFirstPct": 0.0}, {"season": "2025-2026", "W": 0, "L": 3, "GF": 4, "GA": 14, "Win%": "0.00", "GD/G": "-3.33", "PP%": "0.0", "PK%": "0.0"}];
-const homeFull = "Anaheim Ducks";
-const awayFull = "Utah Hockey Club";
+const homeStats = [{"season": "2023-2024", "W": 1, "L": 5, "GF": 13, "GA": 22, "Win%": "0.17", "GD/G": "-1.50", "PP%": "0.0", "PK%": "0.0"}, {"season": "2024-2025", "W": 2, "L": 3, "GF": 19, "GA": 18, "Win%": "0.40", "GD/G": "0.20", "PP%": "0.0", "PK%": "0.0", "ScoringFirstRecord": "0-0", "ScoringFirstPct": 0.0, "OpponentFirstRecord": "0-0", "OpponentFirstPct": 0.0}, {"season": "2025-2026", "W": 2, "L": 0, "GF": 10, "GA": 3, "Win%": "1.00", "GD/G": "3.50", "PP%": "0.0", "PK%": "0.0"}];
+const awayStats = [{"season": "2023-2024", "W": 45, "L": 29, "GF": 288, "GA": 267, "Win%": "0.60", "GD/G": "0.28", "PP%": "28.6", "PK%": "83.3"}, {"season": "2024-2025", "W": 47, "L": 27, "GF": 292, "GA": 216, "Win%": "0.62", "GD/G": "1.03", "PP%": "25.9", "PK%": "81.5", "ScoringFirstRecord": "0-0", "ScoringFirstPct": 0.0, "OpponentFirstRecord": "0-0", "OpponentFirstPct": 0.0}, {"season": "2025-2026", "W": 1, "L": 0, "GF": 2, "GA": 1, "Win%": "1.00", "GD/G": "1.00", "PP%": "0.0", "PK%": "0.0"}];
+const homeFull = "NSH";
+const awayFull = "Tampa Bay Lightning";
 
 function populateTable(teamStats, elementId) {
   const tbody = document.getElementById(elementId);

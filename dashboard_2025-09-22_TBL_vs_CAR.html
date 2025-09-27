@@ -1,144 +1,155 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>Tampa Bay Lightning vs Carolina Hurricanes - Three Season Comparison</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 1rem;
-      background: #f4f7fb;
-    }
-    h1 { text-align: center; font-size: 24px; margin: 0; }
-    h2 { text-align: center; font-size: 18px; margin: 6px 0 0; }
-    .years {
-      font-size: 12px; text-align: center; margin-bottom: 12px; color: #555;
-    }
-    .container {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-      gap: 10px;
-      justify-content: center;
-    }
-    .panel {
-      background: #fff; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-      padding: 0.5rem;
-    }
-    .panel h3 {
-      font-size: 14px; margin: 0 0 6px; text-align: center;
-    }
-    .panel h3 img {
-      vertical-align: middle; margin-right: 6px;
-    }
-    table {
-      width: 100%; border-collapse: collapse; font-size: 10px; table-layout: fixed;
-    }
-    th, td {
-      padding: 2px 3px; text-align: right; border: 1px solid #ddd;
-      white-space: nowrap;
-    }
-    th:first-child, td:first-child { text-align: left; width: 60px; }
-    th { background: #f0f0f0; }
-    .comparison { background: #fafafa; font-size: 12px; }
-  </style>
+<meta charset="UTF-8">
+<title>Tampa Bay Lightning vs Carolina Hurricanes - WTP Three Season Comparison</title>
+<style>
+body { font-family: Arial, sans-serif; margin: 0; padding: 1rem; background: #f4f7fb; }
+h1 { text-align: center; font-size: 24px; margin: 0; }
+h2 { text-align: center; font-size: 18px; margin: 6px 0 0; }
+.years { font-size: 12px; text-align: center; margin-bottom: 12px; color: #555; }
+.container { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 10px; justify-content: center; }
+.panel { background: #fff; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1); padding: 0.5rem; }
+.panel h3 { font-size: 14px; margin: 0 0 6px; text-align: center; }
+.panel h3 img { vertical-align: middle; margin-right: 6px; }
+table { width: 100%; border-collapse: collapse; font-size: 10px; table-layout: fixed; }
+th, td { padding: 2px 3px; text-align: right; border: 1px solid #ddd; white-space: nowrap; }
+th:first-child, td:first-child { text-align: left; width: 60px; }
+th { background: #f0f0f0; }
+.comparison { background: #fafafa; font-size: 12px; }
+.wtp-edge { margin: 1rem auto; background: #fff; border-radius: 10px;
+             box-shadow: 0 3px 8px rgba(0,0,0,0.15); padding: 1rem; text-align: center; }
+.wtp-edge h2 { margin-top: 0; font-size: 24px; color: #003366; }
+.wtp-edge p { font-size: 22px; font-weight: bold; margin: 0.5rem 0; }
+</style>
 </head>
 <body>
-  <h1>Tampa Bay Lightning vs Carolina Hurricanes</h1>
-  <h2>Team Stats Comparison</h2>
-  <div class="years">(2023–24 / 2024–25 / 2025–26)</div>
+<h1>Tampa Bay Lightning vs Carolina Hurricanes</h1>
+<h2>WTP Team Stats Comparison</h2>
+<div class="years">(2023-24 / 2024-25 / 2025-26)</div>
 
-  <div class="container">
-    <div class="panel">
-      <h3><img src="https://assets.nhle.com/logos/nhl/svg/CAR.svg" alt="" height="22"> Carolina Hurricanes</h3>
-      <table>
-        <thead>
-          <tr><th>Season</th><th>W</th><th>L</th><th>GF</th><th>GA</th>
-              <th>Win%</th><th>GD/G</th><th>PP%</th><th>PK%</th></tr>
-        </thead>
-        <tbody id="home-data"></tbody>
-      </table>
-    </div>
-
-    <div class="panel comparison">
-      <h3>Key Comparison Notes</h3>
-      <div id="comparison-notes"><p>Loading...</p></div>
-    </div>
-
-    <div class="panel">
-      <h3><img src="https://assets.nhle.com/logos/nhl/svg/TBL.svg" alt="" height="22"> Tampa Bay Lightning</h3>
-      <table>
-        <thead>
-          <tr><th>Season</th><th>W</th><th>L</th><th>GF</th><th>GA</th>
-              <th>Win%</th><th>GD/G</th><th>PP%</th><th>PK%</th></tr>
-        </thead>
-        <tbody id="away-data"></tbody>
-      </table>
-    </div>
+<div class="container">
+  <div class="panel">
+    <h3><img src="https://assets.nhle.com/logos/nhl/svg/CAR_light.svg" height="44"> Carolina Hurricanes</h3>
+    <table><thead>
+      <tr><th>Season</th><th>W</th><th>L</th><th>GF</th><th>GA</th><th>Win%</th><th>GD/G</th><th>PP%</th><th>PK%</th></tr>
+    </thead><tbody id="home-data"></tbody></table>
   </div>
 
-  <script>
-    const homeStats = [{"season": "2023\u20132024", "W": 3, "L": 3, "GF": 16, "GA": 17, "Win%": "0.50", "GD/G": "-0.17", "PP%": "0.0", "PK%": "0.0"}, {"season": "2024\u20132025", "W": 4, "L": 2, "GF": 25, "GA": 18, "Win%": "0.67", "GD/G": "1.17", "PP%": "0.0", "PK%": "0.0"}, {"season": "2025\u20132026", "W": 0, "L": 0, "GF": 0, "GA": 0, "Win%": "0.00", "GD/G": "0.00", "PP%": "0.0", "PK%": "0.0"}];
-    const awayStats = [{"season": "2023\u20132024", "W": 5, "L": 2, "GF": 22, "GA": 18, "Win%": "0.71", "GD/G": "0.57", "PP%": "0.0", "PK%": "0.0"}, {"season": "2024\u20132025", "W": 2, "L": 4, "GF": 14, "GA": 20, "Win%": "0.33", "GD/G": "-1.00", "PP%": "0.0", "PK%": "0.0"}, {"season": "2025\u20132026", "W": 0, "L": 0, "GF": 0, "GA": 0, "Win%": "0.00", "GD/G": "0.00", "PP%": "0.0", "PK%": "0.0"}];
-    const homeFull = "Carolina Hurricanes";
-    const awayFull = "Tampa Bay Lightning";
+  <div class="panel comparison">
+    <h3>WTP Key Comparison Notes</h3>
+    <div id="comparison-notes"><p>Loading...</p></div>
+  </div>
 
-    function populateTable(teamStats, elementId) {
-      const tbody = document.getElementById(elementId);
-      tbody.innerHTML = "";
-      teamStats.forEach(s => {
-        tbody.innerHTML += `
-          <tr>
-            <td>${s.season}</td>
-            <td>${s.W}</td>
-            <td>${s.L}</td>
-            <td>${s.GF}</td>
-            <td>${s.GA}</td>
-            <td>${s["Win%"]}</td>
-            <td>${s["GD/G"]}</td>
-            <td>${s["PP%"]}</td>
-            <td>${s["PK%"]}</td>
-          </tr>`;
-      });
+  <div class="panel">
+    <h3><img src="https://assets.nhle.com/logos/nhl/svg/TBL_light.svg" height="44"> Tampa Bay Lightning</h3>
+    <table><thead>
+      <tr><th>Season</th><th>W</th><th>L</th><th>GF</th><th>GA</th><th>Win%</th><th>GD/G</th><th>PP%</th><th>PK%</th></tr>
+    </thead><tbody id="away-data"></tbody></table>
+  </div>
+</div>
+
+<div class="wtp-edge">
+  <h2>🏒 WTP Edge</h2>
+  <p id="wtp-edge-text">Loading...</p>
+</div>
+
+<script>
+const homeStats = [{"season": "2023-2024", "W": 52, "L": 23, "GF": 277, "GA": 211, "Win%": "0.68", "GD/G": "0.88", "PP%": "26.9", "PK%": "86.4"}, {"season": "2024-2025", "W": 47, "L": 30, "GF": 266, "GA": 230, "Win%": "0.60", "GD/G": "0.47", "PP%": "18.7", "PK%": "83.6", "ScoringFirstRecord": "0-0", "ScoringFirstPct": 0.0, "OpponentFirstRecord": "0-0", "OpponentFirstPct": 0.0}, {"season": "2025-2026", "W": 0, "L": 1, "GF": 1, "GA": 2, "Win%": "0.00", "GD/G": "-1.00", "PP%": "0.0", "PK%": "0.0"}];
+const awayStats = [{"season": "2023-2024", "W": 45, "L": 29, "GF": 288, "GA": 267, "Win%": "0.60", "GD/G": "0.28", "PP%": "28.6", "PK%": "83.3"}, {"season": "2024-2025", "W": 47, "L": 27, "GF": 292, "GA": 216, "Win%": "0.62", "GD/G": "1.03", "PP%": "25.9", "PK%": "81.5", "ScoringFirstRecord": "0-0", "ScoringFirstPct": 0.0, "OpponentFirstRecord": "0-0", "OpponentFirstPct": 0.0}, {"season": "2025-2026", "W": 1, "L": 0, "GF": 2, "GA": 1, "Win%": "1.00", "GD/G": "1.00", "PP%": "0.0", "PK%": "0.0"}];
+const homeFull = "Carolina Hurricanes";
+const awayFull = "Tampa Bay Lightning";
+
+function populateTable(teamStats, elementId) {
+  const tbody = document.getElementById(elementId);
+  tbody.innerHTML = "";
+  teamStats.forEach(s => {
+    tbody.innerHTML += `
+      <tr>
+        <td>${s.season}</td>
+        <td>${s.W}</td>
+        <td>${s.L}</td>
+        <td>${s.GF}</td>
+        <td>${s.GA}</td>
+        <td>${s["Win%"]}</td>
+        <td>${s["GD/G"]}</td>
+        <td>${s["PP%"]}</td>
+        <td>${s["PK%"]}</td>
+      </tr>`;
+  });
+}
+
+function comparisonNotes(home, away) {
+  const homeCurrent = home.find(s => s.season === "2024-2025") || home[home.length-1];
+  const awayCurrent = away.find(s => s.season === "2024-2025") || away[away.length-1];
+
+  let html = "";
+  html += `<p><strong>Win % (Current):</strong> ${homeFull} ${homeCurrent["Win%"]} vs ${awayFull} ${awayCurrent["Win%"]}</p>`;
+  html += `<p><strong>Goal Diff/Game:</strong> ${homeFull} ${homeCurrent["GD/G"]} vs ${awayFull} ${awayCurrent["GD/G"]}</p>`;
+  html += `<p><strong>Special Teams:</strong> ${homeFull} PP ${homeCurrent["PP%"]}%, PK ${homeCurrent["PK%"]}% |
+               ${awayFull} PP ${awayCurrent["PP%"]}%, PK ${awayCurrent["PK%"]}%</p>`;
+
+  const stiHome = parseFloat(homeCurrent["PP%"]) + parseFloat(homeCurrent["PK%"]);
+  const stiAway = parseFloat(awayCurrent["PP%"]) + parseFloat(awayCurrent["PK%"]);
+  html += `<p><strong>Special Teams Index (PP% + PK%):</strong> ${homeFull} ${stiHome.toFixed(1)} | ${awayFull} ${stiAway.toFixed(1)}</p>`;
+
+  if ("ScoringFirstRecord" in homeCurrent && "ScoringFirstRecord" in awayCurrent) {
+    const homeVal = (homeCurrent["ScoringFirstRecord"] === "0-0") ? "Not available (preseason/no data yet)" :
+      `${homeCurrent["ScoringFirstRecord"]} (${homeCurrent["ScoringFirstPct"]}%)`;
+    const awayVal = (awayCurrent["ScoringFirstRecord"] === "0-0") ? "Not available (preseason/no data yet)" :
+      `${awayCurrent["ScoringFirstRecord"]} (${awayCurrent["ScoringFirstPct"]}%)`;
+    html += `<p><strong>Scoring First Record:</strong> ${homeFull} ${homeVal} | ${awayFull} ${awayVal}</p>`;
+  }
+
+  if ("OpponentFirstRecord" in homeCurrent && "OpponentFirstRecord" in awayCurrent) {
+    const homeVal = (homeCurrent["OpponentFirstRecord"] === "0-0") ? "Not available (preseason/no data yet)" :
+      `${homeCurrent["OpponentFirstRecord"]} (${homeCurrent["OpponentFirstPct"]}%)`;
+    const awayVal = (awayCurrent["OpponentFirstRecord"] === "0-0") ? "Not available (preseason/no data yet)" :
+      `${awayCurrent["OpponentFirstRecord"]} (${awayCurrent["OpponentFirstPct"]}%)`;
+    html += `<p><strong>Opponent Scoring First Record:</strong> ${homeFull} ${homeVal} | ${awayFull} ${awayVal}</p>`;
+  }
+
+  document.getElementById("comparison-notes").innerHTML = html;
+
+  // WTP Edge calculation
+  function calcEdge(team) {
+    const win = parseFloat(team["Win%"]);
+    const gd = Math.max(-2, Math.min(2, parseFloat(team["GD/G"]))); 
+    const gdNorm = (gd + 2) / 4; 
+    const sti = (parseFloat(team["PP%"]) + parseFloat(team["PK%"])) / 200;
+    let sfVal = 0;
+    if ("ScoringFirstPct" in team && "OpponentFirstPct" in team) {
+      sfVal = (parseFloat(team["ScoringFirstPct"]) + parseFloat(team["OpponentFirstPct"])) / 200;
     }
+    return (win * 0.40) + (gdNorm * 0.20) + (sti * 0.20) + (sfVal * 0.20);
+  }
 
-    function comparisonNotes(home, away) {
-      const lastHome = home[home.length - 1];
-      const lastAway = away[away.length - 1];
+  const scoreHome = calcEdge(homeCurrent);
+  const scoreAway = calcEdge(awayCurrent);
 
-      let html = "";
-      html += `<p><strong>Win % (Current):</strong> ${homeFull} ${lastHome["Win%"]} vs ${awayFull} ${lastAway["Win%"]}</p>`;
-      html += `<p><strong>Goal Diff/Game:</strong> ${homeFull} ${lastHome["GD/G"]} vs ${awayFull} ${lastAway["GD/G"]}</p>`;
-      html += `<p><strong>Special Teams:</strong> ${homeFull} PP ${lastHome["PP%"]}%, PK ${lastHome["PK%"]}% |
-                   ${awayFull} PP ${lastAway["PP%"]}%, PK ${lastAway["PK%"]}%</p>`;
+  let probHome = 50, probAway = 50;
+  if (scoreHome + scoreAway > 0) {
+    probHome = (scoreHome / (scoreHome + scoreAway)) * 100;
+    probAway = (scoreAway / (scoreHome + scoreAway)) * 100;
+  }
 
-      // Weighted Edge calculation
-      const wWin = 0.50, wGD = 0.25, wPP = 0.125, wPK = 0.125;
+  let favored = "";
+  if (probHome > probAway) {
+    favored = `<strong>${homeFull} favored</strong><br>`;
+  } else if (probAway > probHome) {
+    favored = `<strong>${awayFull} favored</strong><br>`;
+  } else {
+    favored = `<strong>Even matchup</strong><br>`;
+  }
 
-      function score(team) {
-        return (parseFloat(team["Win%"]) * wWin) +
-               (parseFloat(team["GD/G"]) * wGD) +
-               (parseFloat(team["PP%"]) / 100 * wPP) +
-               (parseFloat(team["PK%"]) / 100 * wPK);
-      }
+  let edgeText = favored + `${homeFull}: ${probHome.toFixed(0)}% | ${awayFull}: ${probAway.toFixed(0)}%`;
 
-      const scoreHome = score(lastHome);
-      const scoreAway = score(lastAway);
+  document.getElementById("wtp-edge-text").innerHTML = edgeText;
+}
 
-      if (scoreHome > scoreAway) {
-        html += `<p><strong>Edge:</strong> ${homeFull} (overall weighted edge score higher).</p>`;
-      } else if (scoreHome < scoreAway) {
-        html += `<p><strong>Edge:</strong> ${awayFull} (overall weighted edge score higher).</p>`;
-      } else {
-        html += `<p><strong>Edge:</strong> Even matchup (scores equal).</p>`;
-      }
-
-      document.getElementById("comparison-notes").innerHTML = html;
-    }
-
-    populateTable(homeStats, "home-data");
-    populateTable(awayStats, "away-data");
-    comparisonNotes(homeStats, awayStats);
-  </script>
+populateTable(homeStats, "home-data");
+populateTable(awayStats, "away-data");
+comparisonNotes(homeStats, awayStats);
+</script>
 </body>
 </html>
