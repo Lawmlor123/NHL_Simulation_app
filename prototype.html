@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Second Opinion - Team Page</title>
+  <style>
+    body { margin:0; font-family: system-ui,sans-serif; background:#f7f7f7; }
+    header { background:#0d253f; color:white; text-align:center; padding:12px; font-weight:bold; }
+    img.logo { height:20px; vertical-align:middle; margin-right:6px; }
+
+    .hero {
+      display:flex; align-items:center; justify-content:space-between;
+      background:white; margin:12px; padding:12px; border-radius:10px;
+      box-shadow:0 1px 4px rgba(0,0,0,0.1);
+    }
+    .hero h1 { margin:0; font-size:18px; }
+    .hero small { color:#555; }
+
+    .donut { width:70px; height:70px; position:relative; }
+    .donut svg { transform:rotate(-90deg); }
+    .donut-text { position:absolute; top:50%; left:50%; transform:translate(-50%,-50%); font-size:14px; font-weight:bold; }
+
+    .accordion { margin:12px; }
+    .card {
+      background:white; margin-bottom:10px; border-radius:8px; overflow:hidden;
+      box-shadow:0 1px 4px rgba(0,0,0,0.1);
+    }
+    .card-header {
+      padding:12px; background:#eee; cursor:pointer; font-weight:600; display:flex; justify-content:space-between;
+    }
+    .card-content { display:none; padding:12px; }
+    .card.open .card-content { display:block; }
+
+    .team-note {
+      display:flex; justify-content:space-between; text-align:center; gap:10px;
+      margin-bottom:10px;
+    }
+    .team-panel {
+      flex:1; background:#f9f9f9; padding:8px; border-radius:6px;
+    }
+    .team-panel h3 { margin:4px 0; font-size:14px; }
+    .team-panel p { margin:2px 0; font-size:13px; }
+    .summary { font-weight:bold; margin:8px 0; }
+    .bar { background:#ddd; border-radius:6px; overflow:hidden; height:10px; margin:6px 0; }
+    .bar-fill { background:#1e90ff; height:10px; }
+
+    .pbp-event { border-bottom:1px solid #eee; padding:6px 0; font-size:14px; }
+    .pbp-header { font-weight:bold; }
+  </style>
+</head>
+<body>
+  <header>Second Opinion</header>
+
+  <div class="hero">
+    <div>
+      <h1 id="team-name"></h1>
+      <small id="game-date"></small>
+    </div>
+    <div class="donut">
+      <svg width="70" height="70">
+        <circle cx="35" cy="35" r="30" stroke="#ddd" stroke-width="8" fill="none"/>
+        <circle id="donut-arc" cx="35" cy="35" r="30"
+                stroke="#1e90ff" stroke-width="8" fill="none"
+                stroke-dasharray="188.5" stroke-dashoffset="188.5"/>
+      </svg>
+      <div class="donut-text" id="playoff-pct">0%</div>
+    </div>
+  </div>
+
+  <div class="accordion">
+    <div class="card"><div class="card-header">Doctor’s Notes <span>+</span></div><div class="card-content" id="doc-card"></div></div>
+    <div class="card"><div class="card-header">Streaks <span>+</span></div><div class="card-content" id="streak-card"></div></div>
+    <div class="card"><div class="card-header">The Edge <span>+</span></div><div class="card-content" id="edge-card"></div></div>
+    <div class="card"><div class="card-header">Head-to-Head <span>+</span></div><div class="card-content" id="h2h-card"></div></div>
+    <div class="card"><div class="card-header">Play-By-Play <span>+</span></div><div class="card-content" id="pbp-card"></div></div>
+  </div>
+
+  <script>
+    // ✅ Logos for all 32 NHL teams using loodibee.com
+    const logos = {
+      "Anaheim Ducks": "https://loodibee.com/wp-content/uploads/nhl-anaheim-ducks-logo.png",
+      "Arizona Coyotes": "https://loodibee.com/wp-content/uploads/nhl-arizona-coyotes-logo.png",
+      "Boston Bruins": "https://loodibee.com/wp-content/uploads/nhl-boston-bruins-logo.png",
+      "Buffalo Sabres": "https://loodibee.com/wp-content/uploads/nhl-buffalo-sabres-logo.png",
+      "Calgary Flames": "https://loodibee.com/wp-content/uploads/nhl-calgary-flames-logo.png",
+      "Carolina Hurricanes": "https://loodibee.com/wp-content/uploads/nhl-carolina-hurricanes-logo.png",
+      "Chicago Blackhawks": "https://loodibee.com/wp-content/uploads/nhl-chicago-blackhawks-logo.png",
+      "Colorado Avalanche": "https://loodibee.com/wp-content/uploads/nhl-colorado-avalanche-logo.png",
+      "Columbus Blue Jackets": "https://loodibee.com/wp-content/uploads/nhl-columbus-blue-jackets-logo.png",
+      "Dallas Stars": "https://loodibee.com/wp-content/uploads/nhl-dallas-stars-logo.png",
+      "Detroit Red Wings": "https://loodibee.com/wp-content/uploads/nhl-detroit-red-wings-logo.png",
+      "Edmonton Oilers": "https://loodibee.com/wp-content/uploads/nhl-edmonton-oilers-logo.png",
+      "Florida Panthers": "https://loodibee.com/wp-content/uploads/nhl-florida-panthers-logo.png",
+      "Los Angeles Kings": "https://loodibee.com/wp-content/uploads/nhl-los-angeles-kings-logo.png",
+      "Minnesota Wild": "https://loodibee.com/wp-content/uploads/nhl-minnesota-wild-logo.png",
+      "Montreal Canadiens": "https://loodibee.com/wp-content/uploads/nhl-montreal-canadiens-logo.png",
+      "Nashville Predators": "https://loodibee.com/wp-content/uploads/nhl-nashville-predators-logo.png",
+      "New Jersey Devils": "https://loodibee.com/wp-content/uploads/nhl-new-jersey-devils-logo.png",
+      "New York Islanders": "https://loodibee.com/wp-content/uploads/nhl-new-york-islanders-logo.png",
+      "New York Rangers": "https://loodibee.com/wp-content/uploads/nhl-new-york-rangers-logo.png",
+      "Ottawa Senators": "https://loodibee.com/wp-content/uploads/nhl-ottawa-senators-logo.png",
+      "Philadelphia Flyers": "https://loodibee.com/wp-content/uploads/nhl-philadelphia-flyers-logo.png",
+      "Pittsburgh Penguins": "https://loodibee.com/wp-content/uploads/nhl-pittsburgh-penguins-logo.png",
+      "San Jose Sharks": "https://loodibee.com/wp-content/uploads/nhl-san-jose-sharks-logo.png",
+      "Seattle Kraken": "https://loodibee.com/wp-content/uploads/nhl-seattle-kraken-logo.png",
+      "St. Louis Blues": "https://loodibee.com/wp-content/uploads/nhl-st-louis-blues-logo.png",
+      "Tampa Bay Lightning": "https://loodibee.com/wp-content/uploads/nhl-tampa-bay-lightning-logo.png",
+      "Toronto Maple Leafs": "https://loodibee.com/wp-content/uploads/nhl-toronto-maple-leafs-logo.png",
+      "Vancouver Canucks": "https://loodibee.com/wp-content/uploads/nhl-vancouver-canucks-logo.png",
+      "Vegas Golden Knights": "https://loodibee.com/wp-content/uploads/nhl-vegas-golden-knights-logo.png",
+      "Washington Capitals": "https://loodibee.com/wp-content/uploads/nhl-washington-capitals-logo.png",
+      "Winnipeg Jets": "https://loodibee.com/wp-content/uploads/nhl-winnipeg-jets-logo.png"
+    };
+
+    const data = {
+      "team": "Florida Panthers",
+      "date": "2025-10-07",
+      "doctor_notes": {
+        "matchup": "Florida Panthers vs Chicago Blackhawks",
+        "florida_panthers": { "goalie_adj": "+0.09 GF", "special_teams_adj": "+0.05 GF" },
+        "chicago_blackhawks": { "goalie_adj": "-0.09 GF", "special_teams_adj": "-0.05 GF" },
+        "summary_diagnosis": "Florida Panthers proj 4.0 GF, Chicago Blackhawks proj 2.7 GF",
+        "overtime_likelihood_pct": 12.0
+      },
+      "streaks": {
+        "max_win": 7,"max_loss": 4,"max_ot": 3,
+        "streak_probs": { "win_3_plus": 68.4,"win_5_plus": 42.1,"loss_3_plus": 23.7,"ot_2_plus": 19.5 }
+      },
+      "monte_carlo": {
+        "avg_points": 96.5,"median_points": 96,"p25": 90,"p75": 103,"std": 4.2,
+        "wins_pct": 51.0,"losses_pct": 36.0,"ot_pct": 13.0,"playoff_pct": 71.3,
+        "gf_per_game": 3.2,"mov": 0.65,"close_game_pct": 46.9
+      },
+      "head_to_head": {
+        "team1": "Florida Panthers","team2": "Chicago Blackhawks",
+        "team1_wins": 52.0,"team2_wins": 40.0,
+        "team1_ot": 13.0,"team2_ot": 18.0,
+        "avg_margin": 0.60,
+        "score_dist": {"3-2":14.0,"4-3":11.5,"2-1":10.4,"5-3":9.2,"4-2":8.7},
+        "close_games": {"one_goal_pct":28.5,"ot_pct":21.0}
+      },
+    "play_by_play": {
+        "mode": "track_shots=true",
+        "events_logged": "detailed",
+        "events": [
+          { "team": "Florida Panthers","event": "Goal","period": 1,"time": "05:42","result": "FLA 1-0" },
+          { "team": "Chicago Blackhawks","event": "Penalty","period": 1,"time": "07:15","result": "2:00 minor - Tripping" },
+          { "team": "Florida Panthers","event": "Power Play Goal","period": 1,"time": "08:01","result": "FLA 2-0" },
+          { "team": "Chicago Blackhawks","event": "Goal","period": 2,"time": "14:27","result": "FLA 2-1" },
+          { "team": "Florida Panthers","event": "Goal","period": 3,"time": "11:03","result": "FLA 3-1" },
+          { "team": "Final","event": "End of Game","period": "Final","time": "20:00","result": "Florida Panthers 3 - Chicago Blackhawks 1" }
+        ]
+      }
+    };
+
+    // ✅ Render helper
+    function renderTeamWithLogo(teamName) {
+      const url = logos[teamName] || "";
+      return `<img class="logo" src="${url}" alt="">${teamName}`;
+    }
+
+    function renderPage() {
+      // Hero
+      document.getElementById("team-name").innerHTML = renderTeamWithLogo(data.team);
+      document.getElementById("game-date").textContent = data.date;
+      const circ = 2 * Math.PI * 30, arc = document.getElementById("donut-arc");
+      const playoff = data.monte_carlo.playoff_pct;
+      arc.setAttribute("stroke-dasharray", circ);
+      arc.setAttribute("stroke-dashoffset", circ - (playoff/100)*circ);
+      document.getElementById("playoff-pct").textContent = playoff+"%";
+
+      // Doctor's Notes
+      const dn=data.doctor_notes;
+      document.getElementById("doc-card").innerHTML=`
+        <p><strong>${dn.matchup}</strong></p>
+        <div class="team-note">
+          <div class="team-panel"><h3>${renderTeamWithLogo("Florida Panthers")}</h3>
+            <p>Goalie adj: ${dn.florida_panthers.goalie_adj}</p>
+            <p>Special teams: ${dn.florida_panthers.special_teams_adj}</p></div>
+          <div class="team-panel"><h3>${renderTeamWithLogo("Chicago Blackhawks")}</h3>
+            <p>Goalie adj: ${dn.chicago_blackhawks.goalie_adj}</p>
+            <p>Special teams: ${dn.chicago_blackhawks.special_teams_adj}</p></div>
+        </div>
+        <p class="summary">${dn.summary_diagnosis}</p>
+        <p>Overtime likelihood: ${dn.overtime_likelihood_pct}%</p>
+        <div class="bar"><div class="bar-fill" style="width:${dn.overtime_likelihood_pct}%;"></div></div>
+      `;
+
+      // Streaks
+      const s=data.streaks, sDiv=document.getElementById("streak-card");
+      sDiv.innerHTML=`<p>Max Wins: ${s.max_win}</p><p>Max Losses: ${s.max_loss}</p><p>Max OT: ${s.max_ot}</p><h3>Probabilities</h3>`;
+      for(const [k,v] of Object.entries(s.streak_probs)){
+        const label=k.replace(/_/g," ");
+        const wrap=document.createElement("div");
+        wrap.innerHTML=`${label} (${v}%)`;
+        const bar=document.createElement("div");
+        bar.className="bar"; const fill=document.createElement("div");
+        fill.className="bar-fill"; fill.style.width=v+"%"; bar.appendChild(fill);
+        wrap.appendChild(bar); sDiv.appendChild(wrap);
+      }
+
+      // The Edge
+      const mc=data.monte_carlo;
+      document.getElementById("edge-card").innerHTML=`
+        <p><strong>Simulated Season Projection</strong></p>
+        <p>Avg Points: ${mc.avg_points}</p>
+        <p>Median: ${mc.median_points} (P25 ${mc.p25} / P75 ${mc.p75})</p>
+        <p>Win %: ${mc.wins_pct} | Loss %: ${mc.losses_pct} | OT %: ${mc.ot_pct}</p>
+        <p>GF per Game: ${mc.gf_per_game}</p>
+        <p>Margin of Victory: ${mc.mov}</p>
+        <p>Close Game %: ${mc.close_game_pct}</p>
+      `;
+
+      // Head-to-Head
+      const h2h=data.head_to_head;
+      const h2hDiv=document.getElementById("h2h-card");
+      h2hDiv.innerHTML=`
+        <p><strong>${renderTeamWithLogo(h2h.team1)}</strong> wins: ${h2h.team1_wins}% (OT: ${h2h.team1_ot})</p>
+        <p><strong>${renderTeamWithLogo(h2h.team2)}</strong> wins: ${h2h.team2_wins}% (OT: ${h2h.team2_ot})</p>
+        <p>Average Margin: ${h2h.avg_margin}</p>
+        <h3>Score Distribution</h3>
+        <ul id="score-dist"></ul>
+        <h3>Close Games</h3>
+        <ul id="close-games"></ul>
+      `;
+      const sd=document.getElementById("score-dist"), cg=document.getElementById("close-games");
+      for(const [score,pct] of Object.entries(h2h.score_dist)){
+        const li=document.createElement("li"); li.textContent=`${score}: ${pct}%`; sd.appendChild(li);
+      }
+      for(const [k,v] of Object.entries(h2h.close_games)){
+        const li=document.createElement("li"); li.textContent=`${k}: ${v}%`; cg.appendChild(li);
+      }
+
+      // Play By Play
+      const pbp=data.play_by_play;
+      const pbpDiv=document.getElementById("pbp-card");
+      pbp.events.forEach(ev=>{
+        const row=document.createElement("div");
+        row.className="pbp-event";
+        if(ev.team==="Final"){
+          row.innerHTML=`<div class="pbp-header">End of Game: ${ev.result}</div>`;
+        } else {
+          row.innerHTML=`<div><strong>P${ev.period} ${ev.time}</strong> – ${renderTeamWithLogo(ev.team)} – ${ev.event} (${ev.result})</div>`;
+        }
+        pbpDiv.appendChild(row);
+      });
+
+      // Accordion toggle
+      document.querySelectorAll(".card-header").forEach(h=>{
+        h.addEventListener("click",()=> h.parentElement.classList.toggle("open"));
+      });
+    }
+
+    // 🚀 Render immediately
+    renderPage();
+  </script>
+</body>
+</html>

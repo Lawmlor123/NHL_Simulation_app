@@ -1,0 +1,4 @@
+cd C:\Users\shell\OneDrive\Documents\hockey-ai
+git add .
+git commit -m "short description of changes"
+git push
