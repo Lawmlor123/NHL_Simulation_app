@@ -1,5 +1,5 @@
 🏒 NHL Predictive Simulation App
-This Streamlit‑based application serves as the interactive front end to a custom XGBoost‑powered predictive model that forecasts daily NHL game outcomes. It automatically loads the day’s schedule, runs each matchup through a machine‑learning pipeline built from multi‑season team statistics, and displays projected win probabilities in a clean, data‑driven dashboard. Hockey enthusiasts can browse all games at a glance or click into individual matchups for deeper insights such as comparative team form, recent performance, and historical context. Designed for the experienced fan who values analytics, this tool blends real‑time data with machine learning to provide an engaging, stats‑focused perspective on each day’s NHL slate.
+This Streamlit‑based application serves as the interactive front end to a custom predictive model that forecasts daily NHL game outcomes. It automatically loads the day’s schedule, runs each matchup through a machine‑learning pipeline built from multi‑season team statistics, and displays projected win probabilities in a clean, data‑driven dashboard. Hockey enthusiasts can browse all games at a glance or click into individual matchups for deeper insights such as comparative team form, recent performance, and historical context. Designed for the experienced fan who values analytics, this tool blends real‑time data with machine learning to provide an engaging, stats‑focused perspective on each day’s NHL slate.
 
 # NHL Quant Modeling – Data & Model Overview
 
@@ -12,7 +12,7 @@ _Last updated: 2026‑01‑26_
 ### 1.1 Core Game Fields (from `CLEAN_ALL_GAMES_MASTER.py`)
 | Field | Description | Notes |
 | --- | --- | --- |
-| `game_id`, `gameid` | Source-provided identifiers | ⚠️ TBD: confirm if both needed |
+| `game_id`, `gameid` | Source-provided identifiers |
 | `date` | Game date |  |
 | `hometeam`, `awayteam` | Raw team strings | Normalized to `home_key`, `away_key` |
 | `home_key`, `away_key` | Canonical 3-letter codes | 35 unique keys detected |
@@ -20,7 +20,7 @@ _Last updated: 2026‑01‑26_
 | `status`, `isclosed`, `played` | Game completion flags | `played=True` when scores present |
 | `target` | Home-win indicator | 1 = home win, 0 = home loss |
 | `season`, `seasontype` | Context fields |  |
-| `source`, `team` | Origin + extra column | ⚠️ TBD: clarify `team` usage |
+| `source`, `team` | Origin + extra column |
 
 ### 1.2 Builder Metadata & Betting Inputs (`builder.py`, SportsData feed)
 - Moneylines: `AwayTeamMoneyLine`, `HomeTeamMoneyLine`
@@ -44,7 +44,7 @@ _Last updated: 2026‑01‑26_
 | Feature Group | Fields | Notes |
 | --- | --- | --- |
 | Differential stats | `goal_diff`, `wins_diff`, `losses_diff`, `goals_for_diff`, `goals_against_diff`, `rolling_goals_for_diff`, `rolling_goals_against_diff` | Derived from normalized master dataset |
-| Rest / recent games | ⚠️ TBD – counts per window (log indicates rolling counts but window length not documented) | Need explicit definitions |
+| Rest / recent games  | Need explicit definition |
 | Odds-based features | _Not currently merged_ | Awaiting odds file availability |
 
 ---
@@ -67,8 +67,8 @@ _Last updated: 2026‑01‑26_
 | New model (≥ 2025‑12‑09) | 182 | 0.527 | 0.2539 |
 
 ### 2.3 Baselines & Diagnostics
-- Baseline comparisons: ⚠️ TBD (coin flip, always-home, bookmaker implied odds).
-- Failure modes / error analysis: ⚠️ Not yet documented.
+- Baseline comparisons
+  
 
 ---
 
@@ -81,7 +81,7 @@ _Last updated: 2026‑01‑26_
 | Cleaner | `phase_3_cm.py` | Normalizes teams, drops malformed rows, splits played/upcoming | `all_games_master_clean.csv`, `all_games_played_clean.csv`, `all_games_upcoming.csv`, `unmapped_teams.csv` |
 | Normalizer & diffs | `phase_3_gm.py` | Consolidates 15,316 rows across history, creates differential features | Updated `all_games_master.csv` + clean sync |
 | Feature assembler | `feature_assembler.py` | Adds rest features & (when available) odds; outputs modeling table | `games_features_v1.csv` |
-| Prediction & odds | `phase_5_prediction_xgb.py` | Trains XGB, validates, pulls Odds API data, generates daily predictions | `quant_nhl_xgb_diff.pkl`, validation/pred CSVs, `odds_snapshots.csv` |
+| Prediction & odds | `phase_5_prediction.py` | Trains model, validates, pulls Odds API data, generates daily predictions | `quant_nhl_diff.pkl`, validation/pred CSVs, `odds_snapshots.csv` |
 | Effectiveness tracking | `Modeleffective.py` | Merges predictions with ESPN results for rolling KPIs | Accuracy/Brier summary |
 
 ### External Feeds
@@ -93,11 +93,6 @@ _Last updated: 2026‑01‑26_
 
 ---
 
-### Open Items / Next Actions
-1. Document exact definitions for rest/rolling features (window lengths, formulas).  
-2. Capture baseline comparisons and any qualitative failure notes.  
-3. Confirm whether additional data sources (injuries, goalie starters, etc.) are planned; add to catalog when available.
 
----
 
 _This document should be updated whenever new features, data feeds, or evaluation metrics are introduced._
