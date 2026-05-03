@@ -1,0 +1,57 @@
+{
+  "date": "2026-02-11",
+  "season": "20252026",
+  "gameCount": 2,
+  "games": [
+    {
+      "gamePk": 2025090001,
+      "season": 20252026,
+      "gameType": 9,
+      "startTimeUTC": "2026-02-11T15:30:00Z",
+      "venue": "Milano Santagiulia Ice Hockey Arena",
+      "gameState": "FINAL",
+      "gameScheduleState": "OK",
+      "homeTeam": {
+        "id": 62,
+        "abbrev": "FIN",
+        "name": "Finland",
+        "record": null,
+        "score": 1,
+        "roster": []
+      },
+      "awayTeam": {
+        "id": 65,
+        "abbrev": "SVK",
+        "name": "Slovakia",
+        "record": null,
+        "score": 4,
+        "roster": []
+      }
+    },
+    {
+      "gamePk": 2025090002,
+      "season": 20252026,
+      "gameType": 9,
+      "startTimeUTC": "2026-02-11T20:00:00Z",
+      "venue": "Milano Santagiulia Ice Hockey Arena",
+      "gameState": "FINAL",
+      "gameScheduleState": "OK",
+      "homeTeam": {
+        "id": 6773,
+        "abbrev": "ITA",
+        "name": "Italy",
+        "record": null,
+        "score": 2,
+        "roster": []
+      },
+      "awayTeam": {
+        "id": 66,
+        "abbrev": "SWE",
+        "name": "Sweden",
+        "record": null,
+        "score": 5,
+        "roster": []
+      }
+    }
+  ]
+}

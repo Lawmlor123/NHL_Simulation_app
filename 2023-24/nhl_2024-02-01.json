@@ -1,0 +1,32 @@
+{
+  "date": "2024-02-01",
+  "season": "20232024",
+  "gameCount": 1,
+  "games": [
+    {
+      "gamePk": 2023120001,
+      "season": 20232024,
+      "gameType": 12,
+      "startTimeUTC": "2024-02-02T01:00:00Z",
+      "venue": "Scotiabank Arena",
+      "gameState": "FINAL",
+      "gameScheduleState": "OK",
+      "homeTeam": {
+        "id": 7806,
+        "abbrev": "KLS",
+        "name": "Team Kloss",
+        "record": null,
+        "score": 3,
+        "roster": []
+      },
+      "awayTeam": {
+        "id": 7805,
+        "abbrev": "KNG",
+        "name": "Team King",
+        "record": null,
+        "score": 5,
+        "roster": []
+      }
+    }
+  ]
+}

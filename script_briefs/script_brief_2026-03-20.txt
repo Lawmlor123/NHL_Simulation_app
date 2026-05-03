@@ -1,0 +1,349 @@
+======================================================================
+NHL PREDICTIONS SCRIPT BRIEF — 2026-03-20
+Generated: 2026-03-20 17:54
+======================================================================
+
+INSTRUCTIONS FOR CLAUDE:
+Using the picks below, write a 2-3 minute YouTube script in a
+natural, conversational human voice. Include a couple of 'um'
+moments and natural pauses between sentences (use '...' for pauses
+and [pause] for longer beats). Sound like an enthusiastic hockey
+fan who knows their stats, not a robot. Start with tonight's games,
+then go through the top picks by category.
+
+──────────────────────────────────────────────────────────────────────
+TONIGHT'S GAMES:
+──────────────────────────────────────────────────────────────────────
+  • ANA @ UTA
+  • CAR @ TOR
+  • COL @ CHI
+  • FLA @ CGY
+  • NJD @ WSH
+
+──────────────────────────────────────────────────────────────────────
+🥅 TOP GOAL SCORER PICKS (1+ Goals):
+──────────────────────────────────────────────────────────────────────
+   1. N. MacKinnon (COL vs CHI) — 40.9% chance of scoring  🔥 HIGH CONFIDENCE
+       On the road, vs Unknown | also 86.2% for a point
+   2. J. Hughes (NJD vs WSH) — 40.9% chance of scoring  🔥 HIGH CONFIDENCE
+       On the road, vs Unknown | also 86.2% for a point
+   3. S. Morton (CGY vs FLA) — 40.9% chance of scoring  🔥 HIGH CONFIDENCE
+       At home, vs Unknown | also 68.0% for a point
+   4. N. Hischier (NJD vs WSH) — 39.3% chance of scoring  ✅ STRONG PICK
+       On the road, vs Unknown | also 72.1% for a point
+   5. A. Suniev (CGY vs FLA) — 39.3% chance of scoring  ✅ STRONG PICK
+       At home, vs Unknown | also 66.3% for a point
+   6. A. Ovechkin (WSH vs NJD) — 39.1% chance of scoring  ✅ STRONG PICK
+       At home, vs Unknown | also 58.1% for a point
+   7. A. Matthews (TOR vs CAR) — 35.8% chance of scoring  ✅ STRONG PICK
+       At home, vs Unknown | also 72.1% for a point
+   8. C. Keller (UTA vs ANA) — 35.8% chance of scoring  ✅ STRONG PICK
+       At home, vs Unknown | also 68.0% for a point
+   9. J. Bratt (NJD vs WSH) — 35.8% chance of scoring  ✅ STRONG PICK
+       On the road, vs Unknown | also 68.0% for a point
+  10. T. Meier (NJD vs WSH) — 35.8% chance of scoring  ✅ STRONG PICK
+       On the road, vs Unknown | also 65.5% for a point
+
+──────────────────────────────────────────────────────────────────────
+📊 TOP POINT GETTER PICKS (1+ Points):
+──────────────────────────────────────────────────────────────────────
+   1. N. MacKinnon (COL vs CHI) — 86.2% chance of a point  🔥 HIGH CONFIDENCE
+       On the road, vs Unknown | goal 40.9% / assist 65.2%
+   2. J. Hughes (NJD vs WSH) — 86.2% chance of a point  🔥 HIGH CONFIDENCE
+       On the road, vs Unknown | goal 40.9% / assist 63.2%
+   3. A. Matthews (TOR vs CAR) — 72.1% chance of a point  🔥 HIGH CONFIDENCE
+       At home, vs Unknown | goal 35.8% / assist 48.8%
+   4. N. Hischier (NJD vs WSH) — 72.1% chance of a point  🔥 HIGH CONFIDENCE
+       On the road, vs Unknown | goal 39.3% / assist 48.8%
+   5. C. Keller (UTA vs ANA) — 68.0% chance of a point  🔥 HIGH CONFIDENCE
+       At home, vs Unknown | goal 35.8% / assist 52.2%
+   6. C. Makar (COL vs CHI) — 68.0% chance of a point  🔥 HIGH CONFIDENCE
+       On the road, vs Unknown | goal 21.9% / assist 60.6%
+   7. S. Morton (CGY vs FLA) — 68.0% chance of a point  🔥 HIGH CONFIDENCE
+       At home, vs Unknown | goal 40.9% / assist 60.6%
+   8. J. Bratt (NJD vs WSH) — 68.0% chance of a point  🔥 HIGH CONFIDENCE
+       On the road, vs Unknown | goal 35.8% / assist 52.2%
+   9. A. Suniev (CGY vs FLA) — 66.3% chance of a point  🔥 HIGH CONFIDENCE
+       At home, vs Unknown | goal 39.3% / assist 52.2%
+  10. W. Nylander (TOR vs CAR) — 66.3% chance of a point  🔥 HIGH CONFIDENCE
+       At home, vs Unknown | goal 34.2% / assist 48.8%
+
+──────────────────────────────────────────────────────────────────────
+🏒 TOP SHOT VOLUME PICKS (3+ Shots on Goal):
+──────────────────────────────────────────────────────────────────────
+   1. N. MacKinnon (COL vs CHI) — 78.2% chance of 3+ shots  🔥 HIGH CONFIDENCE
+       On the road | 4+ SOG: 65.9% | 5+ SOG: 47.1%
+   2. J. Hughes (NJD vs WSH) — 70.5% chance of 3+ shots  🔥 HIGH CONFIDENCE
+       On the road | 4+ SOG: 56.5% | 5+ SOG: 37.1%
+   3. A. Matthews (TOR vs CAR) — 68.1% chance of 3+ shots  🔥 HIGH CONFIDENCE
+       At home | 4+ SOG: 43.2% | 5+ SOG: 26.5%
+   4. S. Morton (CGY vs FLA) — 68.1% chance of 3+ shots  🔥 HIGH CONFIDENCE
+       At home | 4+ SOG: 42.0% | 5+ SOG: 26.5%
+   5. T. Meier (NJD vs WSH) — 64.3% chance of 3+ shots  🔥 HIGH CONFIDENCE
+       On the road | 4+ SOG: 54.8% | 5+ SOG: 31.5%
+   6. A. Suniev (CGY vs FLA) — 63.1% chance of 3+ shots  🔥 HIGH CONFIDENCE
+       At home | 4+ SOG: 38.8% | 5+ SOG: 26.5%
+   7. C. Makar (COL vs CHI) — 58.8% chance of 3+ shots  ✅ STRONG PICK
+       On the road | 4+ SOG: 39.8% | 5+ SOG: 20.6%
+   8. W. Nylander (TOR vs CAR) — 58.8% chance of 3+ shots  ✅ STRONG PICK
+       At home | 4+ SOG: 38.8% | 5+ SOG: 20.6%
+   9. J. Tavares (TOR vs CAR) — 58.8% chance of 3+ shots  ✅ STRONG PICK
+       At home | 4+ SOG: 34.9% | 5+ SOG: 18.2%
+  10. A. Ovechkin (WSH vs NJD) — 58.8% chance of 3+ shots  ✅ STRONG PICK
+       At home | 4+ SOG: 43.2% | 5+ SOG: 26.5%
+
+======================================================================
+💰 TODAY'S PICKS ABOVE THRESHOLD (THE ACTUAL PICKS TO MENTION):
+======================================================================
+
+  1+ Points  (threshold: 55%):
+    ✅ N. MacKinnon (COL vs CHI) — 86.2%
+       On the road, vs Unknown
+    ✅ J. Hughes (NJD vs WSH) — 86.2%
+       On the road, vs Unknown
+    ✅ A. Matthews (TOR vs CAR) — 72.1%
+       At home, vs Unknown
+    ✅ N. Hischier (NJD vs WSH) — 72.1%
+       On the road, vs Unknown
+    ✅ C. Keller (UTA vs ANA) — 68.0%
+       At home, vs Unknown
+    ✅ C. Makar (COL vs CHI) — 68.0%
+       On the road, vs Unknown
+    ✅ S. Morton (CGY vs FLA) — 68.0%
+       At home, vs Unknown
+    ✅ J. Bratt (NJD vs WSH) — 68.0%
+       On the road, vs Unknown
+    ✅ A. Suniev (CGY vs FLA) — 66.3%
+       At home, vs Unknown
+    ✅ W. Nylander (TOR vs CAR) — 66.3%
+       At home, vs Unknown
+    ✅ M. Tkachuk (FLA vs CGY) — 66.3%
+       On the road, vs Unknown
+    ✅ M. Marner (TOR vs CAR) — 65.6%
+       At home, vs Unknown
+    ✅ T. Meier (NJD vs WSH) — 65.5%
+       On the road, vs Unknown
+    ✅ D. Guenther (UTA vs ANA) — 61.0%
+       At home, vs Unknown
+    ✅ D. Strome (WSH vs NJD) — 59.5%
+       At home, vs Unknown
+    ✅ D. Hamilton (NJD vs WSH) — 59.5%
+       On the road, vs Unknown
+    ✅ L. Hughes (NJD vs WSH) — 59.5%
+       On the road, vs Unknown
+    ✅ J. Tavares (TOR vs CAR) — 58.1%
+       At home, vs Unknown
+    ✅ C. Verhaeghe (FLA vs CGY) — 58.1%
+       On the road, vs Unknown
+    ✅ S. Aho (CAR vs TOR) — 58.1%
+       On the road, vs Unknown
+    ✅ L. Cooley (UTA vs ANA) — 58.1%
+       At home, vs Unknown
+    ✅ A. Barkov (FLA vs CGY) — 58.1%
+       On the road, vs Unknown
+    ✅ A. Ovechkin (WSH vs NJD) — 58.1%
+       At home, vs Unknown
+    ✅ D.Misyul (NJD vs WSH) — 58.1%
+       On the road, vs Unknown
+    ✅ S. Reinhart (FLA vs CGY) — 58.1%
+       On the road, vs Unknown
+    ✅ N. Schmaltz (UTA vs ANA) — 57.8%
+       At home, vs Unknown
+    ✅ V. Nichushkin (COL vs CHI) — 56.3%
+       On the road, vs Unknown
+    ✅ H. Borgstrom (WSH vs NJD) — 56.3%
+       At home, vs Unknown
+    ✅ O. Kase (CAR vs TOR) — 56.3%
+       On the road, vs Unknown
+    ✅ M. Necas (COL vs CHI) — 56.3%
+       On the road, vs Unknown
+    ✅ N. Kadri (CGY vs FLA) — 55.0%
+       At home, vs Unknown
+    ✅ H. Brzustewicz (CGY vs FLA) — 55.0%
+       At home, vs Unknown
+    ✅ C. Bedard (CHI vs COL) — 55.0%
+       At home, vs Unknown
+    ✅ Z. Parekh (CGY vs FLA) — 55.0%
+       At home, vs Unknown
+    ✅ J. Quillan (TOR vs CAR) — 55.0%
+       At home, vs Unknown
+    ✅ T. Terry (ANA vs UTA) — 55.0%
+       On the road, vs Unknown
+
+  1+ Goals  (threshold: 28%):
+    ✅ N. MacKinnon (COL vs CHI) — 40.9%
+       On the road, vs Unknown
+    ✅ J. Hughes (NJD vs WSH) — 40.9%
+       On the road, vs Unknown
+    ✅ S. Morton (CGY vs FLA) — 40.9%
+       At home, vs Unknown
+    ✅ N. Hischier (NJD vs WSH) — 39.3%
+       On the road, vs Unknown
+    ✅ A. Suniev (CGY vs FLA) — 39.3%
+       At home, vs Unknown
+    ✅ A. Ovechkin (WSH vs NJD) — 39.1%
+       At home, vs Unknown
+    ✅ A. Matthews (TOR vs CAR) — 35.8%
+       At home, vs Unknown
+    ✅ C. Keller (UTA vs ANA) — 35.8%
+       At home, vs Unknown
+    ✅ T. Meier (NJD vs WSH) — 35.8%
+       On the road, vs Unknown
+    ✅ J. Bratt (NJD vs WSH) — 35.8%
+       On the road, vs Unknown
+    ✅ S. Reinhart (FLA vs CGY) — 35.8%
+       On the road, vs Unknown
+    ✅ W. Nylander (TOR vs CAR) — 34.2%
+       At home, vs Unknown
+    ✅ J. Tavares (TOR vs CAR) — 34.2%
+       At home, vs Unknown
+    ✅ M. Tkachuk (FLA vs CGY) — 34.2%
+       On the road, vs Unknown
+    ✅ S. Aho (CAR vs TOR) — 34.2%
+       On the road, vs Unknown
+    ✅ V. Nichushkin (COL vs CHI) — 34.2%
+       On the road, vs Unknown
+    ✅ S. Bennett (FLA vs CGY) — 34.2%
+       On the road, vs Unknown
+    ✅ N. Kadri (CGY vs FLA) — 33.9%
+       At home, vs Unknown
+    ✅ C. Verhaeghe (FLA vs CGY) — 33.9%
+       On the road, vs Unknown
+    ✅ D. Guenther (UTA vs ANA) — 31.7%
+       At home, vs Unknown
+    ✅ J. Quillan (TOR vs CAR) — 31.7%
+       At home, vs Unknown
+    ✅ O. Kase (CAR vs TOR) — 30.9%
+       On the road, vs Unknown
+    ✅ D. Strome (WSH vs NJD) — 29.8%
+       At home, vs Unknown
+    ✅ L. Cooley (UTA vs ANA) — 29.8%
+       At home, vs Unknown
+    ✅ S. Jarvis (CAR vs TOR) — 29.8%
+       On the road, vs Unknown
+    ✅ M. Necas (COL vs CHI) — 29.8%
+       On the road, vs Unknown
+    ✅ A. Svechnikov (CAR vs TOR) — 29.8%
+       On the road, vs Unknown
+    ✅ N. Schmaltz (UTA vs ANA) — 29.8%
+       At home, vs Unknown
+    ✅ B. Marchand (FLA vs CGY) — 29.8%
+       On the road, vs Unknown
+    ✅ A. Barkov (FLA vs CGY) — 28.2%
+       On the road, vs Unknown
+    ✅ C. Bedard (CHI vs COL) — 28.2%
+       At home, vs Unknown
+    ✅ H. Borgstrom (WSH vs NJD) — 28.2%
+       At home, vs Unknown
+    ✅ T. Terry (ANA vs UTA) — 28.2%
+       On the road, vs Unknown
+    ✅ M. McTavish (ANA vs UTA) — 28.2%
+       On the road, vs Unknown
+    ✅ A. Lehkonen (COL vs CHI) — 28.2%
+       On the road, vs Unknown
+    ✅ T. Wilson (WSH vs NJD) — 28.2%
+       At home, vs Unknown
+
+  1+ Assists  (threshold: 45%):
+    ✅ N. MacKinnon (COL vs CHI) — 65.2%
+       On the road, vs Unknown
+    ✅ M. Marner (TOR vs CAR) — 65.2%
+       At home, vs Unknown
+    ✅ J. Hughes (NJD vs WSH) — 63.2%
+       On the road, vs Unknown
+    ✅ C. Makar (COL vs CHI) — 60.6%
+       On the road, vs Unknown
+    ✅ S. Morton (CGY vs FLA) — 60.6%
+       At home, vs Unknown
+    ✅ J. Bratt (NJD vs WSH) — 52.2%
+       On the road, vs Unknown
+    ✅ C. Keller (UTA vs ANA) — 52.2%
+       At home, vs Unknown
+    ✅ A. Suniev (CGY vs FLA) — 52.2%
+       At home, vs Unknown
+    ✅ A. Matthews (TOR vs CAR) — 48.8%
+       At home, vs Unknown
+    ✅ N. Hischier (NJD vs WSH) — 48.8%
+       On the road, vs Unknown
+    ✅ W. Nylander (TOR vs CAR) — 48.8%
+       At home, vs Unknown
+    ✅ D.Misyul (NJD vs WSH) — 48.8%
+       On the road, vs Unknown
+    ✅ D. Hamilton (NJD vs WSH) — 45.9%
+       On the road, vs Unknown
+    ✅ L. Hughes (NJD vs WSH) — 45.9%
+       On the road, vs Unknown
+    ✅ O. Kase (CAR vs TOR) — 45.9%
+       On the road, vs Unknown
+
+  3+ Shots on Goal  (threshold: 50%):
+    ✅ N. MacKinnon (COL vs CHI) — 78.2%
+       On the road, vs Unknown
+    ✅ J. Hughes (NJD vs WSH) — 70.5%
+       On the road, vs Unknown
+    ✅ A. Matthews (TOR vs CAR) — 68.1%
+       At home, vs Unknown
+    ✅ S. Morton (CGY vs FLA) — 68.1%
+       At home, vs Unknown
+    ✅ T. Meier (NJD vs WSH) — 64.3%
+       On the road, vs Unknown
+    ✅ A. Suniev (CGY vs FLA) — 63.1%
+       At home, vs Unknown
+    ✅ W. Nylander (TOR vs CAR) — 58.8%
+       At home, vs Unknown
+    ✅ C. Makar (COL vs CHI) — 58.8%
+       On the road, vs Unknown
+    ✅ A. Ovechkin (WSH vs NJD) — 58.8%
+       At home, vs Unknown
+    ✅ J. Tavares (TOR vs CAR) — 58.8%
+       At home, vs Unknown
+    ✅ H. Brzustewicz (CGY vs FLA) — 58.8%
+       At home, vs Unknown
+    ✅ O. Kase (CAR vs TOR) — 58.8%
+       On the road, vs Unknown
+    ✅ N. Kadri (CGY vs FLA) — 58.8%
+       At home, vs Unknown
+    ✅ J. Bratt (NJD vs WSH) — 54.5%
+       On the road, vs Unknown
+    ✅ D. Hamilton (NJD vs WSH) — 54.5%
+       On the road, vs Unknown
+    ✅ C. Keller (UTA vs ANA) — 53.8%
+       At home, vs Unknown
+    ✅ D.Misyul (NJD vs WSH) — 50.5%
+       On the road, vs Unknown
+    ✅ Z. Parekh (CGY vs FLA) — 50.5%
+       At home, vs Unknown
+
+  4+ Shots on Goal  (threshold: 35%):
+    ✅ N. MacKinnon (COL vs CHI) — 65.9%
+       On the road, vs Unknown
+    ✅ J. Hughes (NJD vs WSH) — 56.5%
+       On the road, vs Unknown
+    ✅ T. Meier (NJD vs WSH) — 54.8%
+       On the road, vs Unknown
+    ✅ A. Matthews (TOR vs CAR) — 43.2%
+       At home, vs Unknown
+    ✅ A. Ovechkin (WSH vs NJD) — 43.2%
+       At home, vs Unknown
+    ✅ S. Morton (CGY vs FLA) — 42.0%
+       At home, vs Unknown
+    ✅ O. Kase (CAR vs TOR) — 41.2%
+       On the road, vs Unknown
+    ✅ C. Makar (COL vs CHI) — 39.8%
+       On the road, vs Unknown
+    ✅ H. Brzustewicz (CGY vs FLA) — 38.8%
+       At home, vs Unknown
+    ✅ A. Suniev (CGY vs FLA) — 38.8%
+       At home, vs Unknown
+    ✅ W. Nylander (TOR vs CAR) — 38.8%
+       At home, vs Unknown
+    ✅ J. Bratt (NJD vs WSH) — 37.6%
+       On the road, vs Unknown
+    ✅ D. Hamilton (NJD vs WSH) — 37.6%
+       On the road, vs Unknown
+    ✅ Z. Parekh (CGY vs FLA) — 37.6%
+       At home, vs Unknown
+
+======================================================================
+END OF BRIEF — PASTE ABOVE INTO CLAUDE TO GENERATE SCRIPT
+======================================================================

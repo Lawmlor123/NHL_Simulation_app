@@ -1,0 +1,5746 @@
+{
+  "date": "2023-11-08",
+  "season": "20232024",
+  "gameCount": 3,
+  "games": [
+    {
+      "gamePk": 2023020190,
+      "season": 20232024,
+      "gameType": 2,
+      "startTimeUTC": "2023-11-09T00:00:00Z",
+      "venue": "Scotiabank Arena",
+      "gameState": "OFF",
+      "gameScheduleState": "OK",
+      "homeTeam": {
+        "id": 10,
+        "abbrev": "TOR",
+        "name": "Toronto Maple Leafs",
+        "record": null,
+        "score": 3,
+        "roster": [
+          {
+            "playerId": 8484158,
+            "fullName": "Easton Cowan",
+            "sweaterNumber": 53,
+            "position": "R",
+            "shootsCatches": "L",
+            "heightInInches": 72,
+            "weightInPounds": 190,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8484158,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8484158.png",
+              "firstName": {
+                "default": "Easton"
+              },
+              "lastName": {
+                "default": "Cowan"
+              },
+              "sweaterNumber": 53,
+              "positionCode": "R",
+              "shootsCatches": "L",
+              "heightInInches": 72,
+              "weightInPounds": 190,
+              "heightInCentimeters": 183,
+              "weightInKilograms": 86,
+              "birthDate": "2005-05-20",
+              "birthCity": {
+                "default": "Mount Brydges"
+              },
+              "birthCountry": "CAN",
+              "birthStateProvince": {
+                "default": "ON"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8477503,
+            "fullName": "Max Domi",
+            "sweaterNumber": 11,
+            "position": "C",
+            "shootsCatches": "L",
+            "heightInInches": 70,
+            "weightInPounds": 208,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8477503,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8477503.png",
+              "firstName": {
+                "default": "Max"
+              },
+              "lastName": {
+                "default": "Domi"
+              },
+              "sweaterNumber": 11,
+              "positionCode": "C",
+              "shootsCatches": "L",
+              "heightInInches": 70,
+              "weightInPounds": 208,
+              "heightInCentimeters": 178,
+              "weightInKilograms": 94,
+              "birthDate": "1995-03-02",
+              "birthCity": {
+                "default": "Winnipeg"
+              },
+              "birthCountry": "CAN",
+              "birthStateProvince": {
+                "default": "MB"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8475714,
+            "fullName": "Calle Jarnkrok",
+            "sweaterNumber": 19,
+            "position": "C",
+            "shootsCatches": "R",
+            "heightInInches": 72,
+            "weightInPounds": 193,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8475714,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8475714.png",
+              "firstName": {
+                "default": "Calle"
+              },
+              "lastName": {
+                "default": "Jarnkrok",
+                "cs": "J\u00e4rnkrok",
+                "fi": "J\u00e4rnkrok",
+                "sk": "J\u00e4rnkrok"
+              },
+              "sweaterNumber": 19,
+              "positionCode": "C",
+              "shootsCatches": "R",
+              "heightInInches": 72,
+              "weightInPounds": 193,
+              "heightInCentimeters": 183,
+              "weightInKilograms": 88,
+              "birthDate": "1991-09-25",
+              "birthCity": {
+                "default": "Gavle"
+              },
+              "birthCountry": "SWE"
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8478057,
+            "fullName": "Dakota Joshua",
+            "sweaterNumber": 81,
+            "position": "C",
+            "shootsCatches": "L",
+            "heightInInches": 75,
+            "weightInPounds": 218,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8478057,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8478057.png",
+              "firstName": {
+                "default": "Dakota"
+              },
+              "lastName": {
+                "default": "Joshua"
+              },
+              "sweaterNumber": 81,
+              "positionCode": "C",
+              "shootsCatches": "L",
+              "heightInInches": 75,
+              "weightInPounds": 218,
+              "heightInCentimeters": 191,
+              "weightInKilograms": 99,
+              "birthDate": "1996-05-15",
+              "birthCity": {
+                "default": "Dearborn"
+              },
+              "birthCountry": "USA",
+              "birthStateProvince": {
+                "default": "MI"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8482720,
+            "fullName": "Matthew Knies",
+            "sweaterNumber": 23,
+            "position": "L",
+            "shootsCatches": "L",
+            "heightInInches": 75,
+            "weightInPounds": 232,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8482720,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8482720.png",
+              "firstName": {
+                "default": "Matthew"
+              },
+              "lastName": {
+                "default": "Knies"
+              },
+              "sweaterNumber": 23,
+              "positionCode": "L",
+              "shootsCatches": "L",
+              "heightInInches": 75,
+              "weightInPounds": 232,
+              "heightInCentimeters": 191,
+              "weightInKilograms": 105,
+              "birthDate": "2002-10-17",
+              "birthCity": {
+                "default": "Phoenix"
+              },
+              "birthCountry": "USA",
+              "birthStateProvince": {
+                "default": "AZ"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8476872,
+            "fullName": "Scott Laughton",
+            "sweaterNumber": 24,
+            "position": "C",
+            "shootsCatches": "L",
+            "heightInInches": 73,
+            "weightInPounds": 190,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8476872,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8476872.png",
+              "firstName": {
+                "default": "Scott"
+              },
+              "lastName": {
+                "default": "Laughton"
+              },
+              "sweaterNumber": 24,
+              "positionCode": "C",
+              "shootsCatches": "L",
+              "heightInInches": 73,
+              "weightInPounds": 190,
+              "heightInCentimeters": 185,
+              "weightInKilograms": 86,
+              "birthDate": "1994-05-30",
+              "birthCity": {
+                "default": "Oakville"
+              },
+              "birthCountry": "CAN",
+              "birthStateProvince": {
+                "default": "ON"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8478904,
+            "fullName": "Steven Lorentz",
+            "sweaterNumber": 18,
+            "position": "C",
+            "shootsCatches": "L",
+            "heightInInches": 76,
+            "weightInPounds": 219,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8478904,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8478904.png",
+              "firstName": {
+                "default": "Steven"
+              },
+              "lastName": {
+                "default": "Lorentz"
+              },
+              "sweaterNumber": 18,
+              "positionCode": "C",
+              "shootsCatches": "L",
+              "heightInInches": 76,
+              "weightInPounds": 219,
+              "heightInCentimeters": 193,
+              "weightInKilograms": 99,
+              "birthDate": "1996-04-13",
+              "birthCity": {
+                "default": "Kitchener"
+              },
+              "birthCountry": "CAN",
+              "birthStateProvince": {
+                "default": "ON"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8481711,
+            "fullName": "Matias Maccelli",
+            "sweaterNumber": 63,
+            "position": "L",
+            "shootsCatches": "L",
+            "heightInInches": 71,
+            "weightInPounds": 187,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8481711,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8481711.png",
+              "firstName": {
+                "default": "Matias"
+              },
+              "lastName": {
+                "default": "Maccelli"
+              },
+              "sweaterNumber": 63,
+              "positionCode": "L",
+              "shootsCatches": "L",
+              "heightInInches": 71,
+              "weightInPounds": 187,
+              "heightInCentimeters": 180,
+              "weightInKilograms": 85,
+              "birthDate": "2000-10-14",
+              "birthCity": {
+                "default": "Turku",
+                "sv": "\u00c5bo"
+              },
+              "birthCountry": "FIN"
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8479318,
+            "fullName": "Auston Matthews",
+            "sweaterNumber": 34,
+            "position": "C",
+            "shootsCatches": "L",
+            "heightInInches": 75,
+            "weightInPounds": 215,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8479318,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8479318.png",
+              "firstName": {
+                "default": "Auston"
+              },
+              "lastName": {
+                "default": "Matthews"
+              },
+              "sweaterNumber": 34,
+              "positionCode": "C",
+              "shootsCatches": "L",
+              "heightInInches": 75,
+              "weightInPounds": 215,
+              "heightInCentimeters": 191,
+              "weightInKilograms": 98,
+              "birthDate": "1997-09-17",
+              "birthCity": {
+                "default": "San Ramon"
+              },
+              "birthCountry": "USA",
+              "birthStateProvince": {
+                "default": "CA"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8482259,
+            "fullName": "Bobby McMann",
+            "sweaterNumber": 74,
+            "position": "C",
+            "shootsCatches": "L",
+            "heightInInches": 74,
+            "weightInPounds": 217,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8482259,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8482259.png",
+              "firstName": {
+                "default": "Bobby"
+              },
+              "lastName": {
+                "default": "McMann"
+              },
+              "sweaterNumber": 74,
+              "positionCode": "C",
+              "shootsCatches": "L",
+              "heightInInches": 74,
+              "weightInPounds": 217,
+              "heightInCentimeters": 188,
+              "weightInKilograms": 98,
+              "birthDate": "1996-06-15",
+              "birthCity": {
+                "default": "Wainwright"
+              },
+              "birthCountry": "CAN",
+              "birthStateProvince": {
+                "default": "AB"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8477939,
+            "fullName": "William Nylander",
+            "sweaterNumber": 88,
+            "position": "R",
+            "shootsCatches": "R",
+            "heightInInches": 72,
+            "weightInPounds": 200,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8477939,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8477939.png",
+              "firstName": {
+                "default": "William"
+              },
+              "lastName": {
+                "default": "Nylander"
+              },
+              "sweaterNumber": 88,
+              "positionCode": "R",
+              "shootsCatches": "R",
+              "heightInInches": 72,
+              "weightInPounds": 200,
+              "heightInCentimeters": 183,
+              "weightInKilograms": 91,
+              "birthDate": "1996-05-01",
+              "birthCity": {
+                "default": "Calgary"
+              },
+              "birthCountry": "CAN",
+              "birthStateProvince": {
+                "default": "AB"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8481582,
+            "fullName": "Nicholas Robertson",
+            "sweaterNumber": 89,
+            "position": "L",
+            "shootsCatches": "L",
+            "heightInInches": 69,
+            "weightInPounds": 180,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8481582,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8481582.png",
+              "firstName": {
+                "default": "Nicholas"
+              },
+              "lastName": {
+                "default": "Robertson"
+              },
+              "sweaterNumber": 89,
+              "positionCode": "L",
+              "shootsCatches": "L",
+              "heightInInches": 69,
+              "weightInPounds": 180,
+              "heightInCentimeters": 175,
+              "weightInKilograms": 82,
+              "birthDate": "2001-09-11",
+              "birthCity": {
+                "default": "Pasadena"
+              },
+              "birthCountry": "USA",
+              "birthStateProvince": {
+                "default": "CA"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8478462,
+            "fullName": "Nicolas Roy",
+            "sweaterNumber": 55,
+            "position": "C",
+            "shootsCatches": "R",
+            "heightInInches": 76,
+            "weightInPounds": 200,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8478462,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8478462.png",
+              "firstName": {
+                "default": "Nicolas"
+              },
+              "lastName": {
+                "default": "Roy"
+              },
+              "sweaterNumber": 55,
+              "positionCode": "C",
+              "shootsCatches": "R",
+              "heightInInches": 76,
+              "weightInPounds": 200,
+              "heightInCentimeters": 193,
+              "weightInKilograms": 91,
+              "birthDate": "1997-02-05",
+              "birthCity": {
+                "default": "Amos"
+              },
+              "birthCountry": "CAN",
+              "birthStateProvince": {
+                "default": "QC"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8475166,
+            "fullName": "John Tavares",
+            "sweaterNumber": 91,
+            "position": "C",
+            "shootsCatches": "L",
+            "heightInInches": 73,
+            "weightInPounds": 217,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8475166,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8475166.png",
+              "firstName": {
+                "default": "John"
+              },
+              "lastName": {
+                "default": "Tavares"
+              },
+              "sweaterNumber": 91,
+              "positionCode": "C",
+              "shootsCatches": "L",
+              "heightInInches": 73,
+              "weightInPounds": 217,
+              "heightInCentimeters": 185,
+              "weightInKilograms": 98,
+              "birthDate": "1990-09-20",
+              "birthCity": {
+                "default": "Mississauga"
+              },
+              "birthCountry": "CAN",
+              "birthStateProvince": {
+                "default": "ON"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8481122,
+            "fullName": "Simon Benoit",
+            "sweaterNumber": 2,
+            "position": "D",
+            "shootsCatches": "L",
+            "heightInInches": 76,
+            "weightInPounds": 210,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8481122,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8481122.png",
+              "firstName": {
+                "default": "Simon"
+              },
+              "lastName": {
+                "default": "Benoit"
+              },
+              "sweaterNumber": 2,
+              "positionCode": "D",
+              "shootsCatches": "L",
+              "heightInInches": 76,
+              "weightInPounds": 210,
+              "heightInCentimeters": 193,
+              "weightInKilograms": 95,
+              "birthDate": "1998-09-19",
+              "birthCity": {
+                "default": "Laval"
+              },
+              "birthCountry": "CAN",
+              "birthStateProvince": {
+                "default": "QC"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8478443,
+            "fullName": "Brandon Carlo",
+            "sweaterNumber": 25,
+            "position": "D",
+            "shootsCatches": "R",
+            "heightInInches": 77,
+            "weightInPounds": 227,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8478443,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8478443.png",
+              "firstName": {
+                "default": "Brandon"
+              },
+              "lastName": {
+                "default": "Carlo"
+              },
+              "sweaterNumber": 25,
+              "positionCode": "D",
+              "shootsCatches": "R",
+              "heightInInches": 77,
+              "weightInPounds": 227,
+              "heightInCentimeters": 196,
+              "weightInKilograms": 103,
+              "birthDate": "1996-11-26",
+              "birthCity": {
+                "default": "Colorado Springs"
+              },
+              "birthCountry": "USA",
+              "birthStateProvince": {
+                "default": "CO"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8475171,
+            "fullName": "Oliver Ekman-Larsson",
+            "sweaterNumber": 95,
+            "position": "D",
+            "shootsCatches": "L",
+            "heightInInches": 74,
+            "weightInPounds": 190,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8475171,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8475171.png",
+              "firstName": {
+                "default": "Oliver"
+              },
+              "lastName": {
+                "default": "Ekman-Larsson"
+              },
+              "sweaterNumber": 95,
+              "positionCode": "D",
+              "shootsCatches": "L",
+              "heightInInches": 74,
+              "weightInPounds": 190,
+              "heightInCentimeters": 188,
+              "weightInKilograms": 86,
+              "birthDate": "1991-07-17",
+              "birthCity": {
+                "default": "Karlskrona"
+              },
+              "birthCountry": "SWE"
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8476931,
+            "fullName": "Jake McCabe",
+            "sweaterNumber": 22,
+            "position": "D",
+            "shootsCatches": "L",
+            "heightInInches": 73,
+            "weightInPounds": 210,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8476931,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8476931.png",
+              "firstName": {
+                "default": "Jake"
+              },
+              "lastName": {
+                "default": "McCabe"
+              },
+              "sweaterNumber": 22,
+              "positionCode": "D",
+              "shootsCatches": "L",
+              "heightInInches": 73,
+              "weightInPounds": 210,
+              "heightInCentimeters": 185,
+              "weightInKilograms": 95,
+              "birthDate": "1993-10-12",
+              "birthCity": {
+                "default": "Eau Claire"
+              },
+              "birthCountry": "USA",
+              "birthStateProvince": {
+                "default": "WI"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8479026,
+            "fullName": "Philippe Myers",
+            "sweaterNumber": 51,
+            "position": "D",
+            "shootsCatches": "R",
+            "heightInInches": 77,
+            "weightInPounds": 221,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8479026,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8479026.png",
+              "firstName": {
+                "default": "Philippe"
+              },
+              "lastName": {
+                "default": "Myers"
+              },
+              "sweaterNumber": 51,
+              "positionCode": "D",
+              "shootsCatches": "R",
+              "heightInInches": 77,
+              "weightInPounds": 221,
+              "heightInCentimeters": 196,
+              "weightInKilograms": 100,
+              "birthDate": "1997-01-25",
+              "birthCity": {
+                "default": "Moncton"
+              },
+              "birthCountry": "CAN",
+              "birthStateProvince": {
+                "default": "NB"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8476853,
+            "fullName": "Morgan Rielly",
+            "sweaterNumber": 44,
+            "position": "D",
+            "shootsCatches": "L",
+            "heightInInches": 73,
+            "weightInPounds": 219,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8476853,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8476853.png",
+              "firstName": {
+                "default": "Morgan"
+              },
+              "lastName": {
+                "default": "Rielly"
+              },
+              "sweaterNumber": 44,
+              "positionCode": "D",
+              "shootsCatches": "L",
+              "heightInInches": 73,
+              "weightInPounds": 219,
+              "heightInCentimeters": 185,
+              "weightInKilograms": 99,
+              "birthDate": "1994-03-09",
+              "birthCity": {
+                "default": "Vancouver"
+              },
+              "birthCountry": "CAN",
+              "birthStateProvince": {
+                "default": "BC"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8479442,
+            "fullName": "Troy Stecher",
+            "sweaterNumber": 28,
+            "position": "D",
+            "shootsCatches": "R",
+            "heightInInches": 70,
+            "weightInPounds": 184,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8479442,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8479442.png",
+              "firstName": {
+                "default": "Troy"
+              },
+              "lastName": {
+                "default": "Stecher"
+              },
+              "sweaterNumber": 28,
+              "positionCode": "D",
+              "shootsCatches": "R",
+              "heightInInches": 70,
+              "weightInPounds": 184,
+              "heightInCentimeters": 178,
+              "weightInKilograms": 83,
+              "birthDate": "1994-04-07",
+              "birthCity": {
+                "default": "Richmond"
+              },
+              "birthCountry": "CAN",
+              "birthStateProvince": {
+                "default": "BC"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8475690,
+            "fullName": "Chris Tanev",
+            "sweaterNumber": 8,
+            "position": "D",
+            "shootsCatches": "R",
+            "heightInInches": 75,
+            "weightInPounds": 200,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8475690,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8475690.png",
+              "firstName": {
+                "default": "Chris",
+                "cs": "Christopher",
+                "de": "Christopher",
+                "es": "Christopher",
+                "fi": "Christopher",
+                "sk": "Christopher",
+                "sv": "Christopher"
+              },
+              "lastName": {
+                "default": "Tanev"
+              },
+              "sweaterNumber": 8,
+              "positionCode": "D",
+              "shootsCatches": "R",
+              "heightInInches": 75,
+              "weightInPounds": 200,
+              "heightInCentimeters": 191,
+              "weightInKilograms": 91,
+              "birthDate": "1989-12-20",
+              "birthCity": {
+                "default": "Toronto"
+              },
+              "birthCountry": "CAN",
+              "birthStateProvince": {
+                "default": "ON"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8476932,
+            "fullName": "Anthony Stolarz",
+            "sweaterNumber": 41,
+            "position": "G",
+            "shootsCatches": "L",
+            "heightInInches": 78,
+            "weightInPounds": 248,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8476932,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8476932.png",
+              "firstName": {
+                "default": "Anthony"
+              },
+              "lastName": {
+                "default": "Stolarz"
+              },
+              "sweaterNumber": 41,
+              "positionCode": "G",
+              "shootsCatches": "L",
+              "heightInInches": 78,
+              "weightInPounds": 248,
+              "heightInCentimeters": 198,
+              "weightInKilograms": 112,
+              "birthDate": "1994-01-20",
+              "birthCity": {
+                "default": "Edison"
+              },
+              "birthCountry": "USA",
+              "birthStateProvince": {
+                "default": "NJ"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8479361,
+            "fullName": "Joseph Woll",
+            "sweaterNumber": 60,
+            "position": "G",
+            "shootsCatches": "L",
+            "heightInInches": 75,
+            "weightInPounds": 212,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8479361,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/TOR/8479361.png",
+              "firstName": {
+                "default": "Joseph"
+              },
+              "lastName": {
+                "default": "Woll"
+              },
+              "sweaterNumber": 60,
+              "positionCode": "G",
+              "shootsCatches": "L",
+              "heightInInches": 75,
+              "weightInPounds": 212,
+              "heightInCentimeters": 191,
+              "weightInKilograms": 96,
+              "birthDate": "1998-07-12",
+              "birthCity": {
+                "default": "Dardenne Prairie"
+              },
+              "birthCountry": "USA",
+              "birthStateProvince": {
+                "default": "MO"
+              }
+            },
+            "seasonStats": null
+          }
+        ]
+      },
+      "awayTeam": {
+        "id": 9,
+        "abbrev": "OTT",
+        "name": "Ottawa Senators",
+        "record": null,
+        "score": 6,
+        "roster": [
+          {
+            "playerId": 8478020,
+            "fullName": "Michael Amadio",
+            "sweaterNumber": 22,
+            "position": "R",
+            "shootsCatches": "R",
+            "heightInInches": 73,
+            "weightInPounds": 206,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8478020,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/OTT/8478020.png",
+              "firstName": {
+                "default": "Michael"
+              },
+              "lastName": {
+                "default": "Amadio"
+              },
+              "sweaterNumber": 22,
+              "positionCode": "R",
+              "shootsCatches": "R",
+              "heightInInches": 73,
+              "weightInPounds": 206,
+              "heightInCentimeters": 185,
+              "weightInKilograms": 93,
+              "birthDate": "1996-05-13",
+              "birthCity": {
+                "default": "Sault Ste. Marie",
+                "fr": "Sault-Sainte-Marie"
+              },
+              "birthCountry": "CAN",
+              "birthStateProvince": {
+                "default": "ON"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8480208,
+            "fullName": "Drake Batherson",
+            "sweaterNumber": 19,
+            "position": "R",
+            "shootsCatches": "R",
+            "heightInInches": 75,
+            "weightInPounds": 209,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8480208,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/OTT/8480208.png",
+              "firstName": {
+                "default": "Drake"
+              },
+              "lastName": {
+                "default": "Batherson"
+              },
+              "sweaterNumber": 19,
+              "positionCode": "R",
+              "shootsCatches": "R",
+              "heightInInches": 75,
+              "weightInPounds": 209,
+              "heightInCentimeters": 191,
+              "weightInKilograms": 95,
+              "birthDate": "1998-04-27",
+              "birthCity": {
+                "default": "Fort Wayne"
+              },
+              "birthCountry": "USA",
+              "birthStateProvince": {
+                "default": "IN"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8476393,
+            "fullName": "Nick Cousins",
+            "sweaterNumber": 21,
+            "position": "C",
+            "shootsCatches": "L",
+            "heightInInches": 71,
+            "weightInPounds": 191,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8476393,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/OTT/8476393.png",
+              "firstName": {
+                "default": "Nick"
+              },
+              "lastName": {
+                "default": "Cousins"
+              },
+              "sweaterNumber": 21,
+              "positionCode": "C",
+              "shootsCatches": "L",
+              "heightInInches": 71,
+              "weightInPounds": 191,
+              "heightInCentimeters": 180,
+              "weightInKilograms": 87,
+              "birthDate": "1993-07-20",
+              "birthCity": {
+                "default": "Belleville"
+              },
+              "birthCountry": "CAN",
+              "birthStateProvince": {
+                "default": "ON"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8481528,
+            "fullName": "Dylan Cozens",
+            "sweaterNumber": 24,
+            "position": "C",
+            "shootsCatches": "R",
+            "heightInInches": 75,
+            "weightInPounds": 205,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8481528,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/OTT/8481528.png",
+              "firstName": {
+                "default": "Dylan"
+              },
+              "lastName": {
+                "default": "Cozens"
+              },
+              "sweaterNumber": 24,
+              "positionCode": "C",
+              "shootsCatches": "R",
+              "heightInInches": 75,
+              "weightInPounds": 205,
+              "heightInCentimeters": 191,
+              "weightInKilograms": 93,
+              "birthDate": "2001-02-09",
+              "birthCity": {
+                "default": "Whitehorse"
+              },
+              "birthCountry": "CAN",
+              "birthStateProvince": {
+                "default": "YT"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8474189,
+            "fullName": "Lars Eller",
+            "sweaterNumber": 89,
+            "position": "C",
+            "shootsCatches": "L",
+            "heightInInches": 74,
+            "weightInPounds": 207,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8474189,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/OTT/8474189.png",
+              "firstName": {
+                "default": "Lars"
+              },
+              "lastName": {
+                "default": "Eller"
+              },
+              "sweaterNumber": 89,
+              "positionCode": "C",
+              "shootsCatches": "L",
+              "heightInInches": 74,
+              "weightInPounds": 207,
+              "heightInCentimeters": 188,
+              "weightInKilograms": 94,
+              "birthDate": "1989-05-08",
+              "birthCity": {
+                "default": "Rodovre",
+                "fi": "R\u00f8dovre",
+                "sv": "R\u00f8dovre"
+              },
+              "birthCountry": "DNK"
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8473512,
+            "fullName": "Claude Giroux",
+            "sweaterNumber": 28,
+            "position": "R",
+            "shootsCatches": "R",
+            "heightInInches": 71,
+            "weightInPounds": 186,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8473512,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/OTT/8473512.png",
+              "firstName": {
+                "default": "Claude"
+              },
+              "lastName": {
+                "default": "Giroux"
+              },
+              "sweaterNumber": 28,
+              "positionCode": "R",
+              "shootsCatches": "R",
+              "heightInInches": 71,
+              "weightInPounds": 186,
+              "heightInCentimeters": 180,
+              "weightInKilograms": 84,
+              "birthDate": "1988-01-12",
+              "birthCity": {
+                "default": "Hearst"
+              },
+              "birthCountry": "CAN",
+              "birthStateProvince": {
+                "default": "ON"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8482092,
+            "fullName": "Ridly Greig",
+            "sweaterNumber": 71,
+            "position": "C",
+            "shootsCatches": "L",
+            "heightInInches": 72,
+            "weightInPounds": 184,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8482092,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/OTT/8482092.png",
+              "firstName": {
+                "default": "Ridly"
+              },
+              "lastName": {
+                "default": "Greig"
+              },
+              "sweaterNumber": 71,
+              "positionCode": "C",
+              "shootsCatches": "L",
+              "heightInInches": 72,
+              "weightInPounds": 184,
+              "heightInCentimeters": 183,
+              "weightInKilograms": 83,
+              "birthDate": "2002-08-08",
+              "birthCity": {
+                "default": "Lethbridge"
+              },
+              "birthCountry": "CAN",
+              "birthStateProvince": {
+                "default": "AB"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8477073,
+            "fullName": "Kurtis MacDermid",
+            "sweaterNumber": 23,
+            "position": "L",
+            "shootsCatches": "L",
+            "heightInInches": 77,
+            "weightInPounds": 233,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8477073,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/OTT/8477073.png",
+              "firstName": {
+                "default": "Kurtis"
+              },
+              "lastName": {
+                "default": "MacDermid"
+              },
+              "sweaterNumber": 23,
+              "positionCode": "L",
+              "shootsCatches": "L",
+              "heightInInches": 77,
+              "weightInPounds": 233,
+              "heightInCentimeters": 196,
+              "weightInKilograms": 106,
+              "birthDate": "1994-03-25",
+              "birthCity": {
+                "default": "Quebec City",
+                "fr": "Qu\u00e9bec"
+              },
+              "birthCountry": "CAN",
+              "birthStateProvince": {
+                "default": "QC"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8474102,
+            "fullName": "David Perron",
+            "sweaterNumber": 57,
+            "position": "L",
+            "shootsCatches": "R",
+            "heightInInches": 72,
+            "weightInPounds": 202,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8474102,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/OTT/8474102.png",
+              "firstName": {
+                "default": "David"
+              },
+              "lastName": {
+                "default": "Perron"
+              },
+              "sweaterNumber": 57,
+              "positionCode": "L",
+              "shootsCatches": "R",
+              "heightInInches": 72,
+              "weightInPounds": 202,
+              "heightInCentimeters": 183,
+              "weightInKilograms": 92,
+              "birthDate": "1988-05-28",
+              "birthCity": {
+                "default": "Sherbrooke"
+              },
+              "birthCountry": "CAN",
+              "birthStateProvince": {
+                "default": "QC"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8481596,
+            "fullName": "Shane Pinto",
+            "sweaterNumber": 12,
+            "position": "C",
+            "shootsCatches": "R",
+            "heightInInches": 75,
+            "weightInPounds": 206,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8481596,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/OTT/8481596.png",
+              "firstName": {
+                "default": "Shane"
+              },
+              "lastName": {
+                "default": "Pinto"
+              },
+              "sweaterNumber": 12,
+              "positionCode": "C",
+              "shootsCatches": "R",
+              "heightInInches": 75,
+              "weightInPounds": 206,
+              "heightInCentimeters": 191,
+              "weightInKilograms": 93,
+              "birthDate": "2000-11-12",
+              "birthCity": {
+                "default": "Franklin Square"
+              },
+              "birthCountry": "USA",
+              "birthStateProvince": {
+                "default": "NY"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8482116,
+            "fullName": "Tim St\u00fctzle",
+            "sweaterNumber": 18,
+            "position": "C",
+            "shootsCatches": "L",
+            "heightInInches": 72,
+            "weightInPounds": 187,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8482116,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/OTT/8482116.png",
+              "firstName": {
+                "default": "Tim"
+              },
+              "lastName": {
+                "default": "St\u00fctzle"
+              },
+              "sweaterNumber": 18,
+              "positionCode": "C",
+              "shootsCatches": "L",
+              "heightInInches": 72,
+              "weightInPounds": 187,
+              "heightInCentimeters": 183,
+              "weightInKilograms": 85,
+              "birthDate": "2002-01-15",
+              "birthCity": {
+                "default": "Viersen"
+              },
+              "birthCountry": "DEU"
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8480801,
+            "fullName": "Brady Tkachuk",
+            "sweaterNumber": 7,
+            "position": "L",
+            "shootsCatches": "L",
+            "heightInInches": 76,
+            "weightInPounds": 226,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8480801,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/OTT/8480801.png",
+              "firstName": {
+                "default": "Brady"
+              },
+              "lastName": {
+                "default": "Tkachuk"
+              },
+              "sweaterNumber": 7,
+              "positionCode": "L",
+              "shootsCatches": "L",
+              "heightInInches": 76,
+              "weightInPounds": 226,
+              "heightInCentimeters": 193,
+              "weightInKilograms": 103,
+              "birthDate": "1999-09-16",
+              "birthCity": {
+                "default": "Scottsdale"
+              },
+              "birthCountry": "USA",
+              "birthStateProvince": {
+                "default": "AZ"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8480188,
+            "fullName": "Fabian Zetterlund",
+            "sweaterNumber": 20,
+            "position": "L",
+            "shootsCatches": "R",
+            "heightInInches": 71,
+            "weightInPounds": 208,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8480188,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/OTT/8480188.png",
+              "firstName": {
+                "default": "Fabian"
+              },
+              "lastName": {
+                "default": "Zetterlund"
+              },
+              "sweaterNumber": 20,
+              "positionCode": "L",
+              "shootsCatches": "R",
+              "heightInInches": 71,
+              "weightInPounds": 208,
+              "heightInCentimeters": 180,
+              "weightInKilograms": 94,
+              "birthDate": "1999-08-25",
+              "birthCity": {
+                "default": "Karlstad"
+              },
+              "birthCountry": "SWE"
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8478469,
+            "fullName": "Thomas Chabot",
+            "sweaterNumber": 72,
+            "position": "D",
+            "shootsCatches": "L",
+            "heightInInches": 73,
+            "weightInPounds": 200,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8478469,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/OTT/8478469.png",
+              "firstName": {
+                "default": "Thomas"
+              },
+              "lastName": {
+                "default": "Chabot"
+              },
+              "sweaterNumber": 72,
+              "positionCode": "D",
+              "shootsCatches": "L",
+              "heightInInches": 73,
+              "weightInPounds": 200,
+              "heightInCentimeters": 185,
+              "weightInKilograms": 91,
+              "birthDate": "1997-01-30",
+              "birthCity": {
+                "default": "Sainte-Marie"
+              },
+              "birthCountry": "CAN",
+              "birthStateProvince": {
+                "default": "QC"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8475324,
+            "fullName": "Nick Jensen",
+            "sweaterNumber": 3,
+            "position": "D",
+            "shootsCatches": "R",
+            "heightInInches": 72,
+            "weightInPounds": 202,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8475324,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/OTT/8475324.png",
+              "firstName": {
+                "default": "Nick"
+              },
+              "lastName": {
+                "default": "Jensen"
+              },
+              "sweaterNumber": 3,
+              "positionCode": "D",
+              "shootsCatches": "R",
+              "heightInInches": 72,
+              "weightInPounds": 202,
+              "heightInCentimeters": 183,
+              "weightInKilograms": 92,
+              "birthDate": "1990-09-21",
+              "birthCity": {
+                "default": "Rogers"
+              },
+              "birthCountry": "USA",
+              "birthStateProvince": {
+                "default": "MN"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8482095,
+            "fullName": "Tyler Kleven",
+            "sweaterNumber": 43,
+            "position": "D",
+            "shootsCatches": "L",
+            "heightInInches": 77,
+            "weightInPounds": 225,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8482095,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/OTT/8482095.png",
+              "firstName": {
+                "default": "Tyler"
+              },
+              "lastName": {
+                "default": "Kleven"
+              },
+              "sweaterNumber": 43,
+              "positionCode": "D",
+              "shootsCatches": "L",
+              "heightInInches": 77,
+              "weightInPounds": 225,
+              "heightInCentimeters": 196,
+              "weightInKilograms": 102,
+              "birthDate": "2002-01-10",
+              "birthCity": {
+                "default": "Fargo"
+              },
+              "birthCountry": "USA",
+              "birthStateProvince": {
+                "default": "ND"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8484321,
+            "fullName": "Nikolas Matinpalo",
+            "sweaterNumber": 33,
+            "position": "D",
+            "shootsCatches": "R",
+            "heightInInches": 75,
+            "weightInPounds": 213,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8484321,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/OTT/8484321.png",
+              "firstName": {
+                "default": "Nikolas"
+              },
+              "lastName": {
+                "default": "Matinpalo"
+              },
+              "sweaterNumber": 33,
+              "positionCode": "D",
+              "shootsCatches": "R",
+              "heightInInches": 75,
+              "weightInPounds": 213,
+              "heightInCentimeters": 191,
+              "weightInKilograms": 97,
+              "birthDate": "1998-10-05",
+              "birthCity": {
+                "default": "Espoo",
+                "sv": "Esbo"
+              },
+              "birthCountry": "FIN"
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8482105,
+            "fullName": "Jake Sanderson",
+            "sweaterNumber": 85,
+            "position": "D",
+            "shootsCatches": "L",
+            "heightInInches": 74,
+            "weightInPounds": 202,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8482105,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/OTT/8482105.png",
+              "firstName": {
+                "default": "Jake"
+              },
+              "lastName": {
+                "default": "Sanderson"
+              },
+              "sweaterNumber": 85,
+              "positionCode": "D",
+              "shootsCatches": "L",
+              "heightInInches": 74,
+              "weightInPounds": 202,
+              "heightInCentimeters": 188,
+              "weightInKilograms": 92,
+              "birthDate": "2002-07-08",
+              "birthCity": {
+                "default": "Whitefish"
+              },
+              "birthCountry": "USA",
+              "birthStateProvince": {
+                "default": "MT"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8481606,
+            "fullName": "Jordan Spence",
+            "sweaterNumber": 10,
+            "position": "D",
+            "shootsCatches": "R",
+            "heightInInches": 71,
+            "weightInPounds": 188,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8481606,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/OTT/8481606.png",
+              "firstName": {
+                "default": "Jordan"
+              },
+              "lastName": {
+                "default": "Spence"
+              },
+              "sweaterNumber": 10,
+              "positionCode": "D",
+              "shootsCatches": "R",
+              "heightInInches": 71,
+              "weightInPounds": 188,
+              "heightInCentimeters": 180,
+              "weightInKilograms": 85,
+              "birthDate": "2001-02-24",
+              "birthCity": {
+                "default": "Manly"
+              },
+              "birthCountry": "AUS"
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8482245,
+            "fullName": "Artem Zub",
+            "sweaterNumber": 2,
+            "position": "D",
+            "shootsCatches": "R",
+            "heightInInches": 75,
+            "weightInPounds": 201,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8482245,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/OTT/8482245.png",
+              "firstName": {
+                "default": "Artem",
+                "cs": "Ar\u0165om",
+                "fi": "Artjom",
+                "sk": "Ar\u0165om"
+              },
+              "lastName": {
+                "default": "Zub"
+              },
+              "sweaterNumber": 2,
+              "positionCode": "D",
+              "shootsCatches": "R",
+              "heightInInches": 75,
+              "weightInPounds": 201,
+              "heightInCentimeters": 191,
+              "weightInKilograms": 91,
+              "birthDate": "1995-10-03",
+              "birthCity": {
+                "default": "Khabarovsk",
+                "cs": "Chabarovsk",
+                "fi": "Habarovsk",
+                "sk": "Chabarovsk"
+              },
+              "birthCountry": "RUS"
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8473503,
+            "fullName": "James Reimer",
+            "sweaterNumber": 47,
+            "position": "G",
+            "shootsCatches": "L",
+            "heightInInches": 74,
+            "weightInPounds": 200,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8473503,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/OTT/8473503.png",
+              "firstName": {
+                "default": "James"
+              },
+              "lastName": {
+                "default": "Reimer"
+              },
+              "sweaterNumber": 47,
+              "positionCode": "G",
+              "shootsCatches": "L",
+              "heightInInches": 74,
+              "weightInPounds": 200,
+              "heightInCentimeters": 188,
+              "weightInKilograms": 91,
+              "birthDate": "1988-03-15",
+              "birthCity": {
+                "default": "Morweena"
+              },
+              "birthCountry": "CAN",
+              "birthStateProvince": {
+                "default": "MB"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8476999,
+            "fullName": "Linus Ullmark",
+            "sweaterNumber": 35,
+            "position": "G",
+            "shootsCatches": "L",
+            "heightInInches": 76,
+            "weightInPounds": 223,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8476999,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/OTT/8476999.png",
+              "firstName": {
+                "default": "Linus"
+              },
+              "lastName": {
+                "default": "Ullmark"
+              },
+              "sweaterNumber": 35,
+              "positionCode": "G",
+              "shootsCatches": "L",
+              "heightInInches": 76,
+              "weightInPounds": 223,
+              "heightInCentimeters": 193,
+              "weightInKilograms": 101,
+              "birthDate": "1993-07-31",
+              "birthCity": {
+                "default": "Lugnvik"
+              },
+              "birthCountry": "SWE"
+            },
+            "seasonStats": null
+          }
+        ]
+      }
+    },
+    {
+      "gamePk": 2023020191,
+      "season": 20232024,
+      "gameType": 2,
+      "startTimeUTC": "2023-11-09T00:30:00Z",
+      "venue": "Capital One Arena",
+      "gameState": "OFF",
+      "gameScheduleState": "OK",
+      "homeTeam": {
+        "id": 15,
+        "abbrev": "WSH",
+        "name": "Washington Capitals",
+        "record": null,
+        "score": 3,
+        "roster": [
+          {
+            "playerId": 8478463,
+            "fullName": "Anthony Beauvillier",
+            "sweaterNumber": 72,
+            "position": "L",
+            "shootsCatches": "L",
+            "heightInInches": 71,
+            "weightInPounds": 181,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8478463,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/WSH/8478463.png",
+              "firstName": {
+                "default": "Anthony"
+              },
+              "lastName": {
+                "default": "Beauvillier"
+              },
+              "sweaterNumber": 72,
+              "positionCode": "L",
+              "shootsCatches": "L",
+              "heightInInches": 71,
+              "weightInPounds": 181,
+              "heightInCentimeters": 180,
+              "weightInKilograms": 82,
+              "birthDate": "1997-06-08",
+              "birthCity": {
+                "default": "Sorel-Tracy"
+              },
+              "birthCountry": "CAN",
+              "birthStateProvince": {
+                "default": "QC"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8475343,
+            "fullName": "Nic Dowd",
+            "sweaterNumber": 26,
+            "position": "C",
+            "shootsCatches": "R",
+            "heightInInches": 74,
+            "weightInPounds": 195,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8475343,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/WSH/8475343.png",
+              "firstName": {
+                "default": "Nic"
+              },
+              "lastName": {
+                "default": "Dowd"
+              },
+              "sweaterNumber": 26,
+              "positionCode": "C",
+              "shootsCatches": "R",
+              "heightInInches": 74,
+              "weightInPounds": 195,
+              "heightInCentimeters": 188,
+              "weightInKilograms": 88,
+              "birthDate": "1990-05-27",
+              "birthCity": {
+                "default": "Huntsville"
+              },
+              "birthCountry": "USA",
+              "birthStateProvince": {
+                "default": "AL"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8479400,
+            "fullName": "Pierre-Luc Dubois",
+            "sweaterNumber": 80,
+            "position": "L",
+            "shootsCatches": "L",
+            "heightInInches": 76,
+            "weightInPounds": 220,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8479400,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/WSH/8479400.png",
+              "firstName": {
+                "default": "Pierre-Luc"
+              },
+              "lastName": {
+                "default": "Dubois"
+              },
+              "sweaterNumber": 80,
+              "positionCode": "L",
+              "shootsCatches": "L",
+              "heightInInches": 76,
+              "weightInPounds": 220,
+              "heightInCentimeters": 193,
+              "weightInKilograms": 100,
+              "birthDate": "1998-06-24",
+              "birthCity": {
+                "default": "Ste-Agathe-des-Monts"
+              },
+              "birthCountry": "CAN",
+              "birthStateProvince": {
+                "default": "QC"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8479520,
+            "fullName": "Brandon Duhaime",
+            "sweaterNumber": 22,
+            "position": "R",
+            "shootsCatches": "L",
+            "heightInInches": 74,
+            "weightInPounds": 210,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8479520,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/WSH/8479520.png",
+              "firstName": {
+                "default": "Brandon"
+              },
+              "lastName": {
+                "default": "Duhaime"
+              },
+              "sweaterNumber": 22,
+              "positionCode": "R",
+              "shootsCatches": "L",
+              "heightInInches": 74,
+              "weightInPounds": 210,
+              "heightInCentimeters": 188,
+              "weightInKilograms": 95,
+              "birthDate": "1997-05-22",
+              "birthCity": {
+                "default": "Coral Springs"
+              },
+              "birthCountry": "USA",
+              "birthStateProvince": {
+                "default": "FL"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8483573,
+            "fullName": "Ethen Frank",
+            "sweaterNumber": 53,
+            "position": "C",
+            "shootsCatches": "R",
+            "heightInInches": 71,
+            "weightInPounds": 188,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8483573,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/WSH/8483573.png",
+              "firstName": {
+                "default": "Ethen"
+              },
+              "lastName": {
+                "default": "Frank"
+              },
+              "sweaterNumber": 53,
+              "positionCode": "C",
+              "shootsCatches": "R",
+              "heightInInches": 71,
+              "weightInPounds": 188,
+              "heightInCentimeters": 180,
+              "weightInKilograms": 85,
+              "birthDate": "1998-02-05",
+              "birthCity": {
+                "default": "Aurora"
+              },
+              "birthCountry": "USA",
+              "birthStateProvince": {
+                "default": "CO"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8482148,
+            "fullName": "Hendrix Lapierre",
+            "sweaterNumber": 29,
+            "position": "C",
+            "shootsCatches": "L",
+            "heightInInches": 72,
+            "weightInPounds": 195,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8482148,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/WSH/8482148.png",
+              "firstName": {
+                "default": "Hendrix"
+              },
+              "lastName": {
+                "default": "Lapierre"
+              },
+              "sweaterNumber": 29,
+              "positionCode": "C",
+              "shootsCatches": "L",
+              "heightInInches": 72,
+              "weightInPounds": 195,
+              "heightInCentimeters": 183,
+              "weightInKilograms": 88,
+              "birthDate": "2002-02-09",
+              "birthCity": {
+                "default": "Gatineau"
+              },
+              "birthCountry": "CAN",
+              "birthStateProvince": {
+                "default": "QC"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8484186,
+            "fullName": "Ryan Leonard",
+            "sweaterNumber": 9,
+            "position": "R",
+            "shootsCatches": "R",
+            "heightInInches": 73,
+            "weightInPounds": 205,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8484186,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/WSH/8484186.png",
+              "firstName": {
+                "default": "Ryan"
+              },
+              "lastName": {
+                "default": "Leonard"
+              },
+              "sweaterNumber": 9,
+              "positionCode": "R",
+              "shootsCatches": "R",
+              "heightInInches": 73,
+              "weightInPounds": 205,
+              "heightInCentimeters": 185,
+              "weightInKilograms": 93,
+              "birthDate": "2005-01-21",
+              "birthCity": {
+                "default": "Northampton"
+              },
+              "birthCountry": "USA",
+              "birthStateProvince": {
+                "default": "MA"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8481580,
+            "fullName": "Connor McMichael",
+            "sweaterNumber": 24,
+            "position": "C",
+            "shootsCatches": "L",
+            "heightInInches": 72,
+            "weightInPounds": 180,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8481580,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/WSH/8481580.png",
+              "firstName": {
+                "default": "Connor"
+              },
+              "lastName": {
+                "default": "McMichael"
+              },
+              "sweaterNumber": 24,
+              "positionCode": "C",
+              "shootsCatches": "L",
+              "heightInInches": 72,
+              "weightInPounds": 180,
+              "heightInCentimeters": 183,
+              "weightInKilograms": 82,
+              "birthDate": "2001-01-15",
+              "birthCity": {
+                "default": "Ajax"
+              },
+              "birthCountry": "CAN",
+              "birthStateProvince": {
+                "default": "ON"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8477947,
+            "fullName": "Sonny Milano",
+            "sweaterNumber": 15,
+            "position": "L",
+            "shootsCatches": "L",
+            "heightInInches": 72,
+            "weightInPounds": 205,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8477947,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/WSH/8477947.png",
+              "firstName": {
+                "default": "Sonny"
+              },
+              "lastName": {
+                "default": "Milano"
+              },
+              "sweaterNumber": 15,
+              "positionCode": "L",
+              "shootsCatches": "L",
+              "heightInInches": 72,
+              "weightInPounds": 205,
+              "heightInCentimeters": 183,
+              "weightInKilograms": 93,
+              "birthDate": "1996-05-12",
+              "birthCity": {
+                "default": "Massapequa"
+              },
+              "birthCountry": "USA",
+              "birthStateProvince": {
+                "default": "NY"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8471214,
+            "fullName": "Alex Ovechkin",
+            "sweaterNumber": 8,
+            "position": "L",
+            "shootsCatches": "R",
+            "heightInInches": 75,
+            "weightInPounds": 238,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8471214,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/WSH/8471214.png",
+              "firstName": {
+                "default": "Alex",
+                "cs": "Alexandr",
+                "fi": "Aleksandr",
+                "sk": "Alexander"
+              },
+              "lastName": {
+                "default": "Ovechkin",
+                "cs": "Ove\u010dkin",
+                "fi": "Ovetshkin",
+                "sk": "Ove\u010dkin"
+              },
+              "sweaterNumber": 8,
+              "positionCode": "L",
+              "shootsCatches": "R",
+              "heightInInches": 75,
+              "weightInPounds": 238,
+              "heightInCentimeters": 191,
+              "weightInKilograms": 108,
+              "birthDate": "1985-09-17",
+              "birthCity": {
+                "default": "Moscow",
+                "cs": "Moskva",
+                "de": "Moskau",
+                "fi": "Moskova",
+                "fr": "Moscou",
+                "sk": "Moskva",
+                "sv": "Moskva"
+              },
+              "birthCountry": "RUS"
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8481656,
+            "fullName": "Aliaksei Protas",
+            "sweaterNumber": 21,
+            "position": "C",
+            "shootsCatches": "L",
+            "heightInInches": 78,
+            "weightInPounds": 250,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8481656,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/WSH/8481656.png",
+              "firstName": {
+                "default": "Aliaksei",
+                "cs": "Alexej",
+                "de": "Alexei",
+                "es": "Alexei",
+                "fi": "Aljaksei",
+                "sk": "Alexej"
+              },
+              "lastName": {
+                "default": "Protas"
+              },
+              "sweaterNumber": 21,
+              "positionCode": "C",
+              "shootsCatches": "L",
+              "heightInInches": 78,
+              "weightInPounds": 250,
+              "heightInCentimeters": 198,
+              "weightInKilograms": 113,
+              "birthDate": "2001-01-06",
+              "birthCity": {
+                "default": "Vitebsk"
+              },
+              "birthCountry": "BLR"
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8482088,
+            "fullName": "Justin Sourdif",
+            "sweaterNumber": 34,
+            "position": "R",
+            "shootsCatches": "R",
+            "heightInInches": 72,
+            "weightInPounds": 195,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8482088,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/WSH/8482088.png",
+              "firstName": {
+                "default": "Justin"
+              },
+              "lastName": {
+                "default": "Sourdif"
+              },
+              "sweaterNumber": 34,
+              "positionCode": "R",
+              "shootsCatches": "R",
+              "heightInInches": 72,
+              "weightInPounds": 195,
+              "heightInCentimeters": 183,
+              "weightInKilograms": 88,
+              "birthDate": "2002-03-24",
+              "birthCity": {
+                "default": "Richmond"
+              },
+              "birthCountry": "CAN",
+              "birthStateProvince": {
+                "default": "BC"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8478440,
+            "fullName": "Dylan Strome",
+            "sweaterNumber": 17,
+            "position": "C",
+            "shootsCatches": "L",
+            "heightInInches": 76,
+            "weightInPounds": 200,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8478440,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/WSH/8478440.png",
+              "firstName": {
+                "default": "Dylan"
+              },
+              "lastName": {
+                "default": "Strome"
+              },
+              "sweaterNumber": 17,
+              "positionCode": "C",
+              "shootsCatches": "L",
+              "heightInInches": 76,
+              "weightInPounds": 200,
+              "heightInCentimeters": 193,
+              "weightInKilograms": 91,
+              "birthDate": "1997-03-07",
+              "birthCity": {
+                "default": "Mississauga"
+              },
+              "birthCountry": "CAN",
+              "birthStateProvince": {
+                "default": "ON"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8476880,
+            "fullName": "Tom Wilson",
+            "sweaterNumber": 43,
+            "position": "R",
+            "shootsCatches": "R",
+            "heightInInches": 76,
+            "weightInPounds": 225,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8476880,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/WSH/8476880.png",
+              "firstName": {
+                "default": "Tom"
+              },
+              "lastName": {
+                "default": "Wilson"
+              },
+              "sweaterNumber": 43,
+              "positionCode": "R",
+              "shootsCatches": "R",
+              "heightInInches": 76,
+              "weightInPounds": 225,
+              "heightInCentimeters": 193,
+              "weightInKilograms": 102,
+              "birthDate": "1994-03-29",
+              "birthCity": {
+                "default": "Toronto"
+              },
+              "birthCountry": "CAN",
+              "birthStateProvince": {
+                "default": "ON"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8474590,
+            "fullName": "John Carlson",
+            "sweaterNumber": 74,
+            "position": "D",
+            "shootsCatches": "R",
+            "heightInInches": 75,
+            "weightInPounds": 220,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8474590,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/WSH/8474590.png",
+              "firstName": {
+                "default": "John"
+              },
+              "lastName": {
+                "default": "Carlson"
+              },
+              "sweaterNumber": 74,
+              "positionCode": "D",
+              "shootsCatches": "R",
+              "heightInInches": 75,
+              "weightInPounds": 220,
+              "heightInCentimeters": 191,
+              "weightInKilograms": 100,
+              "birthDate": "1990-01-10",
+              "birthCity": {
+                "default": "Natick"
+              },
+              "birthCountry": "USA",
+              "birthStateProvince": {
+                "default": "MA"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8480990,
+            "fullName": "Declan Chisholm",
+            "sweaterNumber": 47,
+            "position": "D",
+            "shootsCatches": "L",
+            "heightInInches": 73,
+            "weightInPounds": 205,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8480990,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/WSH/8480990.png",
+              "firstName": {
+                "default": "Declan"
+              },
+              "lastName": {
+                "default": "Chisholm"
+              },
+              "sweaterNumber": 47,
+              "positionCode": "D",
+              "shootsCatches": "L",
+              "heightInInches": 73,
+              "weightInPounds": 205,
+              "heightInCentimeters": 185,
+              "weightInKilograms": 93,
+              "birthDate": "2000-01-12",
+              "birthCity": {
+                "default": "Bowmanville"
+              },
+              "birthCountry": "CAN",
+              "birthStateProvince": {
+                "default": "ON"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8479345,
+            "fullName": "Jakob Chychrun",
+            "sweaterNumber": 6,
+            "position": "D",
+            "shootsCatches": "L",
+            "heightInInches": 74,
+            "weightInPounds": 215,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8479345,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/WSH/8479345.png",
+              "firstName": {
+                "default": "Jakob"
+              },
+              "lastName": {
+                "default": "Chychrun"
+              },
+              "sweaterNumber": 6,
+              "positionCode": "D",
+              "shootsCatches": "L",
+              "heightInInches": 74,
+              "weightInPounds": 215,
+              "heightInCentimeters": 188,
+              "weightInKilograms": 98,
+              "birthDate": "1998-03-31",
+              "birthCity": {
+                "default": "Boca Raton"
+              },
+              "birthCountry": "USA",
+              "birthStateProvince": {
+                "default": "FL"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8480796,
+            "fullName": "Martin Feh\u00e9rv\u00e1ry",
+            "sweaterNumber": 42,
+            "position": "D",
+            "shootsCatches": "L",
+            "heightInInches": 74,
+            "weightInPounds": 215,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8480796,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/WSH/8480796.png",
+              "firstName": {
+                "default": "Martin"
+              },
+              "lastName": {
+                "default": "Feh\u00e9rv\u00e1ry"
+              },
+              "sweaterNumber": 42,
+              "positionCode": "D",
+              "shootsCatches": "L",
+              "heightInInches": 74,
+              "weightInPounds": 215,
+              "heightInCentimeters": 188,
+              "weightInKilograms": 98,
+              "birthDate": "1999-10-06",
+              "birthCity": {
+                "default": "Bratislava"
+              },
+              "birthCountry": "SVK"
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8475795,
+            "fullName": "Dylan McIlrath",
+            "sweaterNumber": 52,
+            "position": "D",
+            "shootsCatches": "R",
+            "heightInInches": 77,
+            "weightInPounds": 240,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8475795,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/WSH/8475795.png",
+              "firstName": {
+                "default": "Dylan"
+              },
+              "lastName": {
+                "default": "McIlrath"
+              },
+              "sweaterNumber": 52,
+              "positionCode": "D",
+              "shootsCatches": "R",
+              "heightInInches": 77,
+              "weightInPounds": 240,
+              "heightInCentimeters": 196,
+              "weightInKilograms": 109,
+              "birthDate": "1992-04-20",
+              "birthCity": {
+                "default": "Winnipeg"
+              },
+              "birthCountry": "CAN",
+              "birthStateProvince": {
+                "default": "MB"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8478911,
+            "fullName": "Matt Roy",
+            "sweaterNumber": 3,
+            "position": "D",
+            "shootsCatches": "R",
+            "heightInInches": 74,
+            "weightInPounds": 220,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8478911,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/WSH/8478911.png",
+              "firstName": {
+                "default": "Matt"
+              },
+              "lastName": {
+                "default": "Roy"
+              },
+              "sweaterNumber": 3,
+              "positionCode": "D",
+              "shootsCatches": "R",
+              "heightInInches": 74,
+              "weightInPounds": 220,
+              "heightInCentimeters": 188,
+              "weightInKilograms": 100,
+              "birthDate": "1995-03-01",
+              "birthCity": {
+                "default": "Detroit"
+              },
+              "birthCountry": "USA",
+              "birthStateProvince": {
+                "default": "MI"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8480873,
+            "fullName": "Rasmus Sandin",
+            "sweaterNumber": 38,
+            "position": "D",
+            "shootsCatches": "L",
+            "heightInInches": 71,
+            "weightInPounds": 189,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8480873,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/WSH/8480873.png",
+              "firstName": {
+                "default": "Rasmus"
+              },
+              "lastName": {
+                "default": "Sandin"
+              },
+              "sweaterNumber": 38,
+              "positionCode": "D",
+              "shootsCatches": "L",
+              "heightInInches": 71,
+              "weightInPounds": 189,
+              "heightInCentimeters": 180,
+              "weightInKilograms": 86,
+              "birthDate": "2000-03-07",
+              "birthCity": {
+                "default": "Uppsala"
+              },
+              "birthCountry": "SWE"
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8477845,
+            "fullName": "Trevor van Riemsdyk",
+            "sweaterNumber": 57,
+            "position": "D",
+            "shootsCatches": "R",
+            "heightInInches": 75,
+            "weightInPounds": 210,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8477845,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/WSH/8477845.png",
+              "firstName": {
+                "default": "Trevor"
+              },
+              "lastName": {
+                "default": "van Riemsdyk"
+              },
+              "sweaterNumber": 57,
+              "positionCode": "D",
+              "shootsCatches": "R",
+              "heightInInches": 75,
+              "weightInPounds": 210,
+              "heightInCentimeters": 191,
+              "weightInKilograms": 95,
+              "birthDate": "1991-07-24",
+              "birthCity": {
+                "default": "Middletown"
+              },
+              "birthCountry": "USA",
+              "birthStateProvince": {
+                "default": "NJ"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8479292,
+            "fullName": "Charlie Lindgren",
+            "sweaterNumber": 79,
+            "position": "G",
+            "shootsCatches": "R",
+            "heightInInches": 74,
+            "weightInPounds": 190,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8479292,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/WSH/8479292.png",
+              "firstName": {
+                "default": "Charlie"
+              },
+              "lastName": {
+                "default": "Lindgren"
+              },
+              "sweaterNumber": 79,
+              "positionCode": "G",
+              "shootsCatches": "R",
+              "heightInInches": 74,
+              "weightInPounds": 190,
+              "heightInCentimeters": 188,
+              "weightInKilograms": 86,
+              "birthDate": "1993-12-18",
+              "birthCity": {
+                "default": "Lakeville"
+              },
+              "birthCountry": "USA",
+              "birthStateProvince": {
+                "default": "MN"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8483532,
+            "fullName": "Clay Stevenson",
+            "sweaterNumber": 33,
+            "position": "G",
+            "shootsCatches": "L",
+            "heightInInches": 76,
+            "weightInPounds": 195,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8483532,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/WSH/8483532.png",
+              "firstName": {
+                "default": "Clay"
+              },
+              "lastName": {
+                "default": "Stevenson"
+              },
+              "sweaterNumber": 33,
+              "positionCode": "G",
+              "shootsCatches": "L",
+              "heightInInches": 76,
+              "weightInPounds": 195,
+              "heightInCentimeters": 193,
+              "weightInKilograms": 88,
+              "birthDate": "1999-03-03",
+              "birthCity": {
+                "default": "Drayton Valley"
+              },
+              "birthCountry": "CAN",
+              "birthStateProvince": {
+                "default": "AB"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8480313,
+            "fullName": "Logan Thompson",
+            "sweaterNumber": 48,
+            "position": "G",
+            "shootsCatches": "R",
+            "heightInInches": 76,
+            "weightInPounds": 207,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8480313,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/WSH/8480313.png",
+              "firstName": {
+                "default": "Logan"
+              },
+              "lastName": {
+                "default": "Thompson"
+              },
+              "sweaterNumber": 48,
+              "positionCode": "G",
+              "shootsCatches": "R",
+              "heightInInches": 76,
+              "weightInPounds": 207,
+              "heightInCentimeters": 193,
+              "weightInKilograms": 94,
+              "birthDate": "1997-02-25",
+              "birthCity": {
+                "default": "Calgary"
+              },
+              "birthCountry": "CAN",
+              "birthStateProvince": {
+                "default": "AB"
+              }
+            },
+            "seasonStats": null
+          }
+        ]
+      },
+      "awayTeam": {
+        "id": 13,
+        "abbrev": "FLA",
+        "name": "Florida Panthers",
+        "record": null,
+        "score": 4,
+        "roster": [
+          {
+            "playerId": 8477493,
+            "fullName": "Aleksander Barkov",
+            "sweaterNumber": 16,
+            "position": "C",
+            "shootsCatches": "L",
+            "heightInInches": 75,
+            "weightInPounds": 214,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8477493,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8477493.png",
+              "firstName": {
+                "default": "Aleksander"
+              },
+              "lastName": {
+                "default": "Barkov"
+              },
+              "sweaterNumber": 16,
+              "positionCode": "C",
+              "shootsCatches": "L",
+              "heightInInches": 75,
+              "weightInPounds": 214,
+              "heightInCentimeters": 191,
+              "weightInKilograms": 97,
+              "birthDate": "1995-09-02",
+              "birthCity": {
+                "default": "Tampere",
+                "sv": "Tammerfors"
+              },
+              "birthCountry": "FIN"
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8477935,
+            "fullName": "Sam Bennett",
+            "sweaterNumber": 9,
+            "position": "C",
+            "shootsCatches": "L",
+            "heightInInches": 73,
+            "weightInPounds": 193,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8477935,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8477935.png",
+              "firstName": {
+                "default": "Sam"
+              },
+              "lastName": {
+                "default": "Bennett"
+              },
+              "sweaterNumber": 9,
+              "positionCode": "C",
+              "shootsCatches": "L",
+              "heightInInches": 73,
+              "weightInPounds": 193,
+              "heightInCentimeters": 185,
+              "weightInKilograms": 88,
+              "birthDate": "1996-06-20",
+              "birthCity": {
+                "default": "Holland Landing"
+              },
+              "birthCountry": "CAN",
+              "birthStateProvince": {
+                "default": "ON"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8480003,
+            "fullName": "Jesper Boqvist",
+            "sweaterNumber": 70,
+            "position": "C",
+            "shootsCatches": "L",
+            "heightInInches": 73,
+            "weightInPounds": 191,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8480003,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8480003.png",
+              "firstName": {
+                "default": "Jesper"
+              },
+              "lastName": {
+                "default": "Boqvist"
+              },
+              "sweaterNumber": 70,
+              "positionCode": "C",
+              "shootsCatches": "L",
+              "heightInInches": 73,
+              "weightInPounds": 191,
+              "heightInCentimeters": 185,
+              "weightInKilograms": 87,
+              "birthDate": "1998-10-30",
+              "birthCity": {
+                "default": "Falun"
+              },
+              "birthCountry": "SWE"
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8479981,
+            "fullName": "Jonah Gadjovich",
+            "sweaterNumber": 12,
+            "position": "L",
+            "shootsCatches": "L",
+            "heightInInches": 75,
+            "weightInPounds": 211,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8479981,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8479981.png",
+              "firstName": {
+                "default": "Jonah"
+              },
+              "lastName": {
+                "default": "Gadjovich"
+              },
+              "sweaterNumber": 12,
+              "positionCode": "L",
+              "shootsCatches": "L",
+              "heightInInches": 75,
+              "weightInPounds": 211,
+              "heightInCentimeters": 191,
+              "weightInKilograms": 96,
+              "birthDate": "1998-10-12",
+              "birthCity": {
+                "default": "Whitby"
+              },
+              "birthCountry": "CAN",
+              "birthStateProvince": {
+                "default": "ON"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8478421,
+            "fullName": "A.J. Greer",
+            "sweaterNumber": 10,
+            "position": "L",
+            "shootsCatches": "L",
+            "heightInInches": 75,
+            "weightInPounds": 209,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8478421,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8478421.png",
+              "firstName": {
+                "default": "A.J."
+              },
+              "lastName": {
+                "default": "Greer"
+              },
+              "sweaterNumber": 10,
+              "positionCode": "L",
+              "shootsCatches": "L",
+              "heightInInches": 75,
+              "weightInPounds": 209,
+              "heightInCentimeters": 191,
+              "weightInKilograms": 95,
+              "birthDate": "1996-12-14",
+              "birthCity": {
+                "default": "Joliette"
+              },
+              "birthCountry": "CAN",
+              "birthStateProvince": {
+                "default": "QC"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8479316,
+            "fullName": "Luke Kunin",
+            "sweaterNumber": 71,
+            "position": "C",
+            "shootsCatches": "R",
+            "heightInInches": 72,
+            "weightInPounds": 197,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8479316,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8479316.png",
+              "firstName": {
+                "default": "Luke"
+              },
+              "lastName": {
+                "default": "Kunin"
+              },
+              "sweaterNumber": 71,
+              "positionCode": "C",
+              "shootsCatches": "R",
+              "heightInInches": 72,
+              "weightInPounds": 197,
+              "heightInCentimeters": 183,
+              "weightInKilograms": 89,
+              "birthDate": "1997-12-04",
+              "birthCity": {
+                "default": "Chesterfield"
+              },
+              "birthCountry": "USA",
+              "birthStateProvince": {
+                "default": "MO"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8482113,
+            "fullName": "Anton Lundell",
+            "sweaterNumber": 15,
+            "position": "C",
+            "shootsCatches": "L",
+            "heightInInches": 73,
+            "weightInPounds": 196,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8482113,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8482113.png",
+              "firstName": {
+                "default": "Anton"
+              },
+              "lastName": {
+                "default": "Lundell"
+              },
+              "sweaterNumber": 15,
+              "positionCode": "C",
+              "shootsCatches": "L",
+              "heightInInches": 73,
+              "weightInPounds": 196,
+              "heightInCentimeters": 185,
+              "weightInKilograms": 89,
+              "birthDate": "2001-10-03",
+              "birthCity": {
+                "default": "Espoo",
+                "sv": "Esbo"
+              },
+              "birthCountry": "FIN"
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8480185,
+            "fullName": "Eetu Luostarinen",
+            "sweaterNumber": 27,
+            "position": "C",
+            "shootsCatches": "L",
+            "heightInInches": 75,
+            "weightInPounds": 191,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8480185,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8480185.png",
+              "firstName": {
+                "default": "Eetu"
+              },
+              "lastName": {
+                "default": "Luostarinen"
+              },
+              "sweaterNumber": 27,
+              "positionCode": "C",
+              "shootsCatches": "L",
+              "heightInInches": 75,
+              "weightInPounds": 191,
+              "heightInCentimeters": 191,
+              "weightInKilograms": 87,
+              "birthDate": "1998-09-02",
+              "birthCity": {
+                "default": "Siilinjarvi",
+                "cs": "Siilinj\u00e4rvi",
+                "fi": "Siilinj\u00e4rvi",
+                "sk": "Siilinj\u00e4rvi",
+                "sv": "Siilinj\u00e4rvi"
+              },
+              "birthCountry": "FIN"
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8473419,
+            "fullName": "Brad Marchand",
+            "sweaterNumber": 63,
+            "position": "L",
+            "shootsCatches": "L",
+            "heightInInches": 69,
+            "weightInPounds": 180,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8473419,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8473419.png",
+              "firstName": {
+                "default": "Brad"
+              },
+              "lastName": {
+                "default": "Marchand"
+              },
+              "sweaterNumber": 63,
+              "positionCode": "L",
+              "shootsCatches": "L",
+              "heightInInches": 69,
+              "weightInPounds": 180,
+              "heightInCentimeters": 175,
+              "weightInKilograms": 82,
+              "birthDate": "1988-05-11",
+              "birthCity": {
+                "default": "Halifax"
+              },
+              "birthCountry": "CAN",
+              "birthStateProvince": {
+                "default": "NS"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8477933,
+            "fullName": "Sam Reinhart",
+            "sweaterNumber": 13,
+            "position": "C",
+            "shootsCatches": "R",
+            "heightInInches": 73,
+            "weightInPounds": 196,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8477933,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8477933.png",
+              "firstName": {
+                "default": "Sam"
+              },
+              "lastName": {
+                "default": "Reinhart"
+              },
+              "sweaterNumber": 13,
+              "positionCode": "C",
+              "shootsCatches": "R",
+              "heightInInches": 73,
+              "weightInPounds": 196,
+              "heightInCentimeters": 185,
+              "weightInKilograms": 89,
+              "birthDate": "1995-11-06",
+              "birthCity": {
+                "default": "West Vancouver"
+              },
+              "birthCountry": "CAN",
+              "birthStateProvince": {
+                "default": "BC"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8478542,
+            "fullName": "Evan Rodrigues",
+            "sweaterNumber": 17,
+            "position": "C",
+            "shootsCatches": "R",
+            "heightInInches": 71,
+            "weightInPounds": 182,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8478542,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8478542.png",
+              "firstName": {
+                "default": "Evan"
+              },
+              "lastName": {
+                "default": "Rodrigues"
+              },
+              "sweaterNumber": 17,
+              "positionCode": "C",
+              "shootsCatches": "R",
+              "heightInInches": 71,
+              "weightInPounds": 182,
+              "heightInCentimeters": 180,
+              "weightInKilograms": 83,
+              "birthDate": "1993-07-28",
+              "birthCity": {
+                "default": "Toronto"
+              },
+              "birthCountry": "CAN",
+              "birthStateProvince": {
+                "default": "ON"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8482713,
+            "fullName": "Mackie Samoskevich",
+            "sweaterNumber": 11,
+            "position": "R",
+            "shootsCatches": "R",
+            "heightInInches": 71,
+            "weightInPounds": 180,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8482713,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8482713.png",
+              "firstName": {
+                "default": "Mackie"
+              },
+              "lastName": {
+                "default": "Samoskevich"
+              },
+              "sweaterNumber": 11,
+              "positionCode": "R",
+              "shootsCatches": "R",
+              "heightInInches": 71,
+              "weightInPounds": 180,
+              "heightInCentimeters": 180,
+              "weightInKilograms": 82,
+              "birthDate": "2002-11-15",
+              "birthCity": {
+                "default": "Newtown"
+              },
+              "birthCountry": "USA",
+              "birthStateProvince": {
+                "default": "CT"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8481655,
+            "fullName": "Cole Schwindt",
+            "sweaterNumber": 79,
+            "position": "C",
+            "shootsCatches": "R",
+            "heightInInches": 75,
+            "weightInPounds": 210,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8481655,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8481655.png",
+              "firstName": {
+                "default": "Cole"
+              },
+              "lastName": {
+                "default": "Schwindt"
+              },
+              "sweaterNumber": 79,
+              "positionCode": "C",
+              "shootsCatches": "R",
+              "heightInInches": 75,
+              "weightInPounds": 210,
+              "heightInCentimeters": 191,
+              "weightInKilograms": 95,
+              "birthDate": "2001-04-25",
+              "birthCity": {
+                "default": "Kitchener"
+              },
+              "birthCountry": "CAN",
+              "birthStateProvince": {
+                "default": "ON"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8479314,
+            "fullName": "Matthew Tkachuk",
+            "sweaterNumber": 19,
+            "position": "L",
+            "shootsCatches": "L",
+            "heightInInches": 74,
+            "weightInPounds": 202,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8479314,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8479314.png",
+              "firstName": {
+                "default": "Matthew"
+              },
+              "lastName": {
+                "default": "Tkachuk"
+              },
+              "sweaterNumber": 19,
+              "positionCode": "L",
+              "shootsCatches": "L",
+              "heightInInches": 74,
+              "weightInPounds": 202,
+              "heightInCentimeters": 188,
+              "weightInKilograms": 92,
+              "birthDate": "1997-12-11",
+              "birthCity": {
+                "default": "Scottsdale"
+              },
+              "birthCountry": "USA",
+              "birthStateProvince": {
+                "default": "AZ"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8477409,
+            "fullName": "Carter Verhaeghe",
+            "sweaterNumber": 23,
+            "position": "C",
+            "shootsCatches": "L",
+            "heightInInches": 74,
+            "weightInPounds": 183,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8477409,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8477409.png",
+              "firstName": {
+                "default": "Carter"
+              },
+              "lastName": {
+                "default": "Verhaeghe"
+              },
+              "sweaterNumber": 23,
+              "positionCode": "C",
+              "shootsCatches": "L",
+              "heightInInches": 74,
+              "weightInPounds": 183,
+              "heightInCentimeters": 188,
+              "weightInKilograms": 83,
+              "birthDate": "1995-08-14",
+              "birthCity": {
+                "default": "Toronto"
+              },
+              "birthCountry": "CAN",
+              "birthStateProvince": {
+                "default": "ON"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8483771,
+            "fullName": "Sandis Vilmanis",
+            "sweaterNumber": 95,
+            "position": "L",
+            "shootsCatches": "L",
+            "heightInInches": 73,
+            "weightInPounds": 192,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8483771,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8483771.png",
+              "firstName": {
+                "default": "Sandis"
+              },
+              "lastName": {
+                "default": "Vilmanis"
+              },
+              "sweaterNumber": 95,
+              "positionCode": "L",
+              "shootsCatches": "L",
+              "heightInInches": 73,
+              "weightInPounds": 192,
+              "heightInCentimeters": 185,
+              "weightInKilograms": 87,
+              "birthDate": "2004-01-23",
+              "birthCity": {
+                "default": "Riga",
+                "fi": "Riika"
+              },
+              "birthCountry": "LVA"
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8484304,
+            "fullName": "Uvis Balinskis",
+            "sweaterNumber": 26,
+            "position": "D",
+            "shootsCatches": "L",
+            "heightInInches": 72,
+            "weightInPounds": 196,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8484304,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8484304.png",
+              "firstName": {
+                "default": "Uvis"
+              },
+              "lastName": {
+                "default": "Balinskis"
+              },
+              "sweaterNumber": 26,
+              "positionCode": "D",
+              "shootsCatches": "L",
+              "heightInInches": 72,
+              "weightInPounds": 196,
+              "heightInCentimeters": 183,
+              "weightInKilograms": 89,
+              "birthDate": "1996-08-01",
+              "birthCity": {
+                "default": "Ventspils"
+              },
+              "birthCountry": "LVA"
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8481600,
+            "fullName": "Tobias Bjornfot",
+            "sweaterNumber": 22,
+            "position": "D",
+            "shootsCatches": "L",
+            "heightInInches": 72,
+            "weightInPounds": 200,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8481600,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8481600.png",
+              "firstName": {
+                "default": "Tobias"
+              },
+              "lastName": {
+                "default": "Bjornfot",
+                "cs": "Bj\u00f6rnfot",
+                "fi": "Bj\u00f6rnfot",
+                "sk": "Bj\u00f6rnfot"
+              },
+              "sweaterNumber": 22,
+              "positionCode": "D",
+              "shootsCatches": "L",
+              "heightInInches": 72,
+              "weightInPounds": 200,
+              "heightInCentimeters": 183,
+              "weightInKilograms": 91,
+              "birthDate": "2001-04-06",
+              "birthCity": {
+                "default": "Upplands Vasby"
+              },
+              "birthCountry": "SWE"
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8477932,
+            "fullName": "Aaron Ekblad",
+            "sweaterNumber": 5,
+            "position": "D",
+            "shootsCatches": "R",
+            "heightInInches": 76,
+            "weightInPounds": 220,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8477932,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8477932.png",
+              "firstName": {
+                "default": "Aaron"
+              },
+              "lastName": {
+                "default": "Ekblad"
+              },
+              "sweaterNumber": 5,
+              "positionCode": "D",
+              "shootsCatches": "R",
+              "heightInInches": 76,
+              "weightInPounds": 220,
+              "heightInCentimeters": 193,
+              "weightInKilograms": 100,
+              "birthDate": "1996-02-07",
+              "birthCity": {
+                "default": "Windsor"
+              },
+              "birthCountry": "CAN",
+              "birthStateProvince": {
+                "default": "ON"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8478055,
+            "fullName": "Gustav Forsling",
+            "sweaterNumber": 42,
+            "position": "D",
+            "shootsCatches": "L",
+            "heightInInches": 73,
+            "weightInPounds": 199,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8478055,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8478055.png",
+              "firstName": {
+                "default": "Gustav"
+              },
+              "lastName": {
+                "default": "Forsling"
+              },
+              "sweaterNumber": 42,
+              "positionCode": "D",
+              "shootsCatches": "L",
+              "heightInInches": 73,
+              "weightInPounds": 199,
+              "heightInCentimeters": 185,
+              "weightInKilograms": 90,
+              "birthDate": "1996-06-12",
+              "birthCity": {
+                "default": "Linkoping",
+                "cs": "Link\u00f6ping",
+                "de": "Link\u00f6ping",
+                "fi": "Link\u00f6ping",
+                "fr": "Link\u00f6ping",
+                "sk": "Link\u00f6ping",
+                "sv": "Link\u00f6ping"
+              },
+              "birthCountry": "SWE"
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8477495,
+            "fullName": "Seth Jones",
+            "sweaterNumber": 3,
+            "position": "D",
+            "shootsCatches": "R",
+            "heightInInches": 76,
+            "weightInPounds": 213,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8477495,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8477495.png",
+              "firstName": {
+                "default": "Seth"
+              },
+              "lastName": {
+                "default": "Jones"
+              },
+              "sweaterNumber": 3,
+              "positionCode": "D",
+              "shootsCatches": "R",
+              "heightInInches": 76,
+              "weightInPounds": 213,
+              "heightInCentimeters": 193,
+              "weightInKilograms": 97,
+              "birthDate": "1994-10-03",
+              "birthCity": {
+                "default": "Arlington"
+              },
+              "birthCountry": "USA",
+              "birthStateProvince": {
+                "default": "TX"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8475179,
+            "fullName": "Dmitry Kulikov",
+            "sweaterNumber": 7,
+            "position": "D",
+            "shootsCatches": "L",
+            "heightInInches": 73,
+            "weightInPounds": 212,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8475179,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8475179.png",
+              "firstName": {
+                "default": "Dmitry",
+                "cs": "Dmitrij",
+                "fi": "Dmitri",
+                "sk": "Dmitrij"
+              },
+              "lastName": {
+                "default": "Kulikov"
+              },
+              "sweaterNumber": 7,
+              "positionCode": "D",
+              "shootsCatches": "L",
+              "heightInInches": 73,
+              "weightInPounds": 212,
+              "heightInCentimeters": 185,
+              "weightInKilograms": 96,
+              "birthDate": "1990-10-29",
+              "birthCity": {
+                "default": "Lipetsk",
+                "cs": "Lipeck",
+                "sk": "Lipeck"
+              },
+              "birthCountry": "RUS"
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8478859,
+            "fullName": "Niko Mikkola",
+            "sweaterNumber": 77,
+            "position": "D",
+            "shootsCatches": "L",
+            "heightInInches": 78,
+            "weightInPounds": 204,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8478859,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8478859.png",
+              "firstName": {
+                "default": "Niko"
+              },
+              "lastName": {
+                "default": "Mikkola"
+              },
+              "sweaterNumber": 77,
+              "positionCode": "D",
+              "shootsCatches": "L",
+              "heightInInches": 78,
+              "weightInPounds": 204,
+              "heightInCentimeters": 198,
+              "weightInKilograms": 93,
+              "birthDate": "1996-04-27",
+              "birthCity": {
+                "default": "Kiiminki",
+                "sv": "Kiminge"
+              },
+              "birthCountry": "FIN"
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8473507,
+            "fullName": "Jeff Petry",
+            "sweaterNumber": 2,
+            "position": "D",
+            "shootsCatches": "R",
+            "heightInInches": 75,
+            "weightInPounds": 208,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8473507,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8473507.png",
+              "firstName": {
+                "default": "Jeff"
+              },
+              "lastName": {
+                "default": "Petry"
+              },
+              "sweaterNumber": 2,
+              "positionCode": "D",
+              "shootsCatches": "R",
+              "heightInInches": 75,
+              "weightInPounds": 208,
+              "heightInCentimeters": 191,
+              "weightInKilograms": 94,
+              "birthDate": "1987-12-09",
+              "birthCity": {
+                "default": "Ann Arbor"
+              },
+              "birthCountry": "USA",
+              "birthStateProvince": {
+                "default": "MI"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8482131,
+            "fullName": "Donovan Sebrango",
+            "sweaterNumber": 6,
+            "position": "D",
+            "shootsCatches": "L",
+            "heightInInches": 74,
+            "weightInPounds": 223,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8482131,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8482131.png",
+              "firstName": {
+                "default": "Donovan"
+              },
+              "lastName": {
+                "default": "Sebrango"
+              },
+              "sweaterNumber": 6,
+              "positionCode": "D",
+              "shootsCatches": "L",
+              "heightInInches": 74,
+              "weightInPounds": 223,
+              "heightInCentimeters": 188,
+              "weightInKilograms": 101,
+              "birthDate": "2002-01-12",
+              "birthCity": {
+                "default": "Ottawa"
+              },
+              "birthCountry": "CAN",
+              "birthStateProvince": {
+                "default": "ON"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8475683,
+            "fullName": "Sergei Bobrovsky",
+            "sweaterNumber": 72,
+            "position": "G",
+            "shootsCatches": "L",
+            "heightInInches": 74,
+            "weightInPounds": 180,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8475683,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8475683.png",
+              "firstName": {
+                "default": "Sergei",
+                "cs": "Sergej",
+                "sk": "Sergej"
+              },
+              "lastName": {
+                "default": "Bobrovsky",
+                "cs": "Bobrovskij",
+                "fi": "Bobrovski",
+                "sk": "Bobrovskij"
+              },
+              "sweaterNumber": 72,
+              "positionCode": "G",
+              "shootsCatches": "L",
+              "heightInInches": 74,
+              "weightInPounds": 180,
+              "heightInCentimeters": 188,
+              "weightInKilograms": 82,
+              "birthDate": "1988-09-20",
+              "birthCity": {
+                "default": "Novokuznetsk",
+                "cs": "Novokuzn\u011bck",
+                "sk": "Novokuzn\u011bck"
+              },
+              "birthCountry": "RUS"
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8480193,
+            "fullName": "Daniil Tarasov",
+            "sweaterNumber": 40,
+            "position": "G",
+            "shootsCatches": "L",
+            "heightInInches": 77,
+            "weightInPounds": 203,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8480193,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8480193.png",
+              "firstName": {
+                "default": "Daniil"
+              },
+              "lastName": {
+                "default": "Tarasov"
+              },
+              "sweaterNumber": 40,
+              "positionCode": "G",
+              "shootsCatches": "L",
+              "heightInInches": 77,
+              "weightInPounds": 203,
+              "heightInCentimeters": 196,
+              "weightInKilograms": 92,
+              "birthDate": "1999-03-27",
+              "birthCity": {
+                "default": "Novokuznetsk",
+                "cs": "Novokuzn\u011bck",
+                "sk": "Novokuzn\u011bck"
+              },
+              "birthCountry": "RUS"
+            },
+            "seasonStats": null
+          }
+        ]
+      }
+    },
+    {
+      "gamePk": 2023020192,
+      "season": 20232024,
+      "gameType": 2,
+      "startTimeUTC": "2023-11-09T03:00:00Z",
+      "venue": "T-Mobile Arena",
+      "gameState": "OFF",
+      "gameScheduleState": "OK",
+      "homeTeam": {
+        "id": 54,
+        "abbrev": "VGK",
+        "name": "Vegas Golden Knights",
+        "record": null,
+        "score": 1,
+        "roster": [
+          {
+            "playerId": 8477964,
+            "fullName": "Ivan Barbashev",
+            "sweaterNumber": 49,
+            "position": "L",
+            "shootsCatches": "L",
+            "heightInInches": 72,
+            "weightInPounds": 203,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8477964,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8477964.png",
+              "firstName": {
+                "default": "Ivan"
+              },
+              "lastName": {
+                "default": "Barbashev",
+                "cs": "Barba\u0161ev",
+                "fi": "Barbashov",
+                "sk": "Barba\u0161ev"
+              },
+              "sweaterNumber": 49,
+              "positionCode": "L",
+              "shootsCatches": "L",
+              "heightInInches": 72,
+              "weightInPounds": 203,
+              "heightInCentimeters": 183,
+              "weightInKilograms": 92,
+              "birthDate": "1995-12-14",
+              "birthCity": {
+                "default": "Moscow",
+                "cs": "Moskva",
+                "de": "Moskau",
+                "fi": "Moskova",
+                "fr": "Moscou",
+                "sk": "Moskva",
+                "sv": "Moskva"
+              },
+              "birthCountry": "RUS"
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8483890,
+            "fullName": "Braeden Bowman",
+            "sweaterNumber": 42,
+            "position": "R",
+            "shootsCatches": "R",
+            "heightInInches": 73,
+            "weightInPounds": 205,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8483890,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8483890.png",
+              "firstName": {
+                "default": "Braeden"
+              },
+              "lastName": {
+                "default": "Bowman"
+              },
+              "sweaterNumber": 42,
+              "positionCode": "R",
+              "shootsCatches": "R",
+              "heightInInches": 73,
+              "weightInPounds": 205,
+              "heightInCentimeters": 185,
+              "weightInKilograms": 93,
+              "birthDate": "2003-06-26",
+              "birthCity": {
+                "default": "Kitchener"
+              },
+              "birthCountry": "CAN",
+              "birthStateProvince": {
+                "default": "ON"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8481604,
+            "fullName": "Pavel Dorofeyev",
+            "sweaterNumber": 16,
+            "position": "R",
+            "shootsCatches": "L",
+            "heightInInches": 73,
+            "weightInPounds": 194,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8481604,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8481604.png",
+              "firstName": {
+                "default": "Pavel"
+              },
+              "lastName": {
+                "default": "Dorofeyev",
+                "cs": "Dorofejev",
+                "fi": "Dorofejev",
+                "sk": "Dorofejev"
+              },
+              "sweaterNumber": 16,
+              "positionCode": "R",
+              "shootsCatches": "L",
+              "heightInInches": 73,
+              "weightInPounds": 194,
+              "heightInCentimeters": 185,
+              "weightInKilograms": 88,
+              "birthDate": "2000-10-26",
+              "birthCity": {
+                "default": "Nizhny Tagil",
+                "cs": "Ni\u017enij Tagil",
+                "fi": "Nizhni Tagil",
+                "sk": "Ni\u017enij Tagil"
+              },
+              "birthCountry": "RUS"
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8478403,
+            "fullName": "Jack Eichel",
+            "sweaterNumber": 9,
+            "position": "C",
+            "shootsCatches": "R",
+            "heightInInches": 74,
+            "weightInPounds": 208,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8478403,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8478403.png",
+              "firstName": {
+                "default": "Jack"
+              },
+              "lastName": {
+                "default": "Eichel"
+              },
+              "sweaterNumber": 9,
+              "positionCode": "C",
+              "shootsCatches": "R",
+              "heightInInches": 74,
+              "weightInPounds": 208,
+              "heightInCentimeters": 188,
+              "weightInKilograms": 94,
+              "birthDate": "1996-10-28",
+              "birthCity": {
+                "default": "North Chelmsford"
+              },
+              "birthCountry": "USA",
+              "birthStateProvince": {
+                "default": "MA"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8476881,
+            "fullName": "Tomas Hertl",
+            "sweaterNumber": 48,
+            "position": "C",
+            "shootsCatches": "L",
+            "heightInInches": 75,
+            "weightInPounds": 220,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8476881,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8476881.png",
+              "firstName": {
+                "default": "Tomas",
+                "cs": "Tom\u00e1\u0161",
+                "sk": "Tom\u00e1\u0161"
+              },
+              "lastName": {
+                "default": "Hertl"
+              },
+              "sweaterNumber": 48,
+              "positionCode": "C",
+              "shootsCatches": "L",
+              "heightInInches": 75,
+              "weightInPounds": 220,
+              "heightInCentimeters": 191,
+              "weightInKilograms": 100,
+              "birthDate": "1993-11-12",
+              "birthCity": {
+                "default": "Praha"
+              },
+              "birthCountry": "CZE"
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8482125,
+            "fullName": "Alexander Holtz",
+            "sweaterNumber": 26,
+            "position": "R",
+            "shootsCatches": "R",
+            "heightInInches": 72,
+            "weightInPounds": 198,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8482125,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8482125.png",
+              "firstName": {
+                "default": "Alexander"
+              },
+              "lastName": {
+                "default": "Holtz"
+              },
+              "sweaterNumber": 26,
+              "positionCode": "R",
+              "shootsCatches": "R",
+              "heightInInches": 72,
+              "weightInPounds": 198,
+              "heightInCentimeters": 183,
+              "weightInKilograms": 90,
+              "birthDate": "2002-01-23",
+              "birthCity": {
+                "default": "Stockholm",
+                "fi": "Tukholma"
+              },
+              "birthCountry": "SWE"
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8479353,
+            "fullName": "Brett Howden",
+            "sweaterNumber": 21,
+            "position": "C",
+            "shootsCatches": "L",
+            "heightInInches": 74,
+            "weightInPounds": 201,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8479353,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8479353.png",
+              "firstName": {
+                "default": "Brett"
+              },
+              "lastName": {
+                "default": "Howden"
+              },
+              "sweaterNumber": 21,
+              "positionCode": "C",
+              "shootsCatches": "L",
+              "heightInInches": 74,
+              "weightInPounds": 201,
+              "heightInCentimeters": 188,
+              "weightInKilograms": 91,
+              "birthDate": "1998-03-29",
+              "birthCity": {
+                "default": "Oakbank"
+              },
+              "birthCountry": "CAN",
+              "birthStateProvince": {
+                "default": "MB"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8476448,
+            "fullName": "William Karlsson",
+            "sweaterNumber": 71,
+            "position": "C",
+            "shootsCatches": "L",
+            "heightInInches": 72,
+            "weightInPounds": 190,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8476448,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8476448.png",
+              "firstName": {
+                "default": "William"
+              },
+              "lastName": {
+                "default": "Karlsson"
+              },
+              "sweaterNumber": 71,
+              "positionCode": "C",
+              "shootsCatches": "L",
+              "heightInInches": 72,
+              "weightInPounds": 190,
+              "heightInCentimeters": 183,
+              "weightInKilograms": 86,
+              "birthDate": "1993-01-08",
+              "birthCity": {
+                "default": "Marsta",
+                "cs": "M\u00e4rsta",
+                "fi": "M\u00e4rsta",
+                "sk": "M\u00e4rsta",
+                "sv": "M\u00e4rsta"
+              },
+              "birthCountry": "SWE"
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8478434,
+            "fullName": "Keegan Kolesar",
+            "sweaterNumber": 55,
+            "position": "R",
+            "shootsCatches": "R",
+            "heightInInches": 74,
+            "weightInPounds": 216,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8478434,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8478434.png",
+              "firstName": {
+                "default": "Keegan"
+              },
+              "lastName": {
+                "default": "Kolesar"
+              },
+              "sweaterNumber": 55,
+              "positionCode": "R",
+              "shootsCatches": "R",
+              "heightInInches": 74,
+              "weightInPounds": 216,
+              "heightInCentimeters": 188,
+              "weightInKilograms": 98,
+              "birthDate": "1997-04-08",
+              "birthCity": {
+                "default": "Brandon"
+              },
+              "birthCountry": "CAN",
+              "birthStateProvince": {
+                "default": "MB"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8478483,
+            "fullName": "Mitch Marner",
+            "sweaterNumber": 93,
+            "position": "R",
+            "shootsCatches": "R",
+            "heightInInches": 72,
+            "weightInPounds": 180,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8478483,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8478483.png",
+              "firstName": {
+                "default": "Mitch",
+                "cs": "Mitchell",
+                "de": "Mitchell",
+                "es": "Mitchell",
+                "fi": "Mitchell",
+                "sk": "Mitchell",
+                "sv": "Mitchell"
+              },
+              "lastName": {
+                "default": "Marner"
+              },
+              "sweaterNumber": 93,
+              "positionCode": "R",
+              "shootsCatches": "R",
+              "heightInInches": 72,
+              "weightInPounds": 180,
+              "heightInCentimeters": 183,
+              "weightInKilograms": 82,
+              "birthDate": "1997-05-05",
+              "birthCity": {
+                "default": "Markham"
+              },
+              "birthCountry": "CAN",
+              "birthStateProvince": {
+                "default": "ON"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8481133,
+            "fullName": "Cole Reinhardt",
+            "sweaterNumber": 23,
+            "position": "L",
+            "shootsCatches": "L",
+            "heightInInches": 73,
+            "weightInPounds": 207,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8481133,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8481133.png",
+              "firstName": {
+                "default": "Cole"
+              },
+              "lastName": {
+                "default": "Reinhardt"
+              },
+              "sweaterNumber": 23,
+              "positionCode": "L",
+              "shootsCatches": "L",
+              "heightInInches": 73,
+              "weightInPounds": 207,
+              "heightInCentimeters": 185,
+              "weightInKilograms": 94,
+              "birthDate": "2000-02-01",
+              "birthCity": {
+                "default": "Calgary"
+              },
+              "birthCountry": "CAN",
+              "birthStateProvince": {
+                "default": "AB"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8480007,
+            "fullName": "Jonas Rondbjerg",
+            "sweaterNumber": 46,
+            "position": "R",
+            "shootsCatches": "L",
+            "heightInInches": 74,
+            "weightInPounds": 206,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8480007,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8480007.png",
+              "firstName": {
+                "default": "Jonas"
+              },
+              "lastName": {
+                "default": "Rondbjerg",
+                "cs": "R\u00f6ndbjerg",
+                "fi": "R\u00f8ndbjerg",
+                "sk": "R\u00f6ndbjerg",
+                "sv": "R\u00f8ndbjerg"
+              },
+              "sweaterNumber": 46,
+              "positionCode": "R",
+              "shootsCatches": "L",
+              "heightInInches": 74,
+              "weightInPounds": 206,
+              "heightInCentimeters": 188,
+              "weightInKilograms": 93,
+              "birthDate": "1999-03-31",
+              "birthCity": {
+                "default": "Horsholm"
+              },
+              "birthCountry": "DNK"
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8476438,
+            "fullName": "Brandon Saad",
+            "sweaterNumber": 20,
+            "position": "L",
+            "shootsCatches": "L",
+            "heightInInches": 73,
+            "weightInPounds": 207,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8476438,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8476438.png",
+              "firstName": {
+                "default": "Brandon"
+              },
+              "lastName": {
+                "default": "Saad"
+              },
+              "sweaterNumber": 20,
+              "positionCode": "L",
+              "shootsCatches": "L",
+              "heightInInches": 73,
+              "weightInPounds": 207,
+              "heightInCentimeters": 185,
+              "weightInKilograms": 94,
+              "birthDate": "1992-10-27",
+              "birthCity": {
+                "default": "Pittsburgh"
+              },
+              "birthCountry": "USA",
+              "birthStateProvince": {
+                "default": "PA"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8476925,
+            "fullName": "Colton Sissons",
+            "sweaterNumber": 10,
+            "position": "C",
+            "shootsCatches": "R",
+            "heightInInches": 73,
+            "weightInPounds": 200,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8476925,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8476925.png",
+              "firstName": {
+                "default": "Colton"
+              },
+              "lastName": {
+                "default": "Sissons"
+              },
+              "sweaterNumber": 10,
+              "positionCode": "C",
+              "shootsCatches": "R",
+              "heightInInches": 73,
+              "weightInPounds": 200,
+              "heightInCentimeters": 185,
+              "weightInKilograms": 91,
+              "birthDate": "1993-11-05",
+              "birthCity": {
+                "default": "North Vancouver"
+              },
+              "birthCountry": "CAN",
+              "birthStateProvince": {
+                "default": "BC"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8475191,
+            "fullName": "Reilly Smith",
+            "sweaterNumber": 19,
+            "position": "R",
+            "shootsCatches": "L",
+            "heightInInches": 73,
+            "weightInPounds": 185,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8475191,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8475191.png",
+              "firstName": {
+                "default": "Reilly"
+              },
+              "lastName": {
+                "default": "Smith"
+              },
+              "sweaterNumber": 19,
+              "positionCode": "R",
+              "shootsCatches": "L",
+              "heightInInches": 73,
+              "weightInPounds": 185,
+              "heightInCentimeters": 185,
+              "weightInKilograms": 84,
+              "birthDate": "1991-04-01",
+              "birthCity": {
+                "default": "Mimico"
+              },
+              "birthCountry": "CAN",
+              "birthStateProvince": {
+                "default": "ON"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8475913,
+            "fullName": "Mark Stone",
+            "sweaterNumber": 61,
+            "position": "R",
+            "shootsCatches": "R",
+            "heightInInches": 75,
+            "weightInPounds": 210,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8475913,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8475913.png",
+              "firstName": {
+                "default": "Mark"
+              },
+              "lastName": {
+                "default": "Stone"
+              },
+              "sweaterNumber": 61,
+              "positionCode": "R",
+              "shootsCatches": "R",
+              "heightInInches": 75,
+              "weightInPounds": 210,
+              "heightInCentimeters": 191,
+              "weightInKilograms": 95,
+              "birthDate": "1992-05-13",
+              "birthCity": {
+                "default": "Winnipeg"
+              },
+              "birthCountry": "CAN",
+              "birthStateProvince": {
+                "default": "MB"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8478397,
+            "fullName": "Rasmus Andersson",
+            "sweaterNumber": 4,
+            "position": "D",
+            "shootsCatches": "R",
+            "heightInInches": 73,
+            "weightInPounds": 202,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8478397,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8478397.png",
+              "firstName": {
+                "default": "Rasmus"
+              },
+              "lastName": {
+                "default": "Andersson"
+              },
+              "sweaterNumber": 4,
+              "positionCode": "D",
+              "shootsCatches": "R",
+              "heightInInches": 73,
+              "weightInPounds": 202,
+              "heightInCentimeters": 185,
+              "weightInKilograms": 92,
+              "birthDate": "1996-10-27",
+              "birthCity": {
+                "default": "Malmo"
+              },
+              "birthCountry": "SWE"
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8478396,
+            "fullName": "Noah Hanifin",
+            "sweaterNumber": 15,
+            "position": "D",
+            "shootsCatches": "L",
+            "heightInInches": 75,
+            "weightInPounds": 206,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8478396,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8478396.png",
+              "firstName": {
+                "default": "Noah"
+              },
+              "lastName": {
+                "default": "Hanifin"
+              },
+              "sweaterNumber": 15,
+              "positionCode": "D",
+              "shootsCatches": "L",
+              "heightInInches": 75,
+              "weightInPounds": 206,
+              "heightInCentimeters": 191,
+              "weightInKilograms": 93,
+              "birthDate": "1997-01-25",
+              "birthCity": {
+                "default": "Boston"
+              },
+              "birthCountry": "USA",
+              "birthStateProvince": {
+                "default": "MA"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8477018,
+            "fullName": "Ben Hutton",
+            "sweaterNumber": 17,
+            "position": "D",
+            "shootsCatches": "L",
+            "heightInInches": 75,
+            "weightInPounds": 209,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8477018,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8477018.png",
+              "firstName": {
+                "default": "Ben"
+              },
+              "lastName": {
+                "default": "Hutton"
+              },
+              "sweaterNumber": 17,
+              "positionCode": "D",
+              "shootsCatches": "L",
+              "heightInInches": 75,
+              "weightInPounds": 209,
+              "heightInCentimeters": 191,
+              "weightInKilograms": 95,
+              "birthDate": "1993-04-20",
+              "birthCity": {
+                "default": "Brockville"
+              },
+              "birthCountry": "CAN",
+              "birthStateProvince": {
+                "default": "ON"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8481527,
+            "fullName": "Kaedan Korczak",
+            "sweaterNumber": 6,
+            "position": "D",
+            "shootsCatches": "R",
+            "heightInInches": 75,
+            "weightInPounds": 206,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8481527,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8481527.png",
+              "firstName": {
+                "default": "Kaedan"
+              },
+              "lastName": {
+                "default": "Korczak"
+              },
+              "sweaterNumber": 6,
+              "positionCode": "D",
+              "shootsCatches": "R",
+              "heightInInches": 75,
+              "weightInPounds": 206,
+              "heightInCentimeters": 191,
+              "weightInKilograms": 93,
+              "birthDate": "2001-01-29",
+              "birthCity": {
+                "default": "Yorkton"
+              },
+              "birthCountry": "CAN",
+              "birthStateProvince": {
+                "default": "SK"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8478468,
+            "fullName": "Jeremy Lauzon",
+            "sweaterNumber": 5,
+            "position": "D",
+            "shootsCatches": "L",
+            "heightInInches": 75,
+            "weightInPounds": 225,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8478468,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8478468.png",
+              "firstName": {
+                "default": "Jeremy"
+              },
+              "lastName": {
+                "default": "Lauzon"
+              },
+              "sweaterNumber": 5,
+              "positionCode": "D",
+              "shootsCatches": "L",
+              "heightInInches": 75,
+              "weightInPounds": 225,
+              "heightInCentimeters": 191,
+              "weightInKilograms": 102,
+              "birthDate": "1997-04-28",
+              "birthCity": {
+                "default": "Val-d'Or"
+              },
+              "birthCountry": "CAN",
+              "birthStateProvince": {
+                "default": "QC"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8475188,
+            "fullName": "Brayden McNabb",
+            "sweaterNumber": 3,
+            "position": "D",
+            "shootsCatches": "L",
+            "heightInInches": 76,
+            "weightInPounds": 215,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8475188,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8475188.png",
+              "firstName": {
+                "default": "Brayden"
+              },
+              "lastName": {
+                "default": "McNabb"
+              },
+              "sweaterNumber": 3,
+              "positionCode": "D",
+              "shootsCatches": "L",
+              "heightInInches": 76,
+              "weightInPounds": 215,
+              "heightInCentimeters": 193,
+              "weightInKilograms": 98,
+              "birthDate": "1991-01-21",
+              "birthCity": {
+                "default": "Davidson"
+              },
+              "birthCountry": "CAN",
+              "birthStateProvince": {
+                "default": "SK"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8477447,
+            "fullName": "Shea Theodore",
+            "sweaterNumber": 27,
+            "position": "D",
+            "shootsCatches": "L",
+            "heightInInches": 74,
+            "weightInPounds": 197,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8477447,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8477447.png",
+              "firstName": {
+                "default": "Shea"
+              },
+              "lastName": {
+                "default": "Theodore"
+              },
+              "sweaterNumber": 27,
+              "positionCode": "D",
+              "shootsCatches": "L",
+              "heightInInches": 74,
+              "weightInPounds": 197,
+              "heightInCentimeters": 188,
+              "weightInKilograms": 89,
+              "birthDate": "1995-08-03",
+              "birthCity": {
+                "default": "Aldergrove"
+              },
+              "birthCountry": "CAN",
+              "birthStateProvince": {
+                "default": "BC"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8479394,
+            "fullName": "Carter Hart",
+            "sweaterNumber": 79,
+            "position": "G",
+            "shootsCatches": "L",
+            "heightInInches": 74,
+            "weightInPounds": 196,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8479394,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8479394.png",
+              "firstName": {
+                "default": "Carter"
+              },
+              "lastName": {
+                "default": "Hart"
+              },
+              "sweaterNumber": 79,
+              "positionCode": "G",
+              "shootsCatches": "L",
+              "heightInInches": 74,
+              "weightInPounds": 196,
+              "heightInCentimeters": 188,
+              "weightInKilograms": 89,
+              "birthDate": "1998-08-13",
+              "birthCity": {
+                "default": "Sherwood Park"
+              },
+              "birthCountry": "CAN",
+              "birthStateProvince": {
+                "default": "AB"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8478499,
+            "fullName": "Adin Hill",
+            "sweaterNumber": 33,
+            "position": "G",
+            "shootsCatches": "L",
+            "heightInInches": 76,
+            "weightInPounds": 222,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8478499,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8478499.png",
+              "firstName": {
+                "default": "Adin"
+              },
+              "lastName": {
+                "default": "Hill"
+              },
+              "sweaterNumber": 33,
+              "positionCode": "G",
+              "shootsCatches": "L",
+              "heightInInches": 76,
+              "weightInPounds": 222,
+              "heightInCentimeters": 193,
+              "weightInKilograms": 101,
+              "birthDate": "1996-05-11",
+              "birthCity": {
+                "default": "Comox"
+              },
+              "birthCountry": "CAN",
+              "birthStateProvince": {
+                "default": "BC"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8481033,
+            "fullName": "Akira Schmid",
+            "sweaterNumber": 40,
+            "position": "G",
+            "shootsCatches": "L",
+            "heightInInches": 77,
+            "weightInPounds": 190,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8481033,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8481033.png",
+              "firstName": {
+                "default": "Akira"
+              },
+              "lastName": {
+                "default": "Schmid"
+              },
+              "sweaterNumber": 40,
+              "positionCode": "G",
+              "shootsCatches": "L",
+              "heightInInches": 77,
+              "weightInPounds": 190,
+              "heightInCentimeters": 196,
+              "weightInKilograms": 86,
+              "birthDate": "2000-05-12",
+              "birthCity": {
+                "default": "Bern",
+                "fr": "Berne"
+              },
+              "birthCountry": "CHE"
+            },
+            "seasonStats": null
+          }
+        ]
+      },
+      "awayTeam": {
+        "id": 26,
+        "abbrev": "LAK",
+        "name": "Los Angeles Kings",
+        "record": null,
+        "score": 4,
+        "roster": [
+          {
+            "playerId": 8476469,
+            "fullName": "Joel Armia",
+            "sweaterNumber": 40,
+            "position": "R",
+            "shootsCatches": "R",
+            "heightInInches": 75,
+            "weightInPounds": 215,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8476469,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/LAK/8476469.png",
+              "firstName": {
+                "default": "Joel"
+              },
+              "lastName": {
+                "default": "Armia"
+              },
+              "sweaterNumber": 40,
+              "positionCode": "R",
+              "shootsCatches": "R",
+              "heightInInches": 75,
+              "weightInPounds": 215,
+              "heightInCentimeters": 191,
+              "weightInKilograms": 98,
+              "birthDate": "1993-05-31",
+              "birthCity": {
+                "default": "Pori",
+                "sv": "Bj\u00f6rneborg"
+              },
+              "birthCountry": "FIN"
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8482124,
+            "fullName": "Quinton Byfield",
+            "sweaterNumber": 55,
+            "position": "R",
+            "shootsCatches": "L",
+            "heightInInches": 77,
+            "weightInPounds": 230,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8482124,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/LAK/8482124.png",
+              "firstName": {
+                "default": "Quinton"
+              },
+              "lastName": {
+                "default": "Byfield"
+              },
+              "sweaterNumber": 55,
+              "positionCode": "R",
+              "shootsCatches": "L",
+              "heightInInches": 77,
+              "weightInPounds": 230,
+              "heightInCentimeters": 196,
+              "weightInKilograms": 104,
+              "birthDate": "2002-08-19",
+              "birthCity": {
+                "default": "Newmarket"
+              },
+              "birthCountry": "CAN",
+              "birthStateProvince": {
+                "default": "ON"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8477942,
+            "fullName": "Kevin Fiala",
+            "sweaterNumber": 22,
+            "position": "L",
+            "shootsCatches": "L",
+            "heightInInches": 72,
+            "weightInPounds": 205,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8477942,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/LAK/8477942.png",
+              "firstName": {
+                "default": "Kevin"
+              },
+              "lastName": {
+                "default": "Fiala"
+              },
+              "sweaterNumber": 22,
+              "positionCode": "L",
+              "shootsCatches": "L",
+              "heightInInches": 72,
+              "weightInPounds": 205,
+              "heightInCentimeters": 183,
+              "weightInKilograms": 93,
+              "birthDate": "1996-07-22",
+              "birthCity": {
+                "default": "St. Gallen"
+              },
+              "birthCountry": "CHE"
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8477998,
+            "fullName": "Warren Foegele",
+            "sweaterNumber": 37,
+            "position": "L",
+            "shootsCatches": "L",
+            "heightInInches": 74,
+            "weightInPounds": 205,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8477998,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/LAK/8477998.png",
+              "firstName": {
+                "default": "Warren"
+              },
+              "lastName": {
+                "default": "Foegele"
+              },
+              "sweaterNumber": 37,
+              "positionCode": "L",
+              "shootsCatches": "L",
+              "heightInInches": 74,
+              "weightInPounds": 205,
+              "heightInCentimeters": 188,
+              "weightInKilograms": 93,
+              "birthDate": "1996-04-01",
+              "birthCity": {
+                "default": "Markham"
+              },
+              "birthCountry": "CAN",
+              "birthStateProvince": {
+                "default": "ON"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8482726,
+            "fullName": "Samuel Helenius",
+            "sweaterNumber": 79,
+            "position": "C",
+            "shootsCatches": "L",
+            "heightInInches": 78,
+            "weightInPounds": 225,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8482726,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/LAK/8482726.png",
+              "firstName": {
+                "default": "Samuel"
+              },
+              "lastName": {
+                "default": "Helenius"
+              },
+              "sweaterNumber": 79,
+              "positionCode": "C",
+              "shootsCatches": "L",
+              "heightInInches": 78,
+              "weightInPounds": 225,
+              "heightInCentimeters": 198,
+              "weightInKilograms": 102,
+              "birthDate": "2002-11-26",
+              "birthCity": {
+                "default": "Dallas"
+              },
+              "birthCountry": "USA",
+              "birthStateProvince": {
+                "default": "TX"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8477960,
+            "fullName": "Adrian Kempe",
+            "sweaterNumber": 9,
+            "position": "R",
+            "shootsCatches": "L",
+            "heightInInches": 74,
+            "weightInPounds": 205,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8477960,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/LAK/8477960.png",
+              "firstName": {
+                "default": "Adrian"
+              },
+              "lastName": {
+                "default": "Kempe"
+              },
+              "sweaterNumber": 9,
+              "positionCode": "R",
+              "shootsCatches": "L",
+              "heightInInches": 74,
+              "weightInPounds": 205,
+              "heightInCentimeters": 188,
+              "weightInKilograms": 93,
+              "birthDate": "1996-09-13",
+              "birthCity": {
+                "default": "Kramfors"
+              },
+              "birthCountry": "SWE"
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8471685,
+            "fullName": "Anze Kopitar",
+            "sweaterNumber": 11,
+            "position": "C",
+            "shootsCatches": "L",
+            "heightInInches": 75,
+            "weightInPounds": 225,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8471685,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/LAK/8471685.png",
+              "firstName": {
+                "default": "Anze",
+                "cs": "An\u017ee",
+                "sk": "An\u017ee"
+              },
+              "lastName": {
+                "default": "Kopitar"
+              },
+              "sweaterNumber": 11,
+              "positionCode": "C",
+              "shootsCatches": "L",
+              "heightInInches": 75,
+              "weightInPounds": 225,
+              "heightInCentimeters": 191,
+              "weightInKilograms": 102,
+              "birthDate": "1987-08-24",
+              "birthCity": {
+                "default": "Jesenice"
+              },
+              "birthCountry": "SVN"
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8483808,
+            "fullName": "Andrei Kuzmenko",
+            "sweaterNumber": 96,
+            "position": "L",
+            "shootsCatches": "R",
+            "heightInInches": 71,
+            "weightInPounds": 200,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8483808,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/LAK/8483808.png",
+              "firstName": {
+                "default": "Andrei",
+                "cs": "Andrej",
+                "sk": "Andrej"
+              },
+              "lastName": {
+                "default": "Kuzmenko"
+              },
+              "sweaterNumber": 96,
+              "positionCode": "L",
+              "shootsCatches": "R",
+              "heightInInches": 71,
+              "weightInPounds": 200,
+              "heightInCentimeters": 180,
+              "weightInKilograms": 91,
+              "birthDate": "1996-02-04",
+              "birthCity": {
+                "default": "Yakutsk",
+                "cs": "Jakutsk",
+                "fi": "Jakutsk",
+                "sk": "Jakutsk"
+              },
+              "birthCountry": "RUS"
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8482155,
+            "fullName": "Alex Laferriere",
+            "sweaterNumber": 14,
+            "position": "R",
+            "shootsCatches": "R",
+            "heightInInches": 73,
+            "weightInPounds": 205,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8482155,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/LAK/8482155.png",
+              "firstName": {
+                "default": "Alex"
+              },
+              "lastName": {
+                "default": "Laferriere"
+              },
+              "sweaterNumber": 14,
+              "positionCode": "R",
+              "shootsCatches": "R",
+              "heightInInches": 73,
+              "weightInPounds": 205,
+              "heightInCentimeters": 185,
+              "weightInKilograms": 93,
+              "birthDate": "2001-10-28",
+              "birthCity": {
+                "default": "Chatham"
+              },
+              "birthCountry": "USA",
+              "birthStateProvince": {
+                "default": "NJ"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8481732,
+            "fullName": "Andre Lee",
+            "sweaterNumber": 47,
+            "position": "L",
+            "shootsCatches": "L",
+            "heightInInches": 76,
+            "weightInPounds": 210,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8481732,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/LAK/8481732.png",
+              "firstName": {
+                "default": "Andre"
+              },
+              "lastName": {
+                "default": "Lee"
+              },
+              "sweaterNumber": 47,
+              "positionCode": "L",
+              "shootsCatches": "L",
+              "heightInInches": 76,
+              "weightInPounds": 210,
+              "heightInCentimeters": 193,
+              "weightInKilograms": 95,
+              "birthDate": "2000-07-26",
+              "birthCity": {
+                "default": "Karlstad"
+              },
+              "birthCountry": "SWE"
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8482408,
+            "fullName": "Jeff Malott",
+            "sweaterNumber": 39,
+            "position": "L",
+            "shootsCatches": "L",
+            "heightInInches": 77,
+            "weightInPounds": 215,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8482408,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/LAK/8482408.png",
+              "firstName": {
+                "default": "Jeff"
+              },
+              "lastName": {
+                "default": "Malott",
+                "cs": "Malottt",
+                "de": "Malottt",
+                "es": "Malottt",
+                "fi": "Malottt",
+                "sk": "Malottt",
+                "sv": "Malottt"
+              },
+              "sweaterNumber": 39,
+              "positionCode": "L",
+              "shootsCatches": "L",
+              "heightInInches": 77,
+              "weightInPounds": 215,
+              "heightInCentimeters": 196,
+              "weightInKilograms": 98,
+              "birthDate": "1996-08-07",
+              "birthCity": {
+                "default": "Burlington"
+              },
+              "birthCountry": "CAN",
+              "birthStateProvince": {
+                "default": "ON"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8479675,
+            "fullName": "Trevor Moore",
+            "sweaterNumber": 12,
+            "position": "L",
+            "shootsCatches": "L",
+            "heightInInches": 71,
+            "weightInPounds": 195,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8479675,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/LAK/8479675.png",
+              "firstName": {
+                "default": "Trevor"
+              },
+              "lastName": {
+                "default": "Moore"
+              },
+              "sweaterNumber": 12,
+              "positionCode": "L",
+              "shootsCatches": "L",
+              "heightInInches": 71,
+              "weightInPounds": 195,
+              "heightInCentimeters": 180,
+              "weightInKilograms": 88,
+              "birthDate": "1995-03-31",
+              "birthCity": {
+                "default": "Thousand Oaks"
+              },
+              "birthCountry": "USA",
+              "birthStateProvince": {
+                "default": "CA"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8478550,
+            "fullName": "Artemi Panarin",
+            "sweaterNumber": null,
+            "position": "C",
+            "shootsCatches": "R",
+            "heightInInches": 72,
+            "weightInPounds": 176,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8478550,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/LAK/8478550.png",
+              "firstName": {
+                "default": "Artemi",
+                "cs": "Art\u011bmij",
+                "sk": "Artemij"
+              },
+              "lastName": {
+                "default": "Panarin"
+              },
+              "positionCode": "C",
+              "shootsCatches": "R",
+              "heightInInches": 72,
+              "weightInPounds": 176,
+              "heightInCentimeters": 183,
+              "weightInKilograms": 80,
+              "birthDate": "1991-10-30",
+              "birthCity": {
+                "default": "Korkino"
+              },
+              "birthCountry": "RUS"
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8470621,
+            "fullName": "Corey Perry",
+            "sweaterNumber": 10,
+            "position": "R",
+            "shootsCatches": "R",
+            "heightInInches": 75,
+            "weightInPounds": 210,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8470621,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/LAK/8470621.png",
+              "firstName": {
+                "default": "Corey"
+              },
+              "lastName": {
+                "default": "Perry"
+              },
+              "sweaterNumber": 10,
+              "positionCode": "R",
+              "shootsCatches": "R",
+              "heightInInches": 75,
+              "weightInPounds": 210,
+              "heightInCentimeters": 191,
+              "weightInKilograms": 95,
+              "birthDate": "1985-05-16",
+              "birthCity": {
+                "default": "Peterborough"
+              },
+              "birthCountry": "CAN",
+              "birthStateProvince": {
+                "default": "ON"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8481532,
+            "fullName": "Alex Turcotte",
+            "sweaterNumber": 15,
+            "position": "C",
+            "shootsCatches": "L",
+            "heightInInches": 71,
+            "weightInPounds": 195,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8481532,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/LAK/8481532.png",
+              "firstName": {
+                "default": "Alex"
+              },
+              "lastName": {
+                "default": "Turcotte"
+              },
+              "sweaterNumber": 15,
+              "positionCode": "C",
+              "shootsCatches": "L",
+              "heightInInches": 71,
+              "weightInPounds": 195,
+              "heightInCentimeters": 180,
+              "weightInKilograms": 88,
+              "birthDate": "2001-02-26",
+              "birthCity": {
+                "default": "Elk Grove"
+              },
+              "birthCountry": "USA",
+              "birthStateProvince": {
+                "default": "IL"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8483406,
+            "fullName": "Taylor Ward",
+            "sweaterNumber": 52,
+            "position": "R",
+            "shootsCatches": "R",
+            "heightInInches": 74,
+            "weightInPounds": 215,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8483406,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/LAK/8483406.png",
+              "firstName": {
+                "default": "Taylor"
+              },
+              "lastName": {
+                "default": "Ward"
+              },
+              "sweaterNumber": 52,
+              "positionCode": "R",
+              "shootsCatches": "R",
+              "heightInInches": 74,
+              "weightInPounds": 215,
+              "heightInCentimeters": 188,
+              "weightInKilograms": 98,
+              "birthDate": "1998-03-31",
+              "birthCity": {
+                "default": "Kelowna"
+              },
+              "birthCountry": "CAN",
+              "birthStateProvince": {
+                "default": "BC"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8479998,
+            "fullName": "Mikey Anderson",
+            "sweaterNumber": 44,
+            "position": "D",
+            "shootsCatches": "L",
+            "heightInInches": 72,
+            "weightInPounds": 195,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8479998,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/LAK/8479998.png",
+              "firstName": {
+                "default": "Mikey",
+                "cs": "Michael",
+                "de": "Michael",
+                "fi": "Michael",
+                "sk": "Michael",
+                "sv": "Michael"
+              },
+              "lastName": {
+                "default": "Anderson"
+              },
+              "sweaterNumber": 44,
+              "positionCode": "D",
+              "shootsCatches": "L",
+              "heightInInches": 72,
+              "weightInPounds": 195,
+              "heightInCentimeters": 183,
+              "weightInKilograms": 88,
+              "birthDate": "1999-05-25",
+              "birthCity": {
+                "default": "Roseville"
+              },
+              "birthCountry": "USA",
+              "birthStateProvince": {
+                "default": "MN"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8476879,
+            "fullName": "Cody Ceci",
+            "sweaterNumber": 5,
+            "position": "D",
+            "shootsCatches": "R",
+            "heightInInches": 75,
+            "weightInPounds": 210,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8476879,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/LAK/8476879.png",
+              "firstName": {
+                "default": "Cody"
+              },
+              "lastName": {
+                "default": "Ceci"
+              },
+              "sweaterNumber": 5,
+              "positionCode": "D",
+              "shootsCatches": "R",
+              "heightInInches": 75,
+              "weightInPounds": 210,
+              "heightInCentimeters": 191,
+              "weightInKilograms": 95,
+              "birthDate": "1993-12-21",
+              "birthCity": {
+                "default": "Ottawa"
+              },
+              "birthCountry": "CAN",
+              "birthStateProvince": {
+                "default": "ON"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8482730,
+            "fullName": "Brandt Clarke",
+            "sweaterNumber": 92,
+            "position": "D",
+            "shootsCatches": "R",
+            "heightInInches": 74,
+            "weightInPounds": 200,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8482730,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/LAK/8482730.png",
+              "firstName": {
+                "default": "Brandt"
+              },
+              "lastName": {
+                "default": "Clarke"
+              },
+              "sweaterNumber": 92,
+              "positionCode": "D",
+              "shootsCatches": "R",
+              "heightInInches": 74,
+              "weightInPounds": 200,
+              "heightInCentimeters": 188,
+              "weightInKilograms": 91,
+              "birthDate": "2003-02-09",
+              "birthCity": {
+                "default": "Nepean"
+              },
+              "birthCountry": "CAN",
+              "birthStateProvince": {
+                "default": "ON"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8474563,
+            "fullName": "Drew Doughty",
+            "sweaterNumber": 8,
+            "position": "D",
+            "shootsCatches": "R",
+            "heightInInches": 73,
+            "weightInPounds": 210,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8474563,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/LAK/8474563.png",
+              "firstName": {
+                "default": "Drew"
+              },
+              "lastName": {
+                "default": "Doughty"
+              },
+              "sweaterNumber": 8,
+              "positionCode": "D",
+              "shootsCatches": "R",
+              "heightInInches": 73,
+              "weightInPounds": 210,
+              "heightInCentimeters": 185,
+              "weightInKilograms": 95,
+              "birthDate": "1989-12-08",
+              "birthCity": {
+                "default": "London",
+                "sk": "Lond\u00fdn"
+              },
+              "birthCountry": "CAN",
+              "birthStateProvince": {
+                "default": "ON"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8475208,
+            "fullName": "Brian Dumoulin",
+            "sweaterNumber": 2,
+            "position": "D",
+            "shootsCatches": "L",
+            "heightInInches": 76,
+            "weightInPounds": 215,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8475208,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/LAK/8475208.png",
+              "firstName": {
+                "default": "Brian"
+              },
+              "lastName": {
+                "default": "Dumoulin"
+              },
+              "sweaterNumber": 2,
+              "positionCode": "D",
+              "shootsCatches": "L",
+              "heightInInches": 76,
+              "weightInPounds": 215,
+              "heightInCentimeters": 193,
+              "weightInKilograms": 98,
+              "birthDate": "1991-09-06",
+              "birthCity": {
+                "default": "Biddeford"
+              },
+              "birthCountry": "USA",
+              "birthStateProvince": {
+                "default": "ME"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8476441,
+            "fullName": "Joel Edmundson",
+            "sweaterNumber": 6,
+            "position": "D",
+            "shootsCatches": "L",
+            "heightInInches": 77,
+            "weightInPounds": 220,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8476441,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/LAK/8476441.png",
+              "firstName": {
+                "default": "Joel"
+              },
+              "lastName": {
+                "default": "Edmundson"
+              },
+              "sweaterNumber": 6,
+              "positionCode": "D",
+              "shootsCatches": "L",
+              "heightInInches": 77,
+              "weightInPounds": 220,
+              "heightInCentimeters": 196,
+              "weightInKilograms": 100,
+              "birthDate": "1993-06-28",
+              "birthCity": {
+                "default": "Brandon"
+              },
+              "birthCountry": "CAN",
+              "birthStateProvince": {
+                "default": "MB"
+              }
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8479421,
+            "fullName": "Jacob Moverare",
+            "sweaterNumber": 43,
+            "position": "D",
+            "shootsCatches": "L",
+            "heightInInches": 75,
+            "weightInPounds": 205,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8479421,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/LAK/8479421.png",
+              "firstName": {
+                "default": "Jacob"
+              },
+              "lastName": {
+                "default": "Moverare"
+              },
+              "sweaterNumber": 43,
+              "positionCode": "D",
+              "shootsCatches": "L",
+              "heightInInches": 75,
+              "weightInPounds": 205,
+              "heightInCentimeters": 191,
+              "weightInKilograms": 93,
+              "birthDate": "1998-08-31",
+              "birthCity": {
+                "default": "Ostersund",
+                "fi": "\u00d6stersund",
+                "sv": "\u00d6stersund"
+              },
+              "birthCountry": "SWE"
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8476341,
+            "fullName": "Anton Forsberg",
+            "sweaterNumber": 31,
+            "position": "G",
+            "shootsCatches": "L",
+            "heightInInches": 75,
+            "weightInPounds": 200,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8476341,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/LAK/8476341.png",
+              "firstName": {
+                "default": "Anton"
+              },
+              "lastName": {
+                "default": "Forsberg"
+              },
+              "sweaterNumber": 31,
+              "positionCode": "G",
+              "shootsCatches": "L",
+              "heightInInches": 75,
+              "weightInPounds": 200,
+              "heightInCentimeters": 191,
+              "weightInKilograms": 91,
+              "birthDate": "1992-11-27",
+              "birthCity": {
+                "default": "H\u00e4rn\u00f6sand"
+              },
+              "birthCountry": "SWE"
+            },
+            "seasonStats": null
+          },
+          {
+            "playerId": 8475311,
+            "fullName": "Darcy Kuemper",
+            "sweaterNumber": 35,
+            "position": "G",
+            "shootsCatches": "L",
+            "heightInInches": 77,
+            "weightInPounds": 215,
+            "age": null,
+            "isCaptain": false,
+            "isRookie": false,
+            "raw": {
+              "id": 8475311,
+              "headshot": "https://assets.nhle.com/mugs/nhl/20252026/LAK/8475311.png",
+              "firstName": {
+                "default": "Darcy"
+              },
+              "lastName": {
+                "default": "Kuemper"
+              },
+              "sweaterNumber": 35,
+              "positionCode": "G",
+              "shootsCatches": "L",
+              "heightInInches": 77,
+              "weightInPounds": 215,
+              "heightInCentimeters": 196,
+              "weightInKilograms": 98,
+              "birthDate": "1990-05-05",
+              "birthCity": {
+                "default": "Saskatoon"
+              },
+              "birthCountry": "CAN",
+              "birthStateProvince": {
+                "default": "SK"
+              }
+            },
+            "seasonStats": null
+          }
+        ]
+      }
+    }
+  ]
+}

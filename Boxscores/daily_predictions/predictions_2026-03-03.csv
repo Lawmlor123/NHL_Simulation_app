@@ -1,0 +1,12 @@
+prediction_date,away_team,home_team,pick,pick_side,confidence,conf_label,pick_ml,pick_decimal,market_implied,edge,ev_per_100,kelly,half_kelly,suggested_units,home_goalie,away_goalie,home_goalie_status,away_goalie_status,result,winner,home_score,away_score,profit_flat,profit_units
+2026-03-03,PIT,BOS,BOS,HOME,0.5631,★   LOW,-120,1.8333,0.5455,0.0177,3.24,0.03889999911189079,0.019500000402331352,1.0,Jeremy Swayman,Stuart Skinner,Confirmed,Fallback,,,,,,
+2026-03-03,VGK,BUF,BUF,HOME,0.5013,SKIP,-120,1.8333,0.5455,-0.0442,-8.1,0.0,0.0,0.0,Alex Lyon,Akira Schmid,Fallback,Likely,,,,,,
+2026-03-03,FLA,NJD,NJD,HOME,0.5239,★   LOW,-110,1.9091,0.5238,1e-04,0.01,9.999999747378752e-05,9.999999747378752e-05,0.5,Jacob Markstrom,Sergei Bobrovsky,Likely,Confirmed,,,,,,
+2026-03-03,UTA,WSH,WSH,HOME,0.5818,★★  MED,-125,1.8,0.5556,0.0263,4.73,0.05920000001788139,0.029600000008940697,1.0,Logan Thompson,Karel Vejmelka,Confirmed,Likely,,,,,,
+2026-03-03,NSH,CBJ,CBJ,HOME,0.5744,★   LOW,-148,1.6757,0.5968,-0.0224,-3.75,0.0,0.0,0.0,Jet Greaves,Justus Annunen,Unconfirmed,Unconfirmed,,,,,,
+2026-03-03,CHI,WPG,WPG,HOME,0.6504,★★★ HIGH,-162,1.6173,0.6183,0.032,5.18,0.08399999886751175,0.041999999433755875,2.0,Connor Hellebuyck,Spencer Knight,Confirmed,Confirmed,,,,,,
+2026-03-03,DAL,CGY,CGY,HOME,0.5493,★   LOW,100,2.0,0.5,0.0493,9.85,0.09849999845027924,0.049300000071525574,2.0,Dustin Wolf,Casey DeSmith,Confirmed,Confirmed,,,,,,
+2026-03-03,OTT,EDM,EDM,HOME,0.6841,★★★ HIGH,-130,1.7692,0.5652,0.1188,21.03,0.2732999920845032,0.13670000433921814,3.0,Connor Ingram,Linus Ullmark,Fallback,Confirmed,,,,,,
+2026-03-03,TBL,MIN,TBL,AWAY,0.5127,SKIP,-125,1.8,0.5556,-0.0428,-7.71,0.0,0.0,0.0,Filip Gustavsson,Andrei Vasilevskiy,Confirmed,Likely,,,,,,
+2026-03-03,COL,ANA,COL,AWAY,0.57,★   LOW,-155,1.6452,0.6078,-0.0378,-6.22,0.0,0.0,0.0,Lukas Dostal,Scott Wedgewood,Confirmed,Unconfirmed,,,,,,
+2026-03-03,MTL,SJS,SJS,HOME,0.5641,★   LOW,114,2.14,0.4673,0.0968,20.71,0.18170000612735748,0.09080000221729279,3.0,Yaroslav Askarov,Jakub Dobes,Likely,Confirmed,,,,,,

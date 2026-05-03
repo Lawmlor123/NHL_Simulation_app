@@ -1,0 +1,259 @@
+======================================================================
+NHL PREDICTIONS SCRIPT BRIEF — 2026-04-22
+Generated: 2026-04-22 10:28
+======================================================================
+
+INSTRUCTIONS FOR CLAUDE:
+Using the picks below, write a 2-3 minute YouTube script in a
+natural, conversational human voice. Include a couple of 'um'
+moments and natural pauses between sentences (use '...' for pauses
+and [pause] for longer beats). Sound like an enthusiastic hockey
+fan who knows their stats, not a robot. Start with tonight's games,
+then go through the top picks by category.
+
+──────────────────────────────────────────────────────────────────────
+TONIGHT'S GAMES:
+──────────────────────────────────────────────────────────────────────
+  • ANA @ EDM
+  • DAL @ MIN
+  • PIT @ PHI
+
+──────────────────────────────────────────────────────────────────────
+🥅 TOP GOAL SCORER PICKS (1+ Goals):
+──────────────────────────────────────────────────────────────────────
+   1. K. Kaprizov (MIN vs DAL) — 40.0% chance of scoring  🔥 HIGH CONFIDENCE
+       At home, facing Jake Oettinger | also 82.0% for a point
+   2. C. McDavid (EDM vs ANA) — 39.4% chance of scoring  ✅ STRONG PICK
+       At home, vs Ville Husso | also 85.7% for a point
+   3. L. Draisaitl (EDM vs ANA) — 39.4% chance of scoring  ✅ STRONG PICK
+       At home, vs Ville Husso | also 82.0% for a point
+   4. J. Eriksson Ek (MIN vs DAL) — 39.4% chance of scoring  ✅ STRONG PICK
+       At home, facing Jake Oettinger | also 60.0% for a point
+   5. M. Rantanen (DAL vs MIN) — 35.9% chance of scoring  ✅ STRONG PICK
+       On the road, vs Jesper Wallstedt | also 81.7% for a point
+   6. S. Crosby (PIT vs PHI) — 35.9% chance of scoring  ✅ STRONG PICK
+       On the road, facing Dan Vladar | also 80.0% for a point
+   7. Z. Hyman (EDM vs ANA) — 35.9% chance of scoring  ✅ STRONG PICK
+       At home, vs Ville Husso | also 65.3% for a point
+   8. M. Boldy (MIN vs DAL) — 35.9% chance of scoring  ✅ STRONG PICK
+       At home, facing Jake Oettinger | also 63.4% for a point
+   9. T. Konecny (PHI vs PIT) — 31.6% chance of scoring  📊 WORTH WATCHING
+       At home, facing Stuart Skinner | also 63.4% for a point
+  10. R. Nugent-Hopkins (EDM vs ANA) — 31.5% chance of scoring  📊 WORTH WATCHING
+       At home, vs Ville Husso | also 65.3% for a point
+
+──────────────────────────────────────────────────────────────────────
+📊 TOP POINT GETTER PICKS (1+ Points):
+──────────────────────────────────────────────────────────────────────
+   1. C. McDavid (EDM vs ANA) — 85.7% chance of a point  🔥 HIGH CONFIDENCE
+       At home, vs Ville Husso | goal 39.4% / assist 75.0%
+   2. K. Kaprizov (MIN vs DAL) — 82.0% chance of a point  🔥 HIGH CONFIDENCE
+       At home, facing Jake Oettinger | goal 40.0% / assist 54.5%
+   3. L. Draisaitl (EDM vs ANA) — 82.0% chance of a point  🔥 HIGH CONFIDENCE
+       At home, vs Ville Husso | goal 39.4% / assist 66.9%
+   4. M. Rantanen (DAL vs MIN) — 81.7% chance of a point  🔥 HIGH CONFIDENCE
+       On the road, vs Jesper Wallstedt | goal 35.9% / assist 54.5%
+   5. S. Crosby (PIT vs PHI) — 80.0% chance of a point  🔥 HIGH CONFIDENCE
+       On the road, facing Dan Vladar | goal 35.9% / assist 54.5%
+   6. E. Bouchard (EDM vs ANA) — 69.9% chance of a point  🔥 HIGH CONFIDENCE
+       At home, vs Ville Husso | goal 20.3% / assist 54.5%
+   7. Z. Hyman (EDM vs ANA) — 65.3% chance of a point  🔥 HIGH CONFIDENCE
+       At home, vs Ville Husso | goal 35.9% / assist 36.4%
+   8. R. Nugent-Hopkins (EDM vs ANA) — 65.3% chance of a point  🔥 HIGH CONFIDENCE
+       At home, vs Ville Husso | goal 31.5% / assist 48.5%
+   9. T. Konecny (PHI vs PIT) — 63.4% chance of a point  ✅ STRONG PICK
+       At home, facing Stuart Skinner | goal 31.6% / assist 40.1%
+  10. M. Boldy (MIN vs DAL) — 63.4% chance of a point  ✅ STRONG PICK
+       At home, facing Jake Oettinger | goal 35.9% / assist 48.5%
+
+──────────────────────────────────────────────────────────────────────
+🏒 TOP SHOT VOLUME PICKS (3+ Shots on Goal):
+──────────────────────────────────────────────────────────────────────
+   1. C. McDavid (EDM vs ANA) — 75.0% chance of 3+ shots  🔥 HIGH CONFIDENCE
+       At home | 4+ SOG: 44.6% | 5+ SOG: 26.5%
+   2. K. Kaprizov (MIN vs DAL) — 71.8% chance of 3+ shots  🔥 HIGH CONFIDENCE
+       At home | 4+ SOG: 46.7% | 5+ SOG: 26.5%
+   3. J. Eriksson Ek (MIN vs DAL) — 59.9% chance of 3+ shots  ✅ STRONG PICK
+       At home | 4+ SOG: 44.6% | 5+ SOG: 22.7%
+   4. L. Draisaitl (EDM vs ANA) — 56.7% chance of 3+ shots  ✅ STRONG PICK
+       At home | 4+ SOG: 33.8% | 5+ SOG: 20.9%
+   5. E. Bouchard (EDM vs ANA) — 56.7% chance of 3+ shots  ✅ STRONG PICK
+       At home | 4+ SOG: 33.8% | 5+ SOG: 18.1%
+   6. M. Boldy (MIN vs DAL) — 56.7% chance of 3+ shots  ✅ STRONG PICK
+       At home | 4+ SOG: 38.5% | 5+ SOG: 20.9%
+   7. S. Crosby (PIT vs PHI) — 53.1% chance of 3+ shots  📊 WORTH WATCHING
+       On the road | 4+ SOG: 32.6% | 5+ SOG: 15.3%
+   8. Z. Hyman (EDM vs ANA) — 53.1% chance of 3+ shots  📊 WORTH WATCHING
+       At home | 4+ SOG: 32.6% | 5+ SOG: 18.4%
+   9. J. Demers (EDM vs ANA) — 53.1% chance of 3+ shots  📊 WORTH WATCHING
+       At home | 4+ SOG: 32.6% | 5+ SOG: 20.9%
+  10. M. Rantanen (DAL vs MIN) — 51.1% chance of 3+ shots  📊 WORTH WATCHING
+       On the road | 4+ SOG: 29.7% | 5+ SOG: 15.3%
+
+======================================================================
+💰 TODAY'S PICKS ABOVE THRESHOLD (THE ACTUAL PICKS TO MENTION):
+======================================================================
+
+  1+ Points  (threshold: 55%):
+    ✅ C. McDavid (EDM vs ANA) — 85.7%
+       At home, vs Ville Husso
+    ✅ K. Kaprizov (MIN vs DAL) — 82.0%
+       At home, facing Jake Oettinger
+    ✅ L. Draisaitl (EDM vs ANA) — 82.0%
+       At home, vs Ville Husso
+    ✅ M. Rantanen (DAL vs MIN) — 81.7%
+       On the road, vs Jesper Wallstedt
+    ✅ S. Crosby (PIT vs PHI) — 80.0%
+       On the road, facing Dan Vladar
+    ✅ E. Bouchard (EDM vs ANA) — 69.9%
+       At home, vs Ville Husso
+    ✅ Z. Hyman (EDM vs ANA) — 65.3%
+       At home, vs Ville Husso
+    ✅ R. Nugent-Hopkins (EDM vs ANA) — 65.3%
+       At home, vs Ville Husso
+    ✅ T. Konecny (PHI vs PIT) — 63.4%
+       At home, facing Stuart Skinner
+    ✅ M. Boldy (MIN vs DAL) — 63.4%
+       At home, facing Jake Oettinger
+    ✅ M. Michkov (PHI vs PIT) — 60.0%
+       At home, facing Stuart Skinner
+    ✅ B. Rust (PIT vs PHI) — 60.0%
+       On the road, facing Dan Vladar
+    ✅ J. Demers (EDM vs ANA) — 60.0%
+       At home, vs Ville Husso
+    ✅ M. Zuccarello (MIN vs DAL) — 60.0%
+       At home, facing Jake Oettinger
+    ✅ J. Eriksson Ek (MIN vs DAL) — 60.0%
+       At home, facing Jake Oettinger
+    ✅ N. Clurman (PIT vs PHI) — 55.1%
+       On the road, facing Dan Vladar
+    ✅ M. Johnstone (PIT vs PHI) — 55.1%
+       On the road, facing Dan Vladar
+    ✅ M. Heiskanen (DAL vs MIN) — 55.1%
+       On the road, vs Jesper Wallstedt
+    ✅ J. Robertson (DAL vs MIN) — 55.1%
+       On the road, vs Jesper Wallstedt
+    ✅ W. Johnston (DAL vs MIN) — 55.1%
+       On the road, vs Jesper Wallstedt
+    ✅ R. Hintz (DAL vs MIN) — 55.1%
+       On the road, vs Jesper Wallstedt
+    ✅ T. Terry (ANA vs EDM) — 55.1%
+       On the road, facing Connor Ingram
+    ✅ R. Rakell (PIT vs PHI) — 55.1%
+       On the road, facing Dan Vladar
+    ✅ E. Karlsson (PIT vs PHI) — 55.1%
+       On the road, facing Dan Vladar
+    ✅ E. Malkin (PIT vs PHI) — 55.1%
+       On the road, facing Dan Vladar
+    ✅ D. Giroux (MIN vs DAL) — 55.1%
+       At home, facing Jake Oettinger
+    ✅ P. Kemp (EDM vs ANA) — 51.3%
+       At home, vs Ville Husso
+
+  1+ Goals  (threshold: 28%):
+    ✅ K. Kaprizov (MIN vs DAL) — 40.0%
+       At home, facing Jake Oettinger
+    ✅ C. McDavid (EDM vs ANA) — 39.4%
+       At home, vs Ville Husso
+    ✅ L. Draisaitl (EDM vs ANA) — 39.4%
+       At home, vs Ville Husso
+    ✅ J. Eriksson Ek (MIN vs DAL) — 39.4%
+       At home, facing Jake Oettinger
+    ✅ M. Rantanen (DAL vs MIN) — 35.9%
+       On the road, vs Jesper Wallstedt
+    ✅ Z. Hyman (EDM vs ANA) — 35.9%
+       At home, vs Ville Husso
+    ✅ S. Crosby (PIT vs PHI) — 35.9%
+       On the road, facing Dan Vladar
+    ✅ M. Boldy (MIN vs DAL) — 35.9%
+       At home, facing Jake Oettinger
+    ✅ T. Konecny (PHI vs PIT) — 31.6%
+       At home, facing Stuart Skinner
+    ✅ B. Rust (PIT vs PHI) — 31.5%
+       On the road, facing Dan Vladar
+    ✅ R. Nugent-Hopkins (EDM vs ANA) — 31.5%
+       At home, vs Ville Husso
+    ✅ R. Rakell (PIT vs PHI) — 31.5%
+       On the road, facing Dan Vladar
+    ✅ E. Kane (EDM vs ANA) — 31.3%
+       At home, vs Ville Husso
+    ✅ J. Robertson (DAL vs MIN) — 31.3%
+       On the road, vs Jesper Wallstedt
+    ✅ T. Foerster (PHI vs PIT) — 31.2%
+       At home, facing Stuart Skinner
+    ✅ E. Bouchard (EDM vs ANA) — 20.3%
+       At home, vs Ville Husso
+    ✅ J. Demers (EDM vs ANA) — 20.3%
+       At home, vs Ville Husso
+    ✅ N. Clurman (PIT vs PHI) — 20.3%
+       On the road, facing Dan Vladar
+    ✅ P. Kemp (EDM vs ANA) — 20.3%
+       At home, vs Ville Husso
+
+  1+ Assists  (threshold: 45%):
+    ✅ C. McDavid (EDM vs ANA) — 75.0%
+       At home, vs Ville Husso
+    ✅ L. Draisaitl (EDM vs ANA) — 66.9%
+       At home, vs Ville Husso
+    ✅ K. Kaprizov (MIN vs DAL) — 54.5%
+       At home, facing Jake Oettinger
+    ✅ M. Rantanen (DAL vs MIN) — 54.5%
+       On the road, vs Jesper Wallstedt
+    ✅ S. Crosby (PIT vs PHI) — 54.5%
+       On the road, facing Dan Vladar
+    ✅ E. Bouchard (EDM vs ANA) — 54.5%
+       At home, vs Ville Husso
+    ✅ R. Nugent-Hopkins (EDM vs ANA) — 48.5%
+       At home, vs Ville Husso
+    ✅ M. Boldy (MIN vs DAL) — 48.5%
+       At home, facing Jake Oettinger
+    ✅ J. Demers (EDM vs ANA) — 48.5%
+       At home, vs Ville Husso
+    ✅ M. Zuccarello (MIN vs DAL) — 48.5%
+       At home, facing Jake Oettinger
+    ✅ E. Karlsson (PIT vs PHI) — 48.5%
+       On the road, facing Dan Vladar
+    ✅ D. Giroux (MIN vs DAL) — 48.5%
+       At home, facing Jake Oettinger
+    ✅ M. Heiskanen (DAL vs MIN) — 45.8%
+       On the road, vs Jesper Wallstedt
+
+  3+ Shots on Goal  (threshold: 50%):
+    ✅ C. McDavid (EDM vs ANA) — 75.0%
+       At home, vs Ville Husso
+    ✅ K. Kaprizov (MIN vs DAL) — 71.8%
+       At home, facing Jake Oettinger
+    ✅ J. Eriksson Ek (MIN vs DAL) — 59.9%
+       At home, facing Jake Oettinger
+    ✅ L. Draisaitl (EDM vs ANA) — 56.7%
+       At home, vs Ville Husso
+    ✅ M. Boldy (MIN vs DAL) — 56.7%
+       At home, facing Jake Oettinger
+    ✅ E. Bouchard (EDM vs ANA) — 56.7%
+       At home, vs Ville Husso
+    ✅ Z. Hyman (EDM vs ANA) — 53.1%
+       At home, vs Ville Husso
+    ✅ S. Crosby (PIT vs PHI) — 53.1%
+       On the road, facing Dan Vladar
+    ✅ J. Demers (EDM vs ANA) — 53.1%
+       At home, vs Ville Husso
+    ✅ N. Clurman (PIT vs PHI) — 51.1%
+       On the road, facing Dan Vladar
+
+  4+ Shots on Goal  (threshold: 35%):
+    ✅ K. Kaprizov (MIN vs DAL) — 46.7%
+       At home, facing Jake Oettinger
+    ✅ C. McDavid (EDM vs ANA) — 44.6%
+       At home, vs Ville Husso
+    ✅ J. Eriksson Ek (MIN vs DAL) — 44.6%
+       At home, facing Jake Oettinger
+    ✅ M. Boldy (MIN vs DAL) — 38.5%
+       At home, facing Jake Oettinger
+    ✅ E. Bouchard (EDM vs ANA) — 33.8%
+       At home, vs Ville Husso
+    ✅ J. Demers (EDM vs ANA) — 32.6%
+       At home, vs Ville Husso
+
+======================================================================
+END OF BRIEF — PASTE ABOVE INTO CLAUDE TO GENERATE SCRIPT
+======================================================================

@@ -1,0 +1,232 @@
+======================================================================
+NHL PREDICTIONS SCRIPT BRIEF — 2026-03-25
+Generated: 2026-03-25 09:56
+======================================================================
+
+INSTRUCTIONS FOR CLAUDE:
+Using the picks below, write a 2-3 minute YouTube script in a
+natural, conversational human voice. Include a couple of 'um'
+moments and natural pauses between sentences (use '...' for pauses
+and [pause] for longer beats). Sound like an enthusiastic hockey
+fan who knows their stats, not a robot. Start with tonight's games,
+then go through the top picks by category.
+
+──────────────────────────────────────────────────────────────────────
+TONIGHT'S GAMES:
+──────────────────────────────────────────────────────────────────────
+  • BOS @ BUF
+  • NYR @ TOR
+
+──────────────────────────────────────────────────────────────────────
+🥅 TOP GOAL SCORER PICKS (1+ Goals):
+──────────────────────────────────────────────────────────────────────
+   1. J. Farinacci (BOS vs BUF) — 39.3% chance of scoring  ✅ STRONG PICK
+       On the road, vs Unknown | also 72.1% for a point
+   2. A. Matthews (TOR vs NYR) — 35.8% chance of scoring  ✅ STRONG PICK
+       At home, vs Unknown | also 72.1% for a point
+   3. D. Pastrnak (BOS vs BUF) — 35.8% chance of scoring  ✅ STRONG PICK
+       On the road, vs Unknown | also 68.0% for a point
+   4. W. Nylander (TOR vs NYR) — 35.8% chance of scoring  ✅ STRONG PICK
+       At home, vs Unknown | also 68.0% for a point
+   5. A. Panarin (NYR vs TOR) — 35.8% chance of scoring  ✅ STRONG PICK
+       On the road, vs Unknown | also 68.0% for a point
+   6. R. Nash (NYR vs TOR) — 35.8% chance of scoring  ✅ STRONG PICK
+       On the road, vs Unknown | also 65.5% for a point
+   7. T. Thompson (BUF vs BOS) — 35.8% chance of scoring  ✅ STRONG PICK
+       At home, vs Unknown | also 61.0% for a point
+   8. J. Tavares (TOR vs NYR) — 35.8% chance of scoring  ✅ STRONG PICK
+       At home, vs Unknown | also 58.1% for a point
+   9. A. Tuch (BUF vs BOS) — 34.2% chance of scoring  ✅ STRONG PICK
+       At home, vs Unknown | also 58.1% for a point
+  10. J. Quillan (TOR vs NYR) — 34.2% chance of scoring  ✅ STRONG PICK
+       At home, vs Unknown | also 55.0% for a point
+
+──────────────────────────────────────────────────────────────────────
+📊 TOP POINT GETTER PICKS (1+ Points):
+──────────────────────────────────────────────────────────────────────
+   1. A. Matthews (TOR vs NYR) — 72.1% chance of a point  🔥 HIGH CONFIDENCE
+       At home, vs Unknown | goal 35.8% / assist 48.8%
+   2. J. Farinacci (BOS vs BUF) — 72.1% chance of a point  🔥 HIGH CONFIDENCE
+       On the road, vs Unknown | goal 39.3% / assist 65.2%
+   3. D. Pastrnak (BOS vs BUF) — 68.0% chance of a point  🔥 HIGH CONFIDENCE
+       On the road, vs Unknown | goal 35.8% / assist 52.2%
+   4. W. Nylander (TOR vs NYR) — 68.0% chance of a point  🔥 HIGH CONFIDENCE
+       At home, vs Unknown | goal 35.8% / assist 48.8%
+   5. A. Panarin (NYR vs TOR) — 68.0% chance of a point  🔥 HIGH CONFIDENCE
+       On the road, vs Unknown | goal 35.8% / assist 52.2%
+   6. M. Marner (TOR vs NYR) — 66.3% chance of a point  🔥 HIGH CONFIDENCE
+       At home, vs Unknown | goal 27.5% / assist 60.6%
+   7. J. Miller (NYR vs TOR) — 66.3% chance of a point  🔥 HIGH CONFIDENCE
+       On the road, vs Unknown | goal 29.8% / assist 47.6%
+   8. R. Nash (NYR vs TOR) — 65.5% chance of a point  🔥 HIGH CONFIDENCE
+       On the road, vs Unknown | goal 35.8% / assist 52.2%
+   9. M. Zibanejad (NYR vs TOR) — 62.3% chance of a point  ✅ STRONG PICK
+       On the road, vs Unknown | goal 29.8% / assist 48.8%
+  10. T. Thompson (BUF vs BOS) — 61.0% chance of a point  ✅ STRONG PICK
+       At home, vs Unknown | goal 35.8% / assist 39.4%
+
+──────────────────────────────────────────────────────────────────────
+🏒 TOP SHOT VOLUME PICKS (3+ Shots on Goal):
+──────────────────────────────────────────────────────────────────────
+   1. A. Matthews (TOR vs NYR) — 70.5% chance of 3+ shots  🔥 HIGH CONFIDENCE
+       At home | 4+ SOG: 54.8% | 5+ SOG: 35.0%
+   2. J. Farinacci (BOS vs BUF) — 63.1% chance of 3+ shots  🔥 HIGH CONFIDENCE
+       On the road | 4+ SOG: 43.0% | 5+ SOG: 26.5%
+   3. D. Pastrnak (BOS vs BUF) — 63.1% chance of 3+ shots  🔥 HIGH CONFIDENCE
+       On the road | 4+ SOG: 41.2% | 5+ SOG: 26.5%
+   4. R. Nash (NYR vs TOR) — 63.1% chance of 3+ shots  🔥 HIGH CONFIDENCE
+       On the road | 4+ SOG: 38.8% | 5+ SOG: 20.6%
+   5. T. Thompson (BUF vs BOS) — 63.1% chance of 3+ shots  🔥 HIGH CONFIDENCE
+       At home | 4+ SOG: 42.0% | 5+ SOG: 26.5%
+   6. W. Nylander (TOR vs NYR) — 58.8% chance of 3+ shots  ✅ STRONG PICK
+       At home | 4+ SOG: 42.4% | 5+ SOG: 26.5%
+   7. R. Dahlin (BUF vs BOS) — 58.8% chance of 3+ shots  ✅ STRONG PICK
+       At home | 4+ SOG: 30.6% | 5+ SOG: 26.0%
+   8. J. Tavares (TOR vs NYR) — 58.8% chance of 3+ shots  ✅ STRONG PICK
+       At home | 4+ SOG: 38.8% | 5+ SOG: 20.6%
+   9. J. Davies (BUF vs BOS) — 54.5% chance of 3+ shots  📊 WORTH WATCHING
+       At home | 4+ SOG: 30.6% | 5+ SOG: 18.2%
+  10. A. Panarin (NYR vs TOR) — 53.8% chance of 3+ shots  📊 WORTH WATCHING
+       On the road | 4+ SOG: 34.9% | 5+ SOG: 18.2%
+
+======================================================================
+💰 TODAY'S PICKS ABOVE THRESHOLD (THE ACTUAL PICKS TO MENTION):
+======================================================================
+
+  1+ Points  (threshold: 55%):
+    ✅ A. Matthews (TOR vs NYR) — 72.1%
+       At home, vs Unknown
+    ✅ J. Farinacci (BOS vs BUF) — 72.1%
+       On the road, vs Unknown
+    ✅ D. Pastrnak (BOS vs BUF) — 68.0%
+       On the road, vs Unknown
+    ✅ W. Nylander (TOR vs NYR) — 68.0%
+       At home, vs Unknown
+    ✅ A. Panarin (NYR vs TOR) — 68.0%
+       On the road, vs Unknown
+    ✅ M. Marner (TOR vs NYR) — 66.3%
+       At home, vs Unknown
+    ✅ J. Miller (NYR vs TOR) — 66.3%
+       On the road, vs Unknown
+    ✅ R. Nash (NYR vs TOR) — 65.5%
+       On the road, vs Unknown
+    ✅ M. Zibanejad (NYR vs TOR) — 62.3%
+       On the road, vs Unknown
+    ✅ T. Thompson (BUF vs BOS) — 61.0%
+       At home, vs Unknown
+    ✅ R. Dahlin (BUF vs BOS) — 61.0%
+       At home, vs Unknown
+    ✅ V. Trocheck (NYR vs TOR) — 59.5%
+       On the road, vs Unknown
+    ✅ J. Tavares (TOR vs NYR) — 58.1%
+       At home, vs Unknown
+    ✅ A. Fox (NYR vs TOR) — 58.1%
+       On the road, vs Unknown
+    ✅ A. Tuch (BUF vs BOS) — 58.1%
+       At home, vs Unknown
+    ✅ J. Quillan (TOR vs NYR) — 55.0%
+       At home, vs Unknown
+    ✅ B. Scanlin (NYR vs TOR) — 55.0%
+       On the road, vs Unknown
+    ✅ J. Davies (BUF vs BOS) — 55.0%
+       At home, vs Unknown
+
+  1+ Goals  (threshold: 28%):
+    ✅ J. Farinacci (BOS vs BUF) — 39.3%
+       On the road, vs Unknown
+    ✅ A. Matthews (TOR vs NYR) — 35.8%
+       At home, vs Unknown
+    ✅ D. Pastrnak (BOS vs BUF) — 35.8%
+       On the road, vs Unknown
+    ✅ W. Nylander (TOR vs NYR) — 35.8%
+       At home, vs Unknown
+    ✅ A. Panarin (NYR vs TOR) — 35.8%
+       On the road, vs Unknown
+    ✅ R. Nash (NYR vs TOR) — 35.8%
+       On the road, vs Unknown
+    ✅ J. Tavares (TOR vs NYR) — 35.8%
+       At home, vs Unknown
+    ✅ T. Thompson (BUF vs BOS) — 35.8%
+       At home, vs Unknown
+    ✅ J. Quillan (TOR vs NYR) — 34.2%
+       At home, vs Unknown
+    ✅ A. Tuch (BUF vs BOS) — 34.2%
+       At home, vs Unknown
+    ✅ V. Trocheck (NYR vs TOR) — 29.9%
+       On the road, vs Unknown
+    ✅ J. Miller (NYR vs TOR) — 29.8%
+       On the road, vs Unknown
+    ✅ M. Zibanejad (NYR vs TOR) — 29.8%
+       On the road, vs Unknown
+    ✅ J. Peterka (BUF vs BOS) — 28.2%
+       At home, vs Unknown
+
+  1+ Assists  (threshold: 45%):
+    ✅ J. Farinacci (BOS vs BUF) — 65.2%
+       On the road, vs Unknown
+    ✅ M. Marner (TOR vs NYR) — 60.6%
+       At home, vs Unknown
+    ✅ A. Panarin (NYR vs TOR) — 52.2%
+       On the road, vs Unknown
+    ✅ R. Nash (NYR vs TOR) — 52.2%
+       On the road, vs Unknown
+    ✅ D. Pastrnak (BOS vs BUF) — 52.2%
+       On the road, vs Unknown
+    ✅ A. Fox (NYR vs TOR) — 51.7%
+       On the road, vs Unknown
+    ✅ R. Dahlin (BUF vs BOS) — 51.7%
+       At home, vs Unknown
+    ✅ W. Nylander (TOR vs NYR) — 48.8%
+       At home, vs Unknown
+    ✅ A. Matthews (TOR vs NYR) — 48.8%
+       At home, vs Unknown
+    ✅ M. Zibanejad (NYR vs TOR) — 48.8%
+       On the road, vs Unknown
+    ✅ J. Miller (NYR vs TOR) — 47.6%
+       On the road, vs Unknown
+    ✅ B. Scanlin (NYR vs TOR) — 45.9%
+       On the road, vs Unknown
+    ✅ J. Davies (BUF vs BOS) — 45.9%
+       At home, vs Unknown
+
+  3+ Shots on Goal  (threshold: 50%):
+    ✅ A. Matthews (TOR vs NYR) — 70.5%
+       At home, vs Unknown
+    ✅ J. Farinacci (BOS vs BUF) — 63.1%
+       On the road, vs Unknown
+    ✅ D. Pastrnak (BOS vs BUF) — 63.1%
+       On the road, vs Unknown
+    ✅ R. Nash (NYR vs TOR) — 63.1%
+       On the road, vs Unknown
+    ✅ T. Thompson (BUF vs BOS) — 63.1%
+       At home, vs Unknown
+    ✅ W. Nylander (TOR vs NYR) — 58.8%
+       At home, vs Unknown
+    ✅ J. Tavares (TOR vs NYR) — 58.8%
+       At home, vs Unknown
+    ✅ R. Dahlin (BUF vs BOS) — 58.8%
+       At home, vs Unknown
+    ✅ J. Davies (BUF vs BOS) — 54.5%
+       At home, vs Unknown
+    ✅ A. Panarin (NYR vs TOR) — 53.8%
+       On the road, vs Unknown
+
+  4+ Shots on Goal  (threshold: 35%):
+    ✅ A. Matthews (TOR vs NYR) — 54.8%
+       At home, vs Unknown
+    ✅ J. Farinacci (BOS vs BUF) — 43.0%
+       On the road, vs Unknown
+    ✅ W. Nylander (TOR vs NYR) — 42.4%
+       At home, vs Unknown
+    ✅ T. Thompson (BUF vs BOS) — 42.0%
+       At home, vs Unknown
+    ✅ D. Pastrnak (BOS vs BUF) — 41.2%
+       On the road, vs Unknown
+    ✅ R. Nash (NYR vs TOR) — 38.8%
+       On the road, vs Unknown
+    ✅ J. Tavares (TOR vs NYR) — 38.8%
+       At home, vs Unknown
+
+======================================================================
+END OF BRIEF — PASTE ABOVE INTO CLAUDE TO GENERATE SCRIPT
+======================================================================

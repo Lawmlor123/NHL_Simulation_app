@@ -1,0 +1,184 @@
+======================================================================
+NHL PREDICTIONS SCRIPT BRIEF — 2026-04-03
+Generated: 2026-04-03 10:28
+======================================================================
+
+INSTRUCTIONS FOR CLAUDE:
+Using the picks below, write a 2-3 minute YouTube script in a
+natural, conversational human voice. Include a couple of 'um'
+moments and natural pauses between sentences (use '...' for pauses
+and [pause] for longer beats). Sound like an enthusiastic hockey
+fan who knows their stats, not a robot. Start with tonight's games,
+then go through the top picks by category.
+
+──────────────────────────────────────────────────────────────────────
+TONIGHT'S GAMES:
+──────────────────────────────────────────────────────────────────────
+  • PHI @ NYI
+  • STL @ ANA
+
+──────────────────────────────────────────────────────────────────────
+🥅 TOP GOAL SCORER PICKS (1+ Goals):
+──────────────────────────────────────────────────────────────────────
+   1. T. Konecny (PHI vs NYI) — 39.4% chance of scoring  ✅ STRONG PICK
+       On the road, vs David Rittich | also 65.3% for a point
+   2. B. Horvat (NYI vs PHI) — 39.4% chance of scoring  ✅ STRONG PICK
+       At home, vs Dan Vladar | also 60.5% for a point
+   3. J. Kyrou (STL vs ANA) — 31.6% chance of scoring  📊 WORTH WATCHING
+       On the road, vs Ville Husso | also 56.2% for a point
+   4. T. Foerster (PHI vs NYI) — 31.6% chance of scoring  📊 WORTH WATCHING
+       On the road, vs David Rittich | also 55.1% for a point
+   5. C. Bardreau (NYI vs PHI) — 31.6% chance of scoring  📊 WORTH WATCHING
+       At home, vs Dan Vladar | also 55.1% for a point
+   6. M. Michkov (PHI vs NYI) — 31.5% chance of scoring  📊 WORTH WATCHING
+       On the road, vs David Rittich | also 63.4% for a point
+   7. R. Thomas (STL vs ANA) — 31.5% chance of scoring  📊 WORTH WATCHING
+       On the road, vs Ville Husso | also 63.4% for a point
+   8. P. Buchnevich (STL vs ANA) — 31.5% chance of scoring  📊 WORTH WATCHING
+       On the road, vs Ville Husso | also 60.0% for a point
+   9. D. Kaplan (PHI vs NYI) — 31.5% chance of scoring  📊 WORTH WATCHING
+       On the road, vs David Rittich | also 55.1% for a point
+  10. O. Tippett (PHI vs NYI) — 31.5% chance of scoring  📊 WORTH WATCHING
+       On the road, vs David Rittich | also 43.5% for a point
+
+──────────────────────────────────────────────────────────────────────
+📊 TOP POINT GETTER PICKS (1+ Points):
+──────────────────────────────────────────────────────────────────────
+   1. T. Konecny (PHI vs NYI) — 65.3% chance of a point  🔥 HIGH CONFIDENCE
+       On the road, vs David Rittich | goal 39.4% / assist 48.5%
+   2. M. Michkov (PHI vs NYI) — 63.4% chance of a point  ✅ STRONG PICK
+       On the road, vs David Rittich | goal 31.5% / assist 41.9%
+   3. R. Thomas (STL vs ANA) — 63.4% chance of a point  ✅ STRONG PICK
+       On the road, vs Ville Husso | goal 31.5% / assist 54.5%
+   4. B. Horvat (NYI vs PHI) — 60.5% chance of a point  ✅ STRONG PICK
+       At home, vs Dan Vladar | goal 39.4% / assist 36.7%
+   5. P. Buchnevich (STL vs ANA) — 60.0% chance of a point  ✅ STRONG PICK
+       On the road, vs Ville Husso | goal 31.5% / assist 41.9%
+   6. J. Kyrou (STL vs ANA) — 56.2% chance of a point  📊 WORTH WATCHING
+       On the road, vs Ville Husso | goal 31.6% / assist 36.4%
+   7. M. Barzal (NYI vs PHI) — 56.2% chance of a point  📊 WORTH WATCHING
+       At home, vs Dan Vladar | goal 31.3% / assist 40.1%
+   8. R. Gardner (PHI vs NYI) — 55.1% chance of a point  📊 WORTH WATCHING
+       On the road, vs David Rittich | goal 31.3% / assist 45.8%
+   9. D. Kaplan (PHI vs NYI) — 55.1% chance of a point  📊 WORTH WATCHING
+       On the road, vs David Rittich | goal 31.5% / assist 48.5%
+  10. W. Dufour (NYI vs PHI) — 55.1% chance of a point  📊 WORTH WATCHING
+       At home, vs Dan Vladar | goal 31.3% / assist 40.1%
+
+──────────────────────────────────────────────────────────────────────
+🏒 TOP SHOT VOLUME PICKS (3+ Shots on Goal):
+──────────────────────────────────────────────────────────────────────
+   1. B. Horvat (NYI vs PHI) — 59.9% chance of 3+ shots  ✅ STRONG PICK
+       At home | 4+ SOG: 38.5% | 5+ SOG: 20.9%
+   2. J. Kyrou (STL vs ANA) — 53.1% chance of 3+ shots  📊 WORTH WATCHING
+       On the road | 4+ SOG: 32.6% | 5+ SOG: 18.4%
+   3. C. Bardreau (NYI vs PHI) — 53.1% chance of 3+ shots  📊 WORTH WATCHING
+       At home | 4+ SOG: 32.6% | 5+ SOG: 18.4%
+   4. T. Konecny (PHI vs NYI) — 43.6% chance of 3+ shots  📊 WORTH WATCHING
+       On the road | 4+ SOG: 32.6% | 5+ SOG: 15.3%
+   5. M. Michkov (PHI vs NYI) — 43.6% chance of 3+ shots  📊 WORTH WATCHING
+       On the road | 4+ SOG: 27.7% | 5+ SOG: 11.2%
+   6. M. Barzal (NYI vs PHI) — 43.6% chance of 3+ shots  📊 WORTH WATCHING
+       At home | 4+ SOG: 27.7% | 5+ SOG: 11.2%
+   7. R. Gardner (PHI vs NYI) — 43.6% chance of 3+ shots  📊 WORTH WATCHING
+       On the road | 4+ SOG: 23.0% | 5+ SOG: 11.2%
+   8. O. Tippett (PHI vs NYI) — 43.6% chance of 3+ shots  📊 WORTH WATCHING
+       On the road | 4+ SOG: 27.7% | 5+ SOG: 11.2%
+   9. F. Vatrano (ANA vs STL) — 43.6% chance of 3+ shots  📊 WORTH WATCHING
+       At home | 4+ SOG: 23.0% | 5+ SOG: 8.8%
+  10. D. Kaplan (PHI vs NYI) — 39.4% chance of 3+ shots  📊 WORTH WATCHING
+       On the road | 4+ SOG: 23.0% | 5+ SOG: 8.8%
+
+======================================================================
+💰 TODAY'S PICKS ABOVE THRESHOLD (THE ACTUAL PICKS TO MENTION):
+======================================================================
+
+  1+ Points  (threshold: 55%):
+    ✅ T. Konecny (PHI vs NYI) — 65.3%
+       On the road, vs David Rittich
+    ✅ M. Michkov (PHI vs NYI) — 63.4%
+       On the road, vs David Rittich
+    ✅ R. Thomas (STL vs ANA) — 63.4%
+       On the road, vs Ville Husso
+    ✅ B. Horvat (NYI vs PHI) — 60.5%
+       At home, vs Dan Vladar
+    ✅ P. Buchnevich (STL vs ANA) — 60.0%
+       On the road, vs Ville Husso
+    ✅ J. Kyrou (STL vs ANA) — 56.2%
+       On the road, vs Ville Husso
+    ✅ M. Barzal (NYI vs PHI) — 56.2%
+       At home, vs Dan Vladar
+    ✅ R. Gardner (PHI vs NYI) — 55.1%
+       On the road, vs David Rittich
+    ✅ D. Kaplan (PHI vs NYI) — 55.1%
+       On the road, vs David Rittich
+    ✅ W. Dufour (NYI vs PHI) — 55.1%
+       At home, vs Dan Vladar
+    ✅ S. Couturier (PHI vs NYI) — 55.1%
+       On the road, vs David Rittich
+    ✅ T. Foerster (PHI vs NYI) — 55.1%
+       On the road, vs David Rittich
+    ✅ T. Terry (ANA vs STL) — 55.1%
+       At home, vs Jordan Binnington
+    ✅ R. Iskhakov (NYI vs PHI) — 55.1%
+       At home, vs Dan Vladar
+    ✅ C. Bardreau (NYI vs PHI) — 55.1%
+       At home, vs Dan Vladar
+
+  1+ Goals  (threshold: 28%):
+    ✅ T. Konecny (PHI vs NYI) — 39.4%
+       On the road, vs David Rittich
+    ✅ B. Horvat (NYI vs PHI) — 39.4%
+       At home, vs Dan Vladar
+    ✅ J. Kyrou (STL vs ANA) — 31.6%
+       On the road, vs Ville Husso
+    ✅ C. Bardreau (NYI vs PHI) — 31.6%
+       At home, vs Dan Vladar
+    ✅ T. Foerster (PHI vs NYI) — 31.6%
+       On the road, vs David Rittich
+    ✅ R. Thomas (STL vs ANA) — 31.5%
+       On the road, vs Ville Husso
+    ✅ M. Michkov (PHI vs NYI) — 31.5%
+       On the road, vs David Rittich
+    ✅ O. Tippett (PHI vs NYI) — 31.5%
+       On the road, vs David Rittich
+    ✅ P. Buchnevich (STL vs ANA) — 31.5%
+       On the road, vs Ville Husso
+    ✅ D. Kaplan (PHI vs NYI) — 31.5%
+       On the road, vs David Rittich
+    ✅ M. Barzal (NYI vs PHI) — 31.3%
+       At home, vs Dan Vladar
+    ✅ W. Dufour (NYI vs PHI) — 31.3%
+       At home, vs Dan Vladar
+    ✅ R. Gardner (PHI vs NYI) — 31.3%
+       On the road, vs David Rittich
+    ✅ K. Palmieri (NYI vs PHI) — 31.3%
+       At home, vs Dan Vladar
+    ✅ A. Lee (NYI vs PHI) — 31.3%
+       At home, vs Dan Vladar
+
+  1+ Assists  (threshold: 45%):
+    ✅ R. Thomas (STL vs ANA) — 54.5%
+       On the road, vs Ville Husso
+    ✅ T. Konecny (PHI vs NYI) — 48.5%
+       On the road, vs David Rittich
+    ✅ D. Kaplan (PHI vs NYI) — 48.5%
+       On the road, vs David Rittich
+    ✅ R. Gardner (PHI vs NYI) — 45.8%
+       On the road, vs David Rittich
+
+  3+ Shots on Goal  (threshold: 50%):
+    ✅ B. Horvat (NYI vs PHI) — 59.9%
+       At home, vs Dan Vladar
+    ✅ J. Kyrou (STL vs ANA) — 53.1%
+       On the road, vs Ville Husso
+    ✅ C. Bardreau (NYI vs PHI) — 53.1%
+       At home, vs Dan Vladar
+
+  4+ Shots on Goal  (threshold: 35%):
+    ✅ B. Horvat (NYI vs PHI) — 38.5%
+       At home, vs Dan Vladar
+
+======================================================================
+END OF BRIEF — PASTE ABOVE INTO CLAUDE TO GENERATE SCRIPT
+======================================================================

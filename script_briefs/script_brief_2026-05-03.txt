@@ -1,0 +1,236 @@
+======================================================================
+NHL PREDICTIONS SCRIPT BRIEF — 2026-05-03
+Generated: 2026-05-03 09:56
+======================================================================
+
+INSTRUCTIONS FOR CLAUDE:
+Using the picks below, write a 2-3 minute YouTube script in a
+natural, conversational human voice. Include a couple of 'um'
+moments and natural pauses between sentences (use '...' for pauses
+and [pause] for longer beats). Sound like an enthusiastic hockey
+fan who knows their stats, not a robot. Start with tonight's games,
+then go through the top picks by category.
+
+──────────────────────────────────────────────────────────────────────
+TONIGHT'S GAMES:
+──────────────────────────────────────────────────────────────────────
+  • MIN @ COL
+  • MTL @ TBL
+
+──────────────────────────────────────────────────────────────────────
+🥅 TOP GOAL SCORER PICKS (1+ Goals):
+──────────────────────────────────────────────────────────────────────
+   1. N. MacKinnon (COL vs MIN) — 50.8% chance of scoring  🔥 HIGH CONFIDENCE
+       At home, vs Jesper Wallstedt | also 82.6% for a point
+   2. K. Kaprizov (MIN vs COL) — 50.0% chance of scoring  🔥 HIGH CONFIDENCE
+       On the road, vs Scott Wedgewood | also 81.7% for a point
+   3. B. Point (TBL vs MTL) — 39.4% chance of scoring  ✅ STRONG PICK
+       At home, facing Jakub Dobes | also 69.9% for a point
+   4. N. Kucherov (TBL vs MTL) — 35.9% chance of scoring  ✅ STRONG PICK
+       At home, facing Jakub Dobes | also 82.6% for a point
+   5. J. Guentzel (TBL vs MTL) — 35.9% chance of scoring  ✅ STRONG PICK
+       At home, facing Jakub Dobes | also 80.0% for a point
+   6. G. Fortier (TBL vs MTL) — 35.9% chance of scoring  ✅ STRONG PICK
+       At home, facing Jakub Dobes | also 65.3% for a point
+   7. M. Boldy (MIN vs COL) — 35.9% chance of scoring  ✅ STRONG PICK
+       On the road, vs Scott Wedgewood | also 63.4% for a point
+   8. J. Eriksson Ek (MIN vs COL) — 35.9% chance of scoring  ✅ STRONG PICK
+       On the road, vs Scott Wedgewood | also 60.0% for a point
+   9. J. Finley (TBL vs MTL) — 31.6% chance of scoring  📊 WORTH WATCHING
+       At home, facing Jakub Dobes | also 63.4% for a point
+  10. V. Nichushkin (COL vs MIN) — 31.6% chance of scoring  📊 WORTH WATCHING
+       At home, vs Jesper Wallstedt | also 60.0% for a point
+
+──────────────────────────────────────────────────────────────────────
+📊 TOP POINT GETTER PICKS (1+ Points):
+──────────────────────────────────────────────────────────────────────
+   1. N. Kucherov (TBL vs MTL) — 82.6% chance of a point  🔥 HIGH CONFIDENCE
+       At home, facing Jakub Dobes | goal 35.9% / assist 66.9%
+   2. N. MacKinnon (COL vs MIN) — 82.6% chance of a point  🔥 HIGH CONFIDENCE
+       At home, vs Jesper Wallstedt | goal 50.8% / assist 66.9%
+   3. C. Makar (COL vs MIN) — 81.7% chance of a point  🔥 HIGH CONFIDENCE
+       At home, vs Jesper Wallstedt | goal 20.3% / assist 54.5%
+   4. K. Kaprizov (MIN vs COL) — 81.7% chance of a point  🔥 HIGH CONFIDENCE
+       On the road, vs Scott Wedgewood | goal 50.0% / assist 54.5%
+   5. J. Guentzel (TBL vs MTL) — 80.0% chance of a point  🔥 HIGH CONFIDENCE
+       At home, facing Jakub Dobes | goal 35.9% / assist 48.5%
+   6. B. Point (TBL vs MTL) — 69.9% chance of a point  🔥 HIGH CONFIDENCE
+       At home, facing Jakub Dobes | goal 39.4% / assist 37.6%
+   7. G. Fortier (TBL vs MTL) — 65.3% chance of a point  🔥 HIGH CONFIDENCE
+       At home, facing Jakub Dobes | goal 35.9% / assist 54.5%
+   8. M. Boldy (MIN vs COL) — 63.4% chance of a point  ✅ STRONG PICK
+       On the road, vs Scott Wedgewood | goal 35.9% / assist 48.5%
+   9. J. Finley (TBL vs MTL) — 63.4% chance of a point  ✅ STRONG PICK
+       At home, facing Jakub Dobes | goal 31.6% / assist 48.5%
+  10. B. Hagel (TBL vs MTL) — 63.4% chance of a point  ✅ STRONG PICK
+       At home, facing Jakub Dobes | goal 31.3% / assist 41.9%
+
+──────────────────────────────────────────────────────────────────────
+🏒 TOP SHOT VOLUME PICKS (3+ Shots on Goal):
+──────────────────────────────────────────────────────────────────────
+   1. N. MacKinnon (COL vs MIN) — 75.0% chance of 3+ shots  🔥 HIGH CONFIDENCE
+       At home | 4+ SOG: 50.0% | 5+ SOG: 38.0%
+   2. K. Kaprizov (MIN vs COL) — 61.1% chance of 3+ shots  🔥 HIGH CONFIDENCE
+       On the road | 4+ SOG: 44.6% | 5+ SOG: 26.5%
+   3. C. Makar (COL vs MIN) — 56.7% chance of 3+ shots  ✅ STRONG PICK
+       At home | 4+ SOG: 38.5% | 5+ SOG: 20.9%
+   4. G. Fortier (TBL vs MTL) — 56.7% chance of 3+ shots  ✅ STRONG PICK
+       At home | 4+ SOG: 32.6% | 5+ SOG: 18.4%
+   5. N. Kucherov (TBL vs MTL) — 53.1% chance of 3+ shots  📊 WORTH WATCHING
+       At home | 4+ SOG: 32.6% | 5+ SOG: 20.9%
+   6. J. Guentzel (TBL vs MTL) — 53.1% chance of 3+ shots  📊 WORTH WATCHING
+       At home | 4+ SOG: 32.6% | 5+ SOG: 20.9%
+   7. M. Boldy (MIN vs COL) — 53.1% chance of 3+ shots  📊 WORTH WATCHING
+       On the road | 4+ SOG: 32.6% | 5+ SOG: 17.5%
+   8. J. Eriksson Ek (MIN vs COL) — 53.1% chance of 3+ shots  📊 WORTH WATCHING
+       On the road | 4+ SOG: 38.5% | 5+ SOG: 18.4%
+   9. C. Caufield (MTL vs TBL) — 53.1% chance of 3+ shots  📊 WORTH WATCHING
+       On the road | 4+ SOG: 32.6% | 5+ SOG: 18.4%
+  10. J. Finley (TBL vs MTL) — 51.1% chance of 3+ shots  📊 WORTH WATCHING
+       At home | 4+ SOG: 32.6% | 5+ SOG: 20.0%
+
+======================================================================
+💰 TODAY'S PICKS ABOVE THRESHOLD (THE ACTUAL PICKS TO MENTION):
+======================================================================
+
+  1+ Points  (threshold: 55%):
+    ✅ N. Kucherov (TBL vs MTL) — 82.6%
+       At home, facing Jakub Dobes
+    ✅ N. MacKinnon (COL vs MIN) — 82.6%
+       At home, vs Jesper Wallstedt
+    ✅ C. Makar (COL vs MIN) — 81.7%
+       At home, vs Jesper Wallstedt
+    ✅ K. Kaprizov (MIN vs COL) — 81.7%
+       On the road, vs Scott Wedgewood
+    ✅ J. Guentzel (TBL vs MTL) — 80.0%
+       At home, facing Jakub Dobes
+    ✅ B. Point (TBL vs MTL) — 69.9%
+       At home, facing Jakub Dobes
+    ✅ G. Fortier (TBL vs MTL) — 65.3%
+       At home, facing Jakub Dobes
+    ✅ M. Boldy (MIN vs COL) — 63.4%
+       On the road, vs Scott Wedgewood
+    ✅ J. Finley (TBL vs MTL) — 63.4%
+       At home, facing Jakub Dobes
+    ✅ B. Hagel (TBL vs MTL) — 63.4%
+       At home, facing Jakub Dobes
+    ✅ N. Suzuki (MTL vs TBL) — 60.0%
+       On the road, facing Andrei Vasilevskiy
+    ✅ M. Necas (COL vs MIN) — 60.0%
+       At home, vs Jesper Wallstedt
+    ✅ M. Zuccarello (MIN vs COL) — 60.0%
+       On the road, vs Scott Wedgewood
+    ✅ A. Lehkonen (COL vs MIN) — 60.0%
+       At home, vs Jesper Wallstedt
+    ✅ V. Nichushkin (COL vs MIN) — 60.0%
+       At home, vs Jesper Wallstedt
+    ✅ J. Eriksson Ek (MIN vs COL) — 60.0%
+       On the road, vs Scott Wedgewood
+    ✅ C. Caufield (MTL vs TBL) — 59.9%
+       On the road, facing Andrei Vasilevskiy
+    ✅ V. Hedman (TBL vs MTL) — 56.2%
+       At home, facing Jakub Dobes
+    ✅ L. Hutson (MTL vs TBL) — 55.1%
+       On the road, facing Andrei Vasilevskiy
+    ✅ D. Giroux (MIN vs COL) — 55.1%
+       On the road, vs Scott Wedgewood
+    ✅ B. Nelson (COL vs MIN) — 55.1%
+       At home, vs Jesper Wallstedt
+    ✅ G. Landeskog (COL vs MIN) — 55.1%
+       At home, vs Jesper Wallstedt
+
+  1+ Goals  (threshold: 28%):
+    ✅ N. MacKinnon (COL vs MIN) — 50.8%
+       At home, vs Jesper Wallstedt
+    ✅ K. Kaprizov (MIN vs COL) — 50.0%
+       On the road, vs Scott Wedgewood
+    ✅ B. Point (TBL vs MTL) — 39.4%
+       At home, facing Jakub Dobes
+    ✅ N. Kucherov (TBL vs MTL) — 35.9%
+       At home, facing Jakub Dobes
+    ✅ J. Guentzel (TBL vs MTL) — 35.9%
+       At home, facing Jakub Dobes
+    ✅ G. Fortier (TBL vs MTL) — 35.9%
+       At home, facing Jakub Dobes
+    ✅ M. Boldy (MIN vs COL) — 35.9%
+       On the road, vs Scott Wedgewood
+    ✅ J. Eriksson Ek (MIN vs COL) — 35.9%
+       On the road, vs Scott Wedgewood
+    ✅ V. Nichushkin (COL vs MIN) — 31.6%
+       At home, vs Jesper Wallstedt
+    ✅ J. Finley (TBL vs MTL) — 31.6%
+       At home, facing Jakub Dobes
+    ✅ C. Caufield (MTL vs TBL) — 31.6%
+       On the road, facing Andrei Vasilevskiy
+    ✅ M. Necas (COL vs MIN) — 31.5%
+       At home, vs Jesper Wallstedt
+    ✅ A. Lehkonen (COL vs MIN) — 31.5%
+       At home, vs Jesper Wallstedt
+    ✅ N. Suzuki (MTL vs TBL) — 31.5%
+       On the road, facing Andrei Vasilevskiy
+    ✅ D. Giroux (MIN vs COL) — 31.3%
+       On the road, vs Scott Wedgewood
+    ✅ B. Hagel (TBL vs MTL) — 31.3%
+       At home, facing Jakub Dobes
+    ✅ B. Nelson (COL vs MIN) — 31.3%
+       At home, vs Jesper Wallstedt
+    ✅ C. Makar (COL vs MIN) — 20.3%
+       At home, vs Jesper Wallstedt
+
+  1+ Assists  (threshold: 45%):
+    ✅ N. Kucherov (TBL vs MTL) — 66.9%
+       At home, facing Jakub Dobes
+    ✅ N. MacKinnon (COL vs MIN) — 66.9%
+       At home, vs Jesper Wallstedt
+    ✅ C. Makar (COL vs MIN) — 54.5%
+       At home, vs Jesper Wallstedt
+    ✅ K. Kaprizov (MIN vs COL) — 54.5%
+       On the road, vs Scott Wedgewood
+    ✅ G. Fortier (TBL vs MTL) — 54.5%
+       At home, facing Jakub Dobes
+    ✅ L. Hutson (MTL vs TBL) — 54.5%
+       On the road, facing Andrei Vasilevskiy
+    ✅ J. Guentzel (TBL vs MTL) — 48.5%
+       At home, facing Jakub Dobes
+    ✅ M. Boldy (MIN vs COL) — 48.5%
+       On the road, vs Scott Wedgewood
+    ✅ J. Finley (TBL vs MTL) — 48.5%
+       At home, facing Jakub Dobes
+    ✅ V. Hedman (TBL vs MTL) — 48.5%
+       At home, facing Jakub Dobes
+    ✅ N. Suzuki (MTL vs TBL) — 45.8%
+       On the road, facing Andrei Vasilevskiy
+
+  3+ Shots on Goal  (threshold: 50%):
+    ✅ N. MacKinnon (COL vs MIN) — 75.0%
+       At home, vs Jesper Wallstedt
+    ✅ K. Kaprizov (MIN vs COL) — 61.1%
+       On the road, vs Scott Wedgewood
+    ✅ C. Makar (COL vs MIN) — 56.7%
+       At home, vs Jesper Wallstedt
+    ✅ G. Fortier (TBL vs MTL) — 56.7%
+       At home, facing Jakub Dobes
+    ✅ N. Kucherov (TBL vs MTL) — 53.1%
+       At home, facing Jakub Dobes
+    ✅ J. Guentzel (TBL vs MTL) — 53.1%
+       At home, facing Jakub Dobes
+    ✅ M. Boldy (MIN vs COL) — 53.1%
+       On the road, vs Scott Wedgewood
+    ✅ J. Eriksson Ek (MIN vs COL) — 53.1%
+       On the road, vs Scott Wedgewood
+    ✅ C. Caufield (MTL vs TBL) — 53.1%
+       On the road, facing Andrei Vasilevskiy
+
+  4+ Shots on Goal  (threshold: 35%):
+    ✅ N. MacKinnon (COL vs MIN) — 50.0%
+       At home, vs Jesper Wallstedt
+    ✅ K. Kaprizov (MIN vs COL) — 44.6%
+       On the road, vs Scott Wedgewood
+    ✅ C. Makar (COL vs MIN) — 38.5%
+       At home, vs Jesper Wallstedt
+    ✅ J. Eriksson Ek (MIN vs COL) — 38.5%
+       On the road, vs Scott Wedgewood
+
+======================================================================
+END OF BRIEF — PASTE ABOVE INTO CLAUDE TO GENERATE SCRIPT
+======================================================================

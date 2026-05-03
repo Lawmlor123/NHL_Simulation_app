@@ -1,0 +1,291 @@
+======================================================================
+NHL PREDICTIONS SCRIPT BRIEF — 2026-04-08
+Generated: 2026-04-08 09:56
+======================================================================
+
+INSTRUCTIONS FOR CLAUDE:
+Using the picks below, write a 2-3 minute YouTube script in a
+natural, conversational human voice. Include a couple of 'um'
+moments and natural pauses between sentences (use '...' for pauses
+and [pause] for longer beats). Sound like an enthusiastic hockey
+fan who knows their stats, not a robot. Start with tonight's games,
+then go through the top picks by category.
+
+──────────────────────────────────────────────────────────────────────
+TONIGHT'S GAMES:
+──────────────────────────────────────────────────────────────────────
+  • BUF @ NYR
+  • EDM @ SJS
+  • WSH @ TOR
+
+──────────────────────────────────────────────────────────────────────
+🥅 TOP GOAL SCORER PICKS (1+ Goals):
+──────────────────────────────────────────────────────────────────────
+   1. C. McDavid (EDM vs SJS) — 39.4% chance of scoring  ✅ STRONG PICK
+       On the road, vs Alexandar Georgiev | also 82.0% for a point
+   2. L. Draisaitl (EDM vs SJS) — 39.4% chance of scoring  ✅ STRONG PICK
+       On the road, vs Alexandar Georgiev | also 82.0% for a point
+   3. A. Matthews (TOR vs WSH) — 39.4% chance of scoring  ✅ STRONG PICK
+       At home, facing Logan Thompson | also 81.7% for a point
+   4. A. Panarin (NYR vs BUF) — 39.4% chance of scoring  ✅ STRONG PICK
+       At home, facing Ukko-Pekka Luukkonen | also 67.7% for a point
+   5. W. Nylander (TOR vs WSH) — 35.9% chance of scoring  ✅ STRONG PICK
+       At home, facing Logan Thompson | also 81.7% for a point
+   6. J. Tavares (TOR vs WSH) — 35.9% chance of scoring  ✅ STRONG PICK
+       At home, facing Logan Thompson | also 63.4% for a point
+   7. M. Celebrini (SJS vs EDM) — 35.9% chance of scoring  ✅ STRONG PICK
+       At home, vs Connor Ingram | also 60.0% for a point
+   8. R. Nash (NYR vs BUF) — 35.9% chance of scoring  ✅ STRONG PICK
+       At home, facing Ukko-Pekka Luukkonen | also 60.0% for a point
+   9. T. Toffoli (SJS vs EDM) — 35.9% chance of scoring  ✅ STRONG PICK
+       At home, vs Connor Ingram | also 55.1% for a point
+  10. T. Thompson (BUF vs NYR) — 31.6% chance of scoring  📊 WORTH WATCHING
+       On the road, facing Igor Shesterkin | also 59.9% for a point
+
+──────────────────────────────────────────────────────────────────────
+📊 TOP POINT GETTER PICKS (1+ Points):
+──────────────────────────────────────────────────────────────────────
+   1. C. McDavid (EDM vs SJS) — 82.0% chance of a point  🔥 HIGH CONFIDENCE
+       On the road, vs Alexandar Georgiev | goal 39.4% / assist 66.9%
+   2. L. Draisaitl (EDM vs SJS) — 82.0% chance of a point  🔥 HIGH CONFIDENCE
+       On the road, vs Alexandar Georgiev | goal 39.4% / assist 66.9%
+   3. A. Matthews (TOR vs WSH) — 81.7% chance of a point  🔥 HIGH CONFIDENCE
+       At home, facing Logan Thompson | goal 39.4% / assist 54.5%
+   4. W. Nylander (TOR vs WSH) — 81.7% chance of a point  🔥 HIGH CONFIDENCE
+       At home, facing Logan Thompson | goal 35.9% / assist 54.5%
+   5. M. Marner (TOR vs WSH) — 69.9% chance of a point  🔥 HIGH CONFIDENCE
+       At home, facing Logan Thompson | goal 31.3% / assist 57.3%
+   6. E. Bouchard (EDM vs SJS) — 67.7% chance of a point  🔥 HIGH CONFIDENCE
+       On the road, vs Alexandar Georgiev | goal 20.3% / assist 54.5%
+   7. A. Panarin (NYR vs BUF) — 67.7% chance of a point  🔥 HIGH CONFIDENCE
+       At home, facing Ukko-Pekka Luukkonen | goal 39.4% / assist 48.5%
+   8. J. Tavares (TOR vs WSH) — 63.4% chance of a point  ✅ STRONG PICK
+       At home, facing Logan Thompson | goal 35.9% / assist 37.6%
+   9. J. Miller (NYR vs BUF) — 63.4% chance of a point  ✅ STRONG PICK
+       At home, facing Ukko-Pekka Luukkonen | goal 31.5% / assist 45.8%
+  10. M. Celebrini (SJS vs EDM) — 60.0% chance of a point  ✅ STRONG PICK
+       At home, vs Connor Ingram | goal 35.9% / assist 41.9%
+
+──────────────────────────────────────────────────────────────────────
+🏒 TOP SHOT VOLUME PICKS (3+ Shots on Goal):
+──────────────────────────────────────────────────────────────────────
+   1. C. McDavid (EDM vs SJS) — 71.8% chance of 3+ shots  🔥 HIGH CONFIDENCE
+       On the road | 4+ SOG: 48.7% | 5+ SOG: 26.5%
+   2. A. Matthews (TOR vs WSH) — 71.8% chance of 3+ shots  🔥 HIGH CONFIDENCE
+       At home | 4+ SOG: 48.7% | 5+ SOG: 30.0%
+   3. W. Nylander (TOR vs WSH) — 56.7% chance of 3+ shots  ✅ STRONG PICK
+       At home | 4+ SOG: 44.6% | 5+ SOG: 22.7%
+   4. J. Tavares (TOR vs WSH) — 56.7% chance of 3+ shots  ✅ STRONG PICK
+       At home | 4+ SOG: 38.5% | 5+ SOG: 20.9%
+   5. A. Ovechkin (WSH vs TOR) — 56.7% chance of 3+ shots  ✅ STRONG PICK
+       On the road | 4+ SOG: 38.5% | 5+ SOG: 22.7%
+   6. L. Draisaitl (EDM vs SJS) — 53.1% chance of 3+ shots  📊 WORTH WATCHING
+       On the road | 4+ SOG: 33.8% | 5+ SOG: 20.9%
+   7. E. Bouchard (EDM vs SJS) — 53.1% chance of 3+ shots  📊 WORTH WATCHING
+       On the road | 4+ SOG: 32.6% | 5+ SOG: 17.5%
+   8. A. Panarin (NYR vs BUF) — 53.1% chance of 3+ shots  📊 WORTH WATCHING
+       At home | 4+ SOG: 29.7% | 5+ SOG: 18.4%
+   9. M. Celebrini (SJS vs EDM) — 53.1% chance of 3+ shots  📊 WORTH WATCHING
+       At home | 4+ SOG: 32.6% | 5+ SOG: 20.9%
+  10. J. Demers (EDM vs SJS) — 53.1% chance of 3+ shots  📊 WORTH WATCHING
+       On the road | 4+ SOG: 32.6% | 5+ SOG: 18.4%
+
+======================================================================
+💰 TODAY'S PICKS ABOVE THRESHOLD (THE ACTUAL PICKS TO MENTION):
+======================================================================
+
+  1+ Points  (threshold: 55%):
+    ✅ C. McDavid (EDM vs SJS) — 82.0%
+       On the road, vs Alexandar Georgiev
+    ✅ L. Draisaitl (EDM vs SJS) — 82.0%
+       On the road, vs Alexandar Georgiev
+    ✅ A. Matthews (TOR vs WSH) — 81.7%
+       At home, facing Logan Thompson
+    ✅ W. Nylander (TOR vs WSH) — 81.7%
+       At home, facing Logan Thompson
+    ✅ M. Marner (TOR vs WSH) — 69.9%
+       At home, facing Logan Thompson
+    ✅ E. Bouchard (EDM vs SJS) — 67.7%
+       On the road, vs Alexandar Georgiev
+    ✅ A. Panarin (NYR vs BUF) — 67.7%
+       At home, facing Ukko-Pekka Luukkonen
+    ✅ J. Tavares (TOR vs WSH) — 63.4%
+       At home, facing Logan Thompson
+    ✅ J. Miller (NYR vs BUF) — 63.4%
+       At home, facing Ukko-Pekka Luukkonen
+    ✅ M. Celebrini (SJS vs EDM) — 60.0%
+       At home, vs Connor Ingram
+    ✅ R. Nugent-Hopkins (EDM vs SJS) — 60.0%
+       On the road, vs Alexandar Georgiev
+    ✅ J. Demers (EDM vs SJS) — 60.0%
+       On the road, vs Alexandar Georgiev
+    ✅ R. Nash (NYR vs BUF) — 60.0%
+       At home, facing Ukko-Pekka Luukkonen
+    ✅ Z. Hyman (EDM vs SJS) — 60.0%
+       On the road, vs Alexandar Georgiev
+    ✅ J. Quillan (TOR vs WSH) — 59.9%
+       At home, facing Logan Thompson
+    ✅ T. Thompson (BUF vs NYR) — 59.9%
+       On the road, facing Igor Shesterkin
+    ✅ V. Trocheck (NYR vs BUF) — 56.2%
+       At home, facing Ukko-Pekka Luukkonen
+    ✅ R. Dahlin (BUF vs NYR) — 56.2%
+       On the road, facing Igor Shesterkin
+    ✅ A. Tuch (BUF vs NYR) — 56.2%
+       On the road, facing Igor Shesterkin
+    ✅ M. Zibanejad (NYR vs BUF) — 56.2%
+       At home, facing Ukko-Pekka Luukkonen
+    ✅ A. Fox (NYR vs BUF) — 55.6%
+       At home, facing Ukko-Pekka Luukkonen
+    ✅ K. Clifford (TOR vs WSH) — 55.1%
+       At home, facing Logan Thompson
+    ✅ T. Wilson (WSH vs TOR) — 55.1%
+       On the road, vs Joseph Woll
+    ✅ T. Toffoli (SJS vs EDM) — 55.1%
+       At home, vs Connor Ingram
+    ✅ A. Ovechkin (WSH vs TOR) — 55.1%
+       On the road, vs Joseph Woll
+    ✅ M. Knies (TOR vs WSH) — 55.1%
+       At home, facing Logan Thompson
+    ✅ B. Scanlin (NYR vs BUF) — 55.1%
+       At home, facing Ukko-Pekka Luukkonen
+    ✅ S. Der-Arguchintsev (TOR vs WSH) — 55.1%
+       At home, facing Logan Thompson
+    ✅ L. Couture (SJS vs EDM) — 55.1%
+       At home, vs Connor Ingram
+    ✅ D. Strome (WSH vs TOR) — 55.1%
+       On the road, vs Joseph Woll
+    ✅ J. Davies (BUF vs NYR) — 50.5%
+       On the road, facing Igor Shesterkin
+
+  1+ Goals  (threshold: 28%):
+    ✅ C. McDavid (EDM vs SJS) — 39.4%
+       On the road, vs Alexandar Georgiev
+    ✅ L. Draisaitl (EDM vs SJS) — 39.4%
+       On the road, vs Alexandar Georgiev
+    ✅ A. Matthews (TOR vs WSH) — 39.4%
+       At home, facing Logan Thompson
+    ✅ A. Panarin (NYR vs BUF) — 39.4%
+       At home, facing Ukko-Pekka Luukkonen
+    ✅ W. Nylander (TOR vs WSH) — 35.9%
+       At home, facing Logan Thompson
+    ✅ M. Celebrini (SJS vs EDM) — 35.9%
+       At home, vs Connor Ingram
+    ✅ J. Tavares (TOR vs WSH) — 35.9%
+       At home, facing Logan Thompson
+    ✅ R. Nash (NYR vs BUF) — 35.9%
+       At home, facing Ukko-Pekka Luukkonen
+    ✅ T. Toffoli (SJS vs EDM) — 35.9%
+       At home, vs Connor Ingram
+    ✅ A. Ovechkin (WSH vs TOR) — 31.6%
+       On the road, vs Joseph Woll
+    ✅ T. Thompson (BUF vs NYR) — 31.6%
+       On the road, facing Igor Shesterkin
+    ✅ V. Trocheck (NYR vs BUF) — 31.5%
+       At home, facing Ukko-Pekka Luukkonen
+    ✅ J. Quillan (TOR vs WSH) — 31.5%
+       At home, facing Logan Thompson
+    ✅ J. Miller (NYR vs BUF) — 31.5%
+       At home, facing Ukko-Pekka Luukkonen
+    ✅ Z. Hyman (EDM vs SJS) — 31.5%
+       On the road, vs Alexandar Georgiev
+    ✅ A. Tuch (BUF vs NYR) — 31.5%
+       On the road, facing Igor Shesterkin
+    ✅ M. Marner (TOR vs WSH) — 31.3%
+       At home, facing Logan Thompson
+    ✅ H. Borgstrom (WSH vs TOR) — 31.3%
+       On the road, vs Joseph Woll
+    ✅ M. Zibanejad (NYR vs BUF) — 31.3%
+       At home, facing Ukko-Pekka Luukkonen
+    ✅ S. Der-Arguchintsev (TOR vs WSH) — 31.3%
+       At home, facing Logan Thompson
+    ✅ E. Bouchard (EDM vs SJS) — 20.3%
+       On the road, vs Alexandar Georgiev
+    ✅ R. Dahlin (BUF vs NYR) — 20.3%
+       On the road, facing Igor Shesterkin
+    ✅ J. Davies (BUF vs NYR) — 20.3%
+       On the road, facing Igor Shesterkin
+
+  1+ Assists  (threshold: 45%):
+    ✅ C. McDavid (EDM vs SJS) — 66.9%
+       On the road, vs Alexandar Georgiev
+    ✅ L. Draisaitl (EDM vs SJS) — 66.9%
+       On the road, vs Alexandar Georgiev
+    ✅ M. Marner (TOR vs WSH) — 57.3%
+       At home, facing Logan Thompson
+    ✅ A. Matthews (TOR vs WSH) — 54.5%
+       At home, facing Logan Thompson
+    ✅ W. Nylander (TOR vs WSH) — 54.5%
+       At home, facing Logan Thompson
+    ✅ E. Bouchard (EDM vs SJS) — 54.5%
+       On the road, vs Alexandar Georgiev
+    ✅ A. Panarin (NYR vs BUF) — 48.5%
+       At home, facing Ukko-Pekka Luukkonen
+    ✅ R. Nugent-Hopkins (EDM vs SJS) — 48.5%
+       On the road, vs Alexandar Georgiev
+    ✅ R. Nash (NYR vs BUF) — 48.5%
+       At home, facing Ukko-Pekka Luukkonen
+    ✅ J. Demers (EDM vs SJS) — 48.5%
+       On the road, vs Alexandar Georgiev
+    ✅ A. Fox (NYR vs BUF) — 48.5%
+       At home, facing Ukko-Pekka Luukkonen
+    ✅ J. Miller (NYR vs BUF) — 45.8%
+       At home, facing Ukko-Pekka Luukkonen
+
+  3+ Shots on Goal  (threshold: 50%):
+    ✅ C. McDavid (EDM vs SJS) — 71.8%
+       On the road, vs Alexandar Georgiev
+    ✅ A. Matthews (TOR vs WSH) — 71.8%
+       At home, facing Logan Thompson
+    ✅ W. Nylander (TOR vs WSH) — 56.7%
+       At home, facing Logan Thompson
+    ✅ J. Tavares (TOR vs WSH) — 56.7%
+       At home, facing Logan Thompson
+    ✅ A. Ovechkin (WSH vs TOR) — 56.7%
+       On the road, vs Joseph Woll
+    ✅ E. Bouchard (EDM vs SJS) — 53.1%
+       On the road, vs Alexandar Georgiev
+    ✅ A. Panarin (NYR vs BUF) — 53.1%
+       At home, facing Ukko-Pekka Luukkonen
+    ✅ M. Celebrini (SJS vs EDM) — 53.1%
+       At home, vs Connor Ingram
+    ✅ L. Draisaitl (EDM vs SJS) — 53.1%
+       On the road, vs Alexandar Georgiev
+    ✅ J. Demers (EDM vs SJS) — 53.1%
+       On the road, vs Alexandar Georgiev
+    ✅ R. Nash (NYR vs BUF) — 53.1%
+       At home, facing Ukko-Pekka Luukkonen
+    ✅ J. Quillan (TOR vs WSH) — 53.1%
+       At home, facing Logan Thompson
+    ✅ Z. Hyman (EDM vs SJS) — 53.1%
+       On the road, vs Alexandar Georgiev
+    ✅ T. Thompson (BUF vs NYR) — 53.1%
+       On the road, facing Igor Shesterkin
+    ✅ R. Dahlin (BUF vs NYR) — 53.1%
+       On the road, facing Igor Shesterkin
+    ✅ T. Toffoli (SJS vs EDM) — 53.1%
+       At home, vs Connor Ingram
+    ✅ J. Davies (BUF vs NYR) — 49.0%
+       On the road, facing Igor Shesterkin
+
+  4+ Shots on Goal  (threshold: 35%):
+    ✅ C. McDavid (EDM vs SJS) — 48.7%
+       On the road, vs Alexandar Georgiev
+    ✅ A. Matthews (TOR vs WSH) — 48.7%
+       At home, facing Logan Thompson
+    ✅ W. Nylander (TOR vs WSH) — 44.6%
+       At home, facing Logan Thompson
+    ✅ J. Tavares (TOR vs WSH) — 38.5%
+       At home, facing Logan Thompson
+    ✅ A. Ovechkin (WSH vs TOR) — 38.5%
+       On the road, vs Joseph Woll
+    ✅ R. Nash (NYR vs BUF) — 38.5%
+       At home, facing Ukko-Pekka Luukkonen
+    ✅ E. Bouchard (EDM vs SJS) — 32.6%
+       On the road, vs Alexandar Georgiev
+    ✅ J. Demers (EDM vs SJS) — 32.6%
+       On the road, vs Alexandar Georgiev
+
+======================================================================
+END OF BRIEF — PASTE ABOVE INTO CLAUDE TO GENERATE SCRIPT
+======================================================================

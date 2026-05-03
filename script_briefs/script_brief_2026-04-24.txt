@@ -1,0 +1,275 @@
+======================================================================
+NHL PREDICTIONS SCRIPT BRIEF — 2026-04-24
+Generated: 2026-04-24 09:57
+======================================================================
+
+INSTRUCTIONS FOR CLAUDE:
+Using the picks below, write a 2-3 minute YouTube script in a
+natural, conversational human voice. Include a couple of 'um'
+moments and natural pauses between sentences (use '...' for pauses
+and [pause] for longer beats). Sound like an enthusiastic hockey
+fan who knows their stats, not a robot. Start with tonight's games,
+then go through the top picks by category.
+
+──────────────────────────────────────────────────────────────────────
+TONIGHT'S GAMES:
+──────────────────────────────────────────────────────────────────────
+  • EDM @ ANA
+  • TBL @ MTL
+  • VGK @ UTA
+
+──────────────────────────────────────────────────────────────────────
+🥅 TOP GOAL SCORER PICKS (1+ Goals):
+──────────────────────────────────────────────────────────────────────
+   1. L. Draisaitl (EDM vs ANA) — 39.4% chance of scoring  ✅ STRONG PICK
+       On the road, vs Ville Husso | also 82.0% for a point
+   2. C. McDavid (EDM vs ANA) — 39.4% chance of scoring  ✅ STRONG PICK
+       On the road, vs Ville Husso | also 82.0% for a point
+   3. J. Eichel (VGK vs UTA) — 39.4% chance of scoring  ✅ STRONG PICK
+       On the road, vs Karel Vejmelka | also 81.7% for a point
+   4. N. Kucherov (TBL vs MTL) — 35.9% chance of scoring  ✅ STRONG PICK
+       On the road, facing Jakub Dobes | also 82.0% for a point
+   5. J. Guentzel (TBL vs MTL) — 35.9% chance of scoring  ✅ STRONG PICK
+       On the road, facing Jakub Dobes | also 69.9% for a point
+   6. B. Point (TBL vs MTL) — 35.9% chance of scoring  ✅ STRONG PICK
+       On the road, facing Jakub Dobes | also 65.3% for a point
+   7. C. Keller (UTA vs VGK) — 35.9% chance of scoring  ✅ STRONG PICK
+       At home, vs Carter Hart | also 65.3% for a point
+   8. Z. Hyman (EDM vs ANA) — 35.9% chance of scoring  ✅ STRONG PICK
+       On the road, vs Ville Husso | also 63.4% for a point
+   9. G. Fortier (TBL vs MTL) — 35.9% chance of scoring  ✅ STRONG PICK
+       On the road, facing Jakub Dobes | also 63.4% for a point
+  10. C. Caufield (MTL vs TBL) — 31.6% chance of scoring  📊 WORTH WATCHING
+       At home, facing Andrei Vasilevskiy | also 63.4% for a point
+
+──────────────────────────────────────────────────────────────────────
+📊 TOP POINT GETTER PICKS (1+ Points):
+──────────────────────────────────────────────────────────────────────
+   1. N. Kucherov (TBL vs MTL) — 82.0% chance of a point  🔥 HIGH CONFIDENCE
+       On the road, facing Jakub Dobes | goal 35.9% / assist 66.9%
+   2. L. Draisaitl (EDM vs ANA) — 82.0% chance of a point  🔥 HIGH CONFIDENCE
+       On the road, vs Ville Husso | goal 39.4% / assist 66.9%
+   3. C. McDavid (EDM vs ANA) — 82.0% chance of a point  🔥 HIGH CONFIDENCE
+       On the road, vs Ville Husso | goal 39.4% / assist 66.9%
+   4. J. Eichel (VGK vs UTA) — 81.7% chance of a point  🔥 HIGH CONFIDENCE
+       On the road, vs Karel Vejmelka | goal 39.4% / assist 54.5%
+   5. J. Guentzel (TBL vs MTL) — 69.9% chance of a point  🔥 HIGH CONFIDENCE
+       On the road, facing Jakub Dobes | goal 35.9% / assist 45.8%
+   6. E. Bouchard (EDM vs ANA) — 67.7% chance of a point  🔥 HIGH CONFIDENCE
+       On the road, vs Ville Husso | goal 20.3% / assist 54.5%
+   7. B. Point (TBL vs MTL) — 65.3% chance of a point  🔥 HIGH CONFIDENCE
+       On the road, facing Jakub Dobes | goal 35.9% / assist 37.6%
+   8. C. Keller (UTA vs VGK) — 65.3% chance of a point  🔥 HIGH CONFIDENCE
+       At home, vs Carter Hart | goal 35.9% / assist 48.5%
+   9. N. Suzuki (MTL vs TBL) — 63.4% chance of a point  ✅ STRONG PICK
+       At home, facing Andrei Vasilevskiy | goal 31.5% / assist 48.5%
+  10. R. Nugent-Hopkins (EDM vs ANA) — 63.4% chance of a point  ✅ STRONG PICK
+       On the road, vs Ville Husso | goal 31.5% / assist 48.5%
+
+──────────────────────────────────────────────────────────────────────
+🏒 TOP SHOT VOLUME PICKS (3+ Shots on Goal):
+──────────────────────────────────────────────────────────────────────
+   1. C. McDavid (EDM vs ANA) — 71.8% chance of 3+ shots  🔥 HIGH CONFIDENCE
+       On the road | 4+ SOG: 44.6% | 5+ SOG: 26.5%
+   2. C. Caufield (MTL vs TBL) — 56.7% chance of 3+ shots  ✅ STRONG PICK
+       At home | 4+ SOG: 38.5% | 5+ SOG: 20.9%
+   3. N. Kucherov (TBL vs MTL) — 53.1% chance of 3+ shots  📊 WORTH WATCHING
+       On the road | 4+ SOG: 29.7% | 5+ SOG: 18.4%
+   4. L. Draisaitl (EDM vs ANA) — 53.1% chance of 3+ shots  📊 WORTH WATCHING
+       On the road | 4+ SOG: 32.6% | 5+ SOG: 18.4%
+   5. J. Guentzel (TBL vs MTL) — 53.1% chance of 3+ shots  📊 WORTH WATCHING
+       On the road | 4+ SOG: 29.7% | 5+ SOG: 18.1%
+   6. E. Bouchard (EDM vs ANA) — 53.1% chance of 3+ shots  📊 WORTH WATCHING
+       On the road | 4+ SOG: 32.6% | 5+ SOG: 15.3%
+   7. C. Keller (UTA vs VGK) — 53.1% chance of 3+ shots  📊 WORTH WATCHING
+       At home | 4+ SOG: 29.7% | 5+ SOG: 15.3%
+   8. G. Fortier (TBL vs MTL) — 53.1% chance of 3+ shots  📊 WORTH WATCHING
+       On the road | 4+ SOG: 32.6% | 5+ SOG: 15.3%
+   9. J. Demers (EDM vs ANA) — 53.1% chance of 3+ shots  📊 WORTH WATCHING
+       On the road | 4+ SOG: 29.7% | 5+ SOG: 18.1%
+  10. J. Eichel (VGK vs UTA) — 51.1% chance of 3+ shots  📊 WORTH WATCHING
+       On the road | 4+ SOG: 32.6% | 5+ SOG: 18.1%
+
+======================================================================
+💰 TODAY'S PICKS ABOVE THRESHOLD (THE ACTUAL PICKS TO MENTION):
+======================================================================
+
+  1+ Points  (threshold: 55%):
+    ✅ N. Kucherov (TBL vs MTL) — 82.0%
+       On the road, facing Jakub Dobes
+    ✅ L. Draisaitl (EDM vs ANA) — 82.0%
+       On the road, vs Ville Husso
+    ✅ C. McDavid (EDM vs ANA) — 82.0%
+       On the road, vs Ville Husso
+    ✅ J. Eichel (VGK vs UTA) — 81.7%
+       On the road, vs Karel Vejmelka
+    ✅ J. Guentzel (TBL vs MTL) — 69.9%
+       On the road, facing Jakub Dobes
+    ✅ E. Bouchard (EDM vs ANA) — 67.7%
+       On the road, vs Ville Husso
+    ✅ B. Point (TBL vs MTL) — 65.3%
+       On the road, facing Jakub Dobes
+    ✅ C. Keller (UTA vs VGK) — 65.3%
+       At home, vs Carter Hart
+    ✅ N. Suzuki (MTL vs TBL) — 63.4%
+       At home, facing Andrei Vasilevskiy
+    ✅ R. Nugent-Hopkins (EDM vs ANA) — 63.4%
+       On the road, vs Ville Husso
+    ✅ Z. Hyman (EDM vs ANA) — 63.4%
+       On the road, vs Ville Husso
+    ✅ C. Caufield (MTL vs TBL) — 63.4%
+       At home, facing Andrei Vasilevskiy
+    ✅ G. Fortier (TBL vs MTL) — 63.4%
+       On the road, facing Jakub Dobes
+    ✅ M. Stone (VGK vs UTA) — 60.0%
+       On the road, vs Karel Vejmelka
+    ✅ D. Guenther (UTA vs VGK) — 60.0%
+       At home, vs Carter Hart
+    ✅ J. Demers (EDM vs ANA) — 60.0%
+       On the road, vs Ville Husso
+    ✅ J. Finley (TBL vs MTL) — 60.0%
+       On the road, facing Jakub Dobes
+    ✅ B. Hagel (TBL vs MTL) — 60.0%
+       On the road, facing Jakub Dobes
+    ✅ T. Terry (ANA vs EDM) — 56.2%
+       At home, facing Connor Ingram
+    ✅ L. Cooley (UTA vs VGK) — 56.2%
+       At home, vs Carter Hart
+    ✅ L. Hutson (MTL vs TBL) — 55.1%
+       At home, facing Andrei Vasilevskiy
+    ✅ V. Hedman (TBL vs MTL) — 55.1%
+       On the road, facing Jakub Dobes
+    ✅ S. Theodore (VGK vs UTA) — 55.1%
+       On the road, vs Karel Vejmelka
+    ✅ T. Hertl (VGK vs UTA) — 55.1%
+       On the road, vs Karel Vejmelka
+    ✅ M. Sergachev (UTA vs VGK) — 55.1%
+       At home, vs Carter Hart
+    ✅ N. Schmaltz (UTA vs VGK) — 55.1%
+       At home, vs Carter Hart
+    ✅ W. Karlsson (VGK vs UTA) — 55.1%
+       On the road, vs Karel Vejmelka
+    ✅ T. Zegras (ANA vs EDM) — 55.1%
+       At home, facing Connor Ingram
+    ✅ M. McTavish (ANA vs EDM) — 55.1%
+       At home, facing Connor Ingram
+    ✅ L. Carlsson (ANA vs EDM) — 55.1%
+       At home, facing Connor Ingram
+    ✅ P. Kemp (EDM vs ANA) — 50.5%
+       On the road, vs Ville Husso
+
+  1+ Goals  (threshold: 28%):
+    ✅ L. Draisaitl (EDM vs ANA) — 39.4%
+       On the road, vs Ville Husso
+    ✅ J. Eichel (VGK vs UTA) — 39.4%
+       On the road, vs Karel Vejmelka
+    ✅ C. McDavid (EDM vs ANA) — 39.4%
+       On the road, vs Ville Husso
+    ✅ N. Kucherov (TBL vs MTL) — 35.9%
+       On the road, facing Jakub Dobes
+    ✅ J. Guentzel (TBL vs MTL) — 35.9%
+       On the road, facing Jakub Dobes
+    ✅ B. Point (TBL vs MTL) — 35.9%
+       On the road, facing Jakub Dobes
+    ✅ C. Keller (UTA vs VGK) — 35.9%
+       At home, vs Carter Hart
+    ✅ G. Fortier (TBL vs MTL) — 35.9%
+       On the road, facing Jakub Dobes
+    ✅ Z. Hyman (EDM vs ANA) — 35.9%
+       On the road, vs Ville Husso
+    ✅ C. Caufield (MTL vs TBL) — 31.6%
+       At home, facing Andrei Vasilevskiy
+    ✅ D. Guenther (UTA vs VGK) — 31.6%
+       At home, vs Carter Hart
+    ✅ R. Nugent-Hopkins (EDM vs ANA) — 31.5%
+       On the road, vs Ville Husso
+    ✅ N. Suzuki (MTL vs TBL) — 31.5%
+       At home, facing Andrei Vasilevskiy
+    ✅ J. Finley (TBL vs MTL) — 31.5%
+       On the road, facing Jakub Dobes
+    ✅ M. Stone (VGK vs UTA) — 31.5%
+       On the road, vs Karel Vejmelka
+    ✅ L. Cooley (UTA vs VGK) — 31.3%
+       At home, vs Carter Hart
+    ✅ B. Hagel (TBL vs MTL) — 31.3%
+       On the road, facing Jakub Dobes
+    ✅ E. Kane (EDM vs ANA) — 31.3%
+       On the road, vs Ville Husso
+    ✅ T. Hertl (VGK vs UTA) — 31.3%
+       On the road, vs Karel Vejmelka
+    ✅ N. Schmaltz (UTA vs VGK) — 31.3%
+       At home, vs Carter Hart
+    ✅ M. McTavish (ANA vs EDM) — 31.3%
+       At home, facing Connor Ingram
+    ✅ P. Dorofeyev (VGK vs UTA) — 31.3%
+       On the road, vs Karel Vejmelka
+    ✅ T. Terry (ANA vs EDM) — 31.2%
+       At home, facing Connor Ingram
+    ✅ E. Bouchard (EDM vs ANA) — 20.3%
+       On the road, vs Ville Husso
+    ✅ P. Kemp (EDM vs ANA) — 20.3%
+       On the road, vs Ville Husso
+
+  1+ Assists  (threshold: 45%):
+    ✅ N. Kucherov (TBL vs MTL) — 66.9%
+       On the road, facing Jakub Dobes
+    ✅ L. Draisaitl (EDM vs ANA) — 66.9%
+       On the road, vs Ville Husso
+    ✅ C. McDavid (EDM vs ANA) — 66.9%
+       On the road, vs Ville Husso
+    ✅ J. Eichel (VGK vs UTA) — 54.5%
+       On the road, vs Karel Vejmelka
+    ✅ E. Bouchard (EDM vs ANA) — 54.5%
+       On the road, vs Ville Husso
+    ✅ L. Hutson (MTL vs TBL) — 54.5%
+       At home, facing Andrei Vasilevskiy
+    ✅ G. Fortier (TBL vs MTL) — 54.5%
+       On the road, facing Jakub Dobes
+    ✅ S. Theodore (VGK vs UTA) — 48.5%
+       On the road, vs Karel Vejmelka
+    ✅ C. Keller (UTA vs VGK) — 48.5%
+       At home, vs Carter Hart
+    ✅ R. Nugent-Hopkins (EDM vs ANA) — 48.5%
+       On the road, vs Ville Husso
+    ✅ N. Suzuki (MTL vs TBL) — 48.5%
+       At home, facing Andrei Vasilevskiy
+    ✅ J. Guentzel (TBL vs MTL) — 45.8%
+       On the road, facing Jakub Dobes
+    ✅ J. Demers (EDM vs ANA) — 45.8%
+       On the road, vs Ville Husso
+    ✅ J. Finley (TBL vs MTL) — 45.8%
+       On the road, facing Jakub Dobes
+    ✅ V. Hedman (TBL vs MTL) — 45.8%
+       On the road, facing Jakub Dobes
+
+  3+ Shots on Goal  (threshold: 50%):
+    ✅ C. McDavid (EDM vs ANA) — 71.8%
+       On the road, vs Ville Husso
+    ✅ C. Caufield (MTL vs TBL) — 56.7%
+       At home, facing Andrei Vasilevskiy
+    ✅ N. Kucherov (TBL vs MTL) — 53.1%
+       On the road, facing Jakub Dobes
+    ✅ J. Guentzel (TBL vs MTL) — 53.1%
+       On the road, facing Jakub Dobes
+    ✅ L. Draisaitl (EDM vs ANA) — 53.1%
+       On the road, vs Ville Husso
+    ✅ E. Bouchard (EDM vs ANA) — 53.1%
+       On the road, vs Ville Husso
+    ✅ C. Keller (UTA vs VGK) — 53.1%
+       At home, vs Carter Hart
+    ✅ G. Fortier (TBL vs MTL) — 53.1%
+       On the road, facing Jakub Dobes
+    ✅ J. Demers (EDM vs ANA) — 53.1%
+       On the road, vs Ville Husso
+
+  4+ Shots on Goal  (threshold: 35%):
+    ✅ C. McDavid (EDM vs ANA) — 44.6%
+       On the road, vs Ville Husso
+    ✅ C. Caufield (MTL vs TBL) — 38.5%
+       At home, facing Andrei Vasilevskiy
+    ✅ E. Bouchard (EDM vs ANA) — 32.6%
+       On the road, vs Ville Husso
+
+======================================================================
+END OF BRIEF — PASTE ABOVE INTO CLAUDE TO GENERATE SCRIPT
+======================================================================

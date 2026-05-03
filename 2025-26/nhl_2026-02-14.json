@@ -1,0 +1,107 @@
+{
+  "date": "2026-02-14",
+  "season": "20252026",
+  "gameCount": 4,
+  "games": [
+    {
+      "gamePk": 2025090011,
+      "season": 20252026,
+      "gameType": 9,
+      "startTimeUTC": "2026-02-14T11:00:00Z",
+      "venue": "Milano Santagiulia Ice Hockey Arena",
+      "gameState": "FINAL",
+      "gameScheduleState": "OK",
+      "homeTeam": {
+        "id": 65,
+        "abbrev": "SVK",
+        "name": "Slovakia",
+        "record": null,
+        "score": 3,
+        "roster": []
+      },
+      "awayTeam": {
+        "id": 66,
+        "abbrev": "SWE",
+        "name": "Sweden",
+        "record": null,
+        "score": 5,
+        "roster": []
+      }
+    },
+    {
+      "gamePk": 2025090012,
+      "season": 20252026,
+      "gameType": 9,
+      "startTimeUTC": "2026-02-14T11:00:00Z",
+      "venue": "Fiera Milano Rho",
+      "gameState": "FINAL",
+      "gameScheduleState": "OK",
+      "homeTeam": {
+        "id": 6775,
+        "abbrev": "LAT",
+        "name": "Latvia",
+        "record": null,
+        "score": 4,
+        "roster": []
+      },
+      "awayTeam": {
+        "id": 63,
+        "abbrev": "GER",
+        "name": "Germany",
+        "record": null,
+        "score": 3,
+        "roster": []
+      }
+    },
+    {
+      "gamePk": 2025090013,
+      "season": 20252026,
+      "gameType": 9,
+      "startTimeUTC": "2026-02-14T15:30:00Z",
+      "venue": "Milano Santagiulia Ice Hockey Arena",
+      "gameState": "FINAL",
+      "gameScheduleState": "OK",
+      "homeTeam": {
+        "id": 6773,
+        "abbrev": "ITA",
+        "name": "Italy",
+        "record": null,
+        "score": 0,
+        "roster": []
+      },
+      "awayTeam": {
+        "id": 62,
+        "abbrev": "FIN",
+        "name": "Finland",
+        "record": null,
+        "score": 11,
+        "roster": []
+      }
+    },
+    {
+      "gamePk": 2025090014,
+      "season": 20252026,
+      "gameType": 9,
+      "startTimeUTC": "2026-02-14T20:00:00Z",
+      "venue": "Milano Santagiulia Ice Hockey Arena",
+      "gameState": "FINAL",
+      "gameScheduleState": "OK",
+      "homeTeam": {
+        "id": 5096,
+        "abbrev": "DEN",
+        "name": "Denmark",
+        "record": null,
+        "score": 3,
+        "roster": []
+      },
+      "awayTeam": {
+        "id": 67,
+        "abbrev": "USA",
+        "name": "USA",
+        "record": null,
+        "score": 6,
+        "roster": []
+      }
+    }
+  ]
+}

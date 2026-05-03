@@ -1,0 +1,29 @@
+NHL DAILY SCRIPT — April 5, 2026
+For: Smart Thinking AI Model (Alexis Rivers)
+Runtime: ~3:00–3:16 at 1.1–1.2x speed
+Char count: ~3,540
+================================================================================
+
+This is Alexis Rivers of Smart Thinking — Smart Thinking is the AI co that brings you this prediction model today — as a reminder, as always, this is for entertainment purposes only.
+
+Seven games on the board today and I am going to be straight with you from the jump — the model is not producing a HIGH confidence play on any of them. Zero games at sixty-five percent or above. And you know what... that is the right answer. We do not force it. The model has a thirty-six percent win rate on MED tier picks this season. Forcing a play when the signal is not there is exactly how you lose money slowly.
+
+Yesterday was a light slate — one game flagged, Winnipeg on the road in Columbus at LOW confidence. Results are in the comments. No HIGH picks to recap.
+
+Now — before I go through today's games, I want to be transparent about something, because this is actually a useful model update. This morning's first run had incorrect starting goalies loaded for five games. The scraper was pulling yesterday's data. Detroit had Gibson listed when Cam Talbot is actually starting tonight. Minnesota had Gustavsson when Jesper Wallstedt is in net — back-to-back rotation. Boston had Swayman when it's Korpisalo getting the nod, because Swayman played last night in Tampa. Ottawa had Ullmark when James Reimer is confirmed to start. And um... the biggest one — New Jersey had Markstrom listed, but Markstrom is sidelined with an injury. Jake Allen is in net for the Devils tonight.
+
+I re-ran the model with all five corrected. The New Jersey swap was the one that moved the needle — Allen for Markstrom dropped the Devils from fifty-six percent all the way down to fifty-two. The model has seen this exact swap before. When Markstrom is out and Allen comes in, New Jersey's win probability drops, every time.
+
+So here is where things stand after the corrections. Three MED tier games — Colorado at minus two-thirty, Detroit at plus one hundred, Rangers at minus one-ten, all sitting around sixty-one to sixty-two percent. Per our rules, we do not touch MED tier. Thirty-six percent win rate this year. Hard pass on all three.
+
+If you want the one value play the model is pointing to tonight... it is New Jersey on the road in Montreal. Fifty-two percent, plus one-thirty, eight point eight percent edge over the market. Jake Allen in net for Jersey, Jakub Dobes for Montreal. Both teams on a back-to-back. It is a LOW confidence play — size it like one. But the market has Montreal implied at fifty-six percent and the model disagrees. That edge is real.
+
+Florida at plus one-eighty-five also has a twenty percent edge on paper... but the goalies are not confirmed, it is the second half of a back-to-back after Pittsburgh dropped nine goals on them yesterday. Not the spot.
+
+No parlay tonight. No stacking LOW confidence games on a back-to-back heavy slate.
+
+The honest take today — this is a watch-the-games day. Seven games, Easter Sunday, the playoff race is getting tight. Enjoy the hockey.
+
+This is Alexis — have fun today and tonight, and subscribe for daily picks automatically — info in the first comment below.
+
+================================================================================

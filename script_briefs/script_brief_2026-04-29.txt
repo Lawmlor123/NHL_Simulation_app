@@ -1,0 +1,235 @@
+======================================================================
+NHL PREDICTIONS SCRIPT BRIEF — 2026-04-29
+Generated: 2026-04-29 10:00
+======================================================================
+
+INSTRUCTIONS FOR CLAUDE:
+Using the picks below, write a 2-3 minute YouTube script in a
+natural, conversational human voice. Include a couple of 'um'
+moments and natural pauses between sentences (use '...' for pauses
+and [pause] for longer beats). Sound like an enthusiastic hockey
+fan who knows their stats, not a robot. Start with tonight's games,
+then go through the top picks by category.
+
+──────────────────────────────────────────────────────────────────────
+TONIGHT'S GAMES:
+──────────────────────────────────────────────────────────────────────
+  • MTL @ TBL
+  • PIT @ PHI
+  • UTA @ VGK
+
+──────────────────────────────────────────────────────────────────────
+🥅 TOP GOAL SCORER PICKS (1+ Goals):
+──────────────────────────────────────────────────────────────────────
+   1. J. Guentzel (TBL vs MTL) — 39.4% chance of scoring  ✅ STRONG PICK
+       At home, facing Jakub Dobes | also 80.0% for a point
+   2. B. Point (TBL vs MTL) — 39.4% chance of scoring  ✅ STRONG PICK
+       At home, facing Jakub Dobes | also 69.9% for a point
+   3. N. Kucherov (TBL vs MTL) — 35.9% chance of scoring  ✅ STRONG PICK
+       At home, facing Jakub Dobes | also 82.6% for a point
+   4. J. Eichel (VGK vs UTA) — 35.9% chance of scoring  ✅ STRONG PICK
+       At home, vs Karel Vejmelka | also 81.7% for a point
+   5. S. Crosby (PIT vs PHI) — 35.9% chance of scoring  ✅ STRONG PICK
+       On the road, facing Dan Vladar | also 67.7% for a point
+   6. G. Fortier (TBL vs MTL) — 35.9% chance of scoring  ✅ STRONG PICK
+       At home, facing Jakub Dobes | also 65.3% for a point
+   7. C. Keller (UTA vs VGK) — 35.9% chance of scoring  ✅ STRONG PICK
+       On the road, vs Carter Hart | also 60.5% for a point
+   8. T. Konecny (PHI vs PIT) — 31.6% chance of scoring  📊 WORTH WATCHING
+       At home, facing Stuart Skinner | also 63.4% for a point
+   9. J. Finley (TBL vs MTL) — 31.6% chance of scoring  📊 WORTH WATCHING
+       At home, facing Jakub Dobes | also 60.5% for a point
+  10. C. Caufield (MTL vs TBL) — 31.6% chance of scoring  📊 WORTH WATCHING
+       On the road, facing Andrei Vasilevskiy | also 59.9% for a point
+
+──────────────────────────────────────────────────────────────────────
+📊 TOP POINT GETTER PICKS (1+ Points):
+──────────────────────────────────────────────────────────────────────
+   1. N. Kucherov (TBL vs MTL) — 82.6% chance of a point  🔥 HIGH CONFIDENCE
+       At home, facing Jakub Dobes | goal 35.9% / assist 66.9%
+   2. J. Eichel (VGK vs UTA) — 81.7% chance of a point  🔥 HIGH CONFIDENCE
+       At home, vs Karel Vejmelka | goal 35.9% / assist 54.5%
+   3. J. Guentzel (TBL vs MTL) — 80.0% chance of a point  🔥 HIGH CONFIDENCE
+       At home, facing Jakub Dobes | goal 39.4% / assist 48.5%
+   4. B. Point (TBL vs MTL) — 69.9% chance of a point  🔥 HIGH CONFIDENCE
+       At home, facing Jakub Dobes | goal 39.4% / assist 40.1%
+   5. S. Crosby (PIT vs PHI) — 67.7% chance of a point  🔥 HIGH CONFIDENCE
+       On the road, facing Dan Vladar | goal 35.9% / assist 48.5%
+   6. G. Fortier (TBL vs MTL) — 65.3% chance of a point  🔥 HIGH CONFIDENCE
+       At home, facing Jakub Dobes | goal 35.9% / assist 54.5%
+   7. T. Konecny (PHI vs PIT) — 63.4% chance of a point  ✅ STRONG PICK
+       At home, facing Stuart Skinner | goal 31.6% / assist 40.1%
+   8. M. Stone (VGK vs UTA) — 63.4% chance of a point  ✅ STRONG PICK
+       At home, vs Karel Vejmelka | goal 31.5% / assist 45.8%
+   9. B. Hagel (TBL vs MTL) — 63.4% chance of a point  ✅ STRONG PICK
+       At home, facing Jakub Dobes | goal 31.3% / assist 41.9%
+  10. J. Finley (TBL vs MTL) — 60.5% chance of a point  ✅ STRONG PICK
+       At home, facing Jakub Dobes | goal 31.6% / assist 48.5%
+
+──────────────────────────────────────────────────────────────────────
+🏒 TOP SHOT VOLUME PICKS (3+ Shots on Goal):
+──────────────────────────────────────────────────────────────────────
+   1. G. Fortier (TBL vs MTL) — 56.7% chance of 3+ shots  ✅ STRONG PICK
+       At home | 4+ SOG: 32.6% | 5+ SOG: 18.1%
+   2. N. Kucherov (TBL vs MTL) — 53.1% chance of 3+ shots  📊 WORTH WATCHING
+       At home | 4+ SOG: 32.6% | 5+ SOG: 20.9%
+   3. J. Eichel (VGK vs UTA) — 53.1% chance of 3+ shots  📊 WORTH WATCHING
+       At home | 4+ SOG: 32.6% | 5+ SOG: 20.9%
+   4. J. Guentzel (TBL vs MTL) — 53.1% chance of 3+ shots  📊 WORTH WATCHING
+       At home | 4+ SOG: 32.6% | 5+ SOG: 18.4%
+   5. S. Crosby (PIT vs PHI) — 53.1% chance of 3+ shots  📊 WORTH WATCHING
+       On the road | 4+ SOG: 32.6% | 5+ SOG: 15.4%
+   6. C. Caufield (MTL vs TBL) — 53.1% chance of 3+ shots  📊 WORTH WATCHING
+       On the road | 4+ SOG: 32.6% | 5+ SOG: 18.4%
+   7. J. Finley (TBL vs MTL) — 51.1% chance of 3+ shots  📊 WORTH WATCHING
+       At home | 4+ SOG: 32.6% | 5+ SOG: 18.4%
+   8. B. Rust (PIT vs PHI) — 51.1% chance of 3+ shots  📊 WORTH WATCHING
+       On the road | 4+ SOG: 29.7% | 5+ SOG: 12.6%
+   9. N. Clurman (PIT vs PHI) — 51.1% chance of 3+ shots  📊 WORTH WATCHING
+       On the road | 4+ SOG: 24.7% | 5+ SOG: 15.3%
+  10. P. Dorofeyev (VGK vs UTA) — 51.1% chance of 3+ shots  📊 WORTH WATCHING
+       At home | 4+ SOG: 29.7% | 5+ SOG: 17.5%
+
+======================================================================
+💰 TODAY'S PICKS ABOVE THRESHOLD (THE ACTUAL PICKS TO MENTION):
+======================================================================
+
+  1+ Points  (threshold: 55%):
+    ✅ N. Kucherov (TBL vs MTL) — 82.6%
+       At home, facing Jakub Dobes
+    ✅ J. Eichel (VGK vs UTA) — 81.7%
+       At home, vs Karel Vejmelka
+    ✅ J. Guentzel (TBL vs MTL) — 80.0%
+       At home, facing Jakub Dobes
+    ✅ B. Point (TBL vs MTL) — 69.9%
+       At home, facing Jakub Dobes
+    ✅ S. Crosby (PIT vs PHI) — 67.7%
+       On the road, facing Dan Vladar
+    ✅ G. Fortier (TBL vs MTL) — 65.3%
+       At home, facing Jakub Dobes
+    ✅ T. Konecny (PHI vs PIT) — 63.4%
+       At home, facing Stuart Skinner
+    ✅ M. Stone (VGK vs UTA) — 63.4%
+       At home, vs Karel Vejmelka
+    ✅ B. Hagel (TBL vs MTL) — 63.4%
+       At home, facing Jakub Dobes
+    ✅ J. Finley (TBL vs MTL) — 60.5%
+       At home, facing Jakub Dobes
+    ✅ C. Keller (UTA vs VGK) — 60.5%
+       On the road, vs Carter Hart
+    ✅ M. Michkov (PHI vs PIT) — 60.0%
+       At home, facing Stuart Skinner
+    ✅ N. Suzuki (MTL vs TBL) — 60.0%
+       On the road, facing Andrei Vasilevskiy
+    ✅ C. Caufield (MTL vs TBL) — 59.9%
+       On the road, facing Andrei Vasilevskiy
+    ✅ S. Theodore (VGK vs UTA) — 56.2%
+       At home, vs Karel Vejmelka
+    ✅ T. Hertl (VGK vs UTA) — 56.2%
+       At home, vs Karel Vejmelka
+    ✅ V. Hedman (TBL vs MTL) — 56.2%
+       At home, facing Jakub Dobes
+    ✅ L. Hutson (MTL vs TBL) — 55.1%
+       On the road, facing Andrei Vasilevskiy
+    ✅ B. Rust (PIT vs PHI) — 55.1%
+       On the road, facing Dan Vladar
+    ✅ W. Karlsson (VGK vs UTA) — 55.1%
+       At home, vs Karel Vejmelka
+    ✅ L. Cooley (UTA vs VGK) — 55.1%
+       On the road, vs Carter Hart
+    ✅ D. Guenther (UTA vs VGK) — 55.1%
+       On the road, vs Carter Hart
+    ✅ N. Clurman (PIT vs PHI) — 51.3%
+       On the road, facing Dan Vladar
+
+  1+ Goals  (threshold: 28%):
+    ✅ J. Guentzel (TBL vs MTL) — 39.4%
+       At home, facing Jakub Dobes
+    ✅ B. Point (TBL vs MTL) — 39.4%
+       At home, facing Jakub Dobes
+    ✅ N. Kucherov (TBL vs MTL) — 35.9%
+       At home, facing Jakub Dobes
+    ✅ J. Eichel (VGK vs UTA) — 35.9%
+       At home, vs Karel Vejmelka
+    ✅ S. Crosby (PIT vs PHI) — 35.9%
+       On the road, facing Dan Vladar
+    ✅ G. Fortier (TBL vs MTL) — 35.9%
+       At home, facing Jakub Dobes
+    ✅ C. Keller (UTA vs VGK) — 35.9%
+       On the road, vs Carter Hart
+    ✅ T. Konecny (PHI vs PIT) — 31.6%
+       At home, facing Stuart Skinner
+    ✅ J. Finley (TBL vs MTL) — 31.6%
+       At home, facing Jakub Dobes
+    ✅ B. Rust (PIT vs PHI) — 31.6%
+       On the road, facing Dan Vladar
+    ✅ C. Caufield (MTL vs TBL) — 31.6%
+       On the road, facing Andrei Vasilevskiy
+    ✅ D. Guenther (UTA vs VGK) — 31.6%
+       On the road, vs Carter Hart
+    ✅ N. Suzuki (MTL vs TBL) — 31.5%
+       On the road, facing Andrei Vasilevskiy
+    ✅ T. Hertl (VGK vs UTA) — 31.5%
+       At home, vs Karel Vejmelka
+    ✅ M. Stone (VGK vs UTA) — 31.5%
+       At home, vs Karel Vejmelka
+    ✅ P. Dorofeyev (VGK vs UTA) — 31.5%
+       At home, vs Karel Vejmelka
+    ✅ R. Rakell (PIT vs PHI) — 31.5%
+       On the road, facing Dan Vladar
+    ✅ B. Hagel (TBL vs MTL) — 31.3%
+       At home, facing Jakub Dobes
+    ✅ W. Karlsson (VGK vs UTA) — 31.3%
+       At home, vs Karel Vejmelka
+    ✅ N. Schmaltz (UTA vs VGK) — 31.3%
+       On the road, vs Carter Hart
+    ✅ L. Cooley (UTA vs VGK) — 31.3%
+       On the road, vs Carter Hart
+    ✅ M. Johnstone (PIT vs PHI) — 31.3%
+       On the road, facing Dan Vladar
+    ✅ N. Clurman (PIT vs PHI) — 20.3%
+       On the road, facing Dan Vladar
+
+  1+ Assists  (threshold: 45%):
+    ✅ N. Kucherov (TBL vs MTL) — 66.9%
+       At home, facing Jakub Dobes
+    ✅ J. Eichel (VGK vs UTA) — 54.5%
+       At home, vs Karel Vejmelka
+    ✅ G. Fortier (TBL vs MTL) — 54.5%
+       At home, facing Jakub Dobes
+    ✅ L. Hutson (MTL vs TBL) — 51.6%
+       On the road, facing Andrei Vasilevskiy
+    ✅ J. Guentzel (TBL vs MTL) — 48.5%
+       At home, facing Jakub Dobes
+    ✅ J. Finley (TBL vs MTL) — 48.5%
+       At home, facing Jakub Dobes
+    ✅ S. Crosby (PIT vs PHI) — 48.5%
+       On the road, facing Dan Vladar
+    ✅ S. Theodore (VGK vs UTA) — 48.5%
+       At home, vs Karel Vejmelka
+    ✅ C. Keller (UTA vs VGK) — 48.5%
+       On the road, vs Carter Hart
+    ✅ V. Hedman (TBL vs MTL) — 48.5%
+       At home, facing Jakub Dobes
+    ✅ M. Stone (VGK vs UTA) — 45.8%
+       At home, vs Karel Vejmelka
+
+  3+ Shots on Goal  (threshold: 50%):
+    ✅ G. Fortier (TBL vs MTL) — 56.7%
+       At home, facing Jakub Dobes
+    ✅ J. Eichel (VGK vs UTA) — 53.1%
+       At home, vs Karel Vejmelka
+    ✅ N. Kucherov (TBL vs MTL) — 53.1%
+       At home, facing Jakub Dobes
+    ✅ J. Guentzel (TBL vs MTL) — 53.1%
+       At home, facing Jakub Dobes
+    ✅ S. Crosby (PIT vs PHI) — 53.1%
+       On the road, facing Dan Vladar
+    ✅ C. Caufield (MTL vs TBL) — 53.1%
+       On the road, facing Andrei Vasilevskiy
+    ✅ N. Clurman (PIT vs PHI) — 51.1%
+       On the road, facing Dan Vladar
+
+======================================================================
+END OF BRIEF — PASTE ABOVE INTO CLAUDE TO GENERATE SCRIPT
+======================================================================

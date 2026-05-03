@@ -1,0 +1,358 @@
+======================================================================
+NHL PREDICTIONS SCRIPT BRIEF — 2026-04-26
+Generated: 2026-04-26 11:14
+======================================================================
+
+INSTRUCTIONS FOR CLAUDE:
+Using the picks below, write a 2-3 minute YouTube script in a
+natural, conversational human voice. Include a couple of 'um'
+moments and natural pauses between sentences (use '...' for pauses
+and [pause] for longer beats). Sound like an enthusiastic hockey
+fan who knows their stats, not a robot. Start with tonight's games,
+then go through the top picks by category.
+
+──────────────────────────────────────────────────────────────────────
+TONIGHT'S GAMES:
+──────────────────────────────────────────────────────────────────────
+  • BUF @ BOS
+  • COL @ LAK
+  • EDM @ ANA
+  • TBL @ MTL
+
+──────────────────────────────────────────────────────────────────────
+🥅 TOP GOAL SCORER PICKS (1+ Goals):
+──────────────────────────────────────────────────────────────────────
+   1. L. Draisaitl (EDM vs ANA) — 39.4% chance of scoring  ✅ STRONG PICK
+       On the road, vs Ville Husso | also 82.0% for a point
+   2. C. McDavid (EDM vs ANA) — 39.4% chance of scoring  ✅ STRONG PICK
+       On the road, vs Ville Husso | also 82.0% for a point
+   3. N. MacKinnon (COL vs LAK) — 39.4% chance of scoring  ✅ STRONG PICK
+       On the road, vs Anton Forsberg | also 82.0% for a point
+   4. J. Farinacci (BOS vs BUF) — 39.4% chance of scoring  ✅ STRONG PICK
+       At home, facing Ukko-Pekka Luukkonen | also 81.7% for a point
+   5. D. Pastrnak (BOS vs BUF) — 39.4% chance of scoring  ✅ STRONG PICK
+       At home, facing Ukko-Pekka Luukkonen | also 69.9% for a point
+   6. A. Kempe (LAK vs COL) — 37.5% chance of scoring  ✅ STRONG PICK
+       At home, vs Scott Wedgewood | also 65.3% for a point
+   7. N. Kucherov (TBL vs MTL) — 35.9% chance of scoring  ✅ STRONG PICK
+       On the road, facing Jakub Dobes | also 82.0% for a point
+   8. J. Guentzel (TBL vs MTL) — 35.9% chance of scoring  ✅ STRONG PICK
+       On the road, facing Jakub Dobes | also 69.9% for a point
+   9. B. Point (TBL vs MTL) — 35.9% chance of scoring  ✅ STRONG PICK
+       On the road, facing Jakub Dobes | also 65.3% for a point
+  10. K. Fiala (LAK vs COL) — 35.9% chance of scoring  ✅ STRONG PICK
+       At home, vs Scott Wedgewood | also 63.4% for a point
+
+──────────────────────────────────────────────────────────────────────
+📊 TOP POINT GETTER PICKS (1+ Points):
+──────────────────────────────────────────────────────────────────────
+   1. L. Draisaitl (EDM vs ANA) — 82.0% chance of a point  🔥 HIGH CONFIDENCE
+       On the road, vs Ville Husso | goal 39.4% / assist 66.9%
+   2. N. Kucherov (TBL vs MTL) — 82.0% chance of a point  🔥 HIGH CONFIDENCE
+       On the road, facing Jakub Dobes | goal 35.9% / assist 66.9%
+   3. C. McDavid (EDM vs ANA) — 82.0% chance of a point  🔥 HIGH CONFIDENCE
+       On the road, vs Ville Husso | goal 39.4% / assist 66.9%
+   4. N. MacKinnon (COL vs LAK) — 82.0% chance of a point  🔥 HIGH CONFIDENCE
+       On the road, vs Anton Forsberg | goal 39.4% / assist 66.9%
+   5. J. Farinacci (BOS vs BUF) — 81.7% chance of a point  🔥 HIGH CONFIDENCE
+       At home, facing Ukko-Pekka Luukkonen | goal 39.4% / assist 57.3%
+   6. J. Guentzel (TBL vs MTL) — 69.9% chance of a point  🔥 HIGH CONFIDENCE
+       On the road, facing Jakub Dobes | goal 35.9% / assist 45.8%
+   7. D. Pastrnak (BOS vs BUF) — 69.9% chance of a point  🔥 HIGH CONFIDENCE
+       At home, facing Ukko-Pekka Luukkonen | goal 39.4% / assist 48.5%
+   8. C. Makar (COL vs LAK) — 69.9% chance of a point  🔥 HIGH CONFIDENCE
+       On the road, vs Anton Forsberg | goal 18.1% / assist 54.5%
+   9. E. Bouchard (EDM vs ANA) — 67.7% chance of a point  🔥 HIGH CONFIDENCE
+       On the road, vs Ville Husso | goal 20.3% / assist 54.5%
+  10. B. Point (TBL vs MTL) — 65.3% chance of a point  🔥 HIGH CONFIDENCE
+       On the road, facing Jakub Dobes | goal 35.9% / assist 37.6%
+
+──────────────────────────────────────────────────────────────────────
+🏒 TOP SHOT VOLUME PICKS (3+ Shots on Goal):
+──────────────────────────────────────────────────────────────────────
+   1. N. MacKinnon (COL vs LAK) — 75.0% chance of 3+ shots  🔥 HIGH CONFIDENCE
+       On the road | 4+ SOG: 49.4% | 5+ SOG: 38.0%
+   2. C. McDavid (EDM vs ANA) — 71.8% chance of 3+ shots  🔥 HIGH CONFIDENCE
+       On the road | 4+ SOG: 44.6% | 5+ SOG: 26.5%
+   3. J. Farinacci (BOS vs BUF) — 59.9% chance of 3+ shots  ✅ STRONG PICK
+       At home | 4+ SOG: 38.5% | 5+ SOG: 26.5%
+   4. K. Fiala (LAK vs COL) — 59.9% chance of 3+ shots  ✅ STRONG PICK
+       At home | 4+ SOG: 38.5% | 5+ SOG: 20.9%
+   5. D. Pastrnak (BOS vs BUF) — 56.7% chance of 3+ shots  ✅ STRONG PICK
+       At home | 4+ SOG: 44.6% | 5+ SOG: 26.5%
+   6. A. Kempe (LAK vs COL) — 56.7% chance of 3+ shots  ✅ STRONG PICK
+       At home | 4+ SOG: 38.5% | 5+ SOG: 20.0%
+   7. C. Caufield (MTL vs TBL) — 56.7% chance of 3+ shots  ✅ STRONG PICK
+       At home | 4+ SOG: 38.5% | 5+ SOG: 20.9%
+   8. T. Thompson (BUF vs BOS) — 56.7% chance of 3+ shots  ✅ STRONG PICK
+       On the road | 4+ SOG: 33.8% | 5+ SOG: 18.4%
+   9. L. Draisaitl (EDM vs ANA) — 53.1% chance of 3+ shots  📊 WORTH WATCHING
+       On the road | 4+ SOG: 32.6% | 5+ SOG: 18.4%
+  10. N. Kucherov (TBL vs MTL) — 53.1% chance of 3+ shots  📊 WORTH WATCHING
+       On the road | 4+ SOG: 29.7% | 5+ SOG: 18.4%
+
+======================================================================
+💰 TODAY'S PICKS ABOVE THRESHOLD (THE ACTUAL PICKS TO MENTION):
+======================================================================
+
+  1+ Points  (threshold: 55%):
+    ✅ L. Draisaitl (EDM vs ANA) — 82.0%
+       On the road, vs Ville Husso
+    ✅ N. Kucherov (TBL vs MTL) — 82.0%
+       On the road, facing Jakub Dobes
+    ✅ C. McDavid (EDM vs ANA) — 82.0%
+       On the road, vs Ville Husso
+    ✅ N. MacKinnon (COL vs LAK) — 82.0%
+       On the road, vs Anton Forsberg
+    ✅ J. Farinacci (BOS vs BUF) — 81.7%
+       At home, facing Ukko-Pekka Luukkonen
+    ✅ J. Guentzel (TBL vs MTL) — 69.9%
+       On the road, facing Jakub Dobes
+    ✅ D. Pastrnak (BOS vs BUF) — 69.9%
+       At home, facing Ukko-Pekka Luukkonen
+    ✅ C. Makar (COL vs LAK) — 69.9%
+       On the road, vs Anton Forsberg
+    ✅ E. Bouchard (EDM vs ANA) — 67.7%
+       On the road, vs Ville Husso
+    ✅ B. Point (TBL vs MTL) — 65.3%
+       On the road, facing Jakub Dobes
+    ✅ A. Kempe (LAK vs COL) — 65.3%
+       At home, vs Scott Wedgewood
+    ✅ K. Fiala (LAK vs COL) — 63.4%
+       At home, vs Scott Wedgewood
+    ✅ Z. Hyman (EDM vs ANA) — 63.4%
+       On the road, vs Ville Husso
+    ✅ A. Kopitar (LAK vs COL) — 63.4%
+       At home, vs Scott Wedgewood
+    ✅ C. Caufield (MTL vs TBL) — 63.4%
+       At home, facing Andrei Vasilevskiy
+    ✅ G. Fortier (TBL vs MTL) — 63.4%
+       On the road, facing Jakub Dobes
+    ✅ N. Suzuki (MTL vs TBL) — 63.4%
+       At home, facing Andrei Vasilevskiy
+    ✅ R. Nugent-Hopkins (EDM vs ANA) — 63.4%
+       On the road, vs Ville Husso
+    ✅ B. Hagel (TBL vs MTL) — 60.0%
+       On the road, facing Jakub Dobes
+    ✅ J. Finley (TBL vs MTL) — 60.0%
+       On the road, facing Jakub Dobes
+    ✅ A. Tuch (BUF vs BOS) — 60.0%
+       On the road, facing Joonas Korpisalo
+    ✅ J. Demers (EDM vs ANA) — 60.0%
+       On the road, vs Ville Husso
+    ✅ T. Thompson (BUF vs BOS) — 60.0%
+       On the road, facing Joonas Korpisalo
+    ✅ R. Dahlin (BUF vs BOS) — 60.0%
+       On the road, facing Joonas Korpisalo
+    ✅ T. Terry (ANA vs EDM) — 56.2%
+       At home, facing Connor Ingram
+    ✅ A. Kuzmenko (LAK vs COL) — 56.2%
+       At home, vs Scott Wedgewood
+    ✅ A. Lehkonen (COL vs LAK) — 55.6%
+       On the road, vs Anton Forsberg
+    ✅ T. Ward (LAK vs COL) — 55.1%
+       At home, vs Scott Wedgewood
+    ✅ T. Moore (LAK vs COL) — 55.1%
+       At home, vs Scott Wedgewood
+    ✅ Q. Byfield (LAK vs COL) — 55.1%
+       At home, vs Scott Wedgewood
+    ✅ G. Landeskog (COL vs LAK) — 55.1%
+       On the road, vs Anton Forsberg
+    ✅ J. Peterka (BUF vs BOS) — 55.1%
+       On the road, facing Joonas Korpisalo
+    ✅ P. Danault (LAK vs COL) — 55.1%
+       At home, vs Scott Wedgewood
+    ✅ L. Hutson (MTL vs TBL) — 55.1%
+       At home, facing Andrei Vasilevskiy
+    ✅ L. Carlsson (ANA vs EDM) — 55.1%
+       At home, facing Connor Ingram
+    ✅ J. Davies (BUF vs BOS) — 55.1%
+       On the road, facing Joonas Korpisalo
+    ✅ T. Zegras (ANA vs EDM) — 55.1%
+       At home, facing Connor Ingram
+    ✅ M. McTavish (ANA vs EDM) — 55.1%
+       At home, facing Connor Ingram
+    ✅ V. Hedman (TBL vs MTL) — 55.1%
+       On the road, facing Jakub Dobes
+    ✅ M. Necas (COL vs LAK) — 55.1%
+       On the road, vs Anton Forsberg
+    ✅ V. Nichushkin (COL vs LAK) — 55.1%
+       On the road, vs Anton Forsberg
+    ✅ B. Nelson (COL vs LAK) — 55.1%
+       On the road, vs Anton Forsberg
+    ✅ P. Kemp (EDM vs ANA) — 50.5%
+       On the road, vs Ville Husso
+    ✅ D. Doughty (LAK vs COL) — 50.5%
+       At home, vs Scott Wedgewood
+
+  1+ Goals  (threshold: 28%):
+    ✅ L. Draisaitl (EDM vs ANA) — 39.4%
+       On the road, vs Ville Husso
+    ✅ C. McDavid (EDM vs ANA) — 39.4%
+       On the road, vs Ville Husso
+    ✅ J. Farinacci (BOS vs BUF) — 39.4%
+       At home, facing Ukko-Pekka Luukkonen
+    ✅ N. MacKinnon (COL vs LAK) — 39.4%
+       On the road, vs Anton Forsberg
+    ✅ D. Pastrnak (BOS vs BUF) — 39.4%
+       At home, facing Ukko-Pekka Luukkonen
+    ✅ A. Kempe (LAK vs COL) — 37.5%
+       At home, vs Scott Wedgewood
+    ✅ N. Kucherov (TBL vs MTL) — 35.9%
+       On the road, facing Jakub Dobes
+    ✅ J. Guentzel (TBL vs MTL) — 35.9%
+       On the road, facing Jakub Dobes
+    ✅ B. Point (TBL vs MTL) — 35.9%
+       On the road, facing Jakub Dobes
+    ✅ K. Fiala (LAK vs COL) — 35.9%
+       At home, vs Scott Wedgewood
+    ✅ G. Fortier (TBL vs MTL) — 35.9%
+       On the road, facing Jakub Dobes
+    ✅ Z. Hyman (EDM vs ANA) — 35.9%
+       On the road, vs Ville Husso
+    ✅ T. Thompson (BUF vs BOS) — 35.9%
+       On the road, facing Joonas Korpisalo
+    ✅ C. Caufield (MTL vs TBL) — 31.6%
+       At home, facing Andrei Vasilevskiy
+    ✅ A. Tuch (BUF vs BOS) — 31.6%
+       On the road, facing Joonas Korpisalo
+    ✅ V. Nichushkin (COL vs LAK) — 31.6%
+       On the road, vs Anton Forsberg
+    ✅ J. Finley (TBL vs MTL) — 31.5%
+       On the road, facing Jakub Dobes
+    ✅ N. Suzuki (MTL vs TBL) — 31.5%
+       At home, facing Andrei Vasilevskiy
+    ✅ T. Moore (LAK vs COL) — 31.5%
+       At home, vs Scott Wedgewood
+    ✅ A. Lehkonen (COL vs LAK) — 31.5%
+       On the road, vs Anton Forsberg
+    ✅ R. Nugent-Hopkins (EDM vs ANA) — 31.5%
+       On the road, vs Ville Husso
+    ✅ A. Kuzmenko (LAK vs COL) — 31.5%
+       At home, vs Scott Wedgewood
+    ✅ M. Necas (COL vs LAK) — 31.5%
+       On the road, vs Anton Forsberg
+    ✅ B. Hagel (TBL vs MTL) — 31.3%
+       On the road, facing Jakub Dobes
+    ✅ L. Andersson (LAK vs COL) — 31.3%
+       At home, vs Scott Wedgewood
+    ✅ T. Ward (LAK vs COL) — 31.3%
+       At home, vs Scott Wedgewood
+    ✅ E. Kane (EDM vs ANA) — 31.3%
+       On the road, vs Ville Husso
+    ✅ P. Bergeron (BOS vs BUF) — 31.3%
+       At home, facing Ukko-Pekka Luukkonen
+    ✅ M. McTavish (ANA vs EDM) — 31.3%
+       At home, facing Connor Ingram
+    ✅ B. Nelson (COL vs LAK) — 31.3%
+       On the road, vs Anton Forsberg
+    ✅ J. Davies (BUF vs BOS) — 21.4%
+       On the road, facing Joonas Korpisalo
+    ✅ E. Bouchard (EDM vs ANA) — 20.3%
+       On the road, vs Ville Husso
+    ✅ R. Dahlin (BUF vs BOS) — 20.3%
+       On the road, facing Joonas Korpisalo
+    ✅ P. Kemp (EDM vs ANA) — 20.3%
+       On the road, vs Ville Husso
+
+  1+ Assists  (threshold: 45%):
+    ✅ L. Draisaitl (EDM vs ANA) — 66.9%
+       On the road, vs Ville Husso
+    ✅ N. Kucherov (TBL vs MTL) — 66.9%
+       On the road, facing Jakub Dobes
+    ✅ C. McDavid (EDM vs ANA) — 66.9%
+       On the road, vs Ville Husso
+    ✅ N. MacKinnon (COL vs LAK) — 66.9%
+       On the road, vs Anton Forsberg
+    ✅ J. Farinacci (BOS vs BUF) — 57.3%
+       At home, facing Ukko-Pekka Luukkonen
+    ✅ C. Makar (COL vs LAK) — 54.5%
+       On the road, vs Anton Forsberg
+    ✅ A. Kopitar (LAK vs COL) — 54.5%
+       At home, vs Scott Wedgewood
+    ✅ E. Bouchard (EDM vs ANA) — 54.5%
+       On the road, vs Ville Husso
+    ✅ L. Hutson (MTL vs TBL) — 54.5%
+       At home, facing Andrei Vasilevskiy
+    ✅ G. Fortier (TBL vs MTL) — 54.5%
+       On the road, facing Jakub Dobes
+    ✅ R. Dahlin (BUF vs BOS) — 51.6%
+       On the road, facing Joonas Korpisalo
+    ✅ A. Kempe (LAK vs COL) — 48.5%
+       At home, vs Scott Wedgewood
+    ✅ R. Nugent-Hopkins (EDM vs ANA) — 48.5%
+       On the road, vs Ville Husso
+    ✅ K. Fiala (LAK vs COL) — 48.5%
+       At home, vs Scott Wedgewood
+    ✅ D. Pastrnak (BOS vs BUF) — 48.5%
+       At home, facing Ukko-Pekka Luukkonen
+    ✅ N. Suzuki (MTL vs TBL) — 48.5%
+       At home, facing Andrei Vasilevskiy
+    ✅ J. Guentzel (TBL vs MTL) — 45.8%
+       On the road, facing Jakub Dobes
+    ✅ J. Finley (TBL vs MTL) — 45.8%
+       On the road, facing Jakub Dobes
+    ✅ J. Demers (EDM vs ANA) — 45.8%
+       On the road, vs Ville Husso
+    ✅ V. Hedman (TBL vs MTL) — 45.8%
+       On the road, facing Jakub Dobes
+
+  3+ Shots on Goal  (threshold: 50%):
+    ✅ N. MacKinnon (COL vs LAK) — 75.0%
+       On the road, vs Anton Forsberg
+    ✅ C. McDavid (EDM vs ANA) — 71.8%
+       On the road, vs Ville Husso
+    ✅ J. Farinacci (BOS vs BUF) — 59.9%
+       At home, facing Ukko-Pekka Luukkonen
+    ✅ K. Fiala (LAK vs COL) — 59.9%
+       At home, vs Scott Wedgewood
+    ✅ T. Thompson (BUF vs BOS) — 56.7%
+       On the road, facing Joonas Korpisalo
+    ✅ A. Kempe (LAK vs COL) — 56.7%
+       At home, vs Scott Wedgewood
+    ✅ C. Caufield (MTL vs TBL) — 56.7%
+       At home, facing Andrei Vasilevskiy
+    ✅ D. Pastrnak (BOS vs BUF) — 56.7%
+       At home, facing Ukko-Pekka Luukkonen
+    ✅ L. Draisaitl (EDM vs ANA) — 53.1%
+       On the road, vs Ville Husso
+    ✅ E. Bouchard (EDM vs ANA) — 53.1%
+       On the road, vs Ville Husso
+    ✅ C. Makar (COL vs LAK) — 53.1%
+       On the road, vs Anton Forsberg
+    ✅ J. Guentzel (TBL vs MTL) — 53.1%
+       On the road, facing Jakub Dobes
+    ✅ N. Kucherov (TBL vs MTL) — 53.1%
+       On the road, facing Jakub Dobes
+    ✅ G. Fortier (TBL vs MTL) — 53.1%
+       On the road, facing Jakub Dobes
+    ✅ J. Demers (EDM vs ANA) — 53.1%
+       On the road, vs Ville Husso
+    ✅ J. Davies (BUF vs BOS) — 53.1%
+       On the road, facing Joonas Korpisalo
+    ✅ R. Dahlin (BUF vs BOS) — 51.1%
+       On the road, facing Joonas Korpisalo
+
+  4+ Shots on Goal  (threshold: 35%):
+    ✅ N. MacKinnon (COL vs LAK) — 49.4%
+       On the road, vs Anton Forsberg
+    ✅ C. McDavid (EDM vs ANA) — 44.6%
+       On the road, vs Ville Husso
+    ✅ D. Pastrnak (BOS vs BUF) — 44.6%
+       At home, facing Ukko-Pekka Luukkonen
+    ✅ J. Farinacci (BOS vs BUF) — 38.5%
+       At home, facing Ukko-Pekka Luukkonen
+    ✅ A. Kempe (LAK vs COL) — 38.5%
+       At home, vs Scott Wedgewood
+    ✅ C. Caufield (MTL vs TBL) — 38.5%
+       At home, facing Andrei Vasilevskiy
+    ✅ K. Fiala (LAK vs COL) — 38.5%
+       At home, vs Scott Wedgewood
+    ✅ C. Makar (COL vs LAK) — 32.6%
+       On the road, vs Anton Forsberg
+    ✅ E. Bouchard (EDM vs ANA) — 32.6%
+       On the road, vs Ville Husso
+
+======================================================================
+END OF BRIEF — PASTE ABOVE INTO CLAUDE TO GENERATE SCRIPT
+======================================================================

@@ -1,0 +1,217 @@
+======================================================================
+NHL PREDICTIONS SCRIPT BRIEF — 2026-04-01
+Generated: 2026-04-01 20:47
+======================================================================
+
+INSTRUCTIONS FOR CLAUDE:
+Using the picks below, write a 2-3 minute YouTube script in a
+natural, conversational human voice. Include a couple of 'um'
+moments and natural pauses between sentences (use '...' for pauses
+and [pause] for longer beats). Sound like an enthusiastic hockey
+fan who knows their stats, not a robot. Start with tonight's games,
+then go through the top picks by category.
+
+──────────────────────────────────────────────────────────────────────
+TONIGHT'S GAMES:
+──────────────────────────────────────────────────────────────────────
+  • ANA @ SJS
+  • STL @ LAK
+  • VAN @ COL
+
+──────────────────────────────────────────────────────────────────────
+🥅 TOP GOAL SCORER PICKS (1+ Goals):
+──────────────────────────────────────────────────────────────────────
+   1. N. MacKinnon (COL vs VAN) — 42.9% chance of scoring  🔥 HIGH CONFIDENCE
+       At home, vs Kevin Lankinen | also 82.0% for a point
+   2. M. Celebrini (SJS vs ANA) — 39.4% chance of scoring  ✅ STRONG PICK
+       At home, vs Ville Husso | also 80.0% for a point
+   3. T. Toffoli (SJS vs ANA) — 39.4% chance of scoring  ✅ STRONG PICK
+       At home, vs Ville Husso | also 63.4% for a point
+   4. A. Kempe (LAK vs STL) — 35.9% chance of scoring  ✅ STRONG PICK
+       At home, vs Jordan Binnington | also 63.4% for a point
+   5. K. Fiala (LAK vs STL) — 31.6% chance of scoring  📊 WORTH WATCHING
+       At home, vs Jordan Binnington | also 63.4% for a point
+   6. V. Nichushkin (COL vs VAN) — 31.6% chance of scoring  📊 WORTH WATCHING
+       At home, vs Kevin Lankinen | also 55.6% for a point
+   7. A. Agozzino (SJS vs ANA) — 31.5% chance of scoring  📊 WORTH WATCHING
+       At home, vs Ville Husso | also 46.5% for a point
+   8. L. Andersson (LAK vs STL) — 31.5% chance of scoring  📊 WORTH WATCHING
+       At home, vs Jordan Binnington | also 43.5% for a point
+   9. L. Couture (SJS vs ANA) — 31.3% chance of scoring  📊 WORTH WATCHING
+       At home, vs Ville Husso | also 59.9% for a point
+  10. C. Suess (SJS vs ANA) — 31.3% chance of scoring  📊 WORTH WATCHING
+       At home, vs Ville Husso | also 55.1% for a point
+
+──────────────────────────────────────────────────────────────────────
+📊 TOP POINT GETTER PICKS (1+ Points):
+──────────────────────────────────────────────────────────────────────
+   1. N. MacKinnon (COL vs VAN) — 82.0% chance of a point  🔥 HIGH CONFIDENCE
+       At home, vs Kevin Lankinen | goal 42.9% / assist 66.9%
+   2. M. Celebrini (SJS vs ANA) — 80.0% chance of a point  🔥 HIGH CONFIDENCE
+       At home, vs Ville Husso | goal 39.4% / assist 48.5%
+   3. C. Makar (COL vs VAN) — 65.3% chance of a point  🔥 HIGH CONFIDENCE
+       At home, vs Kevin Lankinen | goal 18.1% / assist 54.5%
+   4. A. Kempe (LAK vs STL) — 63.4% chance of a point  ✅ STRONG PICK
+       At home, vs Jordan Binnington | goal 35.9% / assist 41.9%
+   5. T. Toffoli (SJS vs ANA) — 63.4% chance of a point  ✅ STRONG PICK
+       At home, vs Ville Husso | goal 39.4% / assist 36.7%
+   6. K. Fiala (LAK vs STL) — 63.4% chance of a point  ✅ STRONG PICK
+       At home, vs Jordan Binnington | goal 31.6% / assist 37.6%
+   7. Q. Hughes (VAN vs COL) — 60.0% chance of a point  ✅ STRONG PICK
+       On the road, vs Scott Wedgewood | goal 13.3% / assist 54.5%
+   8. T. Terry (ANA vs SJS) — 60.0% chance of a point  ✅ STRONG PICK
+       On the road, vs Alexandar Georgiev | goal 25.7% / assist 40.1%
+   9. A. Kopitar (LAK vs STL) — 60.0% chance of a point  ✅ STRONG PICK
+       At home, vs Jordan Binnington | goal 25.7% / assist 45.8%
+  10. L. Couture (SJS vs ANA) — 59.9% chance of a point  📊 WORTH WATCHING
+       At home, vs Ville Husso | goal 31.3% / assist 37.6%
+
+──────────────────────────────────────────────────────────────────────
+🏒 TOP SHOT VOLUME PICKS (3+ Shots on Goal):
+──────────────────────────────────────────────────────────────────────
+   1. N. MacKinnon (COL vs VAN) — 75.0% chance of 3+ shots  🔥 HIGH CONFIDENCE
+       At home | 4+ SOG: 49.4% | 5+ SOG: 38.0%
+   2. M. Celebrini (SJS vs ANA) — 56.7% chance of 3+ shots  ✅ STRONG PICK
+       At home | 4+ SOG: 38.5% | 5+ SOG: 22.7%
+   3. C. Makar (COL vs VAN) — 56.7% chance of 3+ shots  ✅ STRONG PICK
+       At home | 4+ SOG: 32.6% | 5+ SOG: 20.9%
+   4. A. Kempe (LAK vs STL) — 56.7% chance of 3+ shots  ✅ STRONG PICK
+       At home | 4+ SOG: 36.7% | 5+ SOG: 20.9%
+   5. T. Toffoli (SJS vs ANA) — 56.7% chance of 3+ shots  ✅ STRONG PICK
+       At home | 4+ SOG: 38.5% | 5+ SOG: 20.9%
+   6. K. Fiala (LAK vs STL) — 56.7% chance of 3+ shots  ✅ STRONG PICK
+       At home | 4+ SOG: 38.5% | 5+ SOG: 22.7%
+   7. C. Suess (SJS vs ANA) — 51.1% chance of 3+ shots  📊 WORTH WATCHING
+       At home | 4+ SOG: 29.7% | 5+ SOG: 18.1%
+   8. J. Kyrou (STL vs LAK) — 49.0% chance of 3+ shots  📊 WORTH WATCHING
+       On the road | 4+ SOG: 29.7% | 5+ SOG: 15.3%
+   9. F. Vatrano (ANA vs SJS) — 49.0% chance of 3+ shots  📊 WORTH WATCHING
+       On the road | 4+ SOG: 27.7% | 5+ SOG: 11.2%
+  10. T. Terry (ANA vs SJS) — 43.6% chance of 3+ shots  📊 WORTH WATCHING
+       On the road | 4+ SOG: 23.0% | 5+ SOG: 11.2%
+
+======================================================================
+💰 TODAY'S PICKS ABOVE THRESHOLD (THE ACTUAL PICKS TO MENTION):
+======================================================================
+
+  1+ Points  (threshold: 55%):
+    ✅ N. MacKinnon (COL vs VAN) — 82.0%
+       At home, vs Kevin Lankinen
+    ✅ M. Celebrini (SJS vs ANA) — 80.0%
+       At home, vs Ville Husso
+    ✅ C. Makar (COL vs VAN) — 65.3%
+       At home, vs Kevin Lankinen
+    ✅ A. Kempe (LAK vs STL) — 63.4%
+       At home, vs Jordan Binnington
+    ✅ T. Toffoli (SJS vs ANA) — 63.4%
+       At home, vs Ville Husso
+    ✅ K. Fiala (LAK vs STL) — 63.4%
+       At home, vs Jordan Binnington
+    ✅ Q. Hughes (VAN vs COL) — 60.0%
+       On the road, vs Scott Wedgewood
+    ✅ T. Terry (ANA vs SJS) — 60.0%
+       On the road, vs Alexandar Georgiev
+    ✅ A. Kopitar (LAK vs STL) — 60.0%
+       At home, vs Jordan Binnington
+    ✅ L. Couture (SJS vs ANA) — 59.9%
+       At home, vs Ville Husso
+    ✅ M. Necas (COL vs VAN) — 56.2%
+       At home, vs Kevin Lankinen
+    ✅ W. Eklund (SJS vs ANA) — 56.2%
+       At home, vs Ville Husso
+    ✅ R. Thomas (STL vs LAK) — 56.2%
+       On the road, vs David Rittich
+    ✅ V. Nichushkin (COL vs VAN) — 55.6%
+       At home, vs Kevin Lankinen
+    ✅ C. Suess (SJS vs ANA) — 55.1%
+       At home, vs Ville Husso
+    ✅ P. Buchnevich (STL vs LAK) — 55.1%
+       On the road, vs David Rittich
+    ✅ B. Boeser (VAN vs COL) — 55.1%
+       On the road, vs Scott Wedgewood
+    ✅ E. Pettersson (VAN vs COL) — 55.1%
+       On the road, vs Scott Wedgewood
+    ✅ A. Kuzmenko (LAK vs STL) — 55.1%
+       At home, vs Jordan Binnington
+    ✅ Q. Byfield (LAK vs STL) — 55.1%
+       At home, vs Jordan Binnington
+    ✅ A. Lehkonen (COL vs VAN) — 55.1%
+       At home, vs Kevin Lankinen
+    ✅ W. Smith (SJS vs ANA) — 55.1%
+       At home, vs Ville Husso
+    ✅ M. McTavish (ANA vs SJS) — 55.1%
+       On the road, vs Alexandar Georgiev
+
+  1+ Goals  (threshold: 28%):
+    ✅ N. MacKinnon (COL vs VAN) — 42.9%
+       At home, vs Kevin Lankinen
+    ✅ M. Celebrini (SJS vs ANA) — 39.4%
+       At home, vs Ville Husso
+    ✅ T. Toffoli (SJS vs ANA) — 39.4%
+       At home, vs Ville Husso
+    ✅ A. Kempe (LAK vs STL) — 35.9%
+       At home, vs Jordan Binnington
+    ✅ K. Fiala (LAK vs STL) — 31.6%
+       At home, vs Jordan Binnington
+    ✅ V. Nichushkin (COL vs VAN) — 31.6%
+       At home, vs Kevin Lankinen
+    ✅ L. Andersson (LAK vs STL) — 31.5%
+       At home, vs Jordan Binnington
+    ✅ A. Agozzino (SJS vs ANA) — 31.5%
+       At home, vs Ville Husso
+    ✅ L. Couture (SJS vs ANA) — 31.3%
+       At home, vs Ville Husso
+    ✅ C. Suess (SJS vs ANA) — 31.3%
+       At home, vs Ville Husso
+    ✅ J. Kyrou (STL vs LAK) — 31.3%
+       On the road, vs David Rittich
+    ✅ A. Lehkonen (COL vs VAN) — 31.3%
+       At home, vs Kevin Lankinen
+    ✅ T. Ward (LAK vs STL) — 31.3%
+       At home, vs Jordan Binnington
+    ✅ B. Boeser (VAN vs COL) — 31.2%
+       On the road, vs Scott Wedgewood
+
+  1+ Assists  (threshold: 45%):
+    ✅ N. MacKinnon (COL vs VAN) — 66.9%
+       At home, vs Kevin Lankinen
+    ✅ C. Makar (COL vs VAN) — 54.5%
+       At home, vs Kevin Lankinen
+    ✅ Q. Hughes (VAN vs COL) — 54.5%
+       On the road, vs Scott Wedgewood
+    ✅ M. Celebrini (SJS vs ANA) — 48.5%
+       At home, vs Ville Husso
+    ✅ R. Thomas (STL vs LAK) — 48.5%
+       On the road, vs David Rittich
+    ✅ A. Kopitar (LAK vs STL) — 45.8%
+       At home, vs Jordan Binnington
+
+  3+ Shots on Goal  (threshold: 50%):
+    ✅ N. MacKinnon (COL vs VAN) — 75.0%
+       At home, vs Kevin Lankinen
+    ✅ M. Celebrini (SJS vs ANA) — 56.7%
+       At home, vs Ville Husso
+    ✅ C. Makar (COL vs VAN) — 56.7%
+       At home, vs Kevin Lankinen
+    ✅ A. Kempe (LAK vs STL) — 56.7%
+       At home, vs Jordan Binnington
+    ✅ T. Toffoli (SJS vs ANA) — 56.7%
+       At home, vs Ville Husso
+    ✅ K. Fiala (LAK vs STL) — 56.7%
+       At home, vs Jordan Binnington
+
+  4+ Shots on Goal  (threshold: 35%):
+    ✅ N. MacKinnon (COL vs VAN) — 49.4%
+       At home, vs Kevin Lankinen
+    ✅ M. Celebrini (SJS vs ANA) — 38.5%
+       At home, vs Ville Husso
+    ✅ T. Toffoli (SJS vs ANA) — 38.5%
+       At home, vs Ville Husso
+    ✅ K. Fiala (LAK vs STL) — 38.5%
+       At home, vs Jordan Binnington
+    ✅ C. Makar (COL vs VAN) — 32.6%
+       At home, vs Kevin Lankinen
+
+======================================================================
+END OF BRIEF — PASTE ABOVE INTO CLAUDE TO GENERATE SCRIPT
+======================================================================

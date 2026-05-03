@@ -1,0 +1,70 @@
+NHL GAME SCRIPT — March 31, 2026
+For: Smart Thinking AI Model (Alexis Rivers)
+Runtime: ~1.5 minutes
+================================================================================
+
+Hi, I am Alexis Rivers of Smart Thinking, and of course this is for
+entertainment purposes only.
+
+Tonight we have 10 games on the slate, and the model has been through all of them. There are 5 high-confidence picks tonight with positive edge against the market.
+The model does not guess — it runs the numbers and gives us a probability. Here is exactly what it is pointing to tonight.
+
+Montreal at Tampa Bay. The model is on the Tampa Bay at home — 69.8% confidence. HIGH confidence ★★★.
+The market has Tampa Bay implied at 63.0% — the model is 69.8%. That gap of +6.9% is real value. This is the kind of edge the model is built to find.
+Goalie confirmed: Andrei Vasilevskiy starts for Tampa Bay, Jakub Dobes gets the start for Montreal — both manually verified tonight.
+This is the model's top-rated game on the slate tonight. Tampa Bay at -170.0 is the play. When the model is at 69.8% confidence and the edge is positive, this is exactly the kind of situation you want to be involved in.
+
+Ottawa at Florida. The model is on the Florida at home — 69.8% confidence. HIGH confidence ★★★.
+The market has Florida implied at 41.3% — the model is 69.8%. That gap of +28.5% is real value. This is the kind of edge the model is built to find.
+Goalie confirmed: Daniil Tarasov starts for Florida, Linus Ullmark gets the start for Ottawa — both manually verified tonight.
+This is the model's top-rated game on the slate tonight. Florida at 142.0 is the play. When the model is at 69.8% confidence and the edge is positive, this is exactly the kind of situation you want to be involved in.
+
+Philadelphia at Washington. The model is on the Washington at home — 69.8% confidence. HIGH confidence ★★★.
+The market has Washington implied at 57.5% — the model is 69.8%. That gap of +12.4% is real value. This is the kind of edge the model is built to find.
+Goalie confirmed: Logan Thompson starts for Washington, Dan Vladar gets the start for Philadelphia — both manually verified tonight.
+This is the model's top-rated game on the slate tonight. Washington at -135.0 is the play. When the model is at 69.8% confidence and the edge is positive, this is exactly the kind of situation you want to be involved in.
+
+Seattle at Edmonton. The model is on the Edmonton at home — 66.0% confidence. HIGH confidence ★★★.
+The market has Edmonton implied at 64.9% — the model is 66.0%. That gap of +1.1% is real value. This is the kind of edge the model is built to find.
+Goalie confirmed: Connor Ingram starts for Edmonton, Philipp Grubauer gets the start for Seattle — both manually verified tonight.
+This is the model's top-rated game on the slate tonight. Edmonton at -185.0 is the play. When the model is at 66.0% confidence and the edge is positive, this is exactly the kind of situation you want to be involved in.
+
+Detroit at Pittsburgh. The model is on the Pittsburgh at home — 65.6% confidence. HIGH confidence ★★★.
+The market has Pittsburgh implied at 52.4% — the model is 65.6%. That gap of +13.2% is real value. This is the kind of edge the model is built to find.
+Expected goalies: Stuart Skinner for Pittsburgh, John Gibson for Detroit.
+This is the model's top-rated game on the slate tonight. Pittsburgh at -110.0 is the play. When the model is at 65.6% confidence and the edge is positive, this is exactly the kind of situation you want to be involved in.
+
+New Jersey at NY Rangers. The model is on the NY Rangers at home — 60.4% confidence. MEDIUM confidence ★★.
+The market has NY Rangers implied at 50.0% — the model is 60.4%. That gap of +10.4% is real value. This is the kind of edge the model is built to find.
+Goalie confirmed: Igor Shesterkin starts for NY Rangers, Jacob Markstrom gets the start for New Jersey — both manually verified tonight.
+This is the model's top-rated game on the slate tonight. NY Rangers at 100.0 is the play. When the model is at 60.4% confidence and the edge is positive, this is exactly the kind of situation you want to be involved in.
+
+NY Islanders at Buffalo. The model is on the Buffalo at home — 54.5% confidence. LOW confidence ★.
+The model likes Buffalo, but the market already has them implied at 66.4% — our model says 54.5%. Negative edge of -11.9%. Lean only — no moneyline value tonight.
+Goalie confirmed: Ukko-Pekka Luukkonen starts for Buffalo, David Rittich gets the start for NY Islanders — both manually verified tonight.
+The lean is Buffalo, but the market is already ahead of the model here. Use this game for player props — there are good individual spots on both sides. Avoid the moneyline.
+
+Carolina at Columbus. The model is on the Carolina on the road — 52.6% confidence. LOW confidence ★.
+The model likes Carolina, but the market already has them implied at 56.5% — our model says 52.6%. Negative edge of -3.9%. Lean only — no moneyline value tonight.
+Goalie confirmed: Frederik Andersen starts for Carolina, Jet Greaves gets the start for Columbus — both manually verified tonight.
+The lean is Carolina, but the market is already ahead of the model here. Use this game for player props — there are good individual spots on both sides. Avoid the moneyline.
+
+Winnipeg at Chicago. The model is on the Winnipeg on the road — 52.6% confidence. LOW confidence ★.
+The model likes Winnipeg, but the market already has them implied at 58.7% — our model says 52.6%. Negative edge of -6.0%. Lean only — no moneyline value tonight.
+Goalie confirmed: Connor Hellebuyck starts for Winnipeg, Spencer Knight gets the start for Chicago — both manually verified tonight.
+The lean is Winnipeg, but the market is already ahead of the model here. Use this game for player props — there are good individual spots on both sides. Avoid the moneyline.
+
+Dallas at Boston — the model says to sit this one out. Too close to call, not enough edge either way. No play here tonight.
+
+On the player side — C. McDavid is the number one name on the entire board tonight. The model has him at 82% probability to record at least one point. That is an elite individual prop number — anything above 75% is a strong spot and 82% is exceptional.
+Right behind on the points board: J. Farinacci at 82%, L. Draisaitl at 82%, N. Kucherov at 82%. The model is loaded on the points market tonight — shop for the best price across your books before locking anything in.
+
+Top anytime goal scorers per the model tonight: C. McDavid (39%), J. Farinacci (39%), L. Draisaitl (39%). Check your books for anytime goal prices on these names — any plus-odds price on a 35%+ probability is positive expected value.
+
+On the shots market — J. Farinacci (72%), D. Pastrnak (63%), B. Tkachuk (63%) are the model's top names for three or more shots tonight. Shots props are often the most underpriced market on the board. If you can find a 2.5 shots line on any of these players, the model is pointing you firmly to the over.
+
+If you are building a parlay tonight — the Tampa Bay ML paired with C. McDavid on points and J. Farinacci on points is a three-leg stack where every single leg has a strong model probability behind it. Size it appropriately and do not chase the juice.
+
+That is your full March 31, 2026 breakdown. 10 games tonight — the model has spoken. If you found this breakdown useful, drop a like, leave your picks in the comments, and subscribe for daily NHL model output throughout the rest of the season. Good luck tonight, enjoy every shift, and as always — this is for entertainment purposes only!
+
+================================================================================

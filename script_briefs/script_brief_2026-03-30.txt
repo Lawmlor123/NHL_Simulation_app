@@ -1,0 +1,367 @@
+======================================================================
+NHL PREDICTIONS SCRIPT BRIEF — 2026-03-30
+Generated: 2026-03-30 09:56
+======================================================================
+
+INSTRUCTIONS FOR CLAUDE:
+Using the picks below, write a 2-3 minute YouTube script in a
+natural, conversational human voice. Include a couple of 'um'
+moments and natural pauses between sentences (use '...' for pauses
+and [pause] for longer beats). Sound like an enthusiastic hockey
+fan who knows their stats, not a robot. Start with tonight's games,
+then go through the top picks by category.
+
+──────────────────────────────────────────────────────────────────────
+TONIGHT'S GAMES:
+──────────────────────────────────────────────────────────────────────
+  • CGY @ COL
+  • PIT @ NYI
+  • STL @ SJS
+  • TOR @ ANA
+  • VAN @ VGK
+
+──────────────────────────────────────────────────────────────────────
+🥅 TOP GOAL SCORER PICKS (1+ Goals):
+──────────────────────────────────────────────────────────────────────
+   1. N. MacKinnon (COL vs CGY) — 50.8% chance of scoring  🔥 HIGH CONFIDENCE
+       At home, vs Dan Vladar | also 82.6% for a point
+   2. S. Morton (CGY vs COL) — 39.4% chance of scoring  ✅ STRONG PICK
+       On the road, vs Scott Wedgewood | also 80.0% for a point
+   3. W. Nylander (TOR vs ANA) — 39.4% chance of scoring  ✅ STRONG PICK
+       On the road, vs Ville Husso | also 80.0% for a point
+   4. A. Matthews (TOR vs ANA) — 39.4% chance of scoring  ✅ STRONG PICK
+       On the road, vs Ville Husso | also 80.0% for a point
+   5. S. Crosby (PIT vs NYI) — 39.4% chance of scoring  ✅ STRONG PICK
+       On the road, vs Marcus Hogberg | also 80.0% for a point
+   6. J. Tavares (TOR vs ANA) — 39.4% chance of scoring  ✅ STRONG PICK
+       On the road, vs Ville Husso | also 60.0% for a point
+   7. A. Suniev (CGY vs COL) — 35.9% chance of scoring  ✅ STRONG PICK
+       On the road, vs Scott Wedgewood | also 65.3% for a point
+   8. B. Rust (PIT vs NYI) — 35.9% chance of scoring  ✅ STRONG PICK
+       On the road, vs Marcus Hogberg | also 63.4% for a point
+   9. M. Celebrini (SJS vs STL) — 35.9% chance of scoring  ✅ STRONG PICK
+       At home, vs Jordan Binnington | also 63.4% for a point
+  10. V. Nichushkin (COL vs CGY) — 35.9% chance of scoring  ✅ STRONG PICK
+       At home, vs Dan Vladar | also 60.0% for a point
+
+──────────────────────────────────────────────────────────────────────
+📊 TOP POINT GETTER PICKS (1+ Points):
+──────────────────────────────────────────────────────────────────────
+   1. N. MacKinnon (COL vs CGY) — 82.6% chance of a point  🔥 HIGH CONFIDENCE
+       At home, vs Dan Vladar | goal 50.8% / assist 66.9%
+   2. S. Morton (CGY vs COL) — 80.0% chance of a point  🔥 HIGH CONFIDENCE
+       On the road, vs Scott Wedgewood | goal 39.4% / assist 57.3%
+   3. W. Nylander (TOR vs ANA) — 80.0% chance of a point  🔥 HIGH CONFIDENCE
+       On the road, vs Ville Husso | goal 39.4% / assist 51.6%
+   4. A. Matthews (TOR vs ANA) — 80.0% chance of a point  🔥 HIGH CONFIDENCE
+       On the road, vs Ville Husso | goal 39.4% / assist 48.5%
+   5. S. Crosby (PIT vs NYI) — 80.0% chance of a point  🔥 HIGH CONFIDENCE
+       On the road, vs Marcus Hogberg | goal 39.4% / assist 57.3%
+   6. C. Makar (COL vs CGY) — 80.0% chance of a point  🔥 HIGH CONFIDENCE
+       At home, vs Dan Vladar | goal 20.3% / assist 54.5%
+   7. J. Eichel (VGK vs VAN) — 69.9% chance of a point  🔥 HIGH CONFIDENCE
+       At home, vs Kevin Lankinen | goal 31.5% / assist 48.5%
+   8. Q. Hughes (VAN vs VGK) — 65.3% chance of a point  🔥 HIGH CONFIDENCE
+       On the road, vs Akira Schmid | goal 14.9% / assist 66.9%
+   9. A. Suniev (CGY vs COL) — 65.3% chance of a point  🔥 HIGH CONFIDENCE
+       On the road, vs Scott Wedgewood | goal 35.9% / assist 54.5%
+  10. M. Marner (TOR vs ANA) — 65.3% chance of a point  🔥 HIGH CONFIDENCE
+       On the road, vs Ville Husso | goal 31.3% / assist 57.3%
+
+──────────────────────────────────────────────────────────────────────
+🏒 TOP SHOT VOLUME PICKS (3+ Shots on Goal):
+──────────────────────────────────────────────────────────────────────
+   1. N. MacKinnon (COL vs CGY) — 75.0% chance of 3+ shots  🔥 HIGH CONFIDENCE
+       At home | 4+ SOG: 49.4% | 5+ SOG: 38.0%
+   2. A. Matthews (TOR vs ANA) — 71.8% chance of 3+ shots  🔥 HIGH CONFIDENCE
+       On the road | 4+ SOG: 48.7% | 5+ SOG: 26.5%
+   3. S. Morton (CGY vs COL) — 57.8% chance of 3+ shots  ✅ STRONG PICK
+       On the road | 4+ SOG: 38.5% | 5+ SOG: 26.5%
+   4. W. Nylander (TOR vs ANA) — 56.7% chance of 3+ shots  ✅ STRONG PICK
+       On the road | 4+ SOG: 44.6% | 5+ SOG: 20.9%
+   5. C. Makar (COL vs CGY) — 56.7% chance of 3+ shots  ✅ STRONG PICK
+       At home | 4+ SOG: 32.6% | 5+ SOG: 20.9%
+   6. B. Horvat (NYI vs PIT) — 56.7% chance of 3+ shots  ✅ STRONG PICK
+       At home | 4+ SOG: 33.8% | 5+ SOG: 20.9%
+   7. J. Tavares (TOR vs ANA) — 56.7% chance of 3+ shots  ✅ STRONG PICK
+       On the road | 4+ SOG: 38.5% | 5+ SOG: 18.4%
+   8. J. Kyrou (STL vs SJS) — 56.7% chance of 3+ shots  ✅ STRONG PICK
+       On the road | 4+ SOG: 32.6% | 5+ SOG: 20.0%
+   9. S. Crosby (PIT vs NYI) — 53.1% chance of 3+ shots  📊 WORTH WATCHING
+       On the road | 4+ SOG: 38.5% | 5+ SOG: 18.4%
+  10. J. Eichel (VGK vs VAN) — 53.1% chance of 3+ shots  📊 WORTH WATCHING
+       At home | 4+ SOG: 32.6% | 5+ SOG: 20.9%
+
+======================================================================
+💰 TODAY'S PICKS ABOVE THRESHOLD (THE ACTUAL PICKS TO MENTION):
+======================================================================
+
+  1+ Points  (threshold: 55%):
+    ✅ N. MacKinnon (COL vs CGY) — 82.6%
+       At home, vs Dan Vladar
+    ✅ S. Morton (CGY vs COL) — 80.0%
+       On the road, vs Scott Wedgewood
+    ✅ W. Nylander (TOR vs ANA) — 80.0%
+       On the road, vs Ville Husso
+    ✅ A. Matthews (TOR vs ANA) — 80.0%
+       On the road, vs Ville Husso
+    ✅ S. Crosby (PIT vs NYI) — 80.0%
+       On the road, vs Marcus Hogberg
+    ✅ C. Makar (COL vs CGY) — 80.0%
+       At home, vs Dan Vladar
+    ✅ J. Eichel (VGK vs VAN) — 69.9%
+       At home, vs Kevin Lankinen
+    ✅ Q. Hughes (VAN vs VGK) — 65.3%
+       On the road, vs Akira Schmid
+    ✅ A. Suniev (CGY vs COL) — 65.3%
+       On the road, vs Scott Wedgewood
+    ✅ M. Marner (TOR vs ANA) — 65.3%
+       On the road, vs Ville Husso
+    ✅ B. Rust (PIT vs NYI) — 63.4%
+       On the road, vs Marcus Hogberg
+    ✅ B. Horvat (NYI vs PIT) — 63.4%
+       At home, vs Alex Nedeljkovic
+    ✅ R. Thomas (STL vs SJS) — 63.4%
+       On the road, vs Alexandar Georgiev
+    ✅ M. Celebrini (SJS vs STL) — 63.4%
+       At home, vs Jordan Binnington
+    ✅ M. Necas (COL vs CGY) — 60.0%
+       At home, vs Dan Vladar
+    ✅ N. Kadri (CGY vs COL) — 60.0%
+       On the road, vs Scott Wedgewood
+    ✅ E. Karlsson (PIT vs NYI) — 60.0%
+       On the road, vs Marcus Hogberg
+    ✅ P. Buchnevich (STL vs SJS) — 60.0%
+       On the road, vs Alexandar Georgiev
+    ✅ V. Nichushkin (COL vs CGY) — 60.0%
+       At home, vs Dan Vladar
+    ✅ J. Tavares (TOR vs ANA) — 60.0%
+       On the road, vs Ville Husso
+    ✅ J. Quillan (TOR vs ANA) — 59.9%
+       On the road, vs Ville Husso
+    ✅ M. Stone (VGK vs VAN) — 59.9%
+       At home, vs Kevin Lankinen
+    ✅ E. Malkin (PIT vs NYI) — 59.9%
+       On the road, vs Marcus Hogberg
+    ✅ R. Rakell (PIT vs NYI) — 59.9%
+       On the road, vs Marcus Hogberg
+    ✅ M. Johnstone (PIT vs NYI) — 56.2%
+       On the road, vs Marcus Hogberg
+    ✅ M. Barzal (NYI vs PIT) — 56.2%
+       At home, vs Alex Nedeljkovic
+    ✅ A. Lehkonen (COL vs CGY) — 56.2%
+       At home, vs Dan Vladar
+    ✅ T. Toffoli (SJS vs STL) — 55.6%
+       At home, vs Jordan Binnington
+    ✅ B. Boeser (VAN vs VGK) — 55.1%
+       On the road, vs Akira Schmid
+    ✅ E. Pettersson (VAN vs VGK) — 55.1%
+       On the road, vs Akira Schmid
+    ✅ C. Bardreau (NYI vs PIT) — 55.1%
+       At home, vs Alex Nedeljkovic
+    ✅ R. Iskhakov (NYI vs PIT) — 55.1%
+       At home, vs Alex Nedeljkovic
+    ✅ G. Landeskog (COL vs CGY) — 55.1%
+       At home, vs Dan Vladar
+    ✅ T. Zegras (ANA vs TOR) — 55.1%
+       At home, vs Joseph Woll
+    ✅ N. Clurman (PIT vs NYI) — 55.1%
+       On the road, vs Marcus Hogberg
+    ✅ T. Terry (ANA vs TOR) — 55.1%
+       At home, vs Joseph Woll
+    ✅ V. Koivunen (PIT vs NYI) — 55.1%
+       On the road, vs Marcus Hogberg
+    ✅ W. Eklund (SJS vs STL) — 55.1%
+       At home, vs Jordan Binnington
+    ✅ J. Kyrou (STL vs SJS) — 55.1%
+       On the road, vs Alexandar Georgiev
+    ✅ W. Dufour (NYI vs PIT) — 55.1%
+       At home, vs Alex Nedeljkovic
+    ✅ Z. Parekh (CGY vs COL) — 55.1%
+       On the road, vs Scott Wedgewood
+    ✅ S. Theodore (VGK vs VAN) — 55.1%
+       At home, vs Kevin Lankinen
+    ✅ B. Nelson (COL vs CGY) — 55.1%
+       At home, vs Dan Vladar
+    ✅ L. Couture (SJS vs STL) — 55.1%
+       At home, vs Jordan Binnington
+    ✅ K. Palmieri (NYI vs PIT) — 55.1%
+       At home, vs Alex Nedeljkovic
+    ✅ T. Hertl (VGK vs VAN) — 55.1%
+       At home, vs Kevin Lankinen
+    ✅ K. Clifford (TOR vs ANA) — 55.1%
+       On the road, vs Ville Husso
+    ✅ S. Der-Arguchintsev (TOR vs ANA) — 55.1%
+       On the road, vs Ville Husso
+    ✅ L. Carlsson (ANA vs TOR) — 55.1%
+       At home, vs Joseph Woll
+    ✅ H. Brzustewicz (CGY vs COL) — 50.5%
+       On the road, vs Scott Wedgewood
+
+  1+ Goals  (threshold: 28%):
+    ✅ N. MacKinnon (COL vs CGY) — 50.8%
+       At home, vs Dan Vladar
+    ✅ S. Morton (CGY vs COL) — 39.4%
+       On the road, vs Scott Wedgewood
+    ✅ W. Nylander (TOR vs ANA) — 39.4%
+       On the road, vs Ville Husso
+    ✅ A. Matthews (TOR vs ANA) — 39.4%
+       On the road, vs Ville Husso
+    ✅ S. Crosby (PIT vs NYI) — 39.4%
+       On the road, vs Marcus Hogberg
+    ✅ J. Tavares (TOR vs ANA) — 39.4%
+       On the road, vs Ville Husso
+    ✅ B. Rust (PIT vs NYI) — 35.9%
+       On the road, vs Marcus Hogberg
+    ✅ A. Suniev (CGY vs COL) — 35.9%
+       On the road, vs Scott Wedgewood
+    ✅ M. Celebrini (SJS vs STL) — 35.9%
+       At home, vs Jordan Binnington
+    ✅ V. Nichushkin (COL vs CGY) — 35.9%
+       At home, vs Dan Vladar
+    ✅ M. Necas (COL vs CGY) — 31.6%
+       At home, vs Dan Vladar
+    ✅ B. Horvat (NYI vs PIT) — 31.6%
+       At home, vs Alex Nedeljkovic
+    ✅ E. Malkin (PIT vs NYI) — 31.6%
+       On the road, vs Marcus Hogberg
+    ✅ N. Kadri (CGY vs COL) — 31.6%
+       On the road, vs Scott Wedgewood
+    ✅ M. Johnstone (PIT vs NYI) — 31.6%
+       On the road, vs Marcus Hogberg
+    ✅ R. Rakell (PIT vs NYI) — 31.6%
+       On the road, vs Marcus Hogberg
+    ✅ C. Bardreau (NYI vs PIT) — 31.6%
+       At home, vs Alex Nedeljkovic
+    ✅ T. Toffoli (SJS vs STL) — 31.6%
+       At home, vs Jordan Binnington
+    ✅ J. Quillan (TOR vs ANA) — 31.5%
+       On the road, vs Ville Husso
+    ✅ J. Eichel (VGK vs VAN) — 31.5%
+       At home, vs Kevin Lankinen
+    ✅ J. DeBrusk (VAN vs VGK) — 31.5%
+       On the road, vs Akira Schmid
+    ✅ B. Boeser (VAN vs VGK) — 31.5%
+       On the road, vs Akira Schmid
+    ✅ S. Der-Arguchintsev (TOR vs ANA) — 31.5%
+       On the road, vs Ville Husso
+    ✅ J. Kyrou (STL vs SJS) — 31.5%
+       On the road, vs Alexandar Georgiev
+    ✅ A. Lehkonen (COL vs CGY) — 31.5%
+       At home, vs Dan Vladar
+    ✅ P. Buchnevich (STL vs SJS) — 31.3%
+       On the road, vs Alexandar Georgiev
+    ✅ R. Thomas (STL vs SJS) — 31.3%
+       On the road, vs Alexandar Georgiev
+    ✅ M. Marner (TOR vs ANA) — 31.3%
+       On the road, vs Ville Husso
+    ✅ M. Coronato (CGY vs COL) — 31.3%
+       On the road, vs Scott Wedgewood
+    ✅ B. Nelson (COL vs CGY) — 31.3%
+       At home, vs Dan Vladar
+    ✅ E. Pettersson (VAN vs VGK) — 31.2%
+       On the road, vs Akira Schmid
+    ✅ H. Brzustewicz (CGY vs COL) — 24.5%
+       On the road, vs Scott Wedgewood
+    ✅ N. Clurman (PIT vs NYI) — 21.4%
+       On the road, vs Marcus Hogberg
+    ✅ C. Makar (COL vs CGY) — 20.3%
+       At home, vs Dan Vladar
+    ✅ Z. Parekh (CGY vs COL) — 20.3%
+       On the road, vs Scott Wedgewood
+    ✅ Y. Kuznetsov (CGY vs COL) — 20.3%
+       On the road, vs Scott Wedgewood
+
+  1+ Assists  (threshold: 45%):
+    ✅ N. MacKinnon (COL vs CGY) — 66.9%
+       At home, vs Dan Vladar
+    ✅ Q. Hughes (VAN vs VGK) — 66.9%
+       On the road, vs Akira Schmid
+    ✅ S. Morton (CGY vs COL) — 57.3%
+       On the road, vs Scott Wedgewood
+    ✅ M. Marner (TOR vs ANA) — 57.3%
+       On the road, vs Ville Husso
+    ✅ S. Crosby (PIT vs NYI) — 57.3%
+       On the road, vs Marcus Hogberg
+    ✅ C. Makar (COL vs CGY) — 54.5%
+       At home, vs Dan Vladar
+    ✅ A. Suniev (CGY vs COL) — 54.5%
+       On the road, vs Scott Wedgewood
+    ✅ E. Karlsson (PIT vs NYI) — 54.5%
+       On the road, vs Marcus Hogberg
+    ✅ R. Thomas (STL vs SJS) — 54.5%
+       On the road, vs Alexandar Georgiev
+    ✅ W. Nylander (TOR vs ANA) — 51.6%
+       On the road, vs Ville Husso
+    ✅ A. Matthews (TOR vs ANA) — 48.5%
+       On the road, vs Ville Husso
+    ✅ J. Eichel (VGK vs VAN) — 48.5%
+       At home, vs Kevin Lankinen
+    ✅ B. Rust (PIT vs NYI) — 48.5%
+       On the road, vs Marcus Hogberg
+    ✅ N. Clurman (PIT vs NYI) — 48.5%
+       On the road, vs Marcus Hogberg
+    ✅ S. Theodore (VGK vs VAN) — 45.8%
+       At home, vs Kevin Lankinen
+
+  3+ Shots on Goal  (threshold: 50%):
+    ✅ N. MacKinnon (COL vs CGY) — 75.0%
+       At home, vs Dan Vladar
+    ✅ A. Matthews (TOR vs ANA) — 71.8%
+       On the road, vs Ville Husso
+    ✅ S. Morton (CGY vs COL) — 57.8%
+       On the road, vs Scott Wedgewood
+    ✅ W. Nylander (TOR vs ANA) — 56.7%
+       On the road, vs Ville Husso
+    ✅ C. Makar (COL vs CGY) — 56.7%
+       At home, vs Dan Vladar
+    ✅ B. Horvat (NYI vs PIT) — 56.7%
+       At home, vs Alex Nedeljkovic
+    ✅ J. Tavares (TOR vs ANA) — 56.7%
+       On the road, vs Ville Husso
+    ✅ J. Kyrou (STL vs SJS) — 56.7%
+       On the road, vs Alexandar Georgiev
+    ✅ A. Suniev (CGY vs COL) — 53.1%
+       On the road, vs Scott Wedgewood
+    ✅ J. Eichel (VGK vs VAN) — 53.1%
+       At home, vs Kevin Lankinen
+    ✅ S. Crosby (PIT vs NYI) — 53.1%
+       On the road, vs Marcus Hogberg
+    ✅ M. Celebrini (SJS vs STL) — 53.1%
+       At home, vs Jordan Binnington
+    ✅ B. Rust (PIT vs NYI) — 53.1%
+       On the road, vs Marcus Hogberg
+    ✅ T. Toffoli (SJS vs STL) — 53.1%
+       At home, vs Jordan Binnington
+    ✅ N. Kadri (CGY vs COL) — 53.1%
+       On the road, vs Scott Wedgewood
+    ✅ C. Bardreau (NYI vs PIT) — 53.1%
+       At home, vs Alex Nedeljkovic
+    ✅ N. Clurman (PIT vs NYI) — 53.1%
+       On the road, vs Marcus Hogberg
+    ✅ H. Brzustewicz (CGY vs COL) — 53.1%
+       On the road, vs Scott Wedgewood
+    ✅ Z. Parekh (CGY vs COL) — 51.1%
+       On the road, vs Scott Wedgewood
+
+  4+ Shots on Goal  (threshold: 35%):
+    ✅ N. MacKinnon (COL vs CGY) — 49.4%
+       At home, vs Dan Vladar
+    ✅ A. Matthews (TOR vs ANA) — 48.7%
+       On the road, vs Ville Husso
+    ✅ W. Nylander (TOR vs ANA) — 44.6%
+       On the road, vs Ville Husso
+    ✅ S. Morton (CGY vs COL) — 38.5%
+       On the road, vs Scott Wedgewood
+    ✅ S. Crosby (PIT vs NYI) — 38.5%
+       On the road, vs Marcus Hogberg
+    ✅ A. Suniev (CGY vs COL) — 38.5%
+       On the road, vs Scott Wedgewood
+    ✅ J. Tavares (TOR vs ANA) — 38.5%
+       On the road, vs Ville Husso
+    ✅ C. Makar (COL vs CGY) — 32.6%
+       At home, vs Dan Vladar
+
+======================================================================
+END OF BRIEF — PASTE ABOVE INTO CLAUDE TO GENERATE SCRIPT
+======================================================================

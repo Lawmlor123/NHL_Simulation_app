@@ -1,0 +1,32 @@
+{
+  "date": "2025-02-13",
+  "season": "20242025",
+  "gameCount": 1,
+  "games": [
+    {
+      "gamePk": 2024190002,
+      "season": 20242025,
+      "gameType": 19,
+      "startTimeUTC": "2025-02-14T01:00:00Z",
+      "venue": "Centre Bell",
+      "gameState": "OFF",
+      "gameScheduleState": "OK",
+      "homeTeam": {
+        "id": 62,
+        "abbrev": "FIN",
+        "name": "Finland",
+        "record": null,
+        "score": 1,
+        "roster": []
+      },
+      "awayTeam": {
+        "id": 67,
+        "abbrev": "USA",
+        "name": "USA",
+        "record": null,
+        "score": 6,
+        "roster": []
+      }
+    }
+  ]
+}

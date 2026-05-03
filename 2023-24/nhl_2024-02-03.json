@@ -1,0 +1,82 @@
+{
+  "date": "2024-02-03",
+  "season": "20232024",
+  "gameCount": 3,
+  "games": [
+    {
+      "gamePk": 2023040681,
+      "season": 20232024,
+      "gameType": 4,
+      "startTimeUTC": "2024-02-03T20:00:00Z",
+      "venue": "Scotiabank Arena",
+      "gameState": "FINAL",
+      "gameScheduleState": "OK",
+      "homeTeam": {
+        "id": 7802,
+        "abbrev": "MCD",
+        "name": "Team McDavid",
+        "record": null,
+        "score": 4,
+        "roster": []
+      },
+      "awayTeam": {
+        "id": 7804,
+        "abbrev": "MKN",
+        "name": "Team MacKinnon",
+        "record": null,
+        "score": 3,
+        "roster": []
+      }
+    },
+    {
+      "gamePk": 2023040682,
+      "season": 20232024,
+      "gameType": 4,
+      "startTimeUTC": "2024-02-03T21:00:00Z",
+      "venue": "Scotiabank Arena",
+      "gameState": "FINAL",
+      "gameScheduleState": "OK",
+      "homeTeam": {
+        "id": 7801,
+        "abbrev": "MAT",
+        "name": "Team Matthews",
+        "record": null,
+        "score": 6,
+        "roster": []
+      },
+      "awayTeam": {
+        "id": 7803,
+        "abbrev": "HGS",
+        "name": "Team Hughes",
+        "record": null,
+        "score": 5,
+        "roster": []
+      }
+    },
+    {
+      "gamePk": 2023040683,
+      "season": 20232024,
+      "gameType": 4,
+      "startTimeUTC": "2024-02-03T22:00:00Z",
+      "venue": "Scotiabank Arena",
+      "gameState": "FINAL",
+      "gameScheduleState": "OK",
+      "homeTeam": {
+        "id": 7801,
+        "abbrev": "MAT",
+        "name": "Team Matthews",
+        "record": null,
+        "score": 7,
+        "roster": []
+      },
+      "awayTeam": {
+        "id": 7802,
+        "abbrev": "MCD",
+        "name": "Team McDavid",
+        "record": null,
+        "score": 4,
+        "roster": []
+      }
+    }
+  ]
+}

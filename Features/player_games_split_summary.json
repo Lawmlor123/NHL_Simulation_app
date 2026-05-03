@@ -1,0 +1,17 @@
+{
+  "ratios": {
+    "train": 0.8,
+    "val": 0.1,
+    "test": 0.1
+  },
+  "counts": {
+    "total_rows_loaded": 168770,
+    "rows_with_target": 92198,
+    "train": 73758
+  },
+  "outputs": {
+    "train": "C:\\Users\\shell\\OneDrive\\Documents\\NHL_Player\\Features\\player_games_train.parquet",
+    "val": "C:\\Users\\shell\\OneDrive\\Documents\\NHL_Player\\Features\\player_games_val.parquet",
+    "test": "C:\\Users\\shell\\OneDrive\\Documents\\NHL_Player\\Features\\player_games_test.parquet"
+  }
+}

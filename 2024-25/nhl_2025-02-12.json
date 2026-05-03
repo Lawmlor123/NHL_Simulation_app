@@ -1,0 +1,32 @@
+{
+  "date": "2025-02-12",
+  "season": "20242025",
+  "gameCount": 1,
+  "games": [
+    {
+      "gamePk": 2024190001,
+      "season": 20242025,
+      "gameType": 19,
+      "startTimeUTC": "2025-02-13T01:00:00Z",
+      "venue": "Centre Bell",
+      "gameState": "OFF",
+      "gameScheduleState": "OK",
+      "homeTeam": {
+        "id": 66,
+        "abbrev": "SWE",
+        "name": "Sweden",
+        "record": null,
+        "score": 3,
+        "roster": []
+      },
+      "awayTeam": {
+        "id": 60,
+        "abbrev": "CAN",
+        "name": "Canada",
+        "record": null,
+        "score": 4,
+        "roster": []
+      }
+    }
+  ]
+}

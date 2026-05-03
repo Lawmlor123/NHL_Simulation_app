@@ -1,0 +1,659 @@
+======================================================================
+NHL PREDICTIONS SCRIPT BRIEF — 2026-03-26
+Generated: 2026-03-26 09:55
+======================================================================
+
+INSTRUCTIONS FOR CLAUDE:
+Using the picks below, write a 2-3 minute YouTube script in a
+natural, conversational human voice. Include a couple of 'um'
+moments and natural pauses between sentences (use '...' for pauses
+and [pause] for longer beats). Sound like an enthusiastic hockey
+fan who knows their stats, not a robot. Start with tonight's games,
+then go through the top picks by category.
+
+──────────────────────────────────────────────────────────────────────
+TONIGHT'S GAMES:
+──────────────────────────────────────────────────────────────────────
+  • ANA @ CGY
+  • CBJ @ MTL
+  • CHI @ PHI
+  • COL @ WPG
+  • DAL @ NYI
+  • EDM @ VGK
+  • LAK @ VAN
+  • MIN @ FLA
+  • NJD @ NSH
+  • PIT @ OTT
+  • SEA @ TBL
+  • SJS @ STL
+  • WSH @ UTA
+
+──────────────────────────────────────────────────────────────────────
+🥅 TOP GOAL SCORER PICKS (1+ Goals):
+──────────────────────────────────────────────────────────────────────
+   1. S. Morton (CGY vs ANA) — 45.5% chance of scoring  🔥 HIGH CONFIDENCE
+       At home, vs Unknown | also 83.6% for a point
+   2. N. MacKinnon (COL vs WPG) — 40.9% chance of scoring  🔥 HIGH CONFIDENCE
+       On the road, vs Unknown | also 83.6% for a point
+   3. A. Suniev (CGY vs ANA) — 40.9% chance of scoring  🔥 HIGH CONFIDENCE
+       At home, vs Unknown | also 80.7% for a point
+   4. L. Draisaitl (EDM vs VGK) — 40.9% chance of scoring  🔥 HIGH CONFIDENCE
+       On the road, vs Unknown | also 80.7% for a point
+   5. C. McDavid (EDM vs VGK) — 39.9% chance of scoring  ✅ STRONG PICK
+       On the road, vs Unknown | also 83.6% for a point
+   6. K. Kaprizov (MIN vs FLA) — 39.9% chance of scoring  ✅ STRONG PICK
+       On the road, vs Unknown | also 65.6% for a point
+   7. C. Keller (UTA vs WSH) — 39.3% chance of scoring  ✅ STRONG PICK
+       At home, vs Unknown | also 80.7% for a point
+   8. J. Hughes (NJD vs NSH) — 39.3% chance of scoring  ✅ STRONG PICK
+       On the road, vs Unknown | also 72.1% for a point
+   9. N. Kucherov (TBL vs SEA) — 35.8% chance of scoring  ✅ STRONG PICK
+       At home, vs Unknown | also 86.2% for a point
+  10. M. Rantanen (DAL vs NYI) — 35.8% chance of scoring  ✅ STRONG PICK
+       On the road, vs Unknown | also 72.1% for a point
+
+──────────────────────────────────────────────────────────────────────
+📊 TOP POINT GETTER PICKS (1+ Points):
+──────────────────────────────────────────────────────────────────────
+   1. N. Kucherov (TBL vs SEA) — 86.2% chance of a point  🔥 HIGH CONFIDENCE
+       At home, vs Unknown | goal 35.8% / assist 69.9%
+   2. C. McDavid (EDM vs VGK) — 83.6% chance of a point  🔥 HIGH CONFIDENCE
+       On the road, vs Unknown | goal 39.9% / assist 69.9%
+   3. N. MacKinnon (COL vs WPG) — 83.6% chance of a point  🔥 HIGH CONFIDENCE
+       On the road, vs Unknown | goal 40.9% / assist 65.2%
+   4. S. Morton (CGY vs ANA) — 83.6% chance of a point  🔥 HIGH CONFIDENCE
+       At home, vs Unknown | goal 45.5% / assist 65.2%
+   5. A. Suniev (CGY vs ANA) — 80.7% chance of a point  🔥 HIGH CONFIDENCE
+       At home, vs Unknown | goal 40.9% / assist 65.2%
+   6. L. Draisaitl (EDM vs VGK) — 80.7% chance of a point  🔥 HIGH CONFIDENCE
+       On the road, vs Unknown | goal 40.9% / assist 65.2%
+   7. C. Keller (UTA vs WSH) — 80.7% chance of a point  🔥 HIGH CONFIDENCE
+       At home, vs Unknown | goal 39.3% / assist 60.6%
+   8. M. Rantanen (DAL vs NYI) — 72.1% chance of a point  🔥 HIGH CONFIDENCE
+       On the road, vs Unknown | goal 35.8% / assist 60.6%
+   9. J. Hughes (NJD vs NSH) — 72.1% chance of a point  🔥 HIGH CONFIDENCE
+       On the road, vs Unknown | goal 39.3% / assist 51.7%
+  10. F. Forsberg (NSH vs NJD) — 68.0% chance of a point  🔥 HIGH CONFIDENCE
+       At home, vs Unknown | goal 35.8% / assist 32.9%
+
+──────────────────────────────────────────────────────────────────────
+🏒 TOP SHOT VOLUME PICKS (3+ Shots on Goal):
+──────────────────────────────────────────────────────────────────────
+   1. N. MacKinnon (COL vs WPG) — 78.2% chance of 3+ shots  🔥 HIGH CONFIDENCE
+       On the road | 4+ SOG: 58.9% | 5+ SOG: 47.1%
+   2. C. Caufield (MTL vs CBJ) — 68.9% chance of 3+ shots  🔥 HIGH CONFIDENCE
+       At home | 4+ SOG: 47.3% | 5+ SOG: 32.7%
+   3. B. Tkachuk (OTT vs PIT) — 68.9% chance of 3+ shots  🔥 HIGH CONFIDENCE
+       At home | 4+ SOG: 56.5% | 5+ SOG: 35.0%
+   4. S. Morton (CGY vs ANA) — 63.1% chance of 3+ shots  🔥 HIGH CONFIDENCE
+       At home | 4+ SOG: 55.4% | 5+ SOG: 35.0%
+   5. A. Suniev (CGY vs ANA) — 63.1% chance of 3+ shots  🔥 HIGH CONFIDENCE
+       At home | 4+ SOG: 38.8% | 5+ SOG: 26.5%
+   6. J. Hughes (NJD vs NSH) — 63.1% chance of 3+ shots  🔥 HIGH CONFIDENCE
+       On the road | 4+ SOG: 47.3% | 5+ SOG: 32.7%
+   7. K. Connor (WPG vs COL) — 63.1% chance of 3+ shots  🔥 HIGH CONFIDENCE
+       At home | 4+ SOG: 37.6% | 5+ SOG: 20.6%
+   8. N. Kadri (CGY vs ANA) — 63.1% chance of 3+ shots  🔥 HIGH CONFIDENCE
+       At home | 4+ SOG: 47.3% | 5+ SOG: 22.2%
+   9. K. Kaprizov (MIN vs FLA) — 63.1% chance of 3+ shots  🔥 HIGH CONFIDENCE
+       On the road | 4+ SOG: 44.4% | 5+ SOG: 20.6%
+  10. J. Kemell (NSH vs NJD) — 63.1% chance of 3+ shots  🔥 HIGH CONFIDENCE
+       At home | 4+ SOG: 42.0% | 5+ SOG: 35.0%
+
+======================================================================
+💰 TODAY'S PICKS ABOVE THRESHOLD (THE ACTUAL PICKS TO MENTION):
+======================================================================
+
+  1+ Points  (threshold: 55%):
+    ✅ N. Kucherov (TBL vs SEA) — 86.2%
+       At home, vs Unknown
+    ✅ C. McDavid (EDM vs VGK) — 83.6%
+       On the road, vs Unknown
+    ✅ N. MacKinnon (COL vs WPG) — 83.6%
+       On the road, vs Unknown
+    ✅ S. Morton (CGY vs ANA) — 83.6%
+       At home, vs Unknown
+    ✅ A. Suniev (CGY vs ANA) — 80.7%
+       At home, vs Unknown
+    ✅ L. Draisaitl (EDM vs VGK) — 80.7%
+       On the road, vs Unknown
+    ✅ C. Keller (UTA vs WSH) — 80.7%
+       At home, vs Unknown
+    ✅ M. Rantanen (DAL vs NYI) — 72.1%
+       On the road, vs Unknown
+    ✅ J. Hughes (NJD vs NSH) — 72.1%
+       On the road, vs Unknown
+    ✅ F. Forsberg (NSH vs NJD) — 68.0%
+       At home, vs Unknown
+    ✅ J. Eichel (VGK vs EDM) — 68.0%
+       At home, vs Unknown
+    ✅ M. Tkachuk (FLA vs MIN) — 68.0%
+       At home, vs Unknown
+    ✅ D. Guenther (UTA vs WSH) — 68.0%
+       At home, vs Unknown
+    ✅ J. Guentzel (TBL vs SEA) — 68.0%
+       At home, vs Unknown
+    ✅ G. Fortier (TBL vs SEA) — 68.0%
+       At home, vs Unknown
+    ✅ S. Crosby (PIT vs OTT) — 66.3%
+       On the road, vs Unknown
+    ✅ G. Brindley (CBJ vs MTL) — 66.3%
+       On the road, vs Unknown
+    ✅ K. Connor (WPG vs COL) — 66.3%
+       At home, vs Unknown
+    ✅ N. Kadri (CGY vs ANA) — 66.3%
+       At home, vs Unknown
+    ✅ Z. Werenski (CBJ vs MTL) — 66.3%
+       On the road, vs Unknown
+    ✅ B. Point (TBL vs SEA) — 66.3%
+       At home, vs Unknown
+    ✅ Z. Parekh (CGY vs ANA) — 66.3%
+       At home, vs Unknown
+    ✅ J. Finley (TBL vs SEA) — 66.3%
+       At home, vs Unknown
+    ✅ N. Suzuki (MTL vs CBJ) — 66.3%
+       At home, vs Unknown
+    ✅ R. Thomas (STL vs SJS) — 65.6%
+       At home, vs Unknown
+    ✅ K. Kaprizov (MIN vs FLA) — 65.6%
+       On the road, vs Unknown
+    ✅ S. Stamkos (NSH vs NJD) — 65.5%
+       At home, vs Unknown
+    ✅ H. Brzustewicz (CGY vs ANA) — 65.5%
+       At home, vs Unknown
+    ✅ T. Konecny (PHI vs CHI) — 65.5%
+       At home, vs Unknown
+    ✅ C. Caufield (MTL vs CBJ) — 65.5%
+       At home, vs Unknown
+    ✅ B. Hagel (TBL vs SEA) — 62.3%
+       At home, vs Unknown
+    ✅ A. Barkov (FLA vs MIN) — 62.3%
+       At home, vs Unknown
+    ✅ C. Verhaeghe (FLA vs MIN) — 62.3%
+       At home, vs Unknown
+    ✅ Q. Hughes (VAN vs LAK) — 62.3%
+       At home, vs Unknown
+    ✅ L. Cooley (UTA vs WSH) — 62.3%
+       At home, vs Unknown
+    ✅ S. Reinhart (FLA vs MIN) — 62.3%
+       At home, vs Unknown
+    ✅ C. Makar (COL vs WPG) — 62.3%
+       On the road, vs Unknown
+    ✅ T. Stützle (OTT vs PIT) — 62.3%
+       At home, vs Unknown
+    ✅ R. Josi (NSH vs NJD) — 62.3%
+       At home, vs Unknown
+    ✅ E. Bouchard (EDM vs VGK) — 61.0%
+       On the road, vs Unknown
+    ✅ N. Hischier (NJD vs NSH) — 61.0%
+       On the road, vs Unknown
+    ✅ B. Tkachuk (OTT vs PIT) — 61.0%
+       At home, vs Unknown
+    ✅ M. Scheifele (WPG vs COL) — 61.0%
+       At home, vs Unknown
+    ✅ N. Schmaltz (UTA vs WSH) — 61.0%
+       At home, vs Unknown
+    ✅ J. Bratt (NJD vs NSH) — 61.0%
+       On the road, vs Unknown
+    ✅ M. Michkov (PHI vs CHI) — 59.5%
+       At home, vs Unknown
+    ✅ S. Monahan (CBJ vs MTL) — 59.5%
+       On the road, vs Unknown
+    ✅ B. Horvat (NYI vs DAL) — 58.1%
+       At home, vs Unknown
+    ✅ L. Hutson (MTL vs CBJ) — 58.1%
+       At home, vs Unknown
+    ✅ A. Ovechkin (WSH vs UTA) — 58.1%
+       On the road, vs Unknown
+    ✅ M. McCormick (SEA vs TBL) — 58.1%
+       On the road, vs Unknown
+    ✅ D.Misyul (NJD vs NSH) — 58.1%
+       On the road, vs Unknown
+    ✅ M. Barzal (NYI vs DAL) — 58.1%
+       At home, vs Unknown
+    ✅ M. Boldy (MIN vs FLA) — 58.1%
+       On the road, vs Unknown
+    ✅ C. Bardreau (NYI vs DAL) — 58.1%
+       At home, vs Unknown
+    ✅ Y. Kuznetsov (CGY vs ANA) — 58.1%
+       At home, vs Unknown
+    ✅ R. Nugent-Hopkins (EDM vs VGK) — 58.1%
+       On the road, vs Unknown
+    ✅ M. Celebrini (SJS vs STL) — 58.1%
+       On the road, vs Unknown
+    ✅ P. Buchnevich (STL vs SJS) — 58.1%
+       At home, vs Unknown
+    ✅ J. Demers (EDM vs VGK) — 56.3%
+       On the road, vs Unknown
+    ✅ R. Iskhakov (NYI vs DAL) — 56.3%
+       At home, vs Unknown
+    ✅ Z. Hyman (EDM vs VGK) — 56.3%
+       On the road, vs Unknown
+    ✅ J. Marchessault (NSH vs NJD) — 56.3%
+       At home, vs Unknown
+    ✅ J. Robertson (DAL vs NYI) — 56.3%
+       On the road, vs Unknown
+    ✅ E. Pettersson (VAN vs LAK) — 56.3%
+       At home, vs Unknown
+    ✅ C. Bedard (CHI vs PHI) — 56.3%
+       On the road, vs Unknown
+    ✅ B. Rust (PIT vs OTT) — 56.3%
+       On the road, vs Unknown
+    ✅ V. Nichushkin (COL vs WPG) — 56.3%
+       On the road, vs Unknown
+    ✅ M. Stone (VGK vs EDM) — 56.3%
+       At home, vs Unknown
+    ✅ A. Kempe (LAK vs VAN) — 56.3%
+       On the road, vs Unknown
+    ✅ K. Fiala (LAK vs VAN) — 56.3%
+       On the road, vs Unknown
+    ✅ J. Huberdeau (CGY vs ANA) — 56.3%
+       At home, vs Unknown
+    ✅ T. Meier (NJD vs NSH) — 56.3%
+       On the road, vs Unknown
+    ✅ A. Kopitar (LAK vs VAN) — 55.0%
+       On the road, vs Unknown
+    ✅ H. Borgstrom (WSH vs UTA) — 55.0%
+       On the road, vs Unknown
+    ✅ M. Sergachev (UTA vs WSH) — 55.0%
+       At home, vs Unknown
+    ✅ M. Necas (COL vs WPG) — 55.0%
+       On the road, vs Unknown
+    ✅ D. Strome (WSH vs UTA) — 55.0%
+       On the road, vs Unknown
+    ✅ R. Hintz (DAL vs NYI) — 55.0%
+       On the road, vs Unknown
+    ✅ A. Lehkonen (COL vs WPG) — 55.0%
+       On the road, vs Unknown
+    ✅ V. Hedman (TBL vs SEA) — 55.0%
+       At home, vs Unknown
+    ✅ B. Hayton (UTA vs WSH) — 55.0%
+       At home, vs Unknown
+    ✅ B. Marchand (FLA vs MIN) — 55.0%
+       At home, vs Unknown
+    ✅ S. Bennett (FLA vs MIN) — 55.0%
+       At home, vs Unknown
+    ✅ D. Hamilton (NJD vs NSH) — 55.0%
+       On the road, vs Unknown
+    ✅ R. O'Reilly (NSH vs NJD) — 55.0%
+       At home, vs Unknown
+    ✅ R. Ufko (NSH vs NJD) — 55.0%
+       At home, vs Unknown
+    ✅ J. Gaudreau (CBJ vs MTL) — 55.0%
+       On the road, vs Unknown
+    ✅ J. Kyrou (STL vs SJS) — 55.0%
+       At home, vs Unknown
+    ✅ R. Gardner (PHI vs CHI) — 55.0%
+       At home, vs Unknown
+    ✅ M. Heiskanen (DAL vs NYI) — 55.0%
+       On the road, vs Unknown
+    ✅ D. Kaplan (PHI vs CHI) — 55.0%
+       At home, vs Unknown
+    ✅ J. Eriksson Ek (MIN vs FLA) — 55.0%
+       On the road, vs Unknown
+
+  1+ Goals  (threshold: 28%):
+    ✅ S. Morton (CGY vs ANA) — 45.5%
+       At home, vs Unknown
+    ✅ N. MacKinnon (COL vs WPG) — 40.9%
+       On the road, vs Unknown
+    ✅ L. Draisaitl (EDM vs VGK) — 40.9%
+       On the road, vs Unknown
+    ✅ A. Suniev (CGY vs ANA) — 40.9%
+       At home, vs Unknown
+    ✅ C. McDavid (EDM vs VGK) — 39.9%
+       On the road, vs Unknown
+    ✅ K. Kaprizov (MIN vs FLA) — 39.9%
+       On the road, vs Unknown
+    ✅ J. Hughes (NJD vs NSH) — 39.3%
+       On the road, vs Unknown
+    ✅ C. Keller (UTA vs WSH) — 39.3%
+       At home, vs Unknown
+    ✅ M. Rantanen (DAL vs NYI) — 35.8%
+       On the road, vs Unknown
+    ✅ F. Forsberg (NSH vs NJD) — 35.8%
+       At home, vs Unknown
+    ✅ D. Guenther (UTA vs WSH) — 35.8%
+       At home, vs Unknown
+    ✅ N. Kucherov (TBL vs SEA) — 35.8%
+       At home, vs Unknown
+    ✅ A. Ovechkin (WSH vs UTA) — 35.8%
+       On the road, vs Unknown
+    ✅ B. Horvat (NYI vs DAL) — 35.8%
+       At home, vs Unknown
+    ✅ K. Connor (WPG vs COL) — 35.8%
+       At home, vs Unknown
+    ✅ J. Guentzel (TBL vs SEA) — 35.8%
+       At home, vs Unknown
+    ✅ B. Point (TBL vs SEA) — 35.8%
+       At home, vs Unknown
+    ✅ T. Konecny (PHI vs CHI) — 35.8%
+       At home, vs Unknown
+    ✅ S. Stamkos (NSH vs NJD) — 35.8%
+       At home, vs Unknown
+    ✅ G. Brindley (CBJ vs MTL) — 35.8%
+       On the road, vs Unknown
+    ✅ S. Reinhart (FLA vs MIN) — 35.8%
+       At home, vs Unknown
+    ✅ C. Bardreau (NYI vs DAL) — 35.8%
+       At home, vs Unknown
+    ✅ N. Hischier (NJD vs NSH) — 35.8%
+       On the road, vs Unknown
+    ✅ J. Eichel (VGK vs EDM) — 34.2%
+       At home, vs Unknown
+    ✅ M. Tkachuk (FLA vs MIN) — 34.2%
+       At home, vs Unknown
+    ✅ N. Kadri (CGY vs ANA) — 34.2%
+       At home, vs Unknown
+    ✅ G. Fortier (TBL vs SEA) — 34.2%
+       At home, vs Unknown
+    ✅ S. Crosby (PIT vs OTT) — 34.2%
+       On the road, vs Unknown
+    ✅ B. Tkachuk (OTT vs PIT) — 34.2%
+       At home, vs Unknown
+    ✅ M. Barzal (NYI vs DAL) — 34.2%
+       At home, vs Unknown
+    ✅ L. Cooley (UTA vs WSH) — 34.2%
+       At home, vs Unknown
+    ✅ C. Caufield (MTL vs CBJ) — 34.2%
+       At home, vs Unknown
+    ✅ J. Finley (TBL vs SEA) — 34.2%
+       At home, vs Unknown
+    ✅ N. Schmaltz (UTA vs WSH) — 34.2%
+       At home, vs Unknown
+    ✅ C. Verhaeghe (FLA vs MIN) — 34.2%
+       At home, vs Unknown
+    ✅ Z. Hyman (EDM vs VGK) — 34.2%
+       On the road, vs Unknown
+    ✅ V. Nichushkin (COL vs WPG) — 34.2%
+       On the road, vs Unknown
+    ✅ T. Meier (NJD vs NSH) — 34.2%
+       On the road, vs Unknown
+    ✅ J. Marchessault (NSH vs NJD) — 34.2%
+       At home, vs Unknown
+    ✅ S. Bennett (FLA vs MIN) — 34.2%
+       At home, vs Unknown
+    ✅ J. Bratt (NJD vs NSH) — 33.9%
+       On the road, vs Unknown
+    ✅ M. Scheifele (WPG vs COL) — 33.9%
+       At home, vs Unknown
+    ✅ J. Kyrou (STL vs SJS) — 33.9%
+       At home, vs Unknown
+    ✅ M. Boldy (MIN vs FLA) — 33.9%
+       On the road, vs Unknown
+    ✅ B. Jenner (CBJ vs MTL) — 33.9%
+       On the road, vs Unknown
+    ✅ N. Suzuki (MTL vs CBJ) — 31.7%
+       At home, vs Unknown
+    ✅ C. Bedard (CHI vs PHI) — 30.9%
+       On the road, vs Unknown
+    ✅ J. Robertson (DAL vs NYI) — 30.9%
+       On the road, vs Unknown
+    ✅ B. Hagel (TBL vs SEA) — 30.9%
+       At home, vs Unknown
+    ✅ M. McCormick (SEA vs TBL) — 29.8%
+       On the road, vs Unknown
+    ✅ T. Stützle (OTT vs PIT) — 29.8%
+       At home, vs Unknown
+    ✅ M. Michkov (PHI vs CHI) — 29.8%
+       At home, vs Unknown
+    ✅ K. Palmieri (NYI vs DAL) — 29.8%
+       At home, vs Unknown
+    ✅ R. Hintz (DAL vs NYI) — 29.8%
+       On the road, vs Unknown
+    ✅ A. Kempe (LAK vs VAN) — 29.8%
+       On the road, vs Unknown
+    ✅ H. Borgstrom (WSH vs UTA) — 29.8%
+       On the road, vs Unknown
+    ✅ B. Marchand (FLA vs MIN) — 29.8%
+       At home, vs Unknown
+    ✅ M. Necas (COL vs WPG) — 29.8%
+       On the road, vs Unknown
+    ✅ R. Nugent-Hopkins (EDM vs VGK) — 29.8%
+       On the road, vs Unknown
+    ✅ M. Celebrini (SJS vs STL) — 29.8%
+       On the road, vs Unknown
+    ✅ R. O'Reilly (NSH vs NJD) — 29.8%
+       At home, vs Unknown
+    ✅ G. Vilardi (WPG vs COL) — 29.8%
+       At home, vs Unknown
+    ✅ W. Johnston (DAL vs NYI) — 29.8%
+       On the road, vs Unknown
+    ✅ A. Lehkonen (COL vs WPG) — 29.8%
+       On the road, vs Unknown
+    ✅ T. Toffoli (SJS vs STL) — 29.8%
+       On the road, vs Unknown
+    ✅ M. Coronato (CGY vs ANA) — 29.8%
+       At home, vs Unknown
+    ✅ A. Barkov (FLA vs MIN) — 28.2%
+       At home, vs Unknown
+    ✅ B. Rust (PIT vs OTT) — 28.2%
+       On the road, vs Unknown
+    ✅ D. Strome (WSH vs UTA) — 28.2%
+       On the road, vs Unknown
+    ✅ K. Fiala (LAK vs VAN) — 28.2%
+       On the road, vs Unknown
+    ✅ P. Buchnevich (STL vs SJS) — 28.2%
+       At home, vs Unknown
+    ✅ R. Gardner (PHI vs CHI) — 28.2%
+       At home, vs Unknown
+    ✅ J. Eriksson Ek (MIN vs FLA) — 28.2%
+       On the road, vs Unknown
+    ✅ J. McCann (SEA vs TBL) — 28.2%
+       On the road, vs Unknown
+    ✅ T. Terry (ANA vs CGY) — 28.2%
+       On the road, vs Unknown
+    ✅ T. Foerster (PHI vs CHI) — 28.2%
+       At home, vs Unknown
+
+  1+ Assists  (threshold: 45%):
+    ✅ N. Kucherov (TBL vs SEA) — 69.9%
+       At home, vs Unknown
+    ✅ C. McDavid (EDM vs VGK) — 69.9%
+       On the road, vs Unknown
+    ✅ N. MacKinnon (COL vs WPG) — 65.2%
+       On the road, vs Unknown
+    ✅ S. Morton (CGY vs ANA) — 65.2%
+       At home, vs Unknown
+    ✅ A. Suniev (CGY vs ANA) — 65.2%
+       At home, vs Unknown
+    ✅ L. Draisaitl (EDM vs VGK) — 65.2%
+       On the road, vs Unknown
+    ✅ C. Makar (COL vs WPG) — 63.2%
+       On the road, vs Unknown
+    ✅ M. Rantanen (DAL vs NYI) — 60.6%
+       On the road, vs Unknown
+    ✅ C. Keller (UTA vs WSH) — 60.6%
+       At home, vs Unknown
+    ✅ Q. Hughes (VAN vs LAK) — 60.6%
+       At home, vs Unknown
+    ✅ R. Thomas (STL vs SJS) — 52.2%
+       At home, vs Unknown
+    ✅ Z. Parekh (CGY vs ANA) — 52.2%
+       At home, vs Unknown
+    ✅ E. Bouchard (EDM vs VGK) — 52.2%
+       On the road, vs Unknown
+    ✅ Z. Werenski (CBJ vs MTL) — 52.2%
+       On the road, vs Unknown
+    ✅ L. Hutson (MTL vs CBJ) — 51.8%
+       At home, vs Unknown
+    ✅ J. Hughes (NJD vs NSH) — 51.7%
+       On the road, vs Unknown
+    ✅ J. Eichel (VGK vs EDM) — 48.8%
+       At home, vs Unknown
+    ✅ K. Connor (WPG vs COL) — 48.8%
+       At home, vs Unknown
+    ✅ G. Fortier (TBL vs SEA) — 48.8%
+       At home, vs Unknown
+    ✅ H. Brzustewicz (CGY vs ANA) — 48.8%
+       At home, vs Unknown
+    ✅ G. Brindley (CBJ vs MTL) — 48.8%
+       On the road, vs Unknown
+    ✅ S. Monahan (CBJ vs MTL) — 47.6%
+       On the road, vs Unknown
+    ✅ J. Guentzel (TBL vs SEA) — 45.9%
+       At home, vs Unknown
+    ✅ N. Suzuki (MTL vs CBJ) — 45.9%
+       At home, vs Unknown
+    ✅ J. Finley (TBL vs SEA) — 45.9%
+       At home, vs Unknown
+    ✅ A. Barkov (FLA vs MIN) — 45.9%
+       At home, vs Unknown
+    ✅ T. Konecny (PHI vs CHI) — 45.9%
+       At home, vs Unknown
+    ✅ R. Josi (NSH vs NJD) — 45.9%
+       At home, vs Unknown
+    ✅ K. Kaprizov (MIN vs FLA) — 45.9%
+       On the road, vs Unknown
+    ✅ J. Bratt (NJD vs NSH) — 45.9%
+       On the road, vs Unknown
+    ✅ D.Misyul (NJD vs NSH) — 45.9%
+       On the road, vs Unknown
+    ✅ M. Barzal (NYI vs DAL) — 45.9%
+       At home, vs Unknown
+    ✅ J. Demers (EDM vs VGK) — 45.9%
+       On the road, vs Unknown
+    ✅ V. Hedman (TBL vs SEA) — 45.9%
+       At home, vs Unknown
+    ✅ M. Heiskanen (DAL vs NYI) — 45.9%
+       On the road, vs Unknown
+
+  3+ Shots on Goal  (threshold: 50%):
+    ✅ N. MacKinnon (COL vs WPG) — 78.2%
+       On the road, vs Unknown
+    ✅ B. Tkachuk (OTT vs PIT) — 68.9%
+       At home, vs Unknown
+    ✅ C. Caufield (MTL vs CBJ) — 68.9%
+       At home, vs Unknown
+    ✅ S. Morton (CGY vs ANA) — 63.1%
+       At home, vs Unknown
+    ✅ N. Kadri (CGY vs ANA) — 63.1%
+       At home, vs Unknown
+    ✅ K. Connor (WPG vs COL) — 63.1%
+       At home, vs Unknown
+    ✅ J. Kemell (NSH vs NJD) — 63.1%
+       At home, vs Unknown
+    ✅ K. Kaprizov (MIN vs FLA) — 63.1%
+       On the road, vs Unknown
+    ✅ J. Hughes (NJD vs NSH) — 63.1%
+       On the road, vs Unknown
+    ✅ A. Suniev (CGY vs ANA) — 63.1%
+       At home, vs Unknown
+    ✅ J. Eichel (VGK vs EDM) — 58.8%
+       At home, vs Unknown
+    ✅ C. McDavid (EDM vs VGK) — 58.8%
+       On the road, vs Unknown
+    ✅ J. Eriksson Ek (MIN vs FLA) — 58.8%
+       On the road, vs Unknown
+    ✅ K. Fiala (LAK vs VAN) — 58.8%
+       On the road, vs Unknown
+    ✅ J. Kyrou (STL vs SJS) — 58.8%
+       At home, vs Unknown
+    ✅ T. Meier (NJD vs NSH) — 58.8%
+       On the road, vs Unknown
+    ✅ F. Forsberg (NSH vs NJD) — 58.8%
+       At home, vs Unknown
+    ✅ C. Keller (UTA vs WSH) — 58.8%
+       At home, vs Unknown
+    ✅ Z. Werenski (CBJ vs MTL) — 58.8%
+       On the road, vs Unknown
+    ✅ H. Brzustewicz (CGY vs ANA) — 58.8%
+       At home, vs Unknown
+    ✅ C. Bardreau (NYI vs DAL) — 58.8%
+       At home, vs Unknown
+    ✅ M. McCormick (SEA vs TBL) — 58.8%
+       On the road, vs Unknown
+    ✅ B. Horvat (NYI vs DAL) — 58.8%
+       At home, vs Unknown
+    ✅ G. Brindley (CBJ vs MTL) — 58.8%
+       On the road, vs Unknown
+    ✅ A. Ovechkin (WSH vs UTA) — 58.8%
+       On the road, vs Unknown
+    ✅ G. Fortier (TBL vs SEA) — 58.6%
+       At home, vs Unknown
+    ✅ N. Kucherov (TBL vs SEA) — 55.2%
+       At home, vs Unknown
+    ✅ D. Guenther (UTA vs WSH) — 54.5%
+       At home, vs Unknown
+    ✅ Z. Parekh (CGY vs ANA) — 54.5%
+       At home, vs Unknown
+    ✅ J. Guentzel (TBL vs SEA) — 54.5%
+       At home, vs Unknown
+    ✅ A. Kempe (LAK vs VAN) — 54.5%
+       On the road, vs Unknown
+    ✅ T. Toffoli (SJS vs STL) — 54.5%
+       On the road, vs Unknown
+    ✅ R. Josi (NSH vs NJD) — 54.5%
+       At home, vs Unknown
+    ✅ C. Makar (COL vs WPG) — 54.5%
+       On the road, vs Unknown
+    ✅ S. Bennett (FLA vs MIN) — 53.8%
+       At home, vs Unknown
+    ✅ M. Boldy (MIN vs FLA) — 53.8%
+       On the road, vs Unknown
+    ✅ C. Verhaeghe (FLA vs MIN) — 53.8%
+       At home, vs Unknown
+    ✅ J. Finley (TBL vs SEA) — 52.5%
+       At home, vs Unknown
+    ✅ M. Tkachuk (FLA vs MIN) — 50.5%
+       At home, vs Unknown
+    ✅ M. Rantanen (DAL vs NYI) — 50.5%
+       On the road, vs Unknown
+    ✅ S. Reinhart (FLA vs MIN) — 50.5%
+       At home, vs Unknown
+    ✅ M. Celebrini (SJS vs STL) — 50.5%
+       On the road, vs Unknown
+    ✅ V. Nichushkin (COL vs WPG) — 50.5%
+       On the road, vs Unknown
+    ✅ R. Ufko (NSH vs NJD) — 50.5%
+       At home, vs Unknown
+
+  4+ Shots on Goal  (threshold: 35%):
+    ✅ N. MacKinnon (COL vs WPG) — 58.9%
+       On the road, vs Unknown
+    ✅ B. Tkachuk (OTT vs PIT) — 56.5%
+       At home, vs Unknown
+    ✅ S. Morton (CGY vs ANA) — 55.4%
+       At home, vs Unknown
+    ✅ J. Hughes (NJD vs NSH) — 47.3%
+       On the road, vs Unknown
+    ✅ N. Kadri (CGY vs ANA) — 47.3%
+       At home, vs Unknown
+    ✅ C. Caufield (MTL vs CBJ) — 47.3%
+       At home, vs Unknown
+    ✅ K. Kaprizov (MIN vs FLA) — 44.4%
+       On the road, vs Unknown
+    ✅ J. Kemell (NSH vs NJD) — 42.0%
+       At home, vs Unknown
+    ✅ T. Meier (NJD vs NSH) — 42.0%
+       On the road, vs Unknown
+    ✅ H. Brzustewicz (CGY vs ANA) — 42.0%
+       At home, vs Unknown
+    ✅ Z. Parekh (CGY vs ANA) — 42.0%
+       At home, vs Unknown
+    ✅ F. Forsberg (NSH vs NJD) — 42.0%
+       At home, vs Unknown
+    ✅ A. Ovechkin (WSH vs UTA) — 41.2%
+       On the road, vs Unknown
+    ✅ A. Suniev (CGY vs ANA) — 38.8%
+       At home, vs Unknown
+    ✅ M. McCormick (SEA vs TBL) — 38.8%
+       On the road, vs Unknown
+    ✅ C. Keller (UTA vs WSH) — 38.8%
+       At home, vs Unknown
+    ✅ D. Guenther (UTA vs WSH) — 38.8%
+       At home, vs Unknown
+    ✅ C. McDavid (EDM vs VGK) — 37.6%
+       On the road, vs Unknown
+    ✅ K. Connor (WPG vs COL) — 37.6%
+       At home, vs Unknown
+    ✅ B. Horvat (NYI vs DAL) — 37.6%
+       At home, vs Unknown
+    ✅ J. Kyrou (STL vs SJS) — 37.6%
+       At home, vs Unknown
+    ✅ J. Eriksson Ek (MIN vs FLA) — 37.6%
+       On the road, vs Unknown
+
+======================================================================
+END OF BRIEF — PASTE ABOVE INTO CLAUDE TO GENERATE SCRIPT
+======================================================================

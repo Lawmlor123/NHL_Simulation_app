@@ -1,0 +1,208 @@
+======================================================================
+NHL PREDICTIONS SCRIPT BRIEF — 2026-03-27
+Generated: 2026-03-27 15:23
+======================================================================
+
+INSTRUCTIONS FOR CLAUDE:
+Using the picks below, write a 2-3 minute YouTube script in a
+natural, conversational human voice. Include a couple of 'um'
+moments and natural pauses between sentences (use '...' for pauses
+and [pause] for longer beats). Sound like an enthusiastic hockey
+fan who knows their stats, not a robot. Start with tonight's games,
+then go through the top picks by category.
+
+──────────────────────────────────────────────────────────────────────
+TONIGHT'S GAMES:
+──────────────────────────────────────────────────────────────────────
+  • CHI @ NYR
+  • DET @ BUF
+
+──────────────────────────────────────────────────────────────────────
+🥅 TOP GOAL SCORER PICKS (1+ Goals):
+──────────────────────────────────────────────────────────────────────
+   1. A. Panarin (NYR vs CHI) — 39.4% chance of scoring  ✅ STRONG PICK
+       At home, facing Arvid Soderblom | also 82.0% for a point
+   2. R. Nash (NYR vs CHI) — 39.4% chance of scoring  ✅ STRONG PICK
+       At home, facing Arvid Soderblom | also 80.0% for a point
+   3. V. Trocheck (NYR vs CHI) — 35.9% chance of scoring  ✅ STRONG PICK
+       At home, facing Arvid Soderblom | also 65.3% for a point
+   4. D. Larkin (DET vs BUF) — 35.9% chance of scoring  ✅ STRONG PICK
+       On the road, vs Alex Lyon | also 56.2% for a point
+   5. J. Miller (NYR vs CHI) — 31.6% chance of scoring  📊 WORTH WATCHING
+       At home, facing Arvid Soderblom | also 81.7% for a point
+   6. M. Zibanejad (NYR vs CHI) — 31.6% chance of scoring  📊 WORTH WATCHING
+       At home, facing Arvid Soderblom | also 67.7% for a point
+   7. T. Thompson (BUF vs DET) — 31.6% chance of scoring  📊 WORTH WATCHING
+       At home, vs John Gibson | also 63.4% for a point
+   8. A. Tuch (BUF vs DET) — 31.5% chance of scoring  📊 WORTH WATCHING
+       At home, vs John Gibson | also 60.0% for a point
+   9. P. Kane (DET vs BUF) — 31.5% chance of scoring  📊 WORTH WATCHING
+       On the road, vs Alex Lyon | also 56.2% for a point
+  10. A. DeBrincat (DET vs BUF) — 31.5% chance of scoring  📊 WORTH WATCHING
+       On the road, vs Alex Lyon | also 55.6% for a point
+
+──────────────────────────────────────────────────────────────────────
+📊 TOP POINT GETTER PICKS (1+ Points):
+──────────────────────────────────────────────────────────────────────
+   1. A. Panarin (NYR vs CHI) — 82.0% chance of a point  🔥 HIGH CONFIDENCE
+       At home, facing Arvid Soderblom | goal 39.4% / assist 54.5%
+   2. J. Miller (NYR vs CHI) — 81.7% chance of a point  🔥 HIGH CONFIDENCE
+       At home, facing Arvid Soderblom | goal 31.6% / assist 54.5%
+   3. R. Nash (NYR vs CHI) — 80.0% chance of a point  🔥 HIGH CONFIDENCE
+       At home, facing Arvid Soderblom | goal 39.4% / assist 54.5%
+   4. M. Zibanejad (NYR vs CHI) — 67.7% chance of a point  🔥 HIGH CONFIDENCE
+       At home, facing Arvid Soderblom | goal 31.6% / assist 54.5%
+   5. V. Trocheck (NYR vs CHI) — 65.3% chance of a point  🔥 HIGH CONFIDENCE
+       At home, facing Arvid Soderblom | goal 35.9% / assist 48.5%
+   6. T. Thompson (BUF vs DET) — 63.4% chance of a point  ✅ STRONG PICK
+       At home, vs John Gibson | goal 31.6% / assist 36.4%
+   7. A. Fox (NYR vs CHI) — 63.4% chance of a point  ✅ STRONG PICK
+       At home, facing Arvid Soderblom | goal 18.1% / assist 54.5%
+   8. B. Scanlin (NYR vs CHI) — 60.0% chance of a point  ✅ STRONG PICK
+       At home, facing Arvid Soderblom | goal 18.1% / assist 45.8%
+   9. A. Tuch (BUF vs DET) — 60.0% chance of a point  ✅ STRONG PICK
+       At home, vs John Gibson | goal 31.5% / assist 40.1%
+  10. R. Dahlin (BUF vs DET) — 59.9% chance of a point  📊 WORTH WATCHING
+       At home, vs John Gibson | goal 18.1% / assist 41.9%
+
+──────────────────────────────────────────────────────────────────────
+🏒 TOP SHOT VOLUME PICKS (3+ Shots on Goal):
+──────────────────────────────────────────────────────────────────────
+   1. A. Panarin (NYR vs CHI) — 59.9% chance of 3+ shots  ✅ STRONG PICK
+       At home | 4+ SOG: 38.5% | 5+ SOG: 26.5%
+   2. R. Nash (NYR vs CHI) — 59.9% chance of 3+ shots  ✅ STRONG PICK
+       At home | 4+ SOG: 38.5% | 5+ SOG: 26.5%
+   3. T. Thompson (BUF vs DET) — 56.7% chance of 3+ shots  ✅ STRONG PICK
+       At home | 4+ SOG: 32.6% | 5+ SOG: 20.9%
+   4. A. DeBrincat (DET vs BUF) — 56.7% chance of 3+ shots  ✅ STRONG PICK
+       On the road | 4+ SOG: 36.7% | 5+ SOG: 18.4%
+   5. V. Trocheck (NYR vs CHI) — 53.1% chance of 3+ shots  📊 WORTH WATCHING
+       At home | 4+ SOG: 29.7% | 5+ SOG: 15.3%
+   6. B. Scanlin (NYR vs CHI) — 53.1% chance of 3+ shots  📊 WORTH WATCHING
+       At home | 4+ SOG: 32.6% | 5+ SOG: 20.9%
+   7. R. Dahlin (BUF vs DET) — 53.1% chance of 3+ shots  📊 WORTH WATCHING
+       At home | 4+ SOG: 29.7% | 5+ SOG: 17.5%
+   8. J. Davies (BUF vs DET) — 53.1% chance of 3+ shots  📊 WORTH WATCHING
+       At home | 4+ SOG: 29.7% | 5+ SOG: 18.4%
+   9. M. Zibanejad (NYR vs CHI) — 51.1% chance of 3+ shots  📊 WORTH WATCHING
+       At home | 4+ SOG: 29.7% | 5+ SOG: 15.3%
+  10. P. Kane (DET vs BUF) — 49.0% chance of 3+ shots  📊 WORTH WATCHING
+       On the road | 4+ SOG: 32.6% | 5+ SOG: 17.5%
+
+======================================================================
+💰 TODAY'S PICKS ABOVE THRESHOLD (THE ACTUAL PICKS TO MENTION):
+======================================================================
+
+  1+ Points  (threshold: 55%):
+    ✅ A. Panarin (NYR vs CHI) — 82.0%
+       At home, facing Arvid Soderblom
+    ✅ J. Miller (NYR vs CHI) — 81.7%
+       At home, facing Arvid Soderblom
+    ✅ R. Nash (NYR vs CHI) — 80.0%
+       At home, facing Arvid Soderblom
+    ✅ M. Zibanejad (NYR vs CHI) — 67.7%
+       At home, facing Arvid Soderblom
+    ✅ V. Trocheck (NYR vs CHI) — 65.3%
+       At home, facing Arvid Soderblom
+    ✅ T. Thompson (BUF vs DET) — 63.4%
+       At home, vs John Gibson
+    ✅ A. Fox (NYR vs CHI) — 63.4%
+       At home, facing Arvid Soderblom
+    ✅ B. Scanlin (NYR vs CHI) — 60.0%
+       At home, facing Arvid Soderblom
+    ✅ A. Tuch (BUF vs DET) — 60.0%
+       At home, vs John Gibson
+    ✅ R. Dahlin (BUF vs DET) — 59.9%
+       At home, vs John Gibson
+    ✅ P. Kane (DET vs BUF) — 56.2%
+       On the road, vs Alex Lyon
+    ✅ D. Larkin (DET vs BUF) — 56.2%
+       On the road, vs Alex Lyon
+    ✅ A. DeBrincat (DET vs BUF) — 55.6%
+       On the road, vs Alex Lyon
+    ✅ J. Davies (BUF vs DET) — 55.1%
+       At home, vs John Gibson
+    ✅ C. Bedard (CHI vs NYR) — 55.1%
+       On the road, vs Dylan Garand
+    ✅ L. Raymond (DET vs BUF) — 55.1%
+       On the road, vs Alex Lyon
+    ✅ C. Kreider (NYR vs CHI) — 55.1%
+       At home, facing Arvid Soderblom
+    ✅ J. Peterka (BUF vs DET) — 55.1%
+       At home, vs John Gibson
+
+  1+ Goals  (threshold: 28%):
+    ✅ A. Panarin (NYR vs CHI) — 39.4%
+       At home, facing Arvid Soderblom
+    ✅ R. Nash (NYR vs CHI) — 39.4%
+       At home, facing Arvid Soderblom
+    ✅ V. Trocheck (NYR vs CHI) — 35.9%
+       At home, facing Arvid Soderblom
+    ✅ D. Larkin (DET vs BUF) — 35.9%
+       On the road, vs Alex Lyon
+    ✅ M. Zibanejad (NYR vs CHI) — 31.6%
+       At home, facing Arvid Soderblom
+    ✅ J. Miller (NYR vs CHI) — 31.6%
+       At home, facing Arvid Soderblom
+    ✅ T. Thompson (BUF vs DET) — 31.6%
+       At home, vs John Gibson
+    ✅ A. Tuch (BUF vs DET) — 31.5%
+       At home, vs John Gibson
+    ✅ P. Kane (DET vs BUF) — 31.5%
+       On the road, vs Alex Lyon
+    ✅ A. DeBrincat (DET vs BUF) — 31.5%
+       On the road, vs Alex Lyon
+    ✅ C. Bedard (CHI vs NYR) — 31.3%
+       On the road, vs Dylan Garand
+    ✅ L. Raymond (DET vs BUF) — 31.3%
+       On the road, vs Alex Lyon
+    ✅ C. Mazur (DET vs BUF) — 31.3%
+       On the road, vs Alex Lyon
+    ✅ J. Davies (BUF vs DET) — 21.4%
+       At home, vs John Gibson
+
+  1+ Assists  (threshold: 45%):
+    ✅ A. Panarin (NYR vs CHI) — 54.5%
+       At home, facing Arvid Soderblom
+    ✅ J. Miller (NYR vs CHI) — 54.5%
+       At home, facing Arvid Soderblom
+    ✅ R. Nash (NYR vs CHI) — 54.5%
+       At home, facing Arvid Soderblom
+    ✅ M. Zibanejad (NYR vs CHI) — 54.5%
+       At home, facing Arvid Soderblom
+    ✅ A. Fox (NYR vs CHI) — 54.5%
+       At home, facing Arvid Soderblom
+    ✅ V. Trocheck (NYR vs CHI) — 48.5%
+       At home, facing Arvid Soderblom
+    ✅ B. Scanlin (NYR vs CHI) — 45.8%
+       At home, facing Arvid Soderblom
+
+  3+ Shots on Goal  (threshold: 50%):
+    ✅ A. Panarin (NYR vs CHI) — 59.9%
+       At home, facing Arvid Soderblom
+    ✅ R. Nash (NYR vs CHI) — 59.9%
+       At home, facing Arvid Soderblom
+    ✅ T. Thompson (BUF vs DET) — 56.7%
+       At home, vs John Gibson
+    ✅ A. DeBrincat (DET vs BUF) — 56.7%
+       On the road, vs Alex Lyon
+    ✅ V. Trocheck (NYR vs CHI) — 53.1%
+       At home, facing Arvid Soderblom
+    ✅ B. Scanlin (NYR vs CHI) — 53.1%
+       At home, facing Arvid Soderblom
+    ✅ R. Dahlin (BUF vs DET) — 53.1%
+       At home, vs John Gibson
+    ✅ J. Davies (BUF vs DET) — 53.1%
+       At home, vs John Gibson
+
+  4+ Shots on Goal  (threshold: 35%):
+    ✅ A. Panarin (NYR vs CHI) — 38.5%
+       At home, facing Arvid Soderblom
+    ✅ R. Nash (NYR vs CHI) — 38.5%
+       At home, facing Arvid Soderblom
+    ✅ B. Scanlin (NYR vs CHI) — 32.6%
+       At home, facing Arvid Soderblom
+
+======================================================================
+END OF BRIEF — PASTE ABOVE INTO CLAUDE TO GENERATE SCRIPT
+======================================================================

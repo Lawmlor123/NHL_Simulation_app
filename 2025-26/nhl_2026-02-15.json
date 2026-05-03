@@ -1,0 +1,107 @@
+{
+  "date": "2026-02-15",
+  "season": "20252026",
+  "gameCount": 4,
+  "games": [
+    {
+      "gamePk": 2025090015,
+      "season": 20252026,
+      "gameType": 9,
+      "startTimeUTC": "2026-02-15T11:00:00Z",
+      "venue": "Milano Santagiulia Ice Hockey Arena",
+      "gameState": "FINAL",
+      "gameScheduleState": "OK",
+      "homeTeam": {
+        "id": 61,
+        "abbrev": "CZE",
+        "name": "Czechia",
+        "record": null,
+        "score": 3,
+        "roster": []
+      },
+      "awayTeam": {
+        "id": 6776,
+        "abbrev": "SUI",
+        "name": "Switzerland",
+        "record": null,
+        "score": 4,
+        "roster": []
+      }
+    },
+    {
+      "gamePk": 2025090016,
+      "season": 20252026,
+      "gameType": 9,
+      "startTimeUTC": "2026-02-15T15:30:00Z",
+      "venue": "Milano Santagiulia Ice Hockey Arena",
+      "gameState": "FINAL",
+      "gameScheduleState": "OK",
+      "homeTeam": {
+        "id": 7228,
+        "abbrev": "FRA",
+        "name": "France",
+        "record": null,
+        "score": 2,
+        "roster": []
+      },
+      "awayTeam": {
+        "id": 60,
+        "abbrev": "CAN",
+        "name": "Canada",
+        "record": null,
+        "score": 10,
+        "roster": []
+      }
+    },
+    {
+      "gamePk": 2025090017,
+      "season": 20252026,
+      "gameType": 9,
+      "startTimeUTC": "2026-02-15T18:00:00Z",
+      "venue": "Fiera Milano Rho",
+      "gameState": "FINAL",
+      "gameScheduleState": "OK",
+      "homeTeam": {
+        "id": 6775,
+        "abbrev": "LAT",
+        "name": "Latvia",
+        "record": null,
+        "score": 2,
+        "roster": []
+      },
+      "awayTeam": {
+        "id": 5096,
+        "abbrev": "DEN",
+        "name": "Denmark",
+        "record": null,
+        "score": 4,
+        "roster": []
+      }
+    },
+    {
+      "gamePk": 2025090018,
+      "season": 20252026,
+      "gameType": 9,
+      "startTimeUTC": "2026-02-15T20:00:00Z",
+      "venue": "Milano Santagiulia Ice Hockey Arena",
+      "gameState": "FINAL",
+      "gameScheduleState": "OK",
+      "homeTeam": {
+        "id": 63,
+        "abbrev": "GER",
+        "name": "Germany",
+        "record": null,
+        "score": 1,
+        "roster": []
+      },
+      "awayTeam": {
+        "id": 67,
+        "abbrev": "USA",
+        "name": "USA",
+        "record": null,
+        "score": 5,
+        "roster": []
+      }
+    }
+  ]
+}

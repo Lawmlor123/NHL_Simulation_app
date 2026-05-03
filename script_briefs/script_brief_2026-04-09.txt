@@ -1,0 +1,788 @@
+======================================================================
+NHL PREDICTIONS SCRIPT BRIEF — 2026-04-09
+Generated: 2026-04-09 12:58
+======================================================================
+
+INSTRUCTIONS FOR CLAUDE:
+Using the picks below, write a 2-3 minute YouTube script in a
+natural, conversational human voice. Include a couple of 'um'
+moments and natural pauses between sentences (use '...' for pauses
+and [pause] for longer beats). Sound like an enthusiastic hockey
+fan who knows their stats, not a robot. Start with tonight's games,
+then go through the top picks by category.
+
+──────────────────────────────────────────────────────────────────────
+TONIGHT'S GAMES:
+──────────────────────────────────────────────────────────────────────
+  • CAR @ CHI
+  • CBJ @ BUF
+  • CGY @ COL
+  • FLA @ OTT
+  • MIN @ DAL
+  • NSH @ UTA
+  • PHI @ DET
+  • PIT @ NJD
+  • SJS @ ANA
+  • TBL @ MTL
+  • TOR @ NYI
+  • VAN @ LAK
+  • VGK @ SEA
+  • WPG @ STL
+
+──────────────────────────────────────────────────────────────────────
+🥅 TOP GOAL SCORER PICKS (1+ Goals):
+──────────────────────────────────────────────────────────────────────
+   1. N. MacKinnon (COL vs CGY) — 50.8% chance of scoring  🔥 HIGH CONFIDENCE
+       At home, vs Dan Vladar | also 82.6% for a point
+   2. K. Kaprizov (MIN vs DAL) — 42.9% chance of scoring  🔥 HIGH CONFIDENCE
+       On the road, facing Jake Oettinger | also 81.7% for a point
+   3. J. Hughes (NJD vs PIT) — 39.4% chance of scoring  ✅ STRONG PICK
+       At home, vs Stuart Skinner | also 82.0% for a point
+   4. A. Matthews (TOR vs NYI) — 39.4% chance of scoring  ✅ STRONG PICK
+       On the road, vs David Rittich | also 81.7% for a point
+   5. S. Morton (CGY vs COL) — 39.4% chance of scoring  ✅ STRONG PICK
+       On the road, vs Scott Wedgewood | also 80.0% for a point
+   6. D. Larkin (DET vs PHI) — 39.4% chance of scoring  ✅ STRONG PICK
+       At home, vs Dan Vladar | also 69.9% for a point
+   7. T. Thompson (BUF vs CBJ) — 39.4% chance of scoring  ✅ STRONG PICK
+       At home, facing Jet Greaves | also 69.9% for a point
+   8. C. Keller (UTA vs NSH) — 39.4% chance of scoring  ✅ STRONG PICK
+       At home, vs Juuse Saros | also 69.9% for a point
+   9. F. Forsberg (NSH vs UTA) — 39.4% chance of scoring  ✅ STRONG PICK
+       On the road, vs Karel Vejmelka | also 63.4% for a point
+  10. M. McCormick (SEA vs VGK) — 39.4% chance of scoring  ✅ STRONG PICK
+       At home, vs Akira Schmid | also 55.6% for a point
+
+──────────────────────────────────────────────────────────────────────
+📊 TOP POINT GETTER PICKS (1+ Points):
+──────────────────────────────────────────────────────────────────────
+   1. N. MacKinnon (COL vs CGY) — 82.6% chance of a point  🔥 HIGH CONFIDENCE
+       At home, vs Dan Vladar | goal 50.8% / assist 66.9%
+   2. N. Kucherov (TBL vs MTL) — 82.0% chance of a point  🔥 HIGH CONFIDENCE
+       On the road, facing Jakub Dobes | goal 35.9% / assist 66.9%
+   3. J. Hughes (NJD vs PIT) — 82.0% chance of a point  🔥 HIGH CONFIDENCE
+       At home, vs Stuart Skinner | goal 39.4% / assist 54.5%
+   4. W. Nylander (TOR vs NYI) — 81.7% chance of a point  🔥 HIGH CONFIDENCE
+       On the road, vs David Rittich | goal 35.9% / assist 54.5%
+   5. M. Rantanen (DAL vs MIN) — 81.7% chance of a point  🔥 HIGH CONFIDENCE
+       At home, vs Filip Gustavsson | goal 35.9% / assist 54.5%
+   6. A. Matthews (TOR vs NYI) — 81.7% chance of a point  🔥 HIGH CONFIDENCE
+       On the road, vs David Rittich | goal 39.4% / assist 54.5%
+   7. K. Kaprizov (MIN vs DAL) — 81.7% chance of a point  🔥 HIGH CONFIDENCE
+       On the road, facing Jake Oettinger | goal 42.9% / assist 54.5%
+   8. M. Marner (TOR vs NYI) — 80.0% chance of a point  🔥 HIGH CONFIDENCE
+       On the road, vs David Rittich | goal 31.3% / assist 66.9%
+   9. S. Morton (CGY vs COL) — 80.0% chance of a point  🔥 HIGH CONFIDENCE
+       On the road, vs Scott Wedgewood | goal 39.4% / assist 57.3%
+  10. C. Makar (COL vs CGY) — 80.0% chance of a point  🔥 HIGH CONFIDENCE
+       At home, vs Dan Vladar | goal 21.4% / assist 54.5%
+
+──────────────────────────────────────────────────────────────────────
+🏒 TOP SHOT VOLUME PICKS (3+ Shots on Goal):
+──────────────────────────────────────────────────────────────────────
+   1. N. MacKinnon (COL vs CGY) — 75.0% chance of 3+ shots  🔥 HIGH CONFIDENCE
+       At home | 4+ SOG: 49.4% | 5+ SOG: 38.0%
+   2. K. Kaprizov (MIN vs DAL) — 71.8% chance of 3+ shots  🔥 HIGH CONFIDENCE
+       On the road | 4+ SOG: 44.6% | 5+ SOG: 26.5%
+   3. B. Tkachuk (OTT vs FLA) — 71.8% chance of 3+ shots  🔥 HIGH CONFIDENCE
+       At home | 4+ SOG: 49.3% | 5+ SOG: 33.3%
+   4. A. Matthews (TOR vs NYI) — 63.5% chance of 3+ shots  🔥 HIGH CONFIDENCE
+       On the road | 4+ SOG: 48.7% | 5+ SOG: 26.5%
+   5. J. Hughes (NJD vs PIT) — 61.1% chance of 3+ shots  🔥 HIGH CONFIDENCE
+       At home | 4+ SOG: 44.6% | 5+ SOG: 26.5%
+   6. S. Morton (CGY vs COL) — 59.9% chance of 3+ shots  ✅ STRONG PICK
+       On the road | 4+ SOG: 38.5% | 5+ SOG: 26.5%
+   7. T. Thompson (BUF vs CBJ) — 59.9% chance of 3+ shots  ✅ STRONG PICK
+       At home | 4+ SOG: 38.5% | 5+ SOG: 26.5%
+   8. A. DeBrincat (DET vs PHI) — 59.9% chance of 3+ shots  ✅ STRONG PICK
+       At home | 4+ SOG: 38.5% | 5+ SOG: 20.9%
+   9. C. Caufield (MTL vs TBL) — 59.9% chance of 3+ shots  ✅ STRONG PICK
+       At home | 4+ SOG: 38.5% | 5+ SOG: 22.7%
+  10. K. Fiala (LAK vs VAN) — 59.9% chance of 3+ shots  ✅ STRONG PICK
+       At home | 4+ SOG: 38.5% | 5+ SOG: 20.9%
+
+======================================================================
+💰 TODAY'S PICKS ABOVE THRESHOLD (THE ACTUAL PICKS TO MENTION):
+======================================================================
+
+  1+ Points  (threshold: 55%):
+    ✅ N. MacKinnon (COL vs CGY) — 82.6%
+       At home, vs Dan Vladar
+    ✅ N. Kucherov (TBL vs MTL) — 82.0%
+       On the road, facing Jakub Dobes
+    ✅ J. Hughes (NJD vs PIT) — 82.0%
+       At home, vs Stuart Skinner
+    ✅ W. Nylander (TOR vs NYI) — 81.7%
+       On the road, vs David Rittich
+    ✅ M. Rantanen (DAL vs MIN) — 81.7%
+       At home, vs Filip Gustavsson
+    ✅ A. Matthews (TOR vs NYI) — 81.7%
+       On the road, vs David Rittich
+    ✅ K. Kaprizov (MIN vs DAL) — 81.7%
+       On the road, facing Jake Oettinger
+    ✅ M. Marner (TOR vs NYI) — 80.0%
+       On the road, vs David Rittich
+    ✅ S. Morton (CGY vs COL) — 80.0%
+       On the road, vs Scott Wedgewood
+    ✅ C. Makar (COL vs CGY) — 80.0%
+       At home, vs Dan Vladar
+    ✅ J. Eichel (VGK vs SEA) — 80.0%
+       On the road, facing Philipp Grubauer
+    ✅ K. Connor (WPG vs STL) — 69.9%
+       On the road, vs Jordan Binnington
+    ✅ D. Larkin (DET vs PHI) — 69.9%
+       At home, vs Dan Vladar
+    ✅ T. Thompson (BUF vs CBJ) — 69.9%
+       At home, facing Jet Greaves
+    ✅ C. Keller (UTA vs NSH) — 69.9%
+       At home, vs Juuse Saros
+    ✅ A. Tuch (BUF vs CBJ) — 69.9%
+       At home, facing Jet Greaves
+    ✅ N. Hischier (NJD vs PIT) — 67.7%
+       At home, vs Stuart Skinner
+    ✅ R. Dahlin (BUF vs CBJ) — 67.7%
+       At home, facing Jet Greaves
+    ✅ J. Guentzel (TBL vs MTL) — 67.7%
+       On the road, facing Jakub Dobes
+    ✅ S. Crosby (PIT vs NJD) — 65.3%
+       On the road, facing Jacob Markstrom
+    ✅ M. Celebrini (SJS vs ANA) — 65.3%
+       On the road, vs Ville Husso
+    ✅ A. Suniev (CGY vs COL) — 65.3%
+       On the road, vs Scott Wedgewood
+    ✅ J. Bratt (NJD vs PIT) — 64.0%
+       At home, vs Stuart Skinner
+    ✅ G. Fortier (TBL vs MTL) — 63.4%
+       On the road, facing Jakub Dobes
+    ✅ N. Suzuki (MTL vs TBL) — 63.4%
+       At home, facing Andrei Vasilevskiy
+    ✅ T. Terry (ANA vs SJS) — 63.4%
+       At home, vs Alexandar Georgiev
+    ✅ B. Point (TBL vs MTL) — 63.4%
+       On the road, facing Jakub Dobes
+    ✅ L. Raymond (DET vs PHI) — 63.4%
+       At home, vs Dan Vladar
+    ✅ P. Kane (DET vs PHI) — 63.4%
+       At home, vs Dan Vladar
+    ✅ J. Tavares (TOR vs NYI) — 63.4%
+       On the road, vs David Rittich
+    ✅ M. Boldy (MIN vs DAL) — 63.4%
+       On the road, facing Jake Oettinger
+    ✅ J. Quillan (TOR vs NYI) — 63.4%
+       On the road, vs David Rittich
+    ✅ A. DeBrincat (DET vs PHI) — 63.4%
+       At home, vs Dan Vladar
+    ✅ B. Horvat (NYI vs TOR) — 63.4%
+       At home, vs Joseph Woll
+    ✅ F. Forsberg (NSH vs UTA) — 63.4%
+       On the road, vs Karel Vejmelka
+    ✅ S. Aho (CAR vs CHI) — 60.5%
+       On the road, facing Spencer Knight
+    ✅ M. Necas (COL vs CGY) — 60.0%
+       At home, vs Dan Vladar
+    ✅ M. Tkachuk (FLA vs OTT) — 60.0%
+       On the road, facing Linus Ullmark
+    ✅ T. Stützle (OTT vs FLA) — 60.0%
+       At home, vs Daniil Tarasov
+    ✅ M. Scheifele (WPG vs STL) — 60.0%
+       On the road, vs Jordan Binnington
+    ✅ J. Peterka (BUF vs CBJ) — 60.0%
+       At home, facing Jet Greaves
+    ✅ D. Guenther (UTA vs NSH) — 60.0%
+       At home, vs Juuse Saros
+    ✅ V. Nichushkin (COL vs CGY) — 60.0%
+       At home, vs Dan Vladar
+    ✅ N. Kadri (CGY vs COL) — 60.0%
+       On the road, vs Scott Wedgewood
+    ✅ C. Caufield (MTL vs TBL) — 60.0%
+       At home, facing Andrei Vasilevskiy
+    ✅ S. Stamkos (NSH vs UTA) — 60.0%
+       On the road, vs Karel Vejmelka
+    ✅ Q. Hughes (VAN vs LAK) — 60.0%
+       On the road, vs David Rittich
+    ✅ A. Kempe (LAK vs VAN) — 60.0%
+       At home, vs Kevin Lankinen
+    ✅ K. Fiala (LAK vs VAN) — 60.0%
+       At home, vs Kevin Lankinen
+    ✅ J. Finley (TBL vs MTL) — 60.0%
+       On the road, facing Jakub Dobes
+    ✅ T. Meier (NJD vs PIT) — 60.0%
+       At home, vs Stuart Skinner
+    ✅ C. Bedard (CHI vs CAR) — 60.0%
+       At home, facing Frederik Andersen
+    ✅ M. Stone (VGK vs SEA) — 60.0%
+       On the road, facing Philipp Grubauer
+    ✅ R. Josi (NSH vs UTA) — 60.0%
+       On the road, vs Karel Vejmelka
+    ✅ T. Toffoli (SJS vs ANA) — 60.0%
+       On the road, vs Ville Husso
+    ✅ B. Hagel (TBL vs MTL) — 60.0%
+       On the road, facing Jakub Dobes
+    ✅ M. Zuccarello (MIN vs DAL) — 60.0%
+       On the road, facing Jake Oettinger
+    ✅ T. Konecny (PHI vs DET) — 59.9%
+       On the road, vs John Gibson
+    ✅ L. Cooley (UTA vs NSH) — 59.9%
+       At home, vs Juuse Saros
+    ✅ Z. Werenski (CBJ vs BUF) — 59.9%
+       On the road, facing Ukko-Pekka Luukkonen
+    ✅ N. Schmaltz (UTA vs NSH) — 59.9%
+       At home, vs Juuse Saros
+    ✅ B. Tkachuk (OTT vs FLA) — 59.9%
+       At home, vs Daniil Tarasov
+    ✅ D.Misyul (NJD vs PIT) — 59.9%
+       At home, vs Stuart Skinner
+    ✅ B. Rust (PIT vs NJD) — 56.2%
+       On the road, facing Jacob Markstrom
+    ✅ R. Thomas (STL vs WPG) — 56.2%
+       At home, facing Connor Hellebuyck
+    ✅ A. Lehkonen (COL vs CGY) — 56.2%
+       At home, vs Dan Vladar
+    ✅ R. O'Reilly (NSH vs UTA) — 56.2%
+       On the road, vs Karel Vejmelka
+    ✅ A. Kopitar (LAK vs VAN) — 56.2%
+       At home, vs Kevin Lankinen
+    ✅ J. Eriksson Ek (MIN vs DAL) — 56.2%
+       On the road, facing Jake Oettinger
+    ✅ D. Giroux (MIN vs DAL) — 56.2%
+       On the road, facing Jake Oettinger
+    ✅ S. Reinhart (FLA vs OTT) — 56.2%
+       On the road, facing Linus Ullmark
+    ✅ W. Eklund (SJS vs ANA) — 55.6%
+       On the road, vs Ville Husso
+    ✅ L. Couture (SJS vs ANA) — 55.6%
+       On the road, vs Ville Husso
+    ✅ M. McCormick (SEA vs VGK) — 55.6%
+       At home, vs Akira Schmid
+    ✅ K. Clifford (TOR vs NYI) — 55.6%
+       On the road, vs David Rittich
+    ✅ P. Buchnevich (STL vs WPG) — 55.1%
+       At home, facing Connor Hellebuyck
+    ✅ L. Hughes (NJD vs PIT) — 55.1%
+       At home, vs Stuart Skinner
+    ✅ S. Der-Arguchintsev (TOR vs NYI) — 55.1%
+       On the road, vs David Rittich
+    ✅ D. Hamilton (NJD vs PIT) — 55.1%
+       At home, vs Stuart Skinner
+    ✅ R. Rakell (PIT vs NJD) — 55.1%
+       On the road, facing Jacob Markstrom
+    ✅ C. Verhaeghe (FLA vs OTT) — 55.1%
+       On the road, facing Linus Ullmark
+    ✅ C. Mazur (DET vs PHI) — 55.1%
+       At home, vs Dan Vladar
+    ✅ G. Vilardi (WPG vs STL) — 55.1%
+       On the road, vs Jordan Binnington
+    ✅ M. Knies (TOR vs NYI) — 55.1%
+       On the road, vs David Rittich
+    ✅ W. Johnston (DAL vs MIN) — 55.1%
+       At home, vs Filip Gustavsson
+    ✅ G. Brindley (CBJ vs BUF) — 55.1%
+       On the road, facing Ukko-Pekka Luukkonen
+    ✅ M. McTavish (ANA vs SJS) — 55.1%
+       At home, vs Alexandar Georgiev
+    ✅ G. Landeskog (COL vs CGY) — 55.1%
+       At home, vs Dan Vladar
+    ✅ M. Heiskanen (DAL vs MIN) — 55.1%
+       At home, vs Filip Gustavsson
+    ✅ J. Robertson (DAL vs MIN) — 55.1%
+       At home, vs Filip Gustavsson
+    ✅ O. Kase (CAR vs CHI) — 55.1%
+       On the road, facing Spencer Knight
+    ✅ J. Davies (BUF vs CBJ) — 55.1%
+       At home, facing Jet Greaves
+    ✅ R. Hintz (DAL vs MIN) — 55.1%
+       At home, vs Filip Gustavsson
+    ✅ S. Jarvis (CAR vs CHI) — 55.1%
+       On the road, facing Spencer Knight
+    ✅ A. Barkov (FLA vs OTT) — 55.1%
+       On the road, facing Linus Ullmark
+    ✅ S. Theodore (VGK vs SEA) — 55.1%
+       On the road, facing Philipp Grubauer
+    ✅ B. Nelson (COL vs CGY) — 55.1%
+       At home, vs Dan Vladar
+    ✅ V. Hedman (TBL vs MTL) — 55.1%
+       On the road, facing Jakub Dobes
+    ✅ W. Smith (SJS vs ANA) — 55.1%
+       On the road, vs Ville Husso
+    ✅ J. Norris (BUF vs CBJ) — 55.1%
+       At home, facing Jet Greaves
+    ✅ J. Zucker (BUF vs CBJ) — 55.1%
+       At home, facing Jet Greaves
+    ✅ B. Boeser (VAN vs LAK) — 55.1%
+       On the road, vs David Rittich
+    ✅ M. Barzal (NYI vs TOR) — 55.1%
+       At home, vs Joseph Woll
+    ✅ R. Iskhakov (NYI vs TOR) — 55.1%
+       At home, vs Joseph Woll
+    ✅ J. Marchessault (NSH vs UTA) — 55.1%
+       On the road, vs Karel Vejmelka
+    ✅ L. Hutson (MTL vs TBL) — 55.1%
+       At home, facing Andrei Vasilevskiy
+    ✅ M. Sergachev (UTA vs NSH) — 55.1%
+       At home, vs Juuse Saros
+    ✅ S. Monahan (CBJ vs BUF) — 55.1%
+       On the road, facing Ukko-Pekka Luukkonen
+    ✅ Z. Parekh (CGY vs COL) — 55.1%
+       On the road, vs Scott Wedgewood
+    ✅ C. Bardreau (NYI vs TOR) — 55.1%
+       At home, vs Joseph Woll
+    ✅ M. Michkov (PHI vs DET) — 55.1%
+       On the road, vs John Gibson
+    ✅ E. Pettersson (VAN vs LAK) — 55.1%
+       On the road, vs David Rittich
+    ✅ W. Dufour (NYI vs TOR) — 55.1%
+       At home, vs Joseph Woll
+    ✅ R. Ufko (NSH vs UTA) — 50.5%
+       On the road, vs Karel Vejmelka
+    ✅ H. Brzustewicz (CGY vs COL) — 50.5%
+       On the road, vs Scott Wedgewood
+
+  1+ Goals  (threshold: 28%):
+    ✅ N. MacKinnon (COL vs CGY) — 50.8%
+       At home, vs Dan Vladar
+    ✅ K. Kaprizov (MIN vs DAL) — 42.9%
+       On the road, facing Jake Oettinger
+    ✅ A. Matthews (TOR vs NYI) — 39.4%
+       On the road, vs David Rittich
+    ✅ J. Hughes (NJD vs PIT) — 39.4%
+       At home, vs Stuart Skinner
+    ✅ D. Larkin (DET vs PHI) — 39.4%
+       At home, vs Dan Vladar
+    ✅ T. Thompson (BUF vs CBJ) — 39.4%
+       At home, facing Jet Greaves
+    ✅ C. Keller (UTA vs NSH) — 39.4%
+       At home, vs Juuse Saros
+    ✅ S. Morton (CGY vs COL) — 39.4%
+       On the road, vs Scott Wedgewood
+    ✅ F. Forsberg (NSH vs UTA) — 39.4%
+       On the road, vs Karel Vejmelka
+    ✅ M. McCormick (SEA vs VGK) — 39.4%
+       At home, vs Akira Schmid
+    ✅ N. Kucherov (TBL vs MTL) — 35.9%
+       On the road, facing Jakub Dobes
+    ✅ M. Rantanen (DAL vs MIN) — 35.9%
+       At home, vs Filip Gustavsson
+    ✅ A. DeBrincat (DET vs PHI) — 35.9%
+       At home, vs Dan Vladar
+    ✅ J. Eichel (VGK vs SEA) — 35.9%
+       On the road, facing Philipp Grubauer
+    ✅ A. Tuch (BUF vs CBJ) — 35.9%
+       At home, facing Jet Greaves
+    ✅ W. Nylander (TOR vs NYI) — 35.9%
+       On the road, vs David Rittich
+    ✅ G. Fortier (TBL vs MTL) — 35.9%
+       On the road, facing Jakub Dobes
+    ✅ J. Guentzel (TBL vs MTL) — 35.9%
+       On the road, facing Jakub Dobes
+    ✅ A. Suniev (CGY vs COL) — 35.9%
+       On the road, vs Scott Wedgewood
+    ✅ M. Celebrini (SJS vs ANA) — 35.9%
+       On the road, vs Ville Husso
+    ✅ J. Tavares (TOR vs NYI) — 35.9%
+       On the road, vs David Rittich
+    ✅ M. Boldy (MIN vs DAL) — 35.9%
+       On the road, facing Jake Oettinger
+    ✅ B. Point (TBL vs MTL) — 35.9%
+       On the road, facing Jakub Dobes
+    ✅ K. Connor (WPG vs STL) — 35.9%
+       On the road, vs Jordan Binnington
+    ✅ B. Horvat (NYI vs TOR) — 35.9%
+       At home, vs Joseph Woll
+    ✅ T. Toffoli (SJS vs ANA) — 35.9%
+       On the road, vs Ville Husso
+    ✅ V. Nichushkin (COL vs CGY) — 35.9%
+       At home, vs Dan Vladar
+    ✅ J. Eriksson Ek (MIN vs DAL) — 35.9%
+       On the road, facing Jake Oettinger
+    ✅ T. Meier (NJD vs PIT) — 35.9%
+       At home, vs Stuart Skinner
+    ✅ S. Crosby (PIT vs NJD) — 35.9%
+       On the road, facing Jacob Markstrom
+    ✅ J. Quillan (TOR vs NYI) — 31.6%
+       On the road, vs David Rittich
+    ✅ S. Aho (CAR vs CHI) — 31.6%
+       On the road, facing Spencer Knight
+    ✅ D. Guenther (UTA vs NSH) — 31.6%
+       At home, vs Juuse Saros
+    ✅ K. Fiala (LAK vs VAN) — 31.6%
+       At home, vs Kevin Lankinen
+    ✅ S. Stamkos (NSH vs UTA) — 31.6%
+       On the road, vs Karel Vejmelka
+    ✅ N. Hischier (NJD vs PIT) — 31.6%
+       At home, vs Stuart Skinner
+    ✅ M. Necas (COL vs CGY) — 31.6%
+       At home, vs Dan Vladar
+    ✅ M. Scheifele (WPG vs STL) — 31.6%
+       On the road, vs Jordan Binnington
+    ✅ P. Kane (DET vs PHI) — 31.6%
+       At home, vs Dan Vladar
+    ✅ L. Raymond (DET vs PHI) — 31.6%
+       At home, vs Dan Vladar
+    ✅ J. Marchessault (NSH vs UTA) — 31.6%
+       On the road, vs Karel Vejmelka
+    ✅ C. Bardreau (NYI vs TOR) — 31.6%
+       At home, vs Joseph Woll
+    ✅ G. Brindley (CBJ vs BUF) — 31.6%
+       On the road, facing Ukko-Pekka Luukkonen
+    ✅ S. Reinhart (FLA vs OTT) — 31.6%
+       On the road, facing Linus Ullmark
+    ✅ N. Schmaltz (UTA vs NSH) — 31.6%
+       At home, vs Juuse Saros
+    ✅ B. Rust (PIT vs NJD) — 31.6%
+       On the road, facing Jacob Markstrom
+    ✅ N. Kadri (CGY vs COL) — 31.6%
+       On the road, vs Scott Wedgewood
+    ✅ C. Caufield (MTL vs TBL) — 31.6%
+       At home, facing Andrei Vasilevskiy
+    ✅ T. Konecny (PHI vs DET) — 31.6%
+       On the road, vs John Gibson
+    ✅ B. Tkachuk (OTT vs FLA) — 31.6%
+       At home, vs Daniil Tarasov
+    ✅ S. Der-Arguchintsev (TOR vs NYI) — 31.6%
+       On the road, vs David Rittich
+    ✅ C. Mazur (DET vs PHI) — 31.5%
+       At home, vs Dan Vladar
+    ✅ J. Finley (TBL vs MTL) — 31.5%
+       On the road, facing Jakub Dobes
+    ✅ N. Suzuki (MTL vs TBL) — 31.5%
+       At home, facing Andrei Vasilevskiy
+    ✅ T. Stützle (OTT vs FLA) — 31.5%
+       At home, vs Daniil Tarasov
+    ✅ J. Bratt (NJD vs PIT) — 31.5%
+       At home, vs Stuart Skinner
+    ✅ C. Suess (SJS vs ANA) — 31.5%
+       On the road, vs Ville Husso
+    ✅ J. McCann (SEA vs VGK) — 31.5%
+       At home, vs Akira Schmid
+    ✅ O. Kase (CAR vs CHI) — 31.5%
+       On the road, facing Spencer Knight
+    ✅ B. Nelson (COL vs CGY) — 31.5%
+       At home, vs Dan Vladar
+    ✅ J. Robertson (DAL vs MIN) — 31.5%
+       At home, vs Filip Gustavsson
+    ✅ L. Cooley (UTA vs NSH) — 31.5%
+       At home, vs Juuse Saros
+    ✅ C. Bedard (CHI vs CAR) — 31.5%
+       At home, facing Frederik Andersen
+    ✅ M. Stone (VGK vs SEA) — 31.5%
+       On the road, facing Philipp Grubauer
+    ✅ R. Rakell (PIT vs NJD) — 31.5%
+       On the road, facing Jacob Markstrom
+    ✅ A. Kempe (LAK vs VAN) — 31.5%
+       At home, vs Kevin Lankinen
+    ✅ J. Peterka (BUF vs CBJ) — 31.5%
+       At home, facing Jet Greaves
+    ✅ A. Lehkonen (COL vs CGY) — 31.5%
+       At home, vs Dan Vladar
+    ✅ M. Marner (TOR vs NYI) — 31.3%
+       On the road, vs David Rittich
+    ✅ B. Jenner (CBJ vs BUF) — 31.3%
+       On the road, facing Ukko-Pekka Luukkonen
+    ✅ M. Tkachuk (FLA vs OTT) — 31.3%
+       On the road, facing Linus Ullmark
+    ✅ T. Terry (ANA vs SJS) — 31.3%
+       At home, vs Alexandar Georgiev
+    ✅ K. Criscuolo (SJS vs ANA) — 31.3%
+       On the road, vs Ville Husso
+    ✅ A. Agozzino (SJS vs ANA) — 31.3%
+       On the road, vs Ville Husso
+    ✅ D. Giroux (MIN vs DAL) — 31.3%
+       On the road, facing Jake Oettinger
+    ✅ L. Andersson (LAK vs VAN) — 31.3%
+       At home, vs Kevin Lankinen
+    ✅ R. O'Reilly (NSH vs UTA) — 31.3%
+       On the road, vs Karel Vejmelka
+    ✅ R. Thomas (STL vs WPG) — 31.3%
+       At home, facing Connor Hellebuyck
+    ✅ P. Buchnevich (STL vs WPG) — 31.3%
+       At home, facing Connor Hellebuyck
+    ✅ C. Verhaeghe (FLA vs OTT) — 31.3%
+       On the road, facing Linus Ullmark
+    ✅ T. Hertl (VGK vs SEA) — 31.3%
+       On the road, facing Philipp Grubauer
+    ✅ W. Dufour (NYI vs TOR) — 31.3%
+       At home, vs Joseph Woll
+    ✅ M. Barzal (NYI vs TOR) — 31.3%
+       At home, vs Joseph Woll
+    ✅ J. Zucker (BUF vs CBJ) — 31.3%
+       At home, facing Jet Greaves
+    ✅ T. Ward (LAK vs VAN) — 31.3%
+       At home, vs Kevin Lankinen
+    ✅ J. Kyrou (STL vs WPG) — 31.3%
+       At home, facing Connor Hellebuyck
+    ✅ J. Norris (BUF vs CBJ) — 31.3%
+       At home, facing Jet Greaves
+    ✅ M. McTavish (ANA vs SJS) — 31.3%
+       At home, vs Alexandar Georgiev
+    ✅ F. Vatrano (ANA vs SJS) — 31.3%
+       At home, vs Alexandar Georgiev
+    ✅ M. Coronato (CGY vs COL) — 31.3%
+       On the road, vs Scott Wedgewood
+    ✅ P. Dorofeyev (VGK vs SEA) — 31.3%
+       On the road, facing Philipp Grubauer
+    ✅ K. Lind (SEA vs VGK) — 31.3%
+       At home, vs Akira Schmid
+    ✅ S. Bennett (FLA vs OTT) — 31.3%
+       On the road, facing Linus Ullmark
+    ✅ W. Johnston (DAL vs MIN) — 31.3%
+       At home, vs Filip Gustavsson
+    ✅ J. Davies (BUF vs CBJ) — 25.7%
+       At home, facing Jet Greaves
+    ✅ H. Brzustewicz (CGY vs COL) — 24.5%
+       On the road, vs Scott Wedgewood
+    ✅ R. Ufko (NSH vs UTA) — 24.0%
+       On the road, vs Karel Vejmelka
+    ✅ C. Makar (COL vs CGY) — 21.4%
+       At home, vs Dan Vladar
+    ✅ Z. Werenski (CBJ vs BUF) — 21.4%
+       On the road, facing Ukko-Pekka Luukkonen
+    ✅ R. Dahlin (BUF vs CBJ) — 20.3%
+       At home, facing Jet Greaves
+    ✅ D.Misyul (NJD vs PIT) — 20.3%
+       At home, vs Stuart Skinner
+    ✅ Z. Parekh (CGY vs COL) — 20.3%
+       On the road, vs Scott Wedgewood
+    ✅ Y. Kuznetsov (CGY vs COL) — 20.3%
+       On the road, vs Scott Wedgewood
+    ✅ N. Clurman (PIT vs NJD) — 20.3%
+       On the road, facing Jacob Markstrom
+
+  1+ Assists  (threshold: 45%):
+    ✅ N. MacKinnon (COL vs CGY) — 66.9%
+       At home, vs Dan Vladar
+    ✅ N. Kucherov (TBL vs MTL) — 66.9%
+       On the road, facing Jakub Dobes
+    ✅ M. Marner (TOR vs NYI) — 66.9%
+       On the road, vs David Rittich
+    ✅ S. Morton (CGY vs COL) — 57.3%
+       On the road, vs Scott Wedgewood
+    ✅ Q. Hughes (VAN vs LAK) — 57.3%
+       On the road, vs David Rittich
+    ✅ J. Hughes (NJD vs PIT) — 54.5%
+       At home, vs Stuart Skinner
+    ✅ A. Matthews (TOR vs NYI) — 54.5%
+       On the road, vs David Rittich
+    ✅ M. Rantanen (DAL vs MIN) — 54.5%
+       At home, vs Filip Gustavsson
+    ✅ K. Kaprizov (MIN vs DAL) — 54.5%
+       On the road, facing Jake Oettinger
+    ✅ C. Makar (COL vs CGY) — 54.5%
+       At home, vs Dan Vladar
+    ✅ J. Eichel (VGK vs SEA) — 54.5%
+       On the road, facing Philipp Grubauer
+    ✅ G. Fortier (TBL vs MTL) — 54.5%
+       On the road, facing Jakub Dobes
+    ✅ S. Crosby (PIT vs NJD) — 54.5%
+       On the road, facing Jacob Markstrom
+    ✅ W. Nylander (TOR vs NYI) — 54.5%
+       On the road, vs David Rittich
+    ✅ R. Josi (NSH vs UTA) — 54.5%
+       On the road, vs Karel Vejmelka
+    ✅ L. Hutson (MTL vs TBL) — 54.5%
+       At home, facing Andrei Vasilevskiy
+    ✅ A. Suniev (CGY vs COL) — 54.5%
+       On the road, vs Scott Wedgewood
+    ✅ K. Connor (WPG vs STL) — 51.6%
+       On the road, vs Jordan Binnington
+    ✅ C. Keller (UTA vs NSH) — 48.5%
+       At home, vs Juuse Saros
+    ✅ D. Larkin (DET vs PHI) — 48.5%
+       At home, vs Dan Vladar
+    ✅ M. Celebrini (SJS vs ANA) — 48.5%
+       On the road, vs Ville Husso
+    ✅ R. Dahlin (BUF vs CBJ) — 48.5%
+       At home, facing Jet Greaves
+    ✅ C. Bedard (CHI vs CAR) — 48.5%
+       At home, facing Frederik Andersen
+    ✅ J. Bratt (NJD vs PIT) — 48.5%
+       At home, vs Stuart Skinner
+    ✅ N. Suzuki (MTL vs TBL) — 48.5%
+       At home, facing Andrei Vasilevskiy
+    ✅ M. Boldy (MIN vs DAL) — 48.5%
+       On the road, facing Jake Oettinger
+    ✅ J. Quillan (TOR vs NYI) — 48.5%
+       On the road, vs David Rittich
+    ✅ R. Thomas (STL vs WPG) — 48.5%
+       At home, facing Connor Hellebuyck
+    ✅ M. Zuccarello (MIN vs DAL) — 48.5%
+       On the road, facing Jake Oettinger
+    ✅ A. Tuch (BUF vs CBJ) — 48.5%
+       At home, facing Jet Greaves
+    ✅ E. Karlsson (PIT vs NJD) — 48.5%
+       On the road, facing Jacob Markstrom
+    ✅ V. Hedman (TBL vs MTL) — 48.5%
+       On the road, facing Jakub Dobes
+    ✅ M. Barzal (NYI vs TOR) — 48.5%
+       At home, vs Joseph Woll
+    ✅ Z. Werenski (CBJ vs BUF) — 48.5%
+       On the road, facing Ukko-Pekka Luukkonen
+    ✅ M. McCormick (SEA vs VGK) — 48.5%
+       At home, vs Akira Schmid
+    ✅ S. Der-Arguchintsev (TOR vs NYI) — 48.5%
+       On the road, vs David Rittich
+    ✅ D. Giroux (MIN vs DAL) — 48.5%
+       On the road, facing Jake Oettinger
+    ✅ J. Guentzel (TBL vs MTL) — 45.8%
+       On the road, facing Jakub Dobes
+    ✅ J. Finley (TBL vs MTL) — 45.8%
+       On the road, facing Jakub Dobes
+    ✅ P. Kane (DET vs PHI) — 45.8%
+       At home, vs Dan Vladar
+    ✅ P. Buchnevich (STL vs WPG) — 45.8%
+       At home, facing Connor Hellebuyck
+    ✅ K. Clifford (TOR vs NYI) — 45.8%
+       On the road, vs David Rittich
+    ✅ J. Davies (BUF vs CBJ) — 45.8%
+       At home, facing Jet Greaves
+    ✅ S. Theodore (VGK vs SEA) — 45.8%
+       On the road, facing Philipp Grubauer
+    ✅ C. Bardreau (NYI vs TOR) — 45.8%
+       At home, vs Joseph Woll
+    ✅ W. Dufour (NYI vs TOR) — 45.8%
+       At home, vs Joseph Woll
+
+  3+ Shots on Goal  (threshold: 50%):
+    ✅ N. MacKinnon (COL vs CGY) — 75.0%
+       At home, vs Dan Vladar
+    ✅ K. Kaprizov (MIN vs DAL) — 71.8%
+       On the road, facing Jake Oettinger
+    ✅ B. Tkachuk (OTT vs FLA) — 71.8%
+       At home, vs Daniil Tarasov
+    ✅ A. Matthews (TOR vs NYI) — 63.5%
+       On the road, vs David Rittich
+    ✅ J. Hughes (NJD vs PIT) — 61.1%
+       At home, vs Stuart Skinner
+    ✅ S. Morton (CGY vs COL) — 59.9%
+       On the road, vs Scott Wedgewood
+    ✅ A. DeBrincat (DET vs PHI) — 59.9%
+       At home, vs Dan Vladar
+    ✅ T. Thompson (BUF vs CBJ) — 59.9%
+       At home, facing Jet Greaves
+    ✅ C. Caufield (MTL vs TBL) — 59.9%
+       At home, facing Andrei Vasilevskiy
+    ✅ K. Fiala (LAK vs VAN) — 59.9%
+       At home, vs Kevin Lankinen
+    ✅ J. Kemell (NSH vs UTA) — 59.9%
+       On the road, vs Karel Vejmelka
+    ✅ C. Makar (COL vs CGY) — 56.7%
+       At home, vs Dan Vladar
+    ✅ J. Eriksson Ek (MIN vs DAL) — 56.7%
+       On the road, facing Jake Oettinger
+    ✅ M. McCormick (SEA vs VGK) — 56.7%
+       At home, vs Akira Schmid
+    ✅ K. Connor (WPG vs STL) — 56.7%
+       On the road, vs Jordan Binnington
+    ✅ R. Dahlin (BUF vs CBJ) — 56.7%
+       At home, facing Jet Greaves
+    ✅ W. Nylander (TOR vs NYI) — 56.7%
+       On the road, vs David Rittich
+    ✅ T. Meier (NJD vs PIT) — 56.7%
+       At home, vs Stuart Skinner
+    ✅ A. Kempe (LAK vs VAN) — 56.7%
+       At home, vs Kevin Lankinen
+    ✅ B. Horvat (NYI vs TOR) — 56.7%
+       At home, vs Joseph Woll
+    ✅ M. Boldy (MIN vs DAL) — 56.7%
+       On the road, facing Jake Oettinger
+    ✅ O. Kase (CAR vs CHI) — 56.7%
+       On the road, facing Spencer Knight
+    ✅ J. Tavares (TOR vs NYI) — 56.7%
+       On the road, vs David Rittich
+    ✅ N. Kucherov (TBL vs MTL) — 53.1%
+       On the road, facing Jakub Dobes
+    ✅ C. Keller (UTA vs NSH) — 53.1%
+       At home, vs Juuse Saros
+    ✅ S. Crosby (PIT vs NJD) — 53.1%
+       On the road, facing Jacob Markstrom
+    ✅ A. Suniev (CGY vs COL) — 53.1%
+       On the road, vs Scott Wedgewood
+    ✅ M. Celebrini (SJS vs ANA) — 53.1%
+       On the road, vs Ville Husso
+    ✅ Z. Werenski (CBJ vs BUF) — 53.1%
+       On the road, facing Ukko-Pekka Luukkonen
+    ✅ T. Toffoli (SJS vs ANA) — 53.1%
+       On the road, vs Ville Husso
+    ✅ N. Kadri (CGY vs COL) — 53.1%
+       On the road, vs Scott Wedgewood
+    ✅ F. Forsberg (NSH vs UTA) — 53.1%
+       On the road, vs Karel Vejmelka
+    ✅ G. Fortier (TBL vs MTL) — 53.1%
+       On the road, facing Jakub Dobes
+    ✅ G. Brindley (CBJ vs BUF) — 53.1%
+       On the road, facing Ukko-Pekka Luukkonen
+    ✅ Z. Parekh (CGY vs COL) — 53.1%
+       On the road, vs Scott Wedgewood
+    ✅ H. Brzustewicz (CGY vs COL) — 53.1%
+       On the road, vs Scott Wedgewood
+    ✅ N. Clurman (PIT vs NJD) — 53.1%
+       On the road, facing Jacob Markstrom
+    ✅ J. Kyrou (STL vs WPG) — 53.1%
+       At home, facing Connor Hellebuyck
+    ✅ B. Nadeau (CAR vs CHI) — 53.1%
+       On the road, facing Spencer Knight
+    ✅ C. Bardreau (NYI vs TOR) — 53.1%
+       At home, vs Joseph Woll
+    ✅ D. Hamilton (NJD vs PIT) — 51.1%
+       At home, vs Stuart Skinner
+    ✅ J. Davies (BUF vs CBJ) — 51.1%
+       At home, facing Jet Greaves
+    ✅ R. Ufko (NSH vs UTA) — 51.1%
+       On the road, vs Karel Vejmelka
+    ✅ D.Misyul (NJD vs PIT) — 49.0%
+       At home, vs Stuart Skinner
+
+  4+ Shots on Goal  (threshold: 35%):
+    ✅ N. MacKinnon (COL vs CGY) — 49.4%
+       At home, vs Dan Vladar
+    ✅ B. Tkachuk (OTT vs FLA) — 49.3%
+       At home, vs Daniil Tarasov
+    ✅ A. Matthews (TOR vs NYI) — 48.7%
+       On the road, vs David Rittich
+    ✅ W. Nylander (TOR vs NYI) — 44.6%
+       On the road, vs David Rittich
+    ✅ J. Hughes (NJD vs PIT) — 44.6%
+       At home, vs Stuart Skinner
+    ✅ K. Kaprizov (MIN vs DAL) — 44.6%
+       On the road, facing Jake Oettinger
+    ✅ S. Morton (CGY vs COL) — 38.5%
+       On the road, vs Scott Wedgewood
+    ✅ R. Dahlin (BUF vs CBJ) — 38.5%
+       At home, facing Jet Greaves
+    ✅ T. Thompson (BUF vs CBJ) — 38.5%
+       At home, facing Jet Greaves
+    ✅ C. Caufield (MTL vs TBL) — 38.5%
+       At home, facing Andrei Vasilevskiy
+    ✅ M. Celebrini (SJS vs ANA) — 38.5%
+       On the road, vs Ville Husso
+    ✅ J. Tavares (TOR vs NYI) — 38.5%
+       On the road, vs David Rittich
+    ✅ A. Suniev (CGY vs COL) — 38.5%
+       On the road, vs Scott Wedgewood
+    ✅ A. DeBrincat (DET vs PHI) — 38.5%
+       At home, vs Dan Vladar
+    ✅ B. Horvat (NYI vs TOR) — 38.5%
+       At home, vs Joseph Woll
+    ✅ F. Forsberg (NSH vs UTA) — 38.5%
+       On the road, vs Karel Vejmelka
+    ✅ M. Boldy (MIN vs DAL) — 38.5%
+       On the road, facing Jake Oettinger
+    ✅ M. McCormick (SEA vs VGK) — 38.5%
+       At home, vs Akira Schmid
+    ✅ K. Fiala (LAK vs VAN) — 38.5%
+       At home, vs Kevin Lankinen
+    ✅ T. Toffoli (SJS vs ANA) — 38.5%
+       On the road, vs Ville Husso
+    ✅ T. Meier (NJD vs PIT) — 38.5%
+       At home, vs Stuart Skinner
+    ✅ J. Kemell (NSH vs UTA) — 38.5%
+       On the road, vs Karel Vejmelka
+    ✅ J. Eriksson Ek (MIN vs DAL) — 38.5%
+       On the road, facing Jake Oettinger
+    ✅ C. Makar (COL vs CGY) — 32.6%
+       At home, vs Dan Vladar
+    ✅ Z. Werenski (CBJ vs BUF) — 32.6%
+       On the road, facing Ukko-Pekka Luukkonen
+
+======================================================================
+END OF BRIEF — PASTE ABOVE INTO CLAUDE TO GENERATE SCRIPT
+======================================================================

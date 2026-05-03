@@ -1,0 +1,32 @@
+{
+  "date": "2025-02-20",
+  "season": "20242025",
+  "gameCount": 1,
+  "games": [
+    {
+      "gamePk": 2024200007,
+      "season": 20242025,
+      "gameType": 20,
+      "startTimeUTC": "2025-02-21T01:00:00Z",
+      "venue": "TD Garden",
+      "gameState": "OFF",
+      "gameScheduleState": "OK",
+      "homeTeam": {
+        "id": 67,
+        "abbrev": "USA",
+        "name": "USA",
+        "record": null,
+        "score": 2,
+        "roster": []
+      },
+      "awayTeam": {
+        "id": 60,
+        "abbrev": "CAN",
+        "name": "Canada",
+        "record": null,
+        "score": 3,
+        "roster": []
+      }
+    }
+  ]
+}

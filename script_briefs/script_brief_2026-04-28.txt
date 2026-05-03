@@ -1,0 +1,271 @@
+======================================================================
+NHL PREDICTIONS SCRIPT BRIEF — 2026-04-28
+Generated: 2026-04-28 09:57
+======================================================================
+
+INSTRUCTIONS FOR CLAUDE:
+Using the picks below, write a 2-3 minute YouTube script in a
+natural, conversational human voice. Include a couple of 'um'
+moments and natural pauses between sentences (use '...' for pauses
+and [pause] for longer beats). Sound like an enthusiastic hockey
+fan who knows their stats, not a robot. Start with tonight's games,
+then go through the top picks by category.
+
+──────────────────────────────────────────────────────────────────────
+TONIGHT'S GAMES:
+──────────────────────────────────────────────────────────────────────
+  • ANA @ EDM
+  • BOS @ BUF
+  • MIN @ DAL
+
+──────────────────────────────────────────────────────────────────────
+🥅 TOP GOAL SCORER PICKS (1+ Goals):
+──────────────────────────────────────────────────────────────────────
+   1. C. McDavid (EDM vs ANA) — 39.4% chance of scoring  ✅ STRONG PICK
+       At home, vs Ville Husso | also 83.0% for a point
+   2. L. Draisaitl (EDM vs ANA) — 39.4% chance of scoring  ✅ STRONG PICK
+       At home, vs Ville Husso | also 82.0% for a point
+   3. K. Kaprizov (MIN vs DAL) — 39.4% chance of scoring  ✅ STRONG PICK
+       On the road, facing Jake Oettinger | also 81.7% for a point
+   4. J. Farinacci (BOS vs BUF) — 39.4% chance of scoring  ✅ STRONG PICK
+       On the road, facing Ukko-Pekka Luukkonen | also 80.0% for a point
+   5. D. Pastrnak (BOS vs BUF) — 39.4% chance of scoring  ✅ STRONG PICK
+       On the road, facing Ukko-Pekka Luukkonen | also 65.3% for a point
+   6. M. Rantanen (DAL vs MIN) — 35.9% chance of scoring  ✅ STRONG PICK
+       At home, vs Jesper Wallstedt | also 81.7% for a point
+   7. T. Thompson (BUF vs BOS) — 35.9% chance of scoring  ✅ STRONG PICK
+       At home, facing Joonas Korpisalo | also 65.3% for a point
+   8. Z. Hyman (EDM vs ANA) — 35.9% chance of scoring  ✅ STRONG PICK
+       At home, vs Ville Husso | also 65.3% for a point
+   9. J. Eriksson Ek (MIN vs DAL) — 35.9% chance of scoring  ✅ STRONG PICK
+       On the road, facing Jake Oettinger | also 56.2% for a point
+  10. A. Tuch (BUF vs BOS) — 31.6% chance of scoring  📊 WORTH WATCHING
+       At home, facing Joonas Korpisalo | also 63.4% for a point
+
+──────────────────────────────────────────────────────────────────────
+📊 TOP POINT GETTER PICKS (1+ Points):
+──────────────────────────────────────────────────────────────────────
+   1. C. McDavid (EDM vs ANA) — 83.0% chance of a point  🔥 HIGH CONFIDENCE
+       At home, vs Ville Husso | goal 39.4% / assist 75.0%
+   2. L. Draisaitl (EDM vs ANA) — 82.0% chance of a point  🔥 HIGH CONFIDENCE
+       At home, vs Ville Husso | goal 39.4% / assist 66.9%
+   3. M. Rantanen (DAL vs MIN) — 81.7% chance of a point  🔥 HIGH CONFIDENCE
+       At home, vs Jesper Wallstedt | goal 35.9% / assist 54.5%
+   4. K. Kaprizov (MIN vs DAL) — 81.7% chance of a point  🔥 HIGH CONFIDENCE
+       On the road, facing Jake Oettinger | goal 39.4% / assist 54.5%
+   5. J. Farinacci (BOS vs BUF) — 80.0% chance of a point  🔥 HIGH CONFIDENCE
+       On the road, facing Ukko-Pekka Luukkonen | goal 39.4% / assist 54.5%
+   6. E. Bouchard (EDM vs ANA) — 69.9% chance of a point  🔥 HIGH CONFIDENCE
+       At home, vs Ville Husso | goal 20.3% / assist 54.5%
+   7. T. Thompson (BUF vs BOS) — 65.3% chance of a point  🔥 HIGH CONFIDENCE
+       At home, facing Joonas Korpisalo | goal 35.9% / assist 37.6%
+   8. D. Pastrnak (BOS vs BUF) — 65.3% chance of a point  🔥 HIGH CONFIDENCE
+       On the road, facing Ukko-Pekka Luukkonen | goal 39.4% / assist 48.5%
+   9. Z. Hyman (EDM vs ANA) — 65.3% chance of a point  🔥 HIGH CONFIDENCE
+       At home, vs Ville Husso | goal 35.9% / assist 36.4%
+  10. R. Nugent-Hopkins (EDM vs ANA) — 65.3% chance of a point  🔥 HIGH CONFIDENCE
+       At home, vs Ville Husso | goal 31.5% / assist 48.5%
+
+──────────────────────────────────────────────────────────────────────
+🏒 TOP SHOT VOLUME PICKS (3+ Shots on Goal):
+──────────────────────────────────────────────────────────────────────
+   1. C. McDavid (EDM vs ANA) — 75.0% chance of 3+ shots  🔥 HIGH CONFIDENCE
+       At home | 4+ SOG: 44.6% | 5+ SOG: 26.5%
+   2. K. Kaprizov (MIN vs DAL) — 63.5% chance of 3+ shots  🔥 HIGH CONFIDENCE
+       On the road | 4+ SOG: 44.6% | 5+ SOG: 26.5%
+   3. L. Draisaitl (EDM vs ANA) — 56.7% chance of 3+ shots  ✅ STRONG PICK
+       At home | 4+ SOG: 33.8% | 5+ SOG: 20.9%
+   4. J. Farinacci (BOS vs BUF) — 56.7% chance of 3+ shots  ✅ STRONG PICK
+       On the road | 4+ SOG: 38.5% | 5+ SOG: 26.5%
+   5. E. Bouchard (EDM vs ANA) — 56.7% chance of 3+ shots  ✅ STRONG PICK
+       At home | 4+ SOG: 38.5% | 5+ SOG: 18.4%
+   6. T. Thompson (BUF vs BOS) — 56.7% chance of 3+ shots  ✅ STRONG PICK
+       At home | 4+ SOG: 38.5% | 5+ SOG: 20.9%
+   7. D. Pastrnak (BOS vs BUF) — 56.7% chance of 3+ shots  ✅ STRONG PICK
+       On the road | 4+ SOG: 38.5% | 5+ SOG: 26.5%
+   8. J. Eriksson Ek (MIN vs DAL) — 56.7% chance of 3+ shots  ✅ STRONG PICK
+       On the road | 4+ SOG: 38.5% | 5+ SOG: 20.9%
+   9. M. Rantanen (DAL vs MIN) — 53.1% chance of 3+ shots  📊 WORTH WATCHING
+       At home | 4+ SOG: 32.6% | 5+ SOG: 18.4%
+  10. Z. Hyman (EDM vs ANA) — 53.1% chance of 3+ shots  📊 WORTH WATCHING
+       At home | 4+ SOG: 32.6% | 5+ SOG: 20.0%
+
+======================================================================
+💰 TODAY'S PICKS ABOVE THRESHOLD (THE ACTUAL PICKS TO MENTION):
+======================================================================
+
+  1+ Points  (threshold: 55%):
+    ✅ C. McDavid (EDM vs ANA) — 83.0%
+       At home, vs Ville Husso
+    ✅ L. Draisaitl (EDM vs ANA) — 82.0%
+       At home, vs Ville Husso
+    ✅ M. Rantanen (DAL vs MIN) — 81.7%
+       At home, vs Jesper Wallstedt
+    ✅ K. Kaprizov (MIN vs DAL) — 81.7%
+       On the road, facing Jake Oettinger
+    ✅ J. Farinacci (BOS vs BUF) — 80.0%
+       On the road, facing Ukko-Pekka Luukkonen
+    ✅ E. Bouchard (EDM vs ANA) — 69.9%
+       At home, vs Ville Husso
+    ✅ T. Thompson (BUF vs BOS) — 65.3%
+       At home, facing Joonas Korpisalo
+    ✅ D. Pastrnak (BOS vs BUF) — 65.3%
+       On the road, facing Ukko-Pekka Luukkonen
+    ✅ Z. Hyman (EDM vs ANA) — 65.3%
+       At home, vs Ville Husso
+    ✅ R. Nugent-Hopkins (EDM vs ANA) — 65.3%
+       At home, vs Ville Husso
+    ✅ A. Tuch (BUF vs BOS) — 63.4%
+       At home, facing Joonas Korpisalo
+    ✅ R. Dahlin (BUF vs BOS) — 63.4%
+       At home, facing Joonas Korpisalo
+    ✅ J. Demers (EDM vs ANA) — 60.0%
+       At home, vs Ville Husso
+    ✅ M. Boldy (MIN vs DAL) — 60.0%
+       On the road, facing Jake Oettinger
+    ✅ J. Eriksson Ek (MIN vs DAL) — 56.2%
+       On the road, facing Jake Oettinger
+    ✅ M. Zuccarello (MIN vs DAL) — 56.2%
+       On the road, facing Jake Oettinger
+    ✅ D. Giroux (MIN vs DAL) — 55.1%
+       On the road, facing Jake Oettinger
+    ✅ J. Robertson (DAL vs MIN) — 55.1%
+       At home, vs Jesper Wallstedt
+    ✅ P. Kemp (EDM vs ANA) — 55.1%
+       At home, vs Ville Husso
+    ✅ M. Heiskanen (DAL vs MIN) — 55.1%
+       At home, vs Jesper Wallstedt
+    ✅ T. Terry (ANA vs EDM) — 55.1%
+       On the road, facing Connor Ingram
+    ✅ W. Johnston (DAL vs MIN) — 55.1%
+       At home, vs Jesper Wallstedt
+    ✅ J. Peterka (BUF vs BOS) — 55.1%
+       At home, facing Joonas Korpisalo
+    ✅ J. Davies (BUF vs BOS) — 55.1%
+       At home, facing Joonas Korpisalo
+
+  1+ Goals  (threshold: 28%):
+    ✅ C. McDavid (EDM vs ANA) — 39.4%
+       At home, vs Ville Husso
+    ✅ L. Draisaitl (EDM vs ANA) — 39.4%
+       At home, vs Ville Husso
+    ✅ K. Kaprizov (MIN vs DAL) — 39.4%
+       On the road, facing Jake Oettinger
+    ✅ J. Farinacci (BOS vs BUF) — 39.4%
+       On the road, facing Ukko-Pekka Luukkonen
+    ✅ D. Pastrnak (BOS vs BUF) — 39.4%
+       On the road, facing Ukko-Pekka Luukkonen
+    ✅ M. Rantanen (DAL vs MIN) — 35.9%
+       At home, vs Jesper Wallstedt
+    ✅ T. Thompson (BUF vs BOS) — 35.9%
+       At home, facing Joonas Korpisalo
+    ✅ Z. Hyman (EDM vs ANA) — 35.9%
+       At home, vs Ville Husso
+    ✅ J. Eriksson Ek (MIN vs DAL) — 35.9%
+       On the road, facing Jake Oettinger
+    ✅ A. Tuch (BUF vs BOS) — 31.6%
+       At home, facing Joonas Korpisalo
+    ✅ M. Boldy (MIN vs DAL) — 31.6%
+       On the road, facing Jake Oettinger
+    ✅ R. Nugent-Hopkins (EDM vs ANA) — 31.5%
+       At home, vs Ville Husso
+    ✅ E. Kane (EDM vs ANA) — 31.3%
+       At home, vs Ville Husso
+    ✅ J. Peterka (BUF vs BOS) — 31.3%
+       At home, facing Joonas Korpisalo
+    ✅ J. Robertson (DAL vs MIN) — 31.3%
+       At home, vs Jesper Wallstedt
+    ✅ J. Davies (BUF vs BOS) — 24.0%
+       At home, facing Joonas Korpisalo
+    ✅ R. Dahlin (BUF vs BOS) — 20.3%
+       At home, facing Joonas Korpisalo
+    ✅ E. Bouchard (EDM vs ANA) — 20.3%
+       At home, vs Ville Husso
+    ✅ J. Demers (EDM vs ANA) — 20.3%
+       At home, vs Ville Husso
+    ✅ P. Kemp (EDM vs ANA) — 20.3%
+       At home, vs Ville Husso
+
+  1+ Assists  (threshold: 45%):
+    ✅ C. McDavid (EDM vs ANA) — 75.0%
+       At home, vs Ville Husso
+    ✅ L. Draisaitl (EDM vs ANA) — 66.9%
+       At home, vs Ville Husso
+    ✅ M. Rantanen (DAL vs MIN) — 54.5%
+       At home, vs Jesper Wallstedt
+    ✅ K. Kaprizov (MIN vs DAL) — 54.5%
+       On the road, facing Jake Oettinger
+    ✅ J. Farinacci (BOS vs BUF) — 54.5%
+       On the road, facing Ukko-Pekka Luukkonen
+    ✅ E. Bouchard (EDM vs ANA) — 54.5%
+       At home, vs Ville Husso
+    ✅ R. Dahlin (BUF vs BOS) — 54.5%
+       At home, facing Joonas Korpisalo
+    ✅ D. Pastrnak (BOS vs BUF) — 48.5%
+       On the road, facing Ukko-Pekka Luukkonen
+    ✅ R. Nugent-Hopkins (EDM vs ANA) — 48.5%
+       At home, vs Ville Husso
+    ✅ J. Demers (EDM vs ANA) — 48.5%
+       At home, vs Ville Husso
+    ✅ M. Zuccarello (MIN vs DAL) — 48.5%
+       On the road, facing Jake Oettinger
+    ✅ M. Boldy (MIN vs DAL) — 45.8%
+       On the road, facing Jake Oettinger
+    ✅ D. Giroux (MIN vs DAL) — 45.8%
+       On the road, facing Jake Oettinger
+    ✅ J. Davies (BUF vs BOS) — 45.8%
+       At home, facing Joonas Korpisalo
+
+  3+ Shots on Goal  (threshold: 50%):
+    ✅ C. McDavid (EDM vs ANA) — 75.0%
+       At home, vs Ville Husso
+    ✅ K. Kaprizov (MIN vs DAL) — 63.5%
+       On the road, facing Jake Oettinger
+    ✅ L. Draisaitl (EDM vs ANA) — 56.7%
+       At home, vs Ville Husso
+    ✅ J. Farinacci (BOS vs BUF) — 56.7%
+       On the road, facing Ukko-Pekka Luukkonen
+    ✅ E. Bouchard (EDM vs ANA) — 56.7%
+       At home, vs Ville Husso
+    ✅ T. Thompson (BUF vs BOS) — 56.7%
+       At home, facing Joonas Korpisalo
+    ✅ J. Eriksson Ek (MIN vs DAL) — 56.7%
+       On the road, facing Jake Oettinger
+    ✅ D. Pastrnak (BOS vs BUF) — 56.7%
+       On the road, facing Ukko-Pekka Luukkonen
+    ✅ M. Rantanen (DAL vs MIN) — 53.1%
+       At home, vs Jesper Wallstedt
+    ✅ Z. Hyman (EDM vs ANA) — 53.1%
+       At home, vs Ville Husso
+    ✅ R. Dahlin (BUF vs BOS) — 53.1%
+       At home, facing Joonas Korpisalo
+    ✅ J. Demers (EDM vs ANA) — 53.1%
+       At home, vs Ville Husso
+    ✅ M. Boldy (MIN vs DAL) — 53.1%
+       On the road, facing Jake Oettinger
+    ✅ J. Davies (BUF vs BOS) — 53.1%
+       At home, facing Joonas Korpisalo
+
+  4+ Shots on Goal  (threshold: 35%):
+    ✅ C. McDavid (EDM vs ANA) — 44.6%
+       At home, vs Ville Husso
+    ✅ K. Kaprizov (MIN vs DAL) — 44.6%
+       On the road, facing Jake Oettinger
+    ✅ J. Farinacci (BOS vs BUF) — 38.5%
+       On the road, facing Ukko-Pekka Luukkonen
+    ✅ E. Bouchard (EDM vs ANA) — 38.5%
+       At home, vs Ville Husso
+    ✅ T. Thompson (BUF vs BOS) — 38.5%
+       At home, facing Joonas Korpisalo
+    ✅ D. Pastrnak (BOS vs BUF) — 38.5%
+       On the road, facing Ukko-Pekka Luukkonen
+    ✅ J. Eriksson Ek (MIN vs DAL) — 38.5%
+       On the road, facing Jake Oettinger
+    ✅ R. Dahlin (BUF vs BOS) — 32.6%
+       At home, facing Joonas Korpisalo
+    ✅ J. Demers (EDM vs ANA) — 32.6%
+       At home, vs Ville Husso
+
+======================================================================
+END OF BRIEF — PASTE ABOVE INTO CLAUDE TO GENERATE SCRIPT
+======================================================================

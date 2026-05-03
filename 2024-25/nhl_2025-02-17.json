@@ -1,0 +1,57 @@
+{
+  "date": "2025-02-17",
+  "season": "20242025",
+  "gameCount": 2,
+  "games": [
+    {
+      "gamePk": 2024190005,
+      "season": 20242025,
+      "gameType": 19,
+      "startTimeUTC": "2025-02-17T18:00:00Z",
+      "venue": "TD Garden",
+      "gameState": "OFF",
+      "gameScheduleState": "OK",
+      "homeTeam": {
+        "id": 62,
+        "abbrev": "FIN",
+        "name": "Finland",
+        "record": null,
+        "score": 3,
+        "roster": []
+      },
+      "awayTeam": {
+        "id": 60,
+        "abbrev": "CAN",
+        "name": "Canada",
+        "record": null,
+        "score": 5,
+        "roster": []
+      }
+    },
+    {
+      "gamePk": 2024190006,
+      "season": 20242025,
+      "gameType": 19,
+      "startTimeUTC": "2025-02-18T01:00:00Z",
+      "venue": "TD Garden",
+      "gameState": "OFF",
+      "gameScheduleState": "OK",
+      "homeTeam": {
+        "id": 67,
+        "abbrev": "USA",
+        "name": "USA",
+        "record": null,
+        "score": 1,
+        "roster": []
+      },
+      "awayTeam": {
+        "id": 66,
+        "abbrev": "SWE",
+        "name": "Sweden",
+        "record": null,
+        "score": 2,
+        "roster": []
+      }
+    }
+  ]
+}

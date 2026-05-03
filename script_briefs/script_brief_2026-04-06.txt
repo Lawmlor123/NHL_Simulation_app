@@ -1,0 +1,300 @@
+======================================================================
+NHL PREDICTIONS SCRIPT BRIEF — 2026-04-06
+Generated: 2026-04-06 10:48
+======================================================================
+
+INSTRUCTIONS FOR CLAUDE:
+Using the picks below, write a 2-3 minute YouTube script in a
+natural, conversational human voice. Include a couple of 'um'
+moments and natural pauses between sentences (use '...' for pauses
+and [pause] for longer beats). Sound like an enthusiastic hockey
+fan who knows their stats, not a robot. Start with tonight's games,
+then go through the top picks by category.
+
+──────────────────────────────────────────────────────────────────────
+TONIGHT'S GAMES:
+──────────────────────────────────────────────────────────────────────
+  • CHI @ SJS
+  • NSH @ LAK
+  • SEA @ WPG
+  • TBL @ BUF
+
+──────────────────────────────────────────────────────────────────────
+🥅 TOP GOAL SCORER PICKS (1+ Goals):
+──────────────────────────────────────────────────────────────────────
+   1. K. Connor (WPG vs SEA) — 39.4% chance of scoring  ✅ STRONG PICK
+       At home, facing Philipp Grubauer | also 81.7% for a point
+   2. K. Fiala (LAK vs NSH) — 39.4% chance of scoring  ✅ STRONG PICK
+       At home, vs Juuse Saros | also 67.7% for a point
+   3. J. Guentzel (TBL vs BUF) — 39.4% chance of scoring  ✅ STRONG PICK
+       On the road, facing Ukko-Pekka Luukkonen | also 63.4% for a point
+   4. N. Kucherov (TBL vs BUF) — 35.9% chance of scoring  ✅ STRONG PICK
+       On the road, facing Ukko-Pekka Luukkonen | also 82.0% for a point
+   5. A. Kempe (LAK vs NSH) — 35.9% chance of scoring  ✅ STRONG PICK
+       At home, vs Juuse Saros | also 65.3% for a point
+   6. M. Scheifele (WPG vs SEA) — 35.9% chance of scoring  ✅ STRONG PICK
+       At home, facing Philipp Grubauer | also 63.4% for a point
+   7. B. Point (TBL vs BUF) — 35.9% chance of scoring  ✅ STRONG PICK
+       On the road, facing Ukko-Pekka Luukkonen | also 60.0% for a point
+   8. M. McCormick (SEA vs WPG) — 35.9% chance of scoring  ✅ STRONG PICK
+       On the road, facing Connor Hellebuyck | also 55.1% for a point
+   9. M. Celebrini (SJS vs CHI) — 31.6% chance of scoring  📊 WORTH WATCHING
+       At home, facing Spencer Knight | also 69.9% for a point
+  10. G. Fortier (TBL vs BUF) — 31.6% chance of scoring  📊 WORTH WATCHING
+       On the road, facing Ukko-Pekka Luukkonen | also 60.0% for a point
+
+──────────────────────────────────────────────────────────────────────
+📊 TOP POINT GETTER PICKS (1+ Points):
+──────────────────────────────────────────────────────────────────────
+   1. N. Kucherov (TBL vs BUF) — 82.0% chance of a point  🔥 HIGH CONFIDENCE
+       On the road, facing Ukko-Pekka Luukkonen | goal 35.9% / assist 66.9%
+   2. K. Connor (WPG vs SEA) — 81.7% chance of a point  🔥 HIGH CONFIDENCE
+       At home, facing Philipp Grubauer | goal 39.4% / assist 54.5%
+   3. M. Celebrini (SJS vs CHI) — 69.9% chance of a point  🔥 HIGH CONFIDENCE
+       At home, facing Spencer Knight | goal 31.6% / assist 45.8%
+   4. K. Fiala (LAK vs NSH) — 67.7% chance of a point  🔥 HIGH CONFIDENCE
+       At home, vs Juuse Saros | goal 39.4% / assist 40.1%
+   5. A. Kempe (LAK vs NSH) — 65.3% chance of a point  🔥 HIGH CONFIDENCE
+       At home, vs Juuse Saros | goal 35.9% / assist 45.8%
+   6. C. Bedard (CHI vs SJS) — 63.4% chance of a point  ✅ STRONG PICK
+       On the road, vs Alexandar Georgiev | goal 31.3% / assist 54.5%
+   7. M. Scheifele (WPG vs SEA) — 63.4% chance of a point  ✅ STRONG PICK
+       At home, facing Philipp Grubauer | goal 35.9% / assist 40.1%
+   8. J. Guentzel (TBL vs BUF) — 63.4% chance of a point  ✅ STRONG PICK
+       On the road, facing Ukko-Pekka Luukkonen | goal 39.4% / assist 37.6%
+   9. A. Kopitar (LAK vs NSH) — 63.4% chance of a point  ✅ STRONG PICK
+       At home, vs Juuse Saros | goal 25.7% / assist 48.5%
+  10. G. Fortier (TBL vs BUF) — 60.0% chance of a point  ✅ STRONG PICK
+       On the road, facing Ukko-Pekka Luukkonen | goal 31.6% / assist 48.5%
+
+──────────────────────────────────────────────────────────────────────
+🏒 TOP SHOT VOLUME PICKS (3+ Shots on Goal):
+──────────────────────────────────────────────────────────────────────
+   1. K. Fiala (LAK vs NSH) — 63.5% chance of 3+ shots  🔥 HIGH CONFIDENCE
+       At home | 4+ SOG: 44.6% | 5+ SOG: 26.5%
+   2. A. Kempe (LAK vs NSH) — 59.9% chance of 3+ shots  ✅ STRONG PICK
+       At home | 4+ SOG: 38.5% | 5+ SOG: 26.5%
+   3. K. Connor (WPG vs SEA) — 56.7% chance of 3+ shots  ✅ STRONG PICK
+       At home | 4+ SOG: 38.5% | 5+ SOG: 20.9%
+   4. M. Celebrini (SJS vs CHI) — 56.7% chance of 3+ shots  ✅ STRONG PICK
+       At home | 4+ SOG: 38.5% | 5+ SOG: 20.9%
+   5. T. Thompson (BUF vs TBL) — 56.7% chance of 3+ shots  ✅ STRONG PICK
+       At home | 4+ SOG: 38.5% | 5+ SOG: 22.7%
+   6. T. Toffoli (SJS vs CHI) — 56.7% chance of 3+ shots  ✅ STRONG PICK
+       At home | 4+ SOG: 38.5% | 5+ SOG: 20.9%
+   7. M. McCormick (SEA vs WPG) — 56.7% chance of 3+ shots  ✅ STRONG PICK
+       On the road | 4+ SOG: 36.7% | 5+ SOG: 18.4%
+   8. J. Kemell (NSH vs LAK) — 56.7% chance of 3+ shots  ✅ STRONG PICK
+       On the road | 4+ SOG: 38.5% | 5+ SOG: 20.9%
+   9. N. Kucherov (TBL vs BUF) — 53.1% chance of 3+ shots  📊 WORTH WATCHING
+       On the road | 4+ SOG: 32.6% | 5+ SOG: 18.4%
+  10. G. Fortier (TBL vs BUF) — 53.1% chance of 3+ shots  📊 WORTH WATCHING
+       On the road | 4+ SOG: 29.7% | 5+ SOG: 13.3%
+
+======================================================================
+💰 TODAY'S PICKS ABOVE THRESHOLD (THE ACTUAL PICKS TO MENTION):
+======================================================================
+
+  1+ Points  (threshold: 55%):
+    ✅ N. Kucherov (TBL vs BUF) — 82.0%
+       On the road, facing Ukko-Pekka Luukkonen
+    ✅ K. Connor (WPG vs SEA) — 81.7%
+       At home, facing Philipp Grubauer
+    ✅ M. Celebrini (SJS vs CHI) — 69.9%
+       At home, facing Spencer Knight
+    ✅ K. Fiala (LAK vs NSH) — 67.7%
+       At home, vs Juuse Saros
+    ✅ A. Kempe (LAK vs NSH) — 65.3%
+       At home, vs Juuse Saros
+    ✅ C. Bedard (CHI vs SJS) — 63.4%
+       On the road, vs Alexandar Georgiev
+    ✅ M. Scheifele (WPG vs SEA) — 63.4%
+       At home, facing Philipp Grubauer
+    ✅ J. Guentzel (TBL vs BUF) — 63.4%
+       On the road, facing Ukko-Pekka Luukkonen
+    ✅ A. Kopitar (LAK vs NSH) — 63.4%
+       At home, vs Juuse Saros
+    ✅ G. Fortier (TBL vs BUF) — 60.0%
+       On the road, facing Ukko-Pekka Luukkonen
+    ✅ B. Point (TBL vs BUF) — 60.0%
+       On the road, facing Ukko-Pekka Luukkonen
+    ✅ A. Tuch (BUF vs TBL) — 60.0%
+       At home, facing Andrei Vasilevskiy
+    ✅ R. Dahlin (BUF vs TBL) — 60.0%
+       At home, facing Andrei Vasilevskiy
+    ✅ T. Thompson (BUF vs TBL) — 60.0%
+       At home, facing Andrei Vasilevskiy
+    ✅ T. Toffoli (SJS vs CHI) — 60.0%
+       At home, facing Spencer Knight
+    ✅ J. Finley (TBL vs BUF) — 56.2%
+       On the road, facing Ukko-Pekka Luukkonen
+    ✅ L. Couture (SJS vs CHI) — 56.2%
+       At home, facing Spencer Knight
+    ✅ G. Vilardi (WPG vs SEA) — 55.1%
+       At home, facing Philipp Grubauer
+    ✅ N. Ehlers (WPG vs SEA) — 55.1%
+       At home, facing Philipp Grubauer
+    ✅ M. McCormick (SEA vs WPG) — 55.1%
+       On the road, facing Connor Hellebuyck
+    ✅ J. Morrissey (WPG vs SEA) — 55.1%
+       At home, facing Philipp Grubauer
+    ✅ P. Danault (LAK vs NSH) — 55.1%
+       At home, vs Juuse Saros
+    ✅ T. Ward (LAK vs NSH) — 55.1%
+       At home, vs Juuse Saros
+    ✅ T. Moore (LAK vs NSH) — 55.1%
+       At home, vs Juuse Saros
+    ✅ W. Smith (SJS vs CHI) — 55.1%
+       At home, facing Spencer Knight
+    ✅ R. Josi (NSH vs LAK) — 55.1%
+       On the road, vs David Rittich
+    ✅ Q. Byfield (LAK vs NSH) — 55.1%
+       At home, vs Juuse Saros
+    ✅ A. Kuzmenko (LAK vs NSH) — 55.1%
+       At home, vs Juuse Saros
+    ✅ W. Eklund (SJS vs CHI) — 55.1%
+       At home, facing Spencer Knight
+    ✅ F. Forsberg (NSH vs LAK) — 55.1%
+       On the road, vs David Rittich
+    ✅ J. Peterka (BUF vs TBL) — 55.1%
+       At home, facing Andrei Vasilevskiy
+    ✅ B. Hagel (TBL vs BUF) — 55.1%
+       On the road, facing Ukko-Pekka Luukkonen
+    ✅ S. Stamkos (NSH vs LAK) — 55.1%
+       On the road, vs David Rittich
+    ✅ V. Hedman (TBL vs BUF) — 50.5%
+       On the road, facing Ukko-Pekka Luukkonen
+
+  1+ Goals  (threshold: 28%):
+    ✅ K. Connor (WPG vs SEA) — 39.4%
+       At home, facing Philipp Grubauer
+    ✅ K. Fiala (LAK vs NSH) — 39.4%
+       At home, vs Juuse Saros
+    ✅ J. Guentzel (TBL vs BUF) — 39.4%
+       On the road, facing Ukko-Pekka Luukkonen
+    ✅ N. Kucherov (TBL vs BUF) — 35.9%
+       On the road, facing Ukko-Pekka Luukkonen
+    ✅ M. Scheifele (WPG vs SEA) — 35.9%
+       At home, facing Philipp Grubauer
+    ✅ A. Kempe (LAK vs NSH) — 35.9%
+       At home, vs Juuse Saros
+    ✅ B. Point (TBL vs BUF) — 35.9%
+       On the road, facing Ukko-Pekka Luukkonen
+    ✅ M. McCormick (SEA vs WPG) — 35.9%
+       On the road, facing Connor Hellebuyck
+    ✅ A. Tuch (BUF vs TBL) — 31.6%
+       At home, facing Andrei Vasilevskiy
+    ✅ G. Fortier (TBL vs BUF) — 31.6%
+       On the road, facing Ukko-Pekka Luukkonen
+    ✅ T. Thompson (BUF vs TBL) — 31.6%
+       At home, facing Andrei Vasilevskiy
+    ✅ M. Celebrini (SJS vs CHI) — 31.6%
+       At home, facing Spencer Knight
+    ✅ T. Toffoli (SJS vs CHI) — 31.6%
+       At home, facing Spencer Knight
+    ✅ F. Forsberg (NSH vs LAK) — 31.6%
+       On the road, vs David Rittich
+    ✅ L. Andersson (LAK vs NSH) — 31.5%
+       At home, vs Juuse Saros
+    ✅ S. Stamkos (NSH vs LAK) — 31.5%
+       On the road, vs David Rittich
+    ✅ G. Vilardi (WPG vs SEA) — 31.5%
+       At home, facing Philipp Grubauer
+    ✅ T. Ward (LAK vs NSH) — 31.5%
+       At home, vs Juuse Saros
+    ✅ T. Moore (LAK vs NSH) — 31.5%
+       At home, vs Juuse Saros
+    ✅ J. Finley (TBL vs BUF) — 31.5%
+       On the road, facing Ukko-Pekka Luukkonen
+    ✅ J. Marchessault (NSH vs LAK) — 31.3%
+       On the road, vs David Rittich
+    ✅ C. Bedard (CHI vs SJS) — 31.3%
+       On the road, vs Alexandar Georgiev
+    ✅ N. Ehlers (WPG vs SEA) — 31.3%
+       At home, facing Philipp Grubauer
+    ✅ C. Suess (SJS vs CHI) — 31.3%
+       At home, facing Spencer Knight
+    ✅ J. McCann (SEA vs WPG) — 31.3%
+       On the road, facing Connor Hellebuyck
+    ✅ A. Agozzino (SJS vs CHI) — 31.3%
+       At home, facing Spencer Knight
+    ✅ R. Dahlin (BUF vs TBL) — 20.3%
+       At home, facing Andrei Vasilevskiy
+    ✅ J. Davies (BUF vs TBL) — 20.3%
+       At home, facing Andrei Vasilevskiy
+
+  1+ Assists  (threshold: 45%):
+    ✅ N. Kucherov (TBL vs BUF) — 66.9%
+       On the road, facing Ukko-Pekka Luukkonen
+    ✅ K. Connor (WPG vs SEA) — 54.5%
+       At home, facing Philipp Grubauer
+    ✅ C. Bedard (CHI vs SJS) — 54.5%
+       On the road, vs Alexandar Georgiev
+    ✅ A. Kopitar (LAK vs NSH) — 48.5%
+       At home, vs Juuse Saros
+    ✅ R. Dahlin (BUF vs TBL) — 48.5%
+       At home, facing Andrei Vasilevskiy
+    ✅ G. Fortier (TBL vs BUF) — 48.5%
+       On the road, facing Ukko-Pekka Luukkonen
+    ✅ R. Josi (NSH vs LAK) — 48.5%
+       On the road, vs David Rittich
+    ✅ A. Kempe (LAK vs NSH) — 45.8%
+       At home, vs Juuse Saros
+    ✅ M. Celebrini (SJS vs CHI) — 45.8%
+       At home, facing Spencer Knight
+    ✅ J. Davies (BUF vs TBL) — 45.8%
+       At home, facing Andrei Vasilevskiy
+
+  3+ Shots on Goal  (threshold: 50%):
+    ✅ K. Fiala (LAK vs NSH) — 63.5%
+       At home, vs Juuse Saros
+    ✅ A. Kempe (LAK vs NSH) — 59.9%
+       At home, vs Juuse Saros
+    ✅ M. Celebrini (SJS vs CHI) — 56.7%
+       At home, facing Spencer Knight
+    ✅ K. Connor (WPG vs SEA) — 56.7%
+       At home, facing Philipp Grubauer
+    ✅ T. Toffoli (SJS vs CHI) — 56.7%
+       At home, facing Spencer Knight
+    ✅ T. Thompson (BUF vs TBL) — 56.7%
+       At home, facing Andrei Vasilevskiy
+    ✅ M. McCormick (SEA vs WPG) — 56.7%
+       On the road, facing Connor Hellebuyck
+    ✅ J. Kemell (NSH vs LAK) — 56.7%
+       On the road, vs David Rittich
+    ✅ G. Fortier (TBL vs BUF) — 53.1%
+       On the road, facing Ukko-Pekka Luukkonen
+    ✅ N. Kucherov (TBL vs BUF) — 53.1%
+       On the road, facing Ukko-Pekka Luukkonen
+    ✅ R. Dahlin (BUF vs TBL) — 53.1%
+       At home, facing Andrei Vasilevskiy
+    ✅ F. Forsberg (NSH vs LAK) — 53.1%
+       On the road, vs David Rittich
+    ✅ C. Suess (SJS vs CHI) — 53.1%
+       At home, facing Spencer Knight
+    ✅ J. Davies (BUF vs TBL) — 51.1%
+       At home, facing Andrei Vasilevskiy
+
+  4+ Shots on Goal  (threshold: 35%):
+    ✅ K. Fiala (LAK vs NSH) — 44.6%
+       At home, vs Juuse Saros
+    ✅ K. Connor (WPG vs SEA) — 38.5%
+       At home, facing Philipp Grubauer
+    ✅ M. Celebrini (SJS vs CHI) — 38.5%
+       At home, facing Spencer Knight
+    ✅ A. Kempe (LAK vs NSH) — 38.5%
+       At home, vs Juuse Saros
+    ✅ T. Thompson (BUF vs TBL) — 38.5%
+       At home, facing Andrei Vasilevskiy
+    ✅ F. Forsberg (NSH vs LAK) — 38.5%
+       On the road, vs David Rittich
+    ✅ T. Toffoli (SJS vs CHI) — 38.5%
+       At home, facing Spencer Knight
+    ✅ J. Kemell (NSH vs LAK) — 38.5%
+       On the road, vs David Rittich
+    ✅ R. Dahlin (BUF vs TBL) — 32.6%
+       At home, facing Andrei Vasilevskiy
+
+======================================================================
+END OF BRIEF — PASTE ABOVE INTO CLAUDE TO GENERATE SCRIPT
+======================================================================

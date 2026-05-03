@@ -1,0 +1,192 @@
+======================================================================
+NHL PREDICTIONS SCRIPT BRIEF — 2026-04-27
+Generated: 2026-04-27 10:02
+======================================================================
+
+INSTRUCTIONS FOR CLAUDE:
+Using the picks below, write a 2-3 minute YouTube script in a
+natural, conversational human voice. Include a couple of 'um'
+moments and natural pauses between sentences (use '...' for pauses
+and [pause] for longer beats). Sound like an enthusiastic hockey
+fan who knows their stats, not a robot. Start with tonight's games,
+then go through the top picks by category.
+
+──────────────────────────────────────────────────────────────────────
+TONIGHT'S GAMES:
+──────────────────────────────────────────────────────────────────────
+  • PHI @ PIT
+  • VGK @ UTA
+
+──────────────────────────────────────────────────────────────────────
+🥅 TOP GOAL SCORER PICKS (1+ Goals):
+──────────────────────────────────────────────────────────────────────
+   1. J. Eichel (VGK vs UTA) — 39.4% chance of scoring  ✅ STRONG PICK
+       On the road, vs Karel Vejmelka | also 81.7% for a point
+   2. S. Crosby (PIT vs PHI) — 35.9% chance of scoring  ✅ STRONG PICK
+       At home, facing Dan Vladar | also 80.0% for a point
+   3. C. Keller (UTA vs VGK) — 35.9% chance of scoring  ✅ STRONG PICK
+       At home, vs Carter Hart | also 63.4% for a point
+   4. B. Rust (PIT vs PHI) — 31.6% chance of scoring  📊 WORTH WATCHING
+       At home, facing Dan Vladar | also 63.4% for a point
+   5. T. Konecny (PHI vs PIT) — 31.6% chance of scoring  📊 WORTH WATCHING
+       On the road, facing Stuart Skinner | also 60.0% for a point
+   6. D. Guenther (UTA vs VGK) — 31.6% chance of scoring  📊 WORTH WATCHING
+       At home, vs Carter Hart | also 59.9% for a point
+   7. M. Stone (VGK vs UTA) — 31.5% chance of scoring  📊 WORTH WATCHING
+       On the road, vs Karel Vejmelka | also 60.0% for a point
+   8. R. Rakell (PIT vs PHI) — 31.5% chance of scoring  📊 WORTH WATCHING
+       At home, facing Dan Vladar | also 56.2% for a point
+   9. N. Schmaltz (UTA vs VGK) — 31.5% chance of scoring  📊 WORTH WATCHING
+       At home, vs Carter Hart | also 55.1% for a point
+  10. L. Cooley (UTA vs VGK) — 31.3% chance of scoring  📊 WORTH WATCHING
+       At home, vs Carter Hart | also 55.6% for a point
+
+──────────────────────────────────────────────────────────────────────
+📊 TOP POINT GETTER PICKS (1+ Points):
+──────────────────────────────────────────────────────────────────────
+   1. J. Eichel (VGK vs UTA) — 81.7% chance of a point  🔥 HIGH CONFIDENCE
+       On the road, vs Karel Vejmelka | goal 39.4% / assist 54.5%
+   2. S. Crosby (PIT vs PHI) — 80.0% chance of a point  🔥 HIGH CONFIDENCE
+       At home, facing Dan Vladar | goal 35.9% / assist 54.5%
+   3. B. Rust (PIT vs PHI) — 63.4% chance of a point  ✅ STRONG PICK
+       At home, facing Dan Vladar | goal 31.6% / assist 41.9%
+   4. C. Keller (UTA vs VGK) — 63.4% chance of a point  ✅ STRONG PICK
+       At home, vs Carter Hart | goal 35.9% / assist 48.5%
+   5. M. Stone (VGK vs UTA) — 60.0% chance of a point  ✅ STRONG PICK
+       On the road, vs Karel Vejmelka | goal 31.5% / assist 41.9%
+   6. T. Konecny (PHI vs PIT) — 60.0% chance of a point  ✅ STRONG PICK
+       On the road, facing Stuart Skinner | goal 31.6% / assist 37.6%
+   7. D. Guenther (UTA vs VGK) — 59.9% chance of a point  📊 WORTH WATCHING
+       At home, vs Carter Hart | goal 31.6% / assist 36.4%
+   8. R. Rakell (PIT vs PHI) — 56.2% chance of a point  📊 WORTH WATCHING
+       At home, facing Dan Vladar | goal 31.5% / assist 36.4%
+   9. L. Cooley (UTA vs VGK) — 55.6% chance of a point  📊 WORTH WATCHING
+       At home, vs Carter Hart | goal 31.3% / assist 36.4%
+  10. M. Michkov (PHI vs PIT) — 55.1% chance of a point  📊 WORTH WATCHING
+       On the road, facing Stuart Skinner | goal 25.7% / assist 36.4%
+
+──────────────────────────────────────────────────────────────────────
+🏒 TOP SHOT VOLUME PICKS (3+ Shots on Goal):
+──────────────────────────────────────────────────────────────────────
+   1. S. Crosby (PIT vs PHI) — 56.7% chance of 3+ shots  ✅ STRONG PICK
+       At home | 4+ SOG: 32.6% | 5+ SOG: 18.4%
+   2. B. Rust (PIT vs PHI) — 56.7% chance of 3+ shots  ✅ STRONG PICK
+       At home | 4+ SOG: 32.6% | 5+ SOG: 17.5%
+   3. C. Keller (UTA vs VGK) — 53.1% chance of 3+ shots  📊 WORTH WATCHING
+       At home | 4+ SOG: 29.7% | 5+ SOG: 15.3%
+   4. N. Clurman (PIT vs PHI) — 53.1% chance of 3+ shots  📊 WORTH WATCHING
+       At home | 4+ SOG: 29.7% | 5+ SOG: 18.4%
+   5. J. Eichel (VGK vs UTA) — 51.1% chance of 3+ shots  📊 WORTH WATCHING
+       On the road | 4+ SOG: 32.6% | 5+ SOG: 18.1%
+   6. T. Konecny (PHI vs PIT) — 43.6% chance of 3+ shots  📊 WORTH WATCHING
+       On the road | 4+ SOG: 27.7% | 5+ SOG: 11.2%
+   7. D. Guenther (UTA vs VGK) — 43.6% chance of 3+ shots  📊 WORTH WATCHING
+       At home | 4+ SOG: 29.7% | 5+ SOG: 11.4%
+   8. R. Rakell (PIT vs PHI) — 43.6% chance of 3+ shots  📊 WORTH WATCHING
+       At home | 4+ SOG: 23.0% | 5+ SOG: 11.2%
+   9. M. Michkov (PHI vs PIT) — 43.6% chance of 3+ shots  📊 WORTH WATCHING
+       On the road | 4+ SOG: 23.0% | 5+ SOG: 10.6%
+  10. P. Dorofeyev (VGK vs UTA) — 43.6% chance of 3+ shots  📊 WORTH WATCHING
+       On the road | 4+ SOG: 29.7% | 5+ SOG: 11.4%
+
+======================================================================
+💰 TODAY'S PICKS ABOVE THRESHOLD (THE ACTUAL PICKS TO MENTION):
+======================================================================
+
+  1+ Points  (threshold: 55%):
+    ✅ J. Eichel (VGK vs UTA) — 81.7%
+       On the road, vs Karel Vejmelka
+    ✅ S. Crosby (PIT vs PHI) — 80.0%
+       At home, facing Dan Vladar
+    ✅ B. Rust (PIT vs PHI) — 63.4%
+       At home, facing Dan Vladar
+    ✅ C. Keller (UTA vs VGK) — 63.4%
+       At home, vs Carter Hart
+    ✅ M. Stone (VGK vs UTA) — 60.0%
+       On the road, vs Karel Vejmelka
+    ✅ T. Konecny (PHI vs PIT) — 60.0%
+       On the road, facing Stuart Skinner
+    ✅ D. Guenther (UTA vs VGK) — 59.9%
+       At home, vs Carter Hart
+    ✅ R. Rakell (PIT vs PHI) — 56.2%
+       At home, facing Dan Vladar
+    ✅ L. Cooley (UTA vs VGK) — 55.6%
+       At home, vs Carter Hart
+    ✅ M. Michkov (PHI vs PIT) — 55.1%
+       On the road, facing Stuart Skinner
+    ✅ W. Karlsson (VGK vs UTA) — 55.1%
+       On the road, vs Karel Vejmelka
+    ✅ N. Schmaltz (UTA vs VGK) — 55.1%
+       At home, vs Carter Hart
+    ✅ E. Malkin (PIT vs PHI) — 55.1%
+       At home, facing Dan Vladar
+    ✅ E. Karlsson (PIT vs PHI) — 55.1%
+       At home, facing Dan Vladar
+    ✅ N. Clurman (PIT vs PHI) — 55.1%
+       At home, facing Dan Vladar
+    ✅ M. Johnstone (PIT vs PHI) — 55.1%
+       At home, facing Dan Vladar
+    ✅ S. Theodore (VGK vs UTA) — 55.1%
+       On the road, vs Karel Vejmelka
+    ✅ T. Hertl (VGK vs UTA) — 55.1%
+       On the road, vs Karel Vejmelka
+    ✅ M. Sergachev (UTA vs VGK) — 50.5%
+       At home, vs Carter Hart
+
+  1+ Goals  (threshold: 28%):
+    ✅ J. Eichel (VGK vs UTA) — 39.4%
+       On the road, vs Karel Vejmelka
+    ✅ S. Crosby (PIT vs PHI) — 35.9%
+       At home, facing Dan Vladar
+    ✅ C. Keller (UTA vs VGK) — 35.9%
+       At home, vs Carter Hart
+    ✅ B. Rust (PIT vs PHI) — 31.6%
+       At home, facing Dan Vladar
+    ✅ T. Konecny (PHI vs PIT) — 31.6%
+       On the road, facing Stuart Skinner
+    ✅ D. Guenther (UTA vs VGK) — 31.6%
+       At home, vs Carter Hart
+    ✅ M. Stone (VGK vs UTA) — 31.5%
+       On the road, vs Karel Vejmelka
+    ✅ R. Rakell (PIT vs PHI) — 31.5%
+       At home, facing Dan Vladar
+    ✅ N. Schmaltz (UTA vs VGK) — 31.5%
+       At home, vs Carter Hart
+    ✅ L. Cooley (UTA vs VGK) — 31.3%
+       At home, vs Carter Hart
+    ✅ E. Malkin (PIT vs PHI) — 31.3%
+       At home, facing Dan Vladar
+    ✅ M. Johnstone (PIT vs PHI) — 31.3%
+       At home, facing Dan Vladar
+    ✅ T. Hertl (VGK vs UTA) — 31.3%
+       On the road, vs Karel Vejmelka
+    ✅ P. Dorofeyev (VGK vs UTA) — 31.3%
+       On the road, vs Karel Vejmelka
+    ✅ N. Clurman (PIT vs PHI) — 20.3%
+       At home, facing Dan Vladar
+
+  1+ Assists  (threshold: 45%):
+    ✅ J. Eichel (VGK vs UTA) — 54.5%
+       On the road, vs Karel Vejmelka
+    ✅ S. Crosby (PIT vs PHI) — 54.5%
+       At home, facing Dan Vladar
+    ✅ C. Keller (UTA vs VGK) — 48.5%
+       At home, vs Carter Hart
+    ✅ E. Karlsson (PIT vs PHI) — 48.5%
+       At home, facing Dan Vladar
+    ✅ S. Theodore (VGK vs UTA) — 48.5%
+       On the road, vs Karel Vejmelka
+
+  3+ Shots on Goal  (threshold: 50%):
+    ✅ S. Crosby (PIT vs PHI) — 56.7%
+       At home, facing Dan Vladar
+    ✅ B. Rust (PIT vs PHI) — 56.7%
+       At home, facing Dan Vladar
+    ✅ C. Keller (UTA vs VGK) — 53.1%
+       At home, vs Carter Hart
+    ✅ N. Clurman (PIT vs PHI) — 53.1%
+       At home, facing Dan Vladar
+
+======================================================================
+END OF BRIEF — PASTE ABOVE INTO CLAUDE TO GENERATE SCRIPT
+======================================================================

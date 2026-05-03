@@ -1,0 +1,107 @@
+{
+  "date": "2026-02-13",
+  "season": "20252026",
+  "gameCount": 4,
+  "games": [
+    {
+      "gamePk": 2025090007,
+      "season": 20252026,
+      "gameType": 9,
+      "startTimeUTC": "2026-02-13T11:00:00Z",
+      "venue": "Milano Santagiulia Ice Hockey Arena",
+      "gameState": "FINAL",
+      "gameScheduleState": "OK",
+      "homeTeam": {
+        "id": 66,
+        "abbrev": "SWE",
+        "name": "Sweden",
+        "record": null,
+        "score": 1,
+        "roster": []
+      },
+      "awayTeam": {
+        "id": 62,
+        "abbrev": "FIN",
+        "name": "Finland",
+        "record": null,
+        "score": 4,
+        "roster": []
+      }
+    },
+    {
+      "gamePk": 2025090008,
+      "season": 20252026,
+      "gameType": 9,
+      "startTimeUTC": "2026-02-13T11:00:00Z",
+      "venue": "Fiera Milano Rho",
+      "gameState": "FINAL",
+      "gameScheduleState": "OK",
+      "homeTeam": {
+        "id": 65,
+        "abbrev": "SVK",
+        "name": "Slovakia",
+        "record": null,
+        "score": 3,
+        "roster": []
+      },
+      "awayTeam": {
+        "id": 6773,
+        "abbrev": "ITA",
+        "name": "Italy",
+        "record": null,
+        "score": 2,
+        "roster": []
+      }
+    },
+    {
+      "gamePk": 2025090009,
+      "season": 20252026,
+      "gameType": 9,
+      "startTimeUTC": "2026-02-13T15:30:00Z",
+      "venue": "Milano Santagiulia Ice Hockey Arena",
+      "gameState": "FINAL",
+      "gameScheduleState": "OK",
+      "homeTeam": {
+        "id": 61,
+        "abbrev": "CZE",
+        "name": "Czechia",
+        "record": null,
+        "score": 6,
+        "roster": []
+      },
+      "awayTeam": {
+        "id": 7228,
+        "abbrev": "FRA",
+        "name": "France",
+        "record": null,
+        "score": 3,
+        "roster": []
+      }
+    },
+    {
+      "gamePk": 2025090010,
+      "season": 20252026,
+      "gameType": 9,
+      "startTimeUTC": "2026-02-13T20:00:00Z",
+      "venue": "Milano Santagiulia Ice Hockey Arena",
+      "gameState": "FINAL",
+      "gameScheduleState": "OK",
+      "homeTeam": {
+        "id": 6776,
+        "abbrev": "SUI",
+        "name": "Switzerland",
+        "record": null,
+        "score": 1,
+        "roster": []
+      },
+      "awayTeam": {
+        "id": 60,
+        "abbrev": "CAN",
+        "name": "Canada",
+        "record": null,
+        "score": 5,
+        "roster": []
+      }
+    }
+  ]
+}

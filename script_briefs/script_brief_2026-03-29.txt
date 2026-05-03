@@ -1,0 +1,454 @@
+======================================================================
+NHL PREDICTIONS SCRIPT BRIEF — 2026-03-29
+Generated: 2026-03-29 10:34
+======================================================================
+
+INSTRUCTIONS FOR CLAUDE:
+Using the picks below, write a 2-3 minute YouTube script in a
+natural, conversational human voice. Include a couple of 'um'
+moments and natural pauses between sentences (use '...' for pauses
+and [pause] for longer beats). Sound like an enthusiastic hockey
+fan who knows their stats, not a robot. Start with tonight's games,
+then go through the top picks by category.
+
+──────────────────────────────────────────────────────────────────────
+TONIGHT'S GAMES:
+──────────────────────────────────────────────────────────────────────
+  • BOS @ CBJ
+  • CHI @ NJD
+  • DAL @ PHI
+  • FLA @ NYR
+  • MTL @ CAR
+  • NSH @ TBL
+
+──────────────────────────────────────────────────────────────────────
+🥅 TOP GOAL SCORER PICKS (1+ Goals):
+──────────────────────────────────────────────────────────────────────
+   1. J. Farinacci (BOS vs CBJ) — 40.0% chance of scoring  🔥 HIGH CONFIDENCE
+       On the road, vs Jet Greaves | also 82.0% for a point
+   2. D. Pastrnak (BOS vs CBJ) — 39.4% chance of scoring  ✅ STRONG PICK
+       On the road, vs Jet Greaves | also 82.0% for a point
+   3. N. Kucherov (TBL vs NSH) — 39.4% chance of scoring  ✅ STRONG PICK
+       At home, vs Juuse Saros | also 82.0% for a point
+   4. J. Hughes (NJD vs CHI) — 39.4% chance of scoring  ✅ STRONG PICK
+       At home, vs Spencer Knight | also 82.0% for a point
+   5. M. Rantanen (DAL vs PHI) — 39.4% chance of scoring  ✅ STRONG PICK
+       On the road, vs Aleksei Kolosov | also 80.0% for a point
+   6. J. Guentzel (TBL vs NSH) — 39.4% chance of scoring  ✅ STRONG PICK
+       At home, vs Juuse Saros | also 80.0% for a point
+   7. B. Point (TBL vs NSH) — 39.4% chance of scoring  ✅ STRONG PICK
+       At home, vs Juuse Saros | also 67.7% for a point
+   8. G. Fortier (TBL vs NSH) — 39.4% chance of scoring  ✅ STRONG PICK
+       At home, vs Juuse Saros | also 67.7% for a point
+   9. S. Aho (CAR vs MTL) — 39.4% chance of scoring  ✅ STRONG PICK
+       At home, vs Samuel Montembeault | also 65.3% for a point
+  10. F. Forsberg (NSH vs TBL) — 39.4% chance of scoring  ✅ STRONG PICK
+       On the road, vs Jonas Johansson | also 60.0% for a point
+
+──────────────────────────────────────────────────────────────────────
+📊 TOP POINT GETTER PICKS (1+ Points):
+──────────────────────────────────────────────────────────────────────
+   1. D. Pastrnak (BOS vs CBJ) — 82.0% chance of a point  🔥 HIGH CONFIDENCE
+       On the road, vs Jet Greaves | goal 39.4% / assist 54.5%
+   2. J. Farinacci (BOS vs CBJ) — 82.0% chance of a point  🔥 HIGH CONFIDENCE
+       On the road, vs Jet Greaves | goal 40.0% / assist 54.5%
+   3. N. Kucherov (TBL vs NSH) — 82.0% chance of a point  🔥 HIGH CONFIDENCE
+       At home, vs Juuse Saros | goal 39.4% / assist 66.9%
+   4. J. Hughes (NJD vs CHI) — 82.0% chance of a point  🔥 HIGH CONFIDENCE
+       At home, vs Spencer Knight | goal 39.4% / assist 51.6%
+   5. M. Rantanen (DAL vs PHI) — 80.0% chance of a point  🔥 HIGH CONFIDENCE
+       On the road, vs Aleksei Kolosov | goal 39.4% / assist 54.5%
+   6. J. Guentzel (TBL vs NSH) — 80.0% chance of a point  🔥 HIGH CONFIDENCE
+       At home, vs Juuse Saros | goal 39.4% / assist 48.5%
+   7. B. Point (TBL vs NSH) — 67.7% chance of a point  🔥 HIGH CONFIDENCE
+       At home, vs Juuse Saros | goal 39.4% / assist 41.9%
+   8. G. Fortier (TBL vs NSH) — 67.7% chance of a point  🔥 HIGH CONFIDENCE
+       At home, vs Juuse Saros | goal 39.4% / assist 54.5%
+   9. N. Hischier (NJD vs CHI) — 65.3% chance of a point  🔥 HIGH CONFIDENCE
+       At home, vs Spencer Knight | goal 31.6% / assist 45.8%
+  10. S. Aho (CAR vs MTL) — 65.3% chance of a point  🔥 HIGH CONFIDENCE
+       At home, vs Samuel Montembeault | goal 39.4% / assist 41.9%
+
+──────────────────────────────────────────────────────────────────────
+🏒 TOP SHOT VOLUME PICKS (3+ Shots on Goal):
+──────────────────────────────────────────────────────────────────────
+   1. J. Hughes (NJD vs CHI) — 71.8% chance of 3+ shots  🔥 HIGH CONFIDENCE
+       At home | 4+ SOG: 44.6% | 5+ SOG: 26.5%
+   2. J. Farinacci (BOS vs CBJ) — 63.5% chance of 3+ shots  🔥 HIGH CONFIDENCE
+       On the road | 4+ SOG: 44.6% | 5+ SOG: 26.5%
+   3. T. Meier (NJD vs CHI) — 63.5% chance of 3+ shots  🔥 HIGH CONFIDENCE
+       At home | 4+ SOG: 38.5% | 5+ SOG: 20.9%
+   4. D. Pastrnak (BOS vs CBJ) — 59.9% chance of 3+ shots  ✅ STRONG PICK
+       On the road | 4+ SOG: 44.6% | 5+ SOG: 30.0%
+   5. J. Kemell (NSH vs TBL) — 59.9% chance of 3+ shots  ✅ STRONG PICK
+       On the road | 4+ SOG: 38.5% | 5+ SOG: 26.5%
+   6. N. Kucherov (TBL vs NSH) — 56.7% chance of 3+ shots  ✅ STRONG PICK
+       At home | 4+ SOG: 38.5% | 5+ SOG: 22.7%
+   7. J. Guentzel (TBL vs NSH) — 56.7% chance of 3+ shots  ✅ STRONG PICK
+       At home | 4+ SOG: 38.5% | 5+ SOG: 22.7%
+   8. G. Fortier (TBL vs NSH) — 56.7% chance of 3+ shots  ✅ STRONG PICK
+       At home | 4+ SOG: 38.5% | 5+ SOG: 20.9%
+   9. Z. Werenski (CBJ vs BOS) — 56.7% chance of 3+ shots  ✅ STRONG PICK
+       At home | 4+ SOG: 38.5% | 5+ SOG: 22.7%
+  10. G. Brindley (CBJ vs BOS) — 56.7% chance of 3+ shots  ✅ STRONG PICK
+       At home | 4+ SOG: 32.6% | 5+ SOG: 20.9%
+
+======================================================================
+💰 TODAY'S PICKS ABOVE THRESHOLD (THE ACTUAL PICKS TO MENTION):
+======================================================================
+
+  1+ Points  (threshold: 55%):
+    ✅ D. Pastrnak (BOS vs CBJ) — 82.0%
+       On the road, vs Jet Greaves
+    ✅ J. Farinacci (BOS vs CBJ) — 82.0%
+       On the road, vs Jet Greaves
+    ✅ N. Kucherov (TBL vs NSH) — 82.0%
+       At home, vs Juuse Saros
+    ✅ J. Hughes (NJD vs CHI) — 82.0%
+       At home, vs Spencer Knight
+    ✅ M. Rantanen (DAL vs PHI) — 80.0%
+       On the road, vs Aleksei Kolosov
+    ✅ J. Guentzel (TBL vs NSH) — 80.0%
+       At home, vs Juuse Saros
+    ✅ B. Point (TBL vs NSH) — 67.7%
+       At home, vs Juuse Saros
+    ✅ G. Fortier (TBL vs NSH) — 67.7%
+       At home, vs Juuse Saros
+    ✅ N. Hischier (NJD vs CHI) — 65.3%
+       At home, vs Spencer Knight
+    ✅ S. Aho (CAR vs MTL) — 65.3%
+       At home, vs Samuel Montembeault
+    ✅ J. Miller (NYR vs FLA) — 63.4%
+       At home, vs Vitek Vanecek
+    ✅ A. Panarin (NYR vs FLA) — 63.4%
+       At home, vs Vitek Vanecek
+    ✅ Z. Werenski (CBJ vs BOS) — 63.4%
+       At home, vs Jeremy Swayman
+    ✅ J. Bratt (NJD vs CHI) — 63.4%
+       At home, vs Spencer Knight
+    ✅ N. Suzuki (MTL vs CAR) — 63.4%
+       On the road, vs Frederik Andersen
+    ✅ J. Finley (TBL vs NSH) — 63.4%
+       At home, vs Juuse Saros
+    ✅ M. Tkachuk (FLA vs NYR) — 63.4%
+       On the road, vs Igor Shesterkin
+    ✅ B. Hagel (TBL vs NSH) — 63.4%
+       At home, vs Juuse Saros
+    ✅ T. Konecny (PHI vs DAL) — 63.4%
+       At home, vs Jake Oettinger
+    ✅ M. Michkov (PHI vs DAL) — 60.0%
+       At home, vs Jake Oettinger
+    ✅ C. Bedard (CHI vs NJD) — 60.0%
+       On the road, vs Nico Daws
+    ✅ S. Monahan (CBJ vs BOS) — 60.0%
+       At home, vs Jeremy Swayman
+    ✅ D.Misyul (NJD vs CHI) — 60.0%
+       At home, vs Spencer Knight
+    ✅ G. Brindley (CBJ vs BOS) — 60.0%
+       At home, vs Jeremy Swayman
+    ✅ F. Forsberg (NSH vs TBL) — 60.0%
+       On the road, vs Jonas Johansson
+    ✅ C. Caufield (MTL vs CAR) — 60.0%
+       On the road, vs Frederik Andersen
+    ✅ T. Meier (NJD vs CHI) — 60.0%
+       At home, vs Spencer Knight
+    ✅ V. Hedman (TBL vs NSH) — 60.0%
+       At home, vs Juuse Saros
+    ✅ M. Zibanejad (NYR vs FLA) — 59.9%
+       At home, vs Vitek Vanecek
+    ✅ S. Reinhart (FLA vs NYR) — 59.9%
+       On the road, vs Igor Shesterkin
+    ✅ C. Verhaeghe (FLA vs NYR) — 56.2%
+       On the road, vs Igor Shesterkin
+    ✅ R. Nash (NYR vs FLA) — 56.2%
+       At home, vs Vitek Vanecek
+    ✅ S. Stamkos (NSH vs TBL) — 56.2%
+       On the road, vs Jonas Johansson
+    ✅ E. Lindholm (BOS vs CBJ) — 56.2%
+       On the road, vs Jet Greaves
+    ✅ S. Jarvis (CAR vs MTL) — 56.2%
+       At home, vs Samuel Montembeault
+    ✅ A. Barkov (FLA vs NYR) — 55.6%
+       On the road, vs Igor Shesterkin
+    ✅ V. Trocheck (NYR vs FLA) — 55.6%
+       At home, vs Vitek Vanecek
+    ✅ R. Josi (NSH vs TBL) — 55.6%
+       On the road, vs Jonas Johansson
+    ✅ O. Kase (CAR vs MTL) — 55.6%
+       At home, vs Samuel Montembeault
+    ✅ S. Bennett (FLA vs NYR) — 55.1%
+       On the road, vs Igor Shesterkin
+    ✅ T. Foerster (PHI vs DAL) — 55.1%
+       At home, vs Jake Oettinger
+    ✅ A. Fox (NYR vs FLA) — 55.1%
+       At home, vs Vitek Vanecek
+    ✅ S. Couturier (PHI vs DAL) — 55.1%
+       At home, vs Jake Oettinger
+    ✅ R. Gardner (PHI vs DAL) — 55.1%
+       At home, vs Jake Oettinger
+    ✅ J. Marchessault (NSH vs TBL) — 55.1%
+       On the road, vs Jonas Johansson
+    ✅ R. Ufko (NSH vs TBL) — 55.1%
+       On the road, vs Jonas Johansson
+    ✅ J. Gaudreau (CBJ vs BOS) — 55.1%
+       At home, vs Jeremy Swayman
+    ✅ A. Svechnikov (CAR vs MTL) — 55.1%
+       At home, vs Samuel Montembeault
+    ✅ R. O'Reilly (NSH vs TBL) — 55.1%
+       On the road, vs Jonas Johansson
+    ✅ L. Hutson (MTL vs CAR) — 55.1%
+       On the road, vs Frederik Andersen
+    ✅ B. Jenner (CBJ vs BOS) — 55.1%
+       At home, vs Jeremy Swayman
+    ✅ K. Marchenko (CBJ vs BOS) — 55.1%
+       At home, vs Jeremy Swayman
+    ✅ D. Hamilton (NJD vs CHI) — 55.1%
+       At home, vs Spencer Knight
+    ✅ B. Marchand (FLA vs NYR) — 55.1%
+       On the road, vs Igor Shesterkin
+    ✅ D. Krejci (BOS vs CBJ) — 55.1%
+       On the road, vs Jet Greaves
+    ✅ L. Hughes (NJD vs CHI) — 55.1%
+       At home, vs Spencer Knight
+    ✅ P. Bergeron (BOS vs CBJ) — 55.1%
+       On the road, vs Jet Greaves
+    ✅ D. Kaplan (PHI vs DAL) — 55.1%
+       At home, vs Jake Oettinger
+    ✅ C. McAvoy (BOS vs CBJ) — 55.1%
+       On the road, vs Jet Greaves
+    ✅ M. Heiskanen (DAL vs PHI) — 50.5%
+       On the road, vs Aleksei Kolosov
+
+  1+ Goals  (threshold: 28%):
+    ✅ J. Farinacci (BOS vs CBJ) — 40.0%
+       On the road, vs Jet Greaves
+    ✅ D. Pastrnak (BOS vs CBJ) — 39.4%
+       On the road, vs Jet Greaves
+    ✅ N. Kucherov (TBL vs NSH) — 39.4%
+       At home, vs Juuse Saros
+    ✅ J. Hughes (NJD vs CHI) — 39.4%
+       At home, vs Spencer Knight
+    ✅ M. Rantanen (DAL vs PHI) — 39.4%
+       On the road, vs Aleksei Kolosov
+    ✅ J. Guentzel (TBL vs NSH) — 39.4%
+       At home, vs Juuse Saros
+    ✅ B. Point (TBL vs NSH) — 39.4%
+       At home, vs Juuse Saros
+    ✅ G. Fortier (TBL vs NSH) — 39.4%
+       At home, vs Juuse Saros
+    ✅ S. Aho (CAR vs MTL) — 39.4%
+       At home, vs Samuel Montembeault
+    ✅ F. Forsberg (NSH vs TBL) — 39.4%
+       On the road, vs Jonas Johansson
+    ✅ T. Konecny (PHI vs DAL) — 35.9%
+       At home, vs Jake Oettinger
+    ✅ A. Panarin (NYR vs FLA) — 35.9%
+       At home, vs Vitek Vanecek
+    ✅ S. Reinhart (FLA vs NYR) — 35.9%
+       On the road, vs Igor Shesterkin
+    ✅ R. Nash (NYR vs FLA) — 35.9%
+       At home, vs Vitek Vanecek
+    ✅ T. Meier (NJD vs CHI) — 35.9%
+       At home, vs Spencer Knight
+    ✅ O. Kase (CAR vs MTL) — 32.8%
+       At home, vs Samuel Montembeault
+    ✅ M. Tkachuk (FLA vs NYR) — 31.6%
+       On the road, vs Igor Shesterkin
+    ✅ J. Bratt (NJD vs CHI) — 31.6%
+       At home, vs Spencer Knight
+    ✅ J. Finley (TBL vs NSH) — 31.6%
+       At home, vs Juuse Saros
+    ✅ N. Hischier (NJD vs CHI) — 31.6%
+       At home, vs Spencer Knight
+    ✅ S. Stamkos (NSH vs TBL) — 31.6%
+       On the road, vs Jonas Johansson
+    ✅ J. Marchessault (NSH vs TBL) — 31.6%
+       On the road, vs Jonas Johansson
+    ✅ J. Robertson (DAL vs PHI) — 31.6%
+       On the road, vs Aleksei Kolosov
+    ✅ G. Brindley (CBJ vs BOS) — 31.6%
+       At home, vs Jeremy Swayman
+    ✅ C. Bedard (CHI vs NJD) — 31.6%
+       On the road, vs Nico Daws
+    ✅ C. Caufield (MTL vs CAR) — 31.6%
+       On the road, vs Frederik Andersen
+    ✅ J. Miller (NYR vs FLA) — 31.5%
+       At home, vs Vitek Vanecek
+    ✅ B. Hagel (TBL vs NSH) — 31.5%
+       At home, vs Juuse Saros
+    ✅ P. Bergeron (BOS vs CBJ) — 31.5%
+       On the road, vs Jet Greaves
+    ✅ B. Jenner (CBJ vs BOS) — 31.5%
+       At home, vs Jeremy Swayman
+    ✅ N. Suzuki (MTL vs CAR) — 31.5%
+       On the road, vs Frederik Andersen
+    ✅ C. Verhaeghe (FLA vs NYR) — 31.5%
+       On the road, vs Igor Shesterkin
+    ✅ V. Trocheck (NYR vs FLA) — 31.5%
+       At home, vs Vitek Vanecek
+    ✅ S. Bennett (FLA vs NYR) — 31.5%
+       On the road, vs Igor Shesterkin
+    ✅ M. Zibanejad (NYR vs FLA) — 31.5%
+       At home, vs Vitek Vanecek
+    ✅ S. Jarvis (CAR vs MTL) — 31.5%
+       At home, vs Samuel Montembeault
+    ✅ B. Marchand (FLA vs NYR) — 31.5%
+       On the road, vs Igor Shesterkin
+    ✅ A. Svechnikov (CAR vs MTL) — 31.5%
+       At home, vs Samuel Montembeault
+    ✅ D. Kaplan (PHI vs DAL) — 31.3%
+       At home, vs Jake Oettinger
+    ✅ M. Michkov (PHI vs DAL) — 31.3%
+       At home, vs Jake Oettinger
+    ✅ W. Johnston (DAL vs PHI) — 31.3%
+       On the road, vs Aleksei Kolosov
+    ✅ S. Monahan (CBJ vs BOS) — 31.3%
+       At home, vs Jeremy Swayman
+    ✅ R. O'Reilly (NSH vs TBL) — 31.3%
+       On the road, vs Jonas Johansson
+    ✅ T. Foerster (PHI vs DAL) — 31.3%
+       At home, vs Jake Oettinger
+    ✅ R. Hintz (DAL vs PHI) — 31.3%
+       On the road, vs Aleksei Kolosov
+    ✅ K. Marchenko (CBJ vs BOS) — 31.3%
+       At home, vs Jeremy Swayman
+    ✅ Z. Werenski (CBJ vs BOS) — 25.7%
+       At home, vs Jeremy Swayman
+    ✅ R. Ufko (NSH vs TBL) — 21.4%
+       On the road, vs Jonas Johansson
+    ✅ D.Misyul (NJD vs CHI) — 20.3%
+       At home, vs Spencer Knight
+    ✅ F. Brunet (BOS vs CBJ) — 20.3%
+       On the road, vs Jet Greaves
+    ✅ C. Carrick (BOS vs CBJ) — 20.3%
+       On the road, vs Jet Greaves
+    ✅ D. Renouf (BOS vs CBJ) — 20.3%
+       On the road, vs Jet Greaves
+
+  1+ Assists  (threshold: 45%):
+    ✅ N. Kucherov (TBL vs NSH) — 66.9%
+       At home, vs Juuse Saros
+    ✅ D. Pastrnak (BOS vs CBJ) — 54.5%
+       On the road, vs Jet Greaves
+    ✅ J. Farinacci (BOS vs CBJ) — 54.5%
+       On the road, vs Jet Greaves
+    ✅ M. Rantanen (DAL vs PHI) — 54.5%
+       On the road, vs Aleksei Kolosov
+    ✅ G. Fortier (TBL vs NSH) — 54.5%
+       At home, vs Juuse Saros
+    ✅ L. Hutson (MTL vs CAR) — 54.5%
+       On the road, vs Frederik Andersen
+    ✅ Z. Werenski (CBJ vs BOS) — 54.5%
+       At home, vs Jeremy Swayman
+    ✅ J. Finley (TBL vs NSH) — 54.5%
+       At home, vs Juuse Saros
+    ✅ V. Hedman (TBL vs NSH) — 54.5%
+       At home, vs Juuse Saros
+    ✅ J. Hughes (NJD vs CHI) — 51.6%
+       At home, vs Spencer Knight
+    ✅ C. Bedard (CHI vs NJD) — 48.5%
+       On the road, vs Nico Daws
+    ✅ J. Bratt (NJD vs CHI) — 48.5%
+       At home, vs Spencer Knight
+    ✅ J. Guentzel (TBL vs NSH) — 48.5%
+       At home, vs Juuse Saros
+    ✅ R. Josi (NSH vs TBL) — 48.5%
+       On the road, vs Jonas Johansson
+    ✅ T. Konecny (PHI vs DAL) — 48.5%
+       At home, vs Jake Oettinger
+    ✅ N. Hischier (NJD vs CHI) — 45.8%
+       At home, vs Spencer Knight
+    ✅ A. Panarin (NYR vs FLA) — 45.8%
+       At home, vs Vitek Vanecek
+    ✅ N. Suzuki (MTL vs CAR) — 45.8%
+       On the road, vs Frederik Andersen
+    ✅ G. Brindley (CBJ vs BOS) — 45.8%
+       At home, vs Jeremy Swayman
+    ✅ R. Nash (NYR vs FLA) — 45.8%
+       At home, vs Vitek Vanecek
+    ✅ D. Kaplan (PHI vs DAL) — 45.8%
+       At home, vs Jake Oettinger
+
+  3+ Shots on Goal  (threshold: 50%):
+    ✅ J. Hughes (NJD vs CHI) — 71.8%
+       At home, vs Spencer Knight
+    ✅ J. Farinacci (BOS vs CBJ) — 63.5%
+       On the road, vs Jet Greaves
+    ✅ T. Meier (NJD vs CHI) — 63.5%
+       At home, vs Spencer Knight
+    ✅ J. Kemell (NSH vs TBL) — 59.9%
+       On the road, vs Jonas Johansson
+    ✅ D. Pastrnak (BOS vs CBJ) — 59.9%
+       On the road, vs Jet Greaves
+    ✅ G. Fortier (TBL vs NSH) — 56.7%
+       At home, vs Juuse Saros
+    ✅ Z. Werenski (CBJ vs BOS) — 56.7%
+       At home, vs Jeremy Swayman
+    ✅ N. Kucherov (TBL vs NSH) — 56.7%
+       At home, vs Juuse Saros
+    ✅ J. Guentzel (TBL vs NSH) — 56.7%
+       At home, vs Juuse Saros
+    ✅ O. Kase (CAR vs MTL) — 56.7%
+       At home, vs Samuel Montembeault
+    ✅ R. Nash (NYR vs FLA) — 56.7%
+       At home, vs Vitek Vanecek
+    ✅ F. Forsberg (NSH vs TBL) — 56.7%
+       On the road, vs Jonas Johansson
+    ✅ G. Brindley (CBJ vs BOS) — 56.7%
+       At home, vs Jeremy Swayman
+    ✅ A. Panarin (NYR vs FLA) — 53.1%
+       At home, vs Vitek Vanecek
+    ✅ S. Aho (CAR vs MTL) — 53.1%
+       At home, vs Samuel Montembeault
+    ✅ D.Misyul (NJD vs CHI) — 53.1%
+       At home, vs Spencer Knight
+    ✅ T. Konecny (PHI vs DAL) — 53.1%
+       At home, vs Jake Oettinger
+    ✅ C. Caufield (MTL vs CAR) — 53.1%
+       On the road, vs Frederik Andersen
+    ✅ J. Bratt (NJD vs CHI) — 53.1%
+       At home, vs Spencer Knight
+    ✅ P. Bergeron (BOS vs CBJ) — 53.1%
+       On the road, vs Jet Greaves
+    ✅ D. Hamilton (NJD vs CHI) — 53.1%
+       At home, vs Spencer Knight
+    ✅ B. Nadeau (CAR vs MTL) — 53.1%
+       At home, vs Samuel Montembeault
+    ✅ R. Ufko (NSH vs TBL) — 51.1%
+       On the road, vs Jonas Johansson
+    ✅ R. Josi (NSH vs TBL) — 49.0%
+       On the road, vs Jonas Johansson
+    ✅ D. Fensore (CAR vs MTL) — 49.0%
+       At home, vs Samuel Montembeault
+
+  4+ Shots on Goal  (threshold: 35%):
+    ✅ D. Pastrnak (BOS vs CBJ) — 44.6%
+       On the road, vs Jet Greaves
+    ✅ J. Farinacci (BOS vs CBJ) — 44.6%
+       On the road, vs Jet Greaves
+    ✅ J. Hughes (NJD vs CHI) — 44.6%
+       At home, vs Spencer Knight
+    ✅ N. Kucherov (TBL vs NSH) — 38.5%
+       At home, vs Juuse Saros
+    ✅ J. Guentzel (TBL vs NSH) — 38.5%
+       At home, vs Juuse Saros
+    ✅ G. Fortier (TBL vs NSH) — 38.5%
+       At home, vs Juuse Saros
+    ✅ Z. Werenski (CBJ vs BOS) — 38.5%
+       At home, vs Jeremy Swayman
+    ✅ F. Forsberg (NSH vs TBL) — 38.5%
+       On the road, vs Jonas Johansson
+    ✅ T. Meier (NJD vs CHI) — 38.5%
+       At home, vs Spencer Knight
+    ✅ R. Nash (NYR vs FLA) — 38.5%
+       At home, vs Vitek Vanecek
+    ✅ O. Kase (CAR vs MTL) — 38.5%
+       At home, vs Samuel Montembeault
+    ✅ J. Kemell (NSH vs TBL) — 38.5%
+       On the road, vs Jonas Johansson
+    ✅ D. Hamilton (NJD vs CHI) — 32.6%
+       At home, vs Spencer Knight
+
+======================================================================
+END OF BRIEF — PASTE ABOVE INTO CLAUDE TO GENERATE SCRIPT
+======================================================================

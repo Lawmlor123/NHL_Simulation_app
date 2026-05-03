@@ -1,0 +1,129 @@
+======================================================================
+NHL PREDICTIONS SCRIPT BRIEF — 2026-05-02
+Generated: 2026-05-02 10:00
+======================================================================
+
+INSTRUCTIONS FOR CLAUDE:
+Using the picks below, write a 2-3 minute YouTube script in a
+natural, conversational human voice. Include a couple of 'um'
+moments and natural pauses between sentences (use '...' for pauses
+and [pause] for longer beats). Sound like an enthusiastic hockey
+fan who knows their stats, not a robot. Start with tonight's games,
+then go through the top picks by category.
+
+──────────────────────────────────────────────────────────────────────
+TONIGHT'S GAMES:
+──────────────────────────────────────────────────────────────────────
+  • PHI @ CAR
+
+──────────────────────────────────────────────────────────────────────
+🥅 TOP GOAL SCORER PICKS (1+ Goals):
+──────────────────────────────────────────────────────────────────────
+   1. T. Konecny (PHI vs CAR) — 35.9% chance of scoring  ✅ STRONG PICK
+       On the road, facing Frederik Andersen | also 56.2% for a point
+   2. S. Aho (CAR vs PHI) — 31.6% chance of scoring  📊 WORTH WATCHING
+       At home, facing Dan Vladar | also 65.3% for a point
+   3. O. Kase (CAR vs PHI) — 31.3% chance of scoring  📊 WORTH WATCHING
+       At home, facing Dan Vladar | also 55.1% for a point
+   4. S. Jarvis (CAR vs PHI) — 31.3% chance of scoring  📊 WORTH WATCHING
+       At home, facing Dan Vladar | also 55.1% for a point
+   5. A. Svechnikov (CAR vs PHI) — 31.3% chance of scoring  📊 WORTH WATCHING
+       At home, facing Dan Vladar | also 55.1% for a point
+   6. T. Foerster (PHI vs CAR) — 31.3% chance of scoring  📊 WORTH WATCHING
+       On the road, facing Frederik Andersen | also 46.5% for a point
+   7. M. Michkov (PHI vs CAR) — 25.7% chance of scoring  📊 WORTH WATCHING
+       On the road, facing Frederik Andersen | also 55.1% for a point
+   8. D. Kaplan (PHI vs CAR) — 25.7% chance of scoring  📊 WORTH WATCHING
+       On the road, facing Frederik Andersen | also 46.5% for a point
+   9. R. Gardner (PHI vs CAR) — 25.7% chance of scoring  📊 WORTH WATCHING
+       On the road, facing Frederik Andersen | also 46.5% for a point
+  10. S. Couturier (PHI vs CAR) — 25.7% chance of scoring  📊 WORTH WATCHING
+       On the road, facing Frederik Andersen | also 43.5% for a point
+
+──────────────────────────────────────────────────────────────────────
+📊 TOP POINT GETTER PICKS (1+ Points):
+──────────────────────────────────────────────────────────────────────
+   1. S. Aho (CAR vs PHI) — 65.3% chance of a point  🔥 HIGH CONFIDENCE
+       At home, facing Dan Vladar | goal 31.6% / assist 40.1%
+   2. T. Konecny (PHI vs CAR) — 56.2% chance of a point  📊 WORTH WATCHING
+       On the road, facing Frederik Andersen | goal 35.9% / assist 36.7%
+   3. O. Kase (CAR vs PHI) — 55.1% chance of a point  📊 WORTH WATCHING
+       At home, facing Dan Vladar | goal 31.3% / assist 40.1%
+   4. S. Jarvis (CAR vs PHI) — 55.1% chance of a point  📊 WORTH WATCHING
+       At home, facing Dan Vladar | goal 31.3% / assist 37.6%
+   5. A. Svechnikov (CAR vs PHI) — 55.1% chance of a point  📊 WORTH WATCHING
+       At home, facing Dan Vladar | goal 31.3% / assist 32.4%
+   6. M. Michkov (PHI vs CAR) — 55.1% chance of a point  📊 WORTH WATCHING
+       On the road, facing Frederik Andersen | goal 25.7% / assist 33.1%
+   7. D. Kaplan (PHI vs CAR) — 46.5% chance of a point  📊 WORTH WATCHING
+       On the road, facing Frederik Andersen | goal 25.7% / assist 36.7%
+   8. T. Foerster (PHI vs CAR) — 46.5% chance of a point  📊 WORTH WATCHING
+       On the road, facing Frederik Andersen | goal 31.3% / assist 25.2%
+   9. R. Gardner (PHI vs CAR) — 46.5% chance of a point  📊 WORTH WATCHING
+       On the road, facing Frederik Andersen | goal 25.7% / assist 36.4%
+  10. S. Gostisbehere (CAR vs PHI) — 43.5% chance of a point  📊 WORTH WATCHING
+       At home, facing Dan Vladar | goal 9.4% / assist 35.7%
+
+──────────────────────────────────────────────────────────────────────
+🏒 TOP SHOT VOLUME PICKS (3+ Shots on Goal):
+──────────────────────────────────────────────────────────────────────
+   1. O. Kase (CAR vs PHI) — 56.7% chance of 3+ shots  ✅ STRONG PICK
+       At home | 4+ SOG: 36.7% | 5+ SOG: 22.7%
+   2. S. Aho (CAR vs PHI) — 51.1% chance of 3+ shots  📊 WORTH WATCHING
+       At home | 4+ SOG: 29.7% | 5+ SOG: 15.3%
+   3. B. Nadeau (CAR vs PHI) — 51.1% chance of 3+ shots  📊 WORTH WATCHING
+       At home | 4+ SOG: 29.7% | 5+ SOG: 18.1%
+   4. A. Svechnikov (CAR vs PHI) — 43.6% chance of 3+ shots  📊 WORTH WATCHING
+       At home | 4+ SOG: 20.9% | 5+ SOG: 11.2%
+   5. D. Fensore (CAR vs PHI) — 43.6% chance of 3+ shots  📊 WORTH WATCHING
+       At home | 4+ SOG: 23.0% | 5+ SOG: 15.3%
+   6. T. Konecny (PHI vs CAR) — 40.0% chance of 3+ shots  📊 WORTH WATCHING
+       On the road | 4+ SOG: 29.7% | 5+ SOG: 11.2%
+   7. S. Jarvis (CAR vs PHI) — 39.4% chance of 3+ shots  📊 WORTH WATCHING
+       At home | 4+ SOG: 23.0% | 5+ SOG: 8.8%
+   8. M. Michkov (PHI vs CAR) — 36.6% chance of 3+ shots  📊 WORTH WATCHING
+       On the road | 4+ SOG: 23.0% | 5+ SOG: 7.9%
+   9. R. Gardner (PHI vs CAR) — 36.6% chance of 3+ shots  📊 WORTH WATCHING
+       On the road | 4+ SOG: 20.9% | 5+ SOG: 11.2%
+  10. O. Tippett (PHI vs CAR) — 36.6% chance of 3+ shots  📊 WORTH WATCHING
+       On the road | 4+ SOG: 20.9% | 5+ SOG: 10.6%
+
+======================================================================
+💰 TODAY'S PICKS ABOVE THRESHOLD (THE ACTUAL PICKS TO MENTION):
+======================================================================
+
+  1+ Points  (threshold: 55%):
+    ✅ S. Aho (CAR vs PHI) — 65.3%
+       At home, facing Dan Vladar
+    ✅ T. Konecny (PHI vs CAR) — 56.2%
+       On the road, facing Frederik Andersen
+    ✅ O. Kase (CAR vs PHI) — 55.1%
+       At home, facing Dan Vladar
+    ✅ S. Jarvis (CAR vs PHI) — 55.1%
+       At home, facing Dan Vladar
+    ✅ A. Svechnikov (CAR vs PHI) — 55.1%
+       At home, facing Dan Vladar
+    ✅ M. Michkov (PHI vs CAR) — 55.1%
+       On the road, facing Frederik Andersen
+
+  1+ Goals  (threshold: 28%):
+    ✅ T. Konecny (PHI vs CAR) — 35.9%
+       On the road, facing Frederik Andersen
+    ✅ S. Aho (CAR vs PHI) — 31.6%
+       At home, facing Dan Vladar
+    ✅ O. Kase (CAR vs PHI) — 31.3%
+       At home, facing Dan Vladar
+    ✅ S. Jarvis (CAR vs PHI) — 31.3%
+       At home, facing Dan Vladar
+    ✅ A. Svechnikov (CAR vs PHI) — 31.3%
+       At home, facing Dan Vladar
+    ✅ T. Foerster (PHI vs CAR) — 31.3%
+       On the road, facing Frederik Andersen
+
+  3+ Shots on Goal  (threshold: 50%):
+    ✅ O. Kase (CAR vs PHI) — 56.7%
+       At home, facing Dan Vladar
+
+======================================================================
+END OF BRIEF — PASTE ABOVE INTO CLAUDE TO GENERATE SCRIPT
+======================================================================

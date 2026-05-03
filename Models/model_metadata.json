@@ -1,0 +1,29 @@
+{
+  "features": [
+    "age_years",
+    "games_played_to_date",
+    "goals_against",
+    "height_in",
+    "is_home",
+    "position",
+    "position_group",
+    "rest_days",
+    "rookie",
+    "salary",
+    "save_pct",
+    "saves",
+    "shoots_left",
+    "shoots_right",
+    "shots_against",
+    "weight_lb"
+  ],
+  "categorical_features": [
+    "position",
+    "position_group"
+  ],
+  "target": "targets_fantasy_pts",
+  "best_iteration": 163,
+  "train_rows": 73758,
+  "val_rows": 9219,
+  "test_rows": 9221
+}

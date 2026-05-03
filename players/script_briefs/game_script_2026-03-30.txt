@@ -1,0 +1,39 @@
+NHL GAME SCRIPT — March 30, 2026
+For: Smart Thinking AI Model (Alexis Rivers)
+Runtime: ~1.5 minutes
+================================================================================
+
+Hi, I am Alexis Rivers of Smart Thinking, and of course this is for
+entertainment purposes only.
+
+Tonight we have 5 games on the slate, and the model has been through all of them. There are 2 high-confidence picks tonight.
+The model does not guess — it runs the numbers and gives us a probability. Here is exactly what it is pointing to tonight.
+
+Pittsburgh at NY Islanders. The model is on the NY Islanders at home — 65.6% confidence. HIGH confidence ★★★.
+The model likes NY Islanders, but the market already has them implied at nan% — our model says 65.6%. Negative edge of —. Lean only — no moneyline value tonight.
+Goalie confirmed: Ilya Sorokin starts for NY Islanders, Stuart Skinner gets the start for Pittsburgh — both manually verified tonight.
+The lean is NY Islanders, but the market is already ahead of the model here. Use this game for player props — there are good individual spots on both sides. Avoid the moneyline.
+
+Vancouver at Vegas. The model is on the Vegas at home — 65.6% confidence. HIGH confidence ★★★.
+The model likes Vegas, but the market already has them implied at nan% — our model says 65.6%. Negative edge of —. Lean only — no moneyline value tonight.
+Goalie confirmed: Adin Hill starts for Vegas, Kevin Lankinen gets the start for Vancouver — both manually verified tonight.
+The lean is Vegas, but the market is already ahead of the model here. Use this game for player props — there are good individual spots on both sides. Avoid the moneyline.
+
+Calgary at Colorado. The model is on the Colorado at home — 62.5% confidence. MEDIUM confidence ★★.
+The model likes Colorado, but the market already has them implied at nan% — our model says 62.5%. Negative edge of —. Lean only — no moneyline value tonight.
+Goalie confirmed: Scott Wedgewood starts for Colorado, Dustin Wolf gets the start for Calgary — both manually verified tonight.
+The lean is Colorado, but the market is already ahead of the model here. Use this game for player props — there are good individual spots on both sides. Avoid the moneyline.
+
+St. Louis at San Jose. The model is on the San Jose at home — 56.9% confidence. LOW confidence ★.
+The model likes San Jose, but the market already has them implied at nan% — our model says 56.9%. Negative edge of —. Lean only — no moneyline value tonight.
+Goalie confirmed: Yaroslav Askarov starts for San Jose, Joel Hofer gets the start for St. Louis — both manually verified tonight.
+The lean is San Jose, but the market is already ahead of the model here. Use this game for player props — there are good individual spots on both sides. Avoid the moneyline.
+
+Carolina at Columbus. The model is on the Carolina on the road — 52.6% confidence. LOW confidence ★.
+The model likes Carolina, but the market already has them implied at nan% — our model says 52.6%. Negative edge of —. Lean only — no moneyline value tonight.
+Goalie confirmed: Frederik Andersen starts for Carolina, Jet Greaves gets the start for Columbus — both manually verified tonight.
+The lean is Carolina, but the market is already ahead of the model here. Use this game for player props — there are good individual spots on both sides. Avoid the moneyline.
+
+That is your full March 30, 2026 breakdown. 5 games tonight — the model has spoken. If you found this breakdown useful, drop a like, leave your picks in the comments, and subscribe for daily NHL model output throughout the rest of the season. Good luck tonight, enjoy every shift, and as always — this is for entertainment purposes only!
+
+================================================================================

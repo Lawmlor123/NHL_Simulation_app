@@ -1,0 +1,143 @@
+======================================================================
+NHL PREDICTIONS SCRIPT BRIEF — 2026-03-23
+Generated: 2026-03-23 09:55
+======================================================================
+
+INSTRUCTIONS FOR CLAUDE:
+Using the picks below, write a 2-3 minute YouTube script in a
+natural, conversational human voice. Include a couple of 'um'
+moments and natural pauses between sentences (use '...' for pauses
+and [pause] for longer beats). Sound like an enthusiastic hockey
+fan who knows their stats, not a robot. Start with tonight's games,
+then go through the top picks by category.
+
+──────────────────────────────────────────────────────────────────────
+TONIGHT'S GAMES:
+──────────────────────────────────────────────────────────────────────
+  • OTT @ NYR
+
+──────────────────────────────────────────────────────────────────────
+🥅 TOP GOAL SCORER PICKS (1+ Goals):
+──────────────────────────────────────────────────────────────────────
+   1. A. Panarin (NYR vs OTT) — 34.2% chance of scoring  ✅ STRONG PICK
+       At home, vs Unknown | also 66.3% for a point
+   2. B. Tkachuk (OTT vs NYR) — 34.2% chance of scoring  ✅ STRONG PICK
+       On the road, vs Unknown | also 59.5% for a point
+   3. R. Nash (NYR vs OTT) — 34.2% chance of scoring  ✅ STRONG PICK
+       At home, vs Unknown | also 59.5% for a point
+   4. T. Stützle (OTT vs NYR) — 29.8% chance of scoring  📊 WORTH WATCHING
+       On the road, vs Unknown | also 58.1% for a point
+   5. V. Trocheck (NYR vs OTT) — 27.8% chance of scoring  📊 WORTH WATCHING
+       At home, vs Unknown | also 58.1% for a point
+   6. M. Zibanejad (NYR vs OTT) — 27.5% chance of scoring  📊 WORTH WATCHING
+       At home, vs Unknown | also 59.5% for a point
+   7. J. Miller (NYR vs OTT) — 27.5% chance of scoring  📊 WORTH WATCHING
+       At home, vs Unknown | also 59.5% for a point
+   8. D. Batherson (OTT vs NYR) — 27.5% chance of scoring  📊 WORTH WATCHING
+       On the road, vs Unknown | also 52.9% for a point
+   9. D. Cozens (OTT vs NYR) — 27.5% chance of scoring  📊 WORTH WATCHING
+       On the road, vs Unknown | also 46.7% for a point
+  10. C. Giroux (OTT vs NYR) — 25.8% chance of scoring  📊 WORTH WATCHING
+       On the road, vs Unknown | also 52.9% for a point
+
+──────────────────────────────────────────────────────────────────────
+📊 TOP POINT GETTER PICKS (1+ Points):
+──────────────────────────────────────────────────────────────────────
+   1. A. Panarin (NYR vs OTT) — 66.3% chance of a point  🔥 HIGH CONFIDENCE
+       At home, vs Unknown | goal 34.2% / assist 45.9%
+   2. B. Tkachuk (OTT vs NYR) — 59.5% chance of a point  📊 WORTH WATCHING
+       On the road, vs Unknown | goal 34.2% / assist 36.3%
+   3. M. Zibanejad (NYR vs OTT) — 59.5% chance of a point  📊 WORTH WATCHING
+       At home, vs Unknown | goal 27.5% / assist 44.1%
+   4. J. Miller (NYR vs OTT) — 59.5% chance of a point  📊 WORTH WATCHING
+       At home, vs Unknown | goal 27.5% / assist 41.8%
+   5. R. Nash (NYR vs OTT) — 59.5% chance of a point  📊 WORTH WATCHING
+       At home, vs Unknown | goal 34.2% / assist 44.1%
+   6. V. Trocheck (NYR vs OTT) — 58.1% chance of a point  📊 WORTH WATCHING
+       At home, vs Unknown | goal 27.8% / assist 41.8%
+   7. T. Stützle (OTT vs NYR) — 58.1% chance of a point  📊 WORTH WATCHING
+       On the road, vs Unknown | goal 29.8% / assist 41.8%
+   8. A. Fox (NYR vs OTT) — 55.0% chance of a point  📊 WORTH WATCHING
+       At home, vs Unknown | goal 15.0% / assist 44.1%
+   9. D. Batherson (OTT vs NYR) — 52.9% chance of a point  📊 WORTH WATCHING
+       On the road, vs Unknown | goal 27.5% / assist 32.9%
+  10. C. Giroux (OTT vs NYR) — 52.9% chance of a point  📊 WORTH WATCHING
+       On the road, vs Unknown | goal 25.8% / assist 33.9%
+
+──────────────────────────────────────────────────────────────────────
+🏒 TOP SHOT VOLUME PICKS (3+ Shots on Goal):
+──────────────────────────────────────────────────────────────────────
+   1. B. Tkachuk (OTT vs NYR) — 68.9% chance of 3+ shots  🔥 HIGH CONFIDENCE
+       On the road | 4+ SOG: 55.4% | 5+ SOG: 35.0%
+   2. R. Nash (NYR vs OTT) — 63.1% chance of 3+ shots  🔥 HIGH CONFIDENCE
+       At home | 4+ SOG: 37.6% | 5+ SOG: 20.6%
+   3. A. Panarin (NYR vs OTT) — 53.8% chance of 3+ shots  📊 WORTH WATCHING
+       At home | 4+ SOG: 34.9% | 5+ SOG: 18.2%
+   4. V. Trocheck (NYR vs OTT) — 44.9% chance of 3+ shots  📊 WORTH WATCHING
+       At home | 4+ SOG: 20.8% | 5+ SOG: 10.4%
+   5. M. Zibanejad (NYR vs OTT) — 40.8% chance of 3+ shots  📊 WORTH WATCHING
+       At home | 4+ SOG: 20.8% | 5+ SOG: 10.1%
+   6. T. Stützle (OTT vs NYR) — 40.8% chance of 3+ shots  📊 WORTH WATCHING
+       On the road | 4+ SOG: 23.5% | 5+ SOG: 10.4%
+   7. D. Batherson (OTT vs NYR) — 40.8% chance of 3+ shots  📊 WORTH WATCHING
+       On the road | 4+ SOG: 24.2% | 5+ SOG: 12.3%
+   8. B. Scanlin (NYR vs OTT) — 40.8% chance of 3+ shots  📊 WORTH WATCHING
+       At home | 4+ SOG: 27.2% | 5+ SOG: 14.5%
+   9. J. Miller (NYR vs OTT) — 37.9% chance of 3+ shots  📊 WORTH WATCHING
+       At home | 4+ SOG: 19.8% | 5+ SOG: 8.6%
+  10. J. Sanderson (OTT vs NYR) — 37.9% chance of 3+ shots  📊 WORTH WATCHING
+       On the road | 4+ SOG: 19.5% | 5+ SOG: 10.1%
+
+======================================================================
+💰 TODAY'S PICKS ABOVE THRESHOLD (THE ACTUAL PICKS TO MENTION):
+======================================================================
+
+  1+ Points  (threshold: 55%):
+    ✅ A. Panarin (NYR vs OTT) — 66.3%
+       At home, vs Unknown
+    ✅ B. Tkachuk (OTT vs NYR) — 59.5%
+       On the road, vs Unknown
+    ✅ M. Zibanejad (NYR vs OTT) — 59.5%
+       At home, vs Unknown
+    ✅ J. Miller (NYR vs OTT) — 59.5%
+       At home, vs Unknown
+    ✅ R. Nash (NYR vs OTT) — 59.5%
+       At home, vs Unknown
+    ✅ V. Trocheck (NYR vs OTT) — 58.1%
+       At home, vs Unknown
+    ✅ T. Stützle (OTT vs NYR) — 58.1%
+       On the road, vs Unknown
+    ✅ A. Fox (NYR vs OTT) — 55.0%
+       At home, vs Unknown
+
+  1+ Goals  (threshold: 28%):
+    ✅ A. Panarin (NYR vs OTT) — 34.2%
+       At home, vs Unknown
+    ✅ B. Tkachuk (OTT vs NYR) — 34.2%
+       On the road, vs Unknown
+    ✅ R. Nash (NYR vs OTT) — 34.2%
+       At home, vs Unknown
+    ✅ T. Stützle (OTT vs NYR) — 29.8%
+       On the road, vs Unknown
+
+  1+ Assists  (threshold: 45%):
+    ✅ A. Panarin (NYR vs OTT) — 45.9%
+       At home, vs Unknown
+
+  3+ Shots on Goal  (threshold: 50%):
+    ✅ B. Tkachuk (OTT vs NYR) — 68.9%
+       On the road, vs Unknown
+    ✅ R. Nash (NYR vs OTT) — 63.1%
+       At home, vs Unknown
+    ✅ A. Panarin (NYR vs OTT) — 53.8%
+       At home, vs Unknown
+
+  4+ Shots on Goal  (threshold: 35%):
+    ✅ B. Tkachuk (OTT vs NYR) — 55.4%
+       On the road, vs Unknown
+    ✅ R. Nash (NYR vs OTT) — 37.6%
+       At home, vs Unknown
+
+======================================================================
+END OF BRIEF — PASTE ABOVE INTO CLAUDE TO GENERATE SCRIPT
+======================================================================
