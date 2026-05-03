@@ -67,7 +67,7 @@ _Last updated: 2026‑01‑26_
 | New model (≥ 2025‑12‑09) | 182 | 0.527 | 0.2539 |
 
 ### 2.3 Baselines & Diagnostics
-- Baseline comparisons
+- Baseline comparisons | Tracked internally against coin-flip and home-team baselines |
   
 
 ---
